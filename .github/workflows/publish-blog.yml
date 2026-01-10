@@ -55,7 +55,11 @@ jobs:
             echo "Triggered Netlify build"
           fi
 
-      - name: Notify Vercel
-        uses: vercel/repository-dispatch/actions/status@v1
-        with:
-          name: "Vercel - acesphereaiblogs: lint"
+      - name: Trigger Vercel build (if configured)
+        if: success()
+        continue-on-error: true
+        run: |
+          if [ -n "${{ secrets.VERCEL_DEPLOY_HOOK }}" ]; then
+            curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
+            echo "Triggered Vercel build"
+          fi
