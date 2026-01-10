@@ -54,3 +54,8 @@ jobs:
             curl -X POST -d {} "${{ secrets.NETLIFY_BUILD_HOOK }}"
             echo "Triggered Netlify build"
           fi
+
+      - name: Notify Vercel
+        uses: vercel/repository-dispatch/actions/status@v1
+        with:
+          name: "Vercel - acesphereaiblogs: lint"
