@@ -16,11 +16,28 @@
       "word_count": 1280,
       "filepath": "content\\posts\\2026-01-10-.md",
       "topic": "AI Resume Parser: Build a Modern Hiring Pipeline"
+    },
+    {
+      "title": "Cost Savings with Hiring Automation for Scaling Startups",
+      "slug": "cost-savings-with-hiring-automation-for-scaling-startups",
+      "description": "# Cost Savings with Hiring Automation for Scaling Startups  \n\nScaling a hiring operation is one of the most expensive\u2014and risky\u2014parts of rapid growth....",
+      "pub_date": "2026-01-10",
+      "tags": [],
+      "keywords": [
+        "cost savings with hiring automation",
+        "hiring process automation",
+        "enterprise recruitment automation",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1232,
+      "filepath": "content/posts/2026-01-10-cost-savings-with-hiring-automation-for-scaling-startups.md",
+      "topic": "Cost Savings with Hiring Automation for Scaling Startups"
     }
   ],
   "topics_used": [
-    "AI Resume Parser: Build a Modern Hiring Pipeline"
+    "AI Resume Parser: Build a Modern Hiring Pipeline",
+    "Cost Savings with Hiring Automation for Scaling Startups"
   ],
   "last_updated": "2026-01-10",
-  "total_posts": 1
+  "total_posts": 2
 }
