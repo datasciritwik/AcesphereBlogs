@@ -1,0 +1,72 @@
+company_name: "AcesphereAI"
+website: "https://acesphereai.org"
+tagline: "AI-Powered Hiring, Simplified"
+
+business_focus: |
+  AcesphereAI is an AI-driven hiring and recruitment platform that helps 
+  companies streamline the entire hiring lifecycle using artificial intelligence,
+  from candidate screening to recruiter decision-making.
+
+core_offerings:
+  - name: "AI-Based Hiring"
+    features:
+      - "Automated candidate screening"
+      - "AI-powered interviews and assessments"
+      - "Skill evaluation and shortlisting"
+      - "Bias reduction and consistency in hiring decisions"
+
+  - name: "Recruiter Dashboards"
+    features:
+      - "Multi-level dashboards for different recruiter roles"
+      - "Candidate tracking and pipeline visibility"
+      - "Performance analytics and hiring insights"
+      - "Decision support for recruiters and hiring managers"
+
+  - name: "Workflow & Process Management"
+    features:
+      - "Hiring funnel management"
+      - "Status tracking across hiring stages"
+      - "Centralized view of candidates, interviews, and outcomes"
+
+  - name: "Hiring Automations (Coming Soon)"
+    features:
+      - "Automated interview scheduling"
+      - "Candidate follow-ups and notifications"
+      - "Workflow-triggered actions"
+      - "End-to-end hiring automation"
+
+target_audience:
+  - "Startups and mid-sized companies"
+  - "HR teams and recruiters"
+  - "Hiring managers and founders"
+  - "Companies scaling hiring operations"
+
+problems_solved:
+  - "Manual and time-consuming hiring processes"
+  - "Inefficient candidate screening"
+  - "Lack of visibility and analytics for recruiters"
+  - "Poor hiring decisions due to limited data"
+
+positioning: |
+  AcesphereAI positions itself as a smart, scalable, and automation-first 
+  hiring platform that replaces fragmented hiring tools with a single 
+  AI-powered system.
+
+brand_voice:
+  tone: "Professional but accessible"
+  style: "Insight-driven, not salesy"
+  approach: "Educational and practical"
+  focus: "Value and clarity"
+
+content_pillars:
+  - "AI in recruitment and hiring"
+  - "Recruiter productivity and efficiency"
+  - "Hiring automation and workflows"
+  - "Interview intelligence and assessments"
+  - "Data-driven hiring decisions"
+  - "Future of work and HR tech trends"
+
+content_goals:
+  - "Establish topical authority in AI hiring and HR tech"
+  - "Generate SEO footprint for long-tail hiring keywords"
+  - "Educate recruiters and companies on modern hiring practices"

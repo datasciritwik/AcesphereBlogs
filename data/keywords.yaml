@@ -1,0 +1,108 @@
+# SEO Keyword Clusters for AcesphereAI Blog
+# These keywords drive topic generation for AI hiring content
+
+primary_keywords:
+  - "AI hiring"
+  - "AI recruitment"
+  - "automated hiring"
+  - "AI interview"
+  - "hiring automation"
+
+keyword_clusters:
+  ai_hiring:
+    primary: "AI hiring platform"
+    related:
+      - "AI-powered hiring"
+      - "artificial intelligence recruitment"
+      - "machine learning hiring"
+      - "smart hiring tools"
+      - "AI talent acquisition"
+      - "automated candidate screening"
+
+  interviews:
+    primary: "AI interviews"
+    related:
+      - "automated interviews"
+      - "AI interview assessment"
+      - "virtual interview AI"
+      - "interview intelligence"
+      - "AI coding interviews"
+      - "technical assessment automation"
+      - "video interview AI"
+
+  screening:
+    primary: "automated screening"
+    related:
+      - "resume screening AI"
+      - "candidate screening automation"
+      - "AI resume parser"
+      - "automated shortlisting"
+      - "intelligent screening"
+      - "skill-based screening"
+
+  recruiter_tools:
+    primary: "recruiter productivity"
+    related:
+      - "hiring dashboard"
+      - "candidate tracking software"
+      - "recruitment analytics"
+      - "hiring pipeline management"
+      - "recruiter efficiency tools"
+      - "HR tech stack"
+
+  hiring_workflow:
+    primary: "hiring automation"
+    related:
+      - "recruitment workflow"
+      - "hiring process automation"
+      - "automated scheduling"
+      - "candidate follow-up automation"
+      - "hiring funnel optimization"
+      - "streamlined recruitment"
+
+  assessments:
+    primary: "technical assessments"
+    related:
+      - "skill evaluation"
+      - "coding assessment platform"
+      - "AI skill testing"
+      - "competency assessment"
+      - "pre-hire testing"
+      - "automated evaluation"
+
+  bias_reduction:
+    primary: "bias-free hiring"
+    related:
+      - "reduce hiring bias"
+      - "fair recruitment"
+      - "inclusive hiring"
+      - "AI bias mitigation"
+      - "objective candidate evaluation"
+      - "diversity hiring"
+
+  hr_trends:
+    primary: "future of hiring"
+    related:
+      - "HR tech trends 2026"
+      - "future of recruitment"
+      - "hiring technology"
+      - "recruitment innovation"
+      - "next-gen hiring"
+      - "hiring best practices"
+
+long_tail_topics:
+  - "how to reduce time-to-hire with AI"
+  - "benefits of AI in recruitment"
+  - "AI vs traditional hiring methods"
+  - "how AI interviews work"
+  - "automated candidate screening benefits"
+  - "recruiter productivity tips"
+  - "building a modern hiring pipeline"
+  - "scaling hiring with automation"
+  - "AI for technical hiring"
+  - "improving candidate experience with AI"
+  - "data-driven hiring decisions"
+  - "cost savings with hiring automation"
+  - "AI hiring for startups"
+  - "enterprise recruitment automation"
+  - "remote hiring best practices"

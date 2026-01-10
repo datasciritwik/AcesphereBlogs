@@ -1,0 +1,98 @@
+{% extends "base.html" %}
+
+{% block title %}AcesphereAI Blog - AI Hiring Insights{% endblock %}
+
+{% block styles %}
+.posts-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.post-card {
+    background: var(--bg-card);
+    border-radius: 12px;
+    padding: 1.5rem;
+    border: 1px solid var(--border);
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+.post-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--primary);
+}
+
+.post-card h2 {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.post-card h2 a {
+    color: var(--text);
+    text-decoration: none;
+}
+
+.post-card h2 a:hover {
+    color: var(--accent);
+}
+
+.post-meta {
+    color: var(--text-muted);
+    font-size: 0.875rem;
+    margin-bottom: 0.75rem;
+}
+
+.post-description {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+}
+
+.tags {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 1rem;
+    flex-wrap: wrap;
+}
+
+.tag {
+    background: var(--primary);
+    color: white;
+    padding: 0.25rem 0.75rem;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 500;
+}
+
+.empty-state {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--text-muted);
+}
+{% endblock %}
+
+{% block content %}
+<h1 style="font-size: 2rem; margin-bottom: 2rem;">Latest Posts</h1>
+
+{% if posts %}
+<div class="posts-list">
+    {% for post in posts %}
+    <article class="post-card">
+        <h2><a href="/posts/{{ post.slug }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.pub_date }}</p>
+        <p class="post-description">{{ post.description }}</p>
+        {% if post.tags %}
+        <div class="tags">
+            {% for tag in post.tags %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </article>
+    {% endfor %}
+</div>
+{% else %}
+<div class="empty-state">
+    <p>No posts yet. Check back soon!</p>
+</div>
+{% endif %}
+{% endblock %}
