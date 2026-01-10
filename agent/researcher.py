@@ -147,13 +147,18 @@ URL: {r.get('url', 'N/A')}
                 {"role": "user", "content": prompt}
             ],
             temperature=0.3,  # Lower temperature for factual accuracy
-            max_tokens=800,
-            response_format={"type": "json_object"}
+            max_tokens=800
         )
         
         import json
+        import re
         content = response.choices[0].message.content
-        data = json.loads(content)
+        # Extract JSON from response
+        json_match = re.search(r'\{[^{}]*"facts"[^{}]*\}', content, re.DOTALL)
+        if json_match:
+            data = json.loads(json_match.group())
+        else:
+            data = {"facts": [], "statistics": [], "key_points": []}
         
         # Format sources from search results
         sources = [
@@ -224,12 +229,17 @@ Respond in JSON format:
             model="openai/gpt-oss-20b",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.5,
-            max_tokens=600,
-            response_format={"type": "json_object"}
+            max_tokens=600
         )
         
         import json
-        data = json.loads(response.choices[0].message.content)
+        import re
+        content = response.choices[0].message.content
+        json_match = re.search(r'\{[^{}]*"facts"[^{}]*\}', content, re.DOTALL)
+        if json_match:
+            data = json.loads(json_match.group())
+        else:
+            data = {"facts": [], "statistics": [], "key_points": []}
         
         return ResearchNotes(
             topic=topic_brief.topic,

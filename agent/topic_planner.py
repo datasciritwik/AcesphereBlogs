@@ -152,13 +152,18 @@ Respond ONLY with valid JSON in this exact format:
                 {"role": "user", "content": user_prompt}
             ],
             temperature=0.8,  # Higher creativity for unique topics
-            max_tokens=1000,
-            response_format={"type": "json_object"}
+            max_tokens=1000
         )
         
         # Parse the response
+        import re
         content = response.choices[0].message.content
-        topic_data = json.loads(content)
+        # Extract JSON from response (handle markdown code blocks)
+        json_match = re.search(r'\{[\s\S]*"topic"[\s\S]*\}', content)
+        if json_match:
+            topic_data = json.loads(json_match.group())
+        else:
+            raise ValueError("Could not parse topic JSON from response")
         
         return TopicBrief.from_dict(topic_data)
     

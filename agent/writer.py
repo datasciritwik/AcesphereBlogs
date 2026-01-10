@@ -215,12 +215,17 @@ JSON only:"""
             model="openai/gpt-oss-20b",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.3,
-            max_tokens=200,
-            response_format={"type": "json_object"}
+            max_tokens=200
         )
         
         import json
-        return json.loads(response.choices[0].message.content)
+        import re
+        content = response.choices[0].message.content
+        # Extract JSON from response (handle markdown code blocks)
+        json_match = re.search(r'\{[^{}]*\}', content, re.DOTALL)
+        if json_match:
+            return json.loads(json_match.group())
+        return {"description": "", "tags": [], "slug": ""}
     
     def _count_words(self, text: str) -> int:
         """Count words in text."""
