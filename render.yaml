@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: acesphere-blogs
+    runtime: python
+    buildCommand: pip install -r requirements.txt && python build_site.py
+    staticPublishPath: ./site
+    headers:
+      - path: /*
+        name: X-Frame-Options
+        value: DENY
+      - path: /*
+        name: X-Content-Type-Options
+        value: nosniff
+      - path: /*
+        name: Referrer-Policy
+        value: strict-origin-when-cross-origin
+    routes:
+      - type: rewrite
+        source: /posts/*
+        destination: /posts/*.html
