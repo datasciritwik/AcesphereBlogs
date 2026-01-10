@@ -1,207 +1,120 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content=""
+    />
     <title>AI Resume Parser: Build a Modern Hiring Pipeline | AcesphereAI Blog</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <style>
-        :root {
-            --primary: #6366f1;
-            --primary-dark: #4f46e5;
-            --bg: #0f172a;
-            --bg-card: #1e293b;
-            --text: #e2e8f0;
-            --text-muted: #94a3b8;
-            --border: #334155;
-            --accent: #22d3ee;
-        }
-        
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            line-height: 1.7;
-            min-height: 100vh;
-        }
-        
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem 1.5rem;
-        }
-        
-        header {
-            border-bottom: 1px solid var(--border);
-            padding-bottom: 2rem;
-            margin-bottom: 3rem;
-        }
-        
-        .logo {
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: var(--accent);
-            text-decoration: none;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-        
-        .logo:hover {
-            opacity: 0.9;
-        }
-        
-        .tagline {
-            color: var(--text-muted);
-            margin-top: 0.5rem;
-            font-size: 0.95rem;
-        }
-        
-        
-article {
-    line-height: 1.8;
-}
+      :root {
+          --primary: #6366f1;
+          --primary-dark: #4f46e5;
+          --bg: #0f172a;
+          --bg-card: #1e293b;
+          --text: #e2e8f0;
+          --text-muted: #94a3b8;
+          --border: #334155;
+          --accent: #22d3ee;
+      }
 
-article h1 {
-    font-size: 2.25rem;
-    margin-bottom: 1rem;
-    line-height: 1.3;
-}
+      * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+      }
 
-article h2 {
-    font-size: 1.5rem;
-    margin: 2.5rem 0 1rem;
-    color: var(--accent);
-}
+      body {
+          font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+          background: var(--bg);
+          color: var(--text);
+          line-height: 1.7;
+          min-height: 100vh;
+      }
 
-article h3 {
-    font-size: 1.25rem;
-    margin: 2rem 0 0.75rem;
-}
+      .container {
+          max-width: 800px;
+          margin: 0 auto;
+          padding: 2rem 1.5rem;
+      }
 
-article p {
-    margin-bottom: 1.25rem;
-}
+      header {
+          border-bottom: 1px solid var(--border);
+          padding-bottom: 2rem;
+          margin-bottom: 3rem;
+      }
 
-article a {
-    color: var(--accent);
-    text-decoration: none;
-    border-bottom: 1px solid transparent;
-}
+      .logo {
+          font-size: 1.5rem;
+          font-weight: 700;
+          color: var(--accent);
+          text-decoration: none;
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+      }
 
-article a:hover {
-    border-bottom-color: var(--accent);
-}
+      .logo:hover {
+          opacity: 0.9;
+      }
 
-article ul, article ol {
-    margin: 1rem 0 1.5rem 1.5rem;
-}
+      .tagline {
+          color: var(--text-muted);
+          margin-top: 0.5rem;
+          font-size: 0.95rem;
+      }
 
-article li {
-    margin-bottom: 0.5rem;
-}
-
-article code {
-    background: var(--bg-card);
-    padding: 0.2rem 0.4rem;
-    border-radius: 4px;
-    font-size: 0.9em;
-}
-
-article pre {
-    background: var(--bg-card);
-    padding: 1rem;
-    border-radius: 8px;
-    overflow-x: auto;
-    margin: 1.5rem 0;
-}
-
-article pre code {
-    background: none;
-    padding: 0;
-}
-
-article blockquote {
-    border-left: 3px solid var(--primary);
-    padding-left: 1rem;
-    margin: 1.5rem 0;
-    color: var(--text-muted);
-    font-style: italic;
-}
-
-.post-header {
-    margin-bottom: 2.5rem;
-    padding-bottom: 1.5rem;
-    border-bottom: 1px solid var(--border);
-}
-
-.post-meta {
-    color: var(--text-muted);
-    font-size: 0.9rem;
-    margin-top: 0.75rem;
-}
-
-.tags {
-    display: flex;
-    gap: 0.5rem;
-    margin-top: 1rem;
-    flex-wrap: wrap;
-}
-
-.tag {
-    background: var(--primary);
-    color: white;
-    padding: 0.25rem 0.75rem;
-    border-radius: 999px;
-    font-size: 0.75rem;
-    font-weight: 500;
-}
-
-.back-link {
-    display: inline-block;
-    margin-bottom: 2rem;
-    color: var(--text-muted);
-    text-decoration: none;
-    font-size: 0.9rem;
-}
-
-.back-link:hover {
-    color: var(--accent);
-}
-
+       article { line-height: 1.8; } article h1 {
+font-size: 2.25rem; margin-bottom: 1rem; line-height: 1.3; } article h2 {
+font-size: 1.5rem; margin: 2.5rem 0 1rem; color: var(--accent); } article h3 {
+font-size: 1.25rem; margin: 2rem 0 0.75rem; } article p { margin-bottom:
+1.25rem; } article a { color: var(--accent); text-decoration: none;
+border-bottom: 1px solid transparent; } article a:hover { border-bottom-color:
+var(--accent); } article ul, article ol { margin: 1rem 0 1.5rem 1.5rem; }
+article li { margin-bottom: 0.5rem; } article code { background: var(--bg-card);
+padding: 0.2rem 0.4rem; border-radius: 4px; font-size: 0.9em; } article pre {
+background: var(--bg-card); padding: 1rem; border-radius: 8px; overflow-x: auto;
+margin: 1.5rem 0; } article pre code { background: none; padding: 0; } article
+blockquote { border-left: 3px solid var(--primary); padding-left: 1rem; margin:
+1.5rem 0; color: var(--text-muted); font-style: italic; } .post-header {
+margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid
+var(--border); } .post-meta { color: var(--text-muted); font-size: 0.9rem;
+margin-top: 0.75rem; } .tags { display: flex; gap: 0.5rem; margin-top: 1rem;
+flex-wrap: wrap; } .tag { background: var(--primary); color: white; padding:
+0.25rem 0.75rem; border-radius: 999px; font-size: 0.75rem; font-weight: 500; }
+.back-link { display: inline-block; margin-bottom: 2rem; color:
+var(--text-muted); text-decoration: none; font-size: 0.9rem; } .back-link:hover
+{ color: var(--accent); } 
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <header>
-            <a href="/" class="logo">
-                <span>🤖</span> AcesphereAI Blog
-            </a>
-            <p class="tagline">Insights on AI-powered hiring and recruitment</p>
-        </header>
-        
-        <main>
-            
-<a href="/" class="back-link">← Back to all posts</a>
+      <header>
+        <a href="../index.html" class="logo">
+          <span>🤖</span> AcesphereAI Blog
+        </a>
+        <p class="tagline">Insights on AI-powered hiring and recruitment</p>
+      </header>
+
+      <main>
+<a href="../index.html" class="back-link">← Back to all posts</a>
 
 <article>
-    <div class="post-header">
-        <h1>AI Resume Parser: Build a Modern Hiring Pipeline</h1>
-        <p class="post-meta">Published on 2026-01-10</p>
-        
-    </div>
+  <div class="post-header">
+    <h1>AI Resume Parser: Build a Modern Hiring Pipeline</h1>
+    <p class="post-meta">Published on 2026-01-10</p>
     
-    <div class="post-content">
-        <h1 id="ai-resume-parser-build-a-modern-hiring-pipeline">AI Resume Parser: Build a Modern Hiring Pipeline</h1>
+  </div>
+
+  <div class="post-content"><h1 id="ai-resume-parser-build-a-modern-hiring-pipeline">AI Resume Parser: Build a Modern Hiring Pipeline</h1>
 <p>Fast‑growing startups need to move from ad‑hoc resume reviews to a repeatable, data‑driven process that scales with hiring velocity. This guide shows you, step by step, how to embed an <strong>AI resume parser</strong> into your recruitment workflow, boost <strong>recruiter efficiency tools</strong>, achieve reliable <strong>automated shortlisting</strong>, and keep bias in check—all while laying the foundation for a future‑ready <strong>AI talent acquisition</strong> strategy.</p>
 <hr />
 <h2 id="why-ai-resume-parsing-is-a-gamechanger-for-growing-teams">Why AI Resume Parsing Is a Game‑Changer for Growing Teams</h2>
@@ -333,18 +246,28 @@ article blockquote {
 <ul>
 <li>Gartner, “AI‑Driven Recruiting Trends 2023.” <a href="https://www.gartner.com/en/research/ai-recruiting">https://www.gartner.com/en/research/ai-recruiting</a>  </li>
 <li>Harvard Business Review, “How to Reduce Bias in AI Hiring Tools.” <a href="https://hbr.org/2024/02/reducing-bias-in-ai-recruiting">https://hbr.org/2024/02/reducing-bias-in-ai-recruiting</a></li>
-</ul>
-    </div>
+</ul></div>
 </article>
+</main>
 
-        </main>
-        
-        <footer style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.875rem;">
-            <p>&copy; 2026 AcesphereAI. All rights reserved.</p>
-            <p style="margin-top: 0.5rem;">
-                <a href="https://acesphereai.org" style="color: var(--accent); text-decoration: none;">Main Site</a>
-            </p>
-        </footer>
+      <footer
+        style="
+          margin-top: 4rem;
+          padding-top: 2rem;
+          border-top: 1px solid var(--border);
+          color: var(--text-muted);
+          font-size: 0.875rem;
+        "
+      >
+        <p>&copy; 2026 AcesphereAI. All rights reserved.</p>
+        <p style="margin-top: 0.5rem">
+          <a
+            href="https://acesphereai.org"
+            style="color: var(--accent); text-decoration: none"
+            >Main Site</a
+          >
+        </p>
+      </footer>
     </div>
-</body>
+  </body>
 </html>

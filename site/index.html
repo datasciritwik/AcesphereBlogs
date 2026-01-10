@@ -1,174 +1,136 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="AcesphereAI Blog - AI Hiring Insights">
-    <title>AcesphereAI Blog - AI Hiring Insights</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="AcesphereAI Blog - AI Hiring Insights"
+    />
+    <title>AcesphereAI Blog - AI Hiring
+Insights</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <style>
-        :root {
-            --primary: #6366f1;
-            --primary-dark: #4f46e5;
-            --bg: #0f172a;
-            --bg-card: #1e293b;
-            --text: #e2e8f0;
-            --text-muted: #94a3b8;
-            --border: #334155;
-            --accent: #22d3ee;
-        }
-        
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            line-height: 1.7;
-            min-height: 100vh;
-        }
-        
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem 1.5rem;
-        }
-        
-        header {
-            border-bottom: 1px solid var(--border);
-            padding-bottom: 2rem;
-            margin-bottom: 3rem;
-        }
-        
-        .logo {
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: var(--accent);
-            text-decoration: none;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-        
-        .logo:hover {
-            opacity: 0.9;
-        }
-        
-        .tagline {
-            color: var(--text-muted);
-            margin-top: 0.5rem;
-            font-size: 0.95rem;
-        }
-        
-        
-.posts-list {
-    display: flex;
-    flex-direction: column;
-    gap: 2rem;
-}
+      :root {
+          --primary: #6366f1;
+          --primary-dark: #4f46e5;
+          --bg: #0f172a;
+          --bg-card: #1e293b;
+          --text: #e2e8f0;
+          --text-muted: #94a3b8;
+          --border: #334155;
+          --accent: #22d3ee;
+      }
 
-.post-card {
-    background: var(--bg-card);
-    border-radius: 12px;
-    padding: 1.5rem;
-    border: 1px solid var(--border);
-    transition: transform 0.2s, border-color 0.2s;
-}
+      * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+      }
 
-.post-card:hover {
-    transform: translateY(-2px);
-    border-color: var(--primary);
-}
+      body {
+          font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+          background: var(--bg);
+          color: var(--text);
+          line-height: 1.7;
+          min-height: 100vh;
+      }
 
-.post-card h2 {
-    font-size: 1.25rem;
-    margin-bottom: 0.5rem;
-}
+      .container {
+          max-width: 800px;
+          margin: 0 auto;
+          padding: 2rem 1.5rem;
+      }
 
-.post-card h2 a {
-    color: var(--text);
-    text-decoration: none;
-}
+      header {
+          border-bottom: 1px solid var(--border);
+          padding-bottom: 2rem;
+          margin-bottom: 3rem;
+      }
 
-.post-card h2 a:hover {
-    color: var(--accent);
-}
+      .logo {
+          font-size: 1.5rem;
+          font-weight: 700;
+          color: var(--accent);
+          text-decoration: none;
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+      }
 
-.post-meta {
-    color: var(--text-muted);
-    font-size: 0.875rem;
-    margin-bottom: 0.75rem;
-}
+      .logo:hover {
+          opacity: 0.9;
+      }
 
-.post-description {
-    color: var(--text-muted);
-    font-size: 0.95rem;
-}
+      .tagline {
+          color: var(--text-muted);
+          margin-top: 0.5rem;
+          font-size: 0.95rem;
+      }
 
-.tags {
-    display: flex;
-    gap: 0.5rem;
-    margin-top: 1rem;
-    flex-wrap: wrap;
-}
-
-.tag {
-    background: var(--primary);
-    color: white;
-    padding: 0.25rem 0.75rem;
-    border-radius: 999px;
-    font-size: 0.75rem;
-    font-weight: 500;
-}
-
-.empty-state {
-    text-align: center;
-    padding: 4rem 2rem;
-    color: var(--text-muted);
-}
-
+       .posts-list { display: flex;
+flex-direction: column; gap: 2rem; } .post-card { background: var(--bg-card);
+border-radius: 12px; padding: 1.5rem; border: 1px solid var(--border);
+transition: transform 0.2s, border-color 0.2s; } .post-card:hover { transform:
+translateY(-2px); border-color: var(--primary); } .post-card h2 { font-size:
+1.25rem; margin-bottom: 0.5rem; } .post-card h2 a { color: var(--text);
+text-decoration: none; } .post-card h2 a:hover { color: var(--accent); }
+.post-meta { color: var(--text-muted); font-size: 0.875rem; margin-bottom:
+0.75rem; } .post-description { color: var(--text-muted); font-size: 0.95rem; }
+.tags { display: flex; gap: 0.5rem; margin-top: 1rem; flex-wrap: wrap; } .tag {
+background: var(--primary); color: white; padding: 0.25rem 0.75rem;
+border-radius: 999px; font-size: 0.75rem; font-weight: 500; } .empty-state {
+text-align: center; padding: 4rem 2rem; color: var(--text-muted); } 
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <header>
-            <a href="/" class="logo">
-                <span>🤖</span> AcesphereAI Blog
-            </a>
-            <p class="tagline">Insights on AI-powered hiring and recruitment</p>
-        </header>
-        
-        <main>
-            
-<h1 style="font-size: 2rem; margin-bottom: 2rem;">Latest Posts</h1>
+      <header>
+        <a href="index.html" class="logo">
+          <span>🤖</span> AcesphereAI Blog
+        </a>
+        <p class="tagline">Insights on AI-powered hiring and recruitment</p>
+      </header>
+
+      <main>
+<h1 style="font-size: 2rem; margin-bottom: 2rem">Latest Posts</h1>
 
 
 <div class="posts-list">
+  
+  <article class="post-card">
+    <h2><a href="posts/ai-resume-parser-build-a-modern-hiring-pipeline.html">AI Resume Parser: Build a Modern Hiring Pipeline</a></h2>
+    <p class="post-meta">2026-01-10</p>
+    <p class="post-description"></p>
     
-    <article class="post-card">
-        <h2><a href="/posts/ai-resume-parser-build-a-modern-hiring-pipeline">AI Resume Parser: Build a Modern Hiring Pipeline</a></h2>
-        <p class="post-meta">2026-01-10</p>
-        <p class="post-description"></p>
-        
-    </article>
-    
+  </article>
+  
 </div>
+ </main>
 
-
-        </main>
-        
-        <footer style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.875rem;">
-            <p>&copy; 2026 AcesphereAI. All rights reserved.</p>
-            <p style="margin-top: 0.5rem;">
-                <a href="https://acesphereai.org" style="color: var(--accent); text-decoration: none;">Main Site</a>
-            </p>
-        </footer>
+      <footer
+        style="
+          margin-top: 4rem;
+          padding-top: 2rem;
+          border-top: 1px solid var(--border);
+          color: var(--text-muted);
+          font-size: 0.875rem;
+        "
+      >
+        <p>&copy; 2026 AcesphereAI. All rights reserved.</p>
+        <p style="margin-top: 0.5rem">
+          <a
+            href="https://acesphereai.org"
+            style="color: var(--accent); text-decoration: none"
+            >Main Site</a
+          >
+        </p>
+      </footer>
     </div>
-</body>
+  </body>
 </html>

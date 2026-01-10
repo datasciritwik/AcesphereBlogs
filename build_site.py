@@ -92,14 +92,15 @@ def build_post_html(post: dict, env: Environment) -> str:
         description=post["description"],
         pub_date=post["pub_date"],
         tags=post["tags"],
-        content=html_content
+        content=html_content,
+        base_url="../"  # Relative path from posts/ to root
     )
 
 
 def build_index_html(posts: list[dict], env: Environment) -> str:
     """Build the index page HTML."""
     template = env.get_template("index.html")
-    return template.render(posts=posts)
+    return template.render(posts=posts, base_url="")
 
 
 def create_default_templates():

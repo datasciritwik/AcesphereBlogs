@@ -1,93 +1,109 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{ description | default('AcesphereAI Blog - AI Hiring Insights') }}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="{{ description | default('AcesphereAI Blog - AI Hiring Insights') }}"
+    />
     <title>{% block title %}AcesphereAI Blog{% endblock %}</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
     <style>
-        :root {
-            --primary: #6366f1;
-            --primary-dark: #4f46e5;
-            --bg: #0f172a;
-            --bg-card: #1e293b;
-            --text: #e2e8f0;
-            --text-muted: #94a3b8;
-            --border: #334155;
-            --accent: #22d3ee;
-        }
-        
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
-        body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            background: var(--bg);
-            color: var(--text);
-            line-height: 1.7;
-            min-height: 100vh;
-        }
-        
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem 1.5rem;
-        }
-        
-        header {
-            border-bottom: 1px solid var(--border);
-            padding-bottom: 2rem;
-            margin-bottom: 3rem;
-        }
-        
-        .logo {
-            font-size: 1.5rem;
-            font-weight: 700;
-            color: var(--accent);
-            text-decoration: none;
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-        }
-        
-        .logo:hover {
-            opacity: 0.9;
-        }
-        
-        .tagline {
-            color: var(--text-muted);
-            margin-top: 0.5rem;
-            font-size: 0.95rem;
-        }
-        
-        {% block styles %}{% endblock %}
+      :root {
+          --primary: #6366f1;
+          --primary-dark: #4f46e5;
+          --bg: #0f172a;
+          --bg-card: #1e293b;
+          --text: #e2e8f0;
+          --text-muted: #94a3b8;
+          --border: #334155;
+          --accent: #22d3ee;
+      }
+
+      * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+      }
+
+      body {
+          font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+          background: var(--bg);
+          color: var(--text);
+          line-height: 1.7;
+          min-height: 100vh;
+      }
+
+      .container {
+          max-width: 800px;
+          margin: 0 auto;
+          padding: 2rem 1.5rem;
+      }
+
+      header {
+          border-bottom: 1px solid var(--border);
+          padding-bottom: 2rem;
+          margin-bottom: 3rem;
+      }
+
+      .logo {
+          font-size: 1.5rem;
+          font-weight: 700;
+          color: var(--accent);
+          text-decoration: none;
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+      }
+
+      .logo:hover {
+          opacity: 0.9;
+      }
+
+      .tagline {
+          color: var(--text-muted);
+          margin-top: 0.5rem;
+          font-size: 0.95rem;
+      }
+
+      {% block styles %}{% endblock %}
     </style>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <header>
-            <a href="/" class="logo">
-                <span>🤖</span> AcesphereAI Blog
-            </a>
-            <p class="tagline">Insights on AI-powered hiring and recruitment</p>
-        </header>
-        
-        <main>
-            {% block content %}{% endblock %}
-        </main>
-        
-        <footer style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.875rem;">
-            <p>&copy; {{ now.year }} AcesphereAI. All rights reserved.</p>
-            <p style="margin-top: 0.5rem;">
-                <a href="https://acesphereai.org" style="color: var(--accent); text-decoration: none;">Main Site</a>
-            </p>
-        </footer>
+      <header>
+        <a href="{{ base_url }}index.html" class="logo">
+          <span>🤖</span> AcesphereAI Blog
+        </a>
+        <p class="tagline">Insights on AI-powered hiring and recruitment</p>
+      </header>
+
+      <main>{% block content %}{% endblock %}</main>
+
+      <footer
+        style="
+          margin-top: 4rem;
+          padding-top: 2rem;
+          border-top: 1px solid var(--border);
+          color: var(--text-muted);
+          font-size: 0.875rem;
+        "
+      >
+        <p>&copy; {{ now.year }} AcesphereAI. All rights reserved.</p>
+        <p style="margin-top: 0.5rem">
+          <a
+            href="https://acesphereai.org"
+            style="color: var(--accent); text-decoration: none"
+            >Main Site</a
+          >
+        </p>
+      </footer>
     </div>
-</body>
+  </body>
 </html>
