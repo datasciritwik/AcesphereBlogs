@@ -1,6 +1,26 @@
 {
-  "posts": [],
-  "topics_used": [],
-  "last_updated": null,
-  "total_posts": 0
+  "posts": [
+    {
+      "title": "AI Resume Parser: Build a Modern Hiring Pipeline",
+      "slug": "",
+      "description": "",
+      "pub_date": "2026-01-10",
+      "tags": [],
+      "keywords": [
+        "AI resume parser",
+        "building a modern hiring pipeline",
+        "automated shortlisting",
+        "recruiter efficiency tools",
+        "AI talent acquisition"
+      ],
+      "word_count": 1280,
+      "filepath": "content\\posts\\2026-01-10-.md",
+      "topic": "AI Resume Parser: Build a Modern Hiring Pipeline"
+    }
+  ],
+  "topics_used": [
+    "AI Resume Parser: Build a Modern Hiring Pipeline"
+  ],
+  "last_updated": "2026-01-10",
+  "total_posts": 1
 }
