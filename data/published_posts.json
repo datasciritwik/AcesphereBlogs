@@ -2,7 +2,7 @@
   "posts": [
     {
       "title": "AI Resume Parser: Build a Modern Hiring Pipeline",
-      "slug": "",
+      "slug": "ai-resume-parser-build-a-modern-hiring-pipeline",
       "description": "",
       "pub_date": "2026-01-10",
       "tags": [],
@@ -14,7 +14,7 @@
         "AI talent acquisition"
       ],
       "word_count": 1280,
-      "filepath": "content\\posts\\2026-01-10-.md",
+      "filepath": "content/posts/2026-01-10-ai-resume-parser-build-a-modern-hiring-pipeline.md",
       "topic": "AI Resume Parser: Build a Modern Hiring Pipeline"
     },
     {

@@ -281,7 +281,7 @@ JSON only:"""
         
         return Article(
             title=topic_brief.title,
-            slug=meta.get("slug", self._generate_slug(topic_brief.title)),
+            slug=meta.get("slug") or self._generate_slug(topic_brief.title),
             description=meta.get("description", ""),
             content=content,
             pub_date=pub_date,
