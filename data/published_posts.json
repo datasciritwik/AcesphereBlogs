@@ -32,12 +32,36 @@
       "word_count": 1232,
       "filepath": "content/posts/2026-01-10-cost-savings-with-hiring-automation-for-scaling-startups.md",
       "topic": "Cost Savings with Hiring Automation for Scaling Startups"
+    },
+    {
+      "title": "AI vs Traditional Hiring: 5 Ways AI Beats Old Methods",
+      "slug": "ai-vs-traditional-hiring-5-ways-ai-beats-old-methods",
+      "description": "Discover how AI hiring outpaces traditional methods in speed, bias reduction, cost, and recruiter productivity\u2014essential insights for modern talent acquisition.",
+      "pub_date": "2026-01-10",
+      "tags": [
+        "AI recruitment",
+        "hiring bias",
+        "recruitment tech",
+        "talent acquisition",
+        "HR automation"
+      ],
+      "keywords": [
+        "AI vs traditional hiring methods",
+        "AI-powered hiring",
+        "data-driven hiring decisions",
+        "reduce hiring bias",
+        "recruiter productivity"
+      ],
+      "word_count": 1194,
+      "filepath": "content/posts/2026-01-10-ai-vs-traditional-hiring-5-ways-ai-beats-old-methods.md",
+      "topic": "AI vs Traditional Hiring: 5 Ways AI Beats Old Methods"
     }
   ],
   "topics_used": [
     "AI Resume Parser: Build a Modern Hiring Pipeline",
-    "Cost Savings with Hiring Automation for Scaling Startups"
+    "Cost Savings with Hiring Automation for Scaling Startups",
+    "AI vs Traditional Hiring: 5 Ways AI Beats Old Methods"
   ],
   "last_updated": "2026-01-10",
-  "total_posts": 2
+  "total_posts": 3
 }
