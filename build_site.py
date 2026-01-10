@@ -57,6 +57,13 @@ def get_all_posts() -> list[dict]:
         if re.match(r"^\d{4}-\d{2}-\d{2}-", slug):
             slug = slug[11:]
         
+        # If slug is empty, generate from title
+        if not slug:
+            title = frontmatter.get("title", "untitled")
+            slug = re.sub(r'[^a-z0-9\s-]', '', title.lower())
+            slug = re.sub(r'\s+', '-', slug)
+            slug = re.sub(r'-+', '-', slug).strip('-')[:60]
+        
         posts.append({
             "title": frontmatter.get("title", "Untitled"),
             "description": frontmatter.get("description", ""),

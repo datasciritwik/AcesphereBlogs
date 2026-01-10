@@ -220,12 +220,28 @@ JSON only:"""
         
         import json
         import re
-        content = response.choices[0].message.content
-        # Extract JSON from response (handle markdown code blocks)
-        json_match = re.search(r'\{[^{}]*\}', content, re.DOTALL)
-        if json_match:
-            return json.loads(json_match.group())
-        return {"description": "", "tags": [], "slug": ""}
+        response_content = response.choices[0].message.content
+        
+        # Try to extract JSON from response (handle markdown code blocks)
+        try:
+            # Try finding JSON object in the response
+            json_match = re.search(r'\{[\s\S]*"description"[\s\S]*\}', response_content)
+            if json_match:
+                result = json.loads(json_match.group())
+            else:
+                result = {}
+        except json.JSONDecodeError:
+            result = {}
+        
+        # Ensure required fields have fallback values
+        fallback_slug = self._generate_slug(title)
+        fallback_desc = content_preview[:150].replace('"', "'").strip() + "..."
+        
+        return {
+            "description": result.get("description") or fallback_desc,
+            "tags": result.get("tags") or [],
+            "slug": result.get("slug") or fallback_slug
+        }
     
     def _count_words(self, text: str) -> int:
         """Count words in text."""
