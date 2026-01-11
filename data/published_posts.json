@@ -70,14 +70,32 @@
       "word_count": 1114,
       "filepath": "content/posts/2026-01-11-candidate-followup-automation-to-boost-productivity.md",
       "topic": "Candidate Follow\u2011Up Automation to Boost Productivity"
+    },
+    {
+      "title": "Inclusive Hiring: How AI Enables Skill\u2011Based Screening",
+      "slug": "inclusive-hiring-how-ai-enables-skillbased-screening",
+      "description": "# Inclusive Hiring: How AI Enables Skill\u2011Based Screening  \n\nIn today\u2019s fast\u2011moving startup environment, HR teams need a hiring process that **delivers...",
+      "pub_date": "2026-01-11",
+      "tags": [],
+      "keywords": [
+        "inclusive hiring",
+        "skill-based screening",
+        "data-driven hiring decisions",
+        "AI recruitment",
+        "recruiter productivity"
+      ],
+      "word_count": 1296,
+      "filepath": "content/posts/2026-01-11-inclusive-hiring-how-ai-enables-skillbased-screening.md",
+      "topic": "Inclusive Hiring: How AI Enables Skill\u2011Based Screening"
     }
   ],
   "topics_used": [
     "AI Resume Parser: Build a Modern Hiring Pipeline",
     "Cost Savings with Hiring Automation for Scaling Startups",
     "AI vs Traditional Hiring: 5 Ways AI Beats Old Methods",
-    "Candidate Follow\u2011Up Automation to Boost Productivity"
+    "Candidate Follow\u2011Up Automation to Boost Productivity",
+    "Inclusive Hiring: How AI Enables Skill\u2011Based Screening"
   ],
   "last_updated": "2026-01-11",
-  "total_posts": 4
+  "total_posts": 5
 }
