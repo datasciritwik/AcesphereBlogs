@@ -104,6 +104,23 @@
       "word_count": 1131,
       "filepath": "content/posts/2026-01-11-how-to-reduce-time-to-hire-with-ai.md",
       "topic": "How to Reduce Time-to-Hire with AI"
+    },
+    {
+      "title": "Automated Shortlisting: Boost Diversity & Speed in Hiring",
+      "slug": "automated-shortlisting-boost-diversity-speed-in-hiring",
+      "description": "# Automated Shortlisting: Boost Diversity & Speed in Hiring  \n\nIn fast\u2011growing startups, every hiring decision impacts product velocity, culture, and...",
+      "pub_date": "2026-01-12",
+      "tags": [],
+      "keywords": [
+        "automated shortlisting",
+        "hiring process automation",
+        "recruiter productivity",
+        "skill-based screening",
+        "hiring automation"
+      ],
+      "word_count": 1314,
+      "filepath": "content/posts/2026-01-12-automated-shortlisting-boost-diversity-speed-in-hiring.md",
+      "topic": "Automated Shortlisting: Boost Diversity & Speed in Hiring"
     }
   ],
   "topics_used": [
@@ -112,8 +129,9 @@
     "AI vs Traditional Hiring: 5 Ways AI Beats Old Methods",
     "Candidate Follow\u2011Up Automation to Boost Productivity",
     "Inclusive Hiring: How AI Enables Skill\u2011Based Screening",
-    "How to Reduce Time-to-Hire with AI"
+    "How to Reduce Time-to-Hire with AI",
+    "Automated Shortlisting: Boost Diversity & Speed in Hiring"
   ],
-  "last_updated": "2026-01-11",
-  "total_posts": 6
+  "last_updated": "2026-01-12",
+  "total_posts": 7
 }
