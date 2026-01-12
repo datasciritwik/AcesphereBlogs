@@ -138,6 +138,22 @@
       "word_count": 1148,
       "filepath": "content/posts/2026-01-12-ai-technical-assessments-cutting-hiring-bias.md",
       "topic": "AI Technical Assessments: Cutting Hiring Bias"
+    },
+    {
+      "title": "AI-Driven Objective Candidate Evaluation",
+      "slug": "ai-driven-objective-candidate-evaluation",
+      "description": "# AI-Driven Objective Candidate Evaluation  \n\nRecruiters today face mounting pressure to hire faster, diversify their talent pools, and eliminate hidd...",
+      "pub_date": "2026-01-12",
+      "tags": [],
+      "keywords": [
+        "objective candidate evaluation",
+        "AI hiring",
+        "data-driven hiring decisions",
+        "recruiter productivity tips"
+      ],
+      "word_count": 1218,
+      "filepath": "content/posts/2026-01-12-ai-driven-objective-candidate-evaluation.md",
+      "topic": "AI-Driven Objective Candidate Evaluation"
     }
   ],
   "topics_used": [
@@ -148,8 +164,9 @@
     "Inclusive Hiring: How AI Enables Skill\u2011Based Screening",
     "How to Reduce Time-to-Hire with AI",
     "Automated Shortlisting: Boost Diversity & Speed in Hiring",
-    "AI Technical Assessments: Cutting Hiring Bias"
+    "AI Technical Assessments: Cutting Hiring Bias",
+    "AI-Driven Objective Candidate Evaluation"
   ],
   "last_updated": "2026-01-12",
-  "total_posts": 8
+  "total_posts": 9
 }
