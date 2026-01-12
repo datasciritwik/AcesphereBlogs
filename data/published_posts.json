@@ -121,6 +121,23 @@
       "word_count": 1314,
       "filepath": "content/posts/2026-01-12-automated-shortlisting-boost-diversity-speed-in-hiring.md",
       "topic": "Automated Shortlisting: Boost Diversity & Speed in Hiring"
+    },
+    {
+      "title": "AI Technical Assessments: Cutting Hiring Bias",
+      "slug": "ai-technical-assessments-cutting-hiring-bias",
+      "description": "# AI Technical Assessments: Cutting Hiring Bias\n\nHiring the right talent is the cornerstone of growth for startups and mid\u2011sized companies, yet the pr...",
+      "pub_date": "2026-01-12",
+      "tags": [],
+      "keywords": [
+        "technical assessments",
+        "reduce hiring bias",
+        "AI talent acquisition",
+        "AI interview assessment",
+        "recruiter efficiency tools"
+      ],
+      "word_count": 1148,
+      "filepath": "content/posts/2026-01-12-ai-technical-assessments-cutting-hiring-bias.md",
+      "topic": "AI Technical Assessments: Cutting Hiring Bias"
     }
   ],
   "topics_used": [
@@ -130,8 +147,9 @@
     "Candidate Follow\u2011Up Automation to Boost Productivity",
     "Inclusive Hiring: How AI Enables Skill\u2011Based Screening",
     "How to Reduce Time-to-Hire with AI",
-    "Automated Shortlisting: Boost Diversity & Speed in Hiring"
+    "Automated Shortlisting: Boost Diversity & Speed in Hiring",
+    "AI Technical Assessments: Cutting Hiring Bias"
   ],
   "last_updated": "2026-01-12",
-  "total_posts": 7
+  "total_posts": 8
 }
