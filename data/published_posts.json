@@ -187,6 +187,23 @@
       "word_count": 1347,
       "filepath": "content/posts/2026-01-13-interview-intelligence-ai-elevates-candidate-assessment.md",
       "topic": "Interview Intelligence: AI Elevates Candidate Assessment"
+    },
+    {
+      "title": "5 Unexpected Benefits of AI in Recruitment for Startups",
+      "slug": "5-unexpected-benefits-of-ai-in-recruitment-for-startups",
+      "description": "# 5 Unexpected Benefits of AI in Recruitment for Startups  \n\nStartups and fast\u2011growing companies need more than just speed when they hire. The real co...",
+      "pub_date": "2026-01-13",
+      "tags": [],
+      "keywords": [
+        "benefits of AI in recruitment",
+        "recruiter productivity",
+        "hiring automation",
+        "data-driven hiring decisions",
+        "recruitment innovation"
+      ],
+      "word_count": 896,
+      "filepath": "content/posts/2026-01-13-5-unexpected-benefits-of-ai-in-recruitment-for-startups.md",
+      "topic": "5 Unexpected Benefits of AI in Recruitment for Startups"
     }
   ],
   "topics_used": [
@@ -200,8 +217,9 @@
     "AI Technical Assessments: Cutting Hiring Bias",
     "AI-Driven Objective Candidate Evaluation",
     "AI-Powered Hiring Pipeline Management: Boost Efficiency",
-    "Interview Intelligence: AI Elevates Candidate Assessment"
+    "Interview Intelligence: AI Elevates Candidate Assessment",
+    "5 Unexpected Benefits of AI in Recruitment for Startups"
   ],
   "last_updated": "2026-01-13",
-  "total_posts": 11
+  "total_posts": 12
 }
