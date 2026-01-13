@@ -170,6 +170,23 @@
       "word_count": 1182,
       "filepath": "content/posts/2026-01-13-ai-powered-hiring-pipeline-management-boost-efficiency.md",
       "topic": "AI-Powered Hiring Pipeline Management: Boost Efficiency"
+    },
+    {
+      "title": "Interview Intelligence: AI Elevates Candidate Assessment",
+      "slug": "interview-intelligence-ai-elevates-candidate-assessment",
+      "description": "# Interview Intelligence: AI Elevates Candidate Assessment\n\nRecruiters are under relentless pressure to fill roles faster, improve hiring quality, and...",
+      "pub_date": "2026-01-13",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "AI interview",
+        "recruiter productivity tips",
+        "competency assessment",
+        "future of hiring"
+      ],
+      "word_count": 1347,
+      "filepath": "content/posts/2026-01-13-interview-intelligence-ai-elevates-candidate-assessment.md",
+      "topic": "Interview Intelligence: AI Elevates Candidate Assessment"
     }
   ],
   "topics_used": [
@@ -182,8 +199,9 @@
     "Automated Shortlisting: Boost Diversity & Speed in Hiring",
     "AI Technical Assessments: Cutting Hiring Bias",
     "AI-Driven Objective Candidate Evaluation",
-    "AI-Powered Hiring Pipeline Management: Boost Efficiency"
+    "AI-Powered Hiring Pipeline Management: Boost Efficiency",
+    "Interview Intelligence: AI Elevates Candidate Assessment"
   ],
   "last_updated": "2026-01-13",
-  "total_posts": 10
+  "total_posts": 11
 }
