@@ -154,6 +154,22 @@
       "word_count": 1218,
       "filepath": "content/posts/2026-01-12-ai-driven-objective-candidate-evaluation.md",
       "topic": "AI-Driven Objective Candidate Evaluation"
+    },
+    {
+      "title": "AI-Powered Hiring Pipeline Management: Boost Efficiency",
+      "slug": "ai-powered-hiring-pipeline-management-boost-efficiency",
+      "description": "# AI-Powered Hiring Pipeline Management: Boost Efficiency\n\nScaling a startup\u2019s talent engine is a race against time, quality, and budget. In this prac...",
+      "pub_date": "2026-01-13",
+      "tags": [],
+      "keywords": [
+        "hiring pipeline management",
+        "AI-powered hiring",
+        "recruiter efficiency tools",
+        "automated candidate screening benefits"
+      ],
+      "word_count": 1182,
+      "filepath": "content/posts/2026-01-13-ai-powered-hiring-pipeline-management-boost-efficiency.md",
+      "topic": "AI-Powered Hiring Pipeline Management: Boost Efficiency"
     }
   ],
   "topics_used": [
@@ -165,8 +181,9 @@
     "How to Reduce Time-to-Hire with AI",
     "Automated Shortlisting: Boost Diversity & Speed in Hiring",
     "AI Technical Assessments: Cutting Hiring Bias",
-    "AI-Driven Objective Candidate Evaluation"
+    "AI-Driven Objective Candidate Evaluation",
+    "AI-Powered Hiring Pipeline Management: Boost Efficiency"
   ],
-  "last_updated": "2026-01-12",
-  "total_posts": 9
+  "last_updated": "2026-01-13",
+  "total_posts": 10
 }
