@@ -204,6 +204,23 @@
       "word_count": 896,
       "filepath": "content/posts/2026-01-13-5-unexpected-benefits-of-ai-in-recruitment-for-startups.md",
       "topic": "5 Unexpected Benefits of AI in Recruitment for Startups"
+    },
+    {
+      "title": "AI Recruitment for Remote Teams: Optimize Global Hiring",
+      "slug": "ai-recruitment-for-remote-teams-optimize-global-hiring",
+      "description": "# AI Recruitment for Remote Teams: Optimize Global Hiring  \n\nBuilding a remote\u2011first startup means you can tap talent from any corner of the world\u2014but...",
+      "pub_date": "2026-01-14",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "remote hiring",
+        "global hiring",
+        "recruiter productivity",
+        "AI interview assessment"
+      ],
+      "word_count": 1101,
+      "filepath": "content/posts/2026-01-14-ai-recruitment-for-remote-teams-optimize-global-hiring.md",
+      "topic": "AI Recruitment for Remote Teams: Optimize Global Hiring"
     }
   ],
   "topics_used": [
@@ -218,8 +235,9 @@
     "AI-Driven Objective Candidate Evaluation",
     "AI-Powered Hiring Pipeline Management: Boost Efficiency",
     "Interview Intelligence: AI Elevates Candidate Assessment",
-    "5 Unexpected Benefits of AI in Recruitment for Startups"
+    "5 Unexpected Benefits of AI in Recruitment for Startups",
+    "AI Recruitment for Remote Teams: Optimize Global Hiring"
   ],
-  "last_updated": "2026-01-13",
-  "total_posts": 12
+  "last_updated": "2026-01-14",
+  "total_posts": 13
 }
