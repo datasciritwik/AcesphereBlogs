@@ -238,6 +238,23 @@
       "word_count": 1356,
       "filepath": "content/posts/2026-01-14-futureready-hr-tech-stack-aipowered-recruitment-workflow.md",
       "topic": "Future\u2011Ready HR Tech Stack: AI\u2011Powered Recruitment Workflow"
+    },
+    {
+      "title": "How a Real-Time Hiring Dashboard Boosts Recruiter Efficiency",
+      "slug": "how-a-real-time-hiring-dashboard-boosts-recruiter-efficiency",
+      "description": "# How a Real-Time Hiring Dashboard Boosts Recruiter Efficiency  \n\nIn today\u2019s fast\u2011moving talent market, recruiters need instant visibility into every...",
+      "pub_date": "2026-01-14",
+      "tags": [],
+      "keywords": [
+        "hiring dashboard",
+        "recruiter productivity tips",
+        "hiring automation",
+        "data-driven hiring decisions",
+        "AI recruitment"
+      ],
+      "word_count": 1266,
+      "filepath": "content/posts/2026-01-14-how-a-real-time-hiring-dashboard-boosts-recruiter-efficiency.md",
+      "topic": "How a Real-Time Hiring Dashboard Boosts Recruiter Efficiency"
     }
   ],
   "topics_used": [
@@ -254,8 +271,9 @@
     "Interview Intelligence: AI Elevates Candidate Assessment",
     "5 Unexpected Benefits of AI in Recruitment for Startups",
     "AI Recruitment for Remote Teams: Optimize Global Hiring",
-    "Future\u2011Ready HR Tech Stack: AI\u2011Powered Recruitment Workflow"
+    "Future\u2011Ready HR Tech Stack: AI\u2011Powered Recruitment Workflow",
+    "How a Real-Time Hiring Dashboard Boosts Recruiter Efficiency"
   ],
   "last_updated": "2026-01-14",
-  "total_posts": 14
+  "total_posts": 15
 }
