@@ -221,6 +221,23 @@
       "word_count": 1101,
       "filepath": "content/posts/2026-01-14-ai-recruitment-for-remote-teams-optimize-global-hiring.md",
       "topic": "AI Recruitment for Remote Teams: Optimize Global Hiring"
+    },
+    {
+      "title": "Future\u2011Ready HR Tech Stack: AI\u2011Powered Recruitment Workflow",
+      "slug": "futureready-hr-tech-stack-aipowered-recruitment-workflow",
+      "description": "# Future\u2011Ready HR Tech Stack: AI\u2011Powered Recruitment Workflow  \n\nRecruiters and HR teams at scaling startups and mid\u2011sized companies can no longer aff...",
+      "pub_date": "2026-01-14",
+      "tags": [],
+      "keywords": [
+        "HR tech stack",
+        "recruitment workflow",
+        "hiring funnel optimization",
+        "AI vs traditional hiring methods",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1356,
+      "filepath": "content/posts/2026-01-14-futureready-hr-tech-stack-aipowered-recruitment-workflow.md",
+      "topic": "Future\u2011Ready HR Tech Stack: AI\u2011Powered Recruitment Workflow"
     }
   ],
   "topics_used": [
@@ -236,8 +253,9 @@
     "AI-Powered Hiring Pipeline Management: Boost Efficiency",
     "Interview Intelligence: AI Elevates Candidate Assessment",
     "5 Unexpected Benefits of AI in Recruitment for Startups",
-    "AI Recruitment for Remote Teams: Optimize Global Hiring"
+    "AI Recruitment for Remote Teams: Optimize Global Hiring",
+    "Future\u2011Ready HR Tech Stack: AI\u2011Powered Recruitment Workflow"
   ],
   "last_updated": "2026-01-14",
-  "total_posts": 13
+  "total_posts": 14
 }
