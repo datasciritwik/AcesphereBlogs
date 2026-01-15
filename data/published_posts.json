@@ -272,6 +272,22 @@
       "word_count": 1240,
       "filepath": "content/posts/2026-01-15-generative-ai-interview-intelligence-2026-outlook.md",
       "topic": "Generative AI & Interview Intelligence: 2026 Outlook"
+    },
+    {
+      "title": "AI-Driven Hiring Funnel Optimization for Faster Hiring",
+      "slug": "ai-driven-hiring-funnel-optimization-for-faster-hiring",
+      "description": "# AI-Driven Hiring Funnel Optimization for Faster Hiring  \n\nHiring managers at scaling startups and mid\u2011sized firms constantly wrestle with a paradox:...",
+      "pub_date": "2026-01-15",
+      "tags": [],
+      "keywords": [
+        "hiring funnel optimization",
+        "data-driven hiring decisions",
+        "recruitment innovation",
+        "AI hiring platform"
+      ],
+      "word_count": 1230,
+      "filepath": "content/posts/2026-01-15-ai-driven-hiring-funnel-optimization-for-faster-hiring.md",
+      "topic": "AI-Driven Hiring Funnel Optimization for Faster Hiring"
     }
   ],
   "topics_used": [
@@ -290,8 +306,9 @@
     "AI Recruitment for Remote Teams: Optimize Global Hiring",
     "Future\u2011Ready HR Tech Stack: AI\u2011Powered Recruitment Workflow",
     "How a Real-Time Hiring Dashboard Boosts Recruiter Efficiency",
-    "Generative AI & Interview Intelligence: 2026 Outlook"
+    "Generative AI & Interview Intelligence: 2026 Outlook",
+    "AI-Driven Hiring Funnel Optimization for Faster Hiring"
   ],
   "last_updated": "2026-01-15",
-  "total_posts": 16
+  "total_posts": 17
 }
