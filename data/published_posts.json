@@ -288,6 +288,23 @@
       "word_count": 1230,
       "filepath": "content/posts/2026-01-15-ai-driven-hiring-funnel-optimization-for-faster-hiring.md",
       "topic": "AI-Driven Hiring Funnel Optimization for Faster Hiring"
+    },
+    {
+      "title": "AI Candidate Tracking Software: Boost Hiring Efficiency",
+      "slug": "ai-candidate-tracking-software-boost-hiring-efficiency",
+      "description": "# AI Candidate Tracking Software: Boost Hiring Efficiency  \n\nRecruiters today juggle dozens of tools, endless spreadsheets, and a constant pressure to...",
+      "pub_date": "2026-01-15",
+      "tags": [],
+      "keywords": [
+        "candidate tracking software",
+        "recruiter productivity",
+        "hiring dashboard",
+        "AI hiring",
+        "building a modern hiring pipeline"
+      ],
+      "word_count": 1191,
+      "filepath": "content/posts/2026-01-15-ai-candidate-tracking-software-boost-hiring-efficiency.md",
+      "topic": "AI Candidate Tracking Software: Boost Hiring Efficiency"
     }
   ],
   "topics_used": [
@@ -307,8 +324,9 @@
     "Future\u2011Ready HR Tech Stack: AI\u2011Powered Recruitment Workflow",
     "How a Real-Time Hiring Dashboard Boosts Recruiter Efficiency",
     "Generative AI & Interview Intelligence: 2026 Outlook",
-    "AI-Driven Hiring Funnel Optimization for Faster Hiring"
+    "AI-Driven Hiring Funnel Optimization for Faster Hiring",
+    "AI Candidate Tracking Software: Boost Hiring Efficiency"
   ],
   "last_updated": "2026-01-15",
-  "total_posts": 17
+  "total_posts": 18
 }
