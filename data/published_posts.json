@@ -255,6 +255,23 @@
       "word_count": 1266,
       "filepath": "content/posts/2026-01-14-how-a-real-time-hiring-dashboard-boosts-recruiter-efficiency.md",
       "topic": "How a Real-Time Hiring Dashboard Boosts Recruiter Efficiency"
+    },
+    {
+      "title": "Generative AI & Interview Intelligence: 2026 Outlook",
+      "slug": "generative-ai-interview-intelligence-2026-outlook",
+      "description": "# Generative AI & Interview Intelligence: 2026 Outlook\n\nRecruiters and HR teams are constantly searching for ways to interview more candidates, assess...",
+      "pub_date": "2026-01-15",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "AI interview assessment",
+        "future of recruitment",
+        "next-gen hiring",
+        "AI interview"
+      ],
+      "word_count": 1240,
+      "filepath": "content/posts/2026-01-15-generative-ai-interview-intelligence-2026-outlook.md",
+      "topic": "Generative AI & Interview Intelligence: 2026 Outlook"
     }
   ],
   "topics_used": [
@@ -272,8 +289,9 @@
     "5 Unexpected Benefits of AI in Recruitment for Startups",
     "AI Recruitment for Remote Teams: Optimize Global Hiring",
     "Future\u2011Ready HR Tech Stack: AI\u2011Powered Recruitment Workflow",
-    "How a Real-Time Hiring Dashboard Boosts Recruiter Efficiency"
+    "How a Real-Time Hiring Dashboard Boosts Recruiter Efficiency",
+    "Generative AI & Interview Intelligence: 2026 Outlook"
   ],
-  "last_updated": "2026-01-14",
-  "total_posts": 15
+  "last_updated": "2026-01-15",
+  "total_posts": 16
 }
