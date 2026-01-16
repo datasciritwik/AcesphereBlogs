@@ -339,6 +339,23 @@
       "word_count": 1165,
       "filepath": "content/posts/2026-01-16-predictive-hiring-dashboard-forecast-talent-needs.md",
       "topic": "Predictive Hiring Dashboard: Forecast Talent Needs"
+    },
+    {
+      "title": "Recruitment Analytics: Predicting Turnover Before It Happens",
+      "slug": "recruitment-analytics-predicting-turnover-before-it-happens",
+      "description": "# Recruitment Analytics: Predicting Turnover Before It Happens\n\nIn today\u2019s fast\u2011moving talent market, the cost of a bad hire can cripple growth plans....",
+      "pub_date": "2026-01-16",
+      "tags": [],
+      "keywords": [
+        "recruitment analytics",
+        "data-driven hiring decisions",
+        "predictive hiring",
+        "turnover prediction",
+        "hiring best practices"
+      ],
+      "word_count": 1220,
+      "filepath": "content/posts/2026-01-16-recruitment-analytics-predicting-turnover-before-it-happens.md",
+      "topic": "Recruitment Analytics: Predicting Turnover Before It Happens"
     }
   ],
   "topics_used": [
@@ -361,8 +378,9 @@
     "AI-Driven Hiring Funnel Optimization for Faster Hiring",
     "AI Candidate Tracking Software: Boost Hiring Efficiency",
     "Improving Candidate Experience with AI: 5 Proven Tactics",
-    "Predictive Hiring Dashboard: Forecast Talent Needs"
+    "Predictive Hiring Dashboard: Forecast Talent Needs",
+    "Recruitment Analytics: Predicting Turnover Before It Happens"
   ],
   "last_updated": "2026-01-16",
-  "total_posts": 20
+  "total_posts": 21
 }
