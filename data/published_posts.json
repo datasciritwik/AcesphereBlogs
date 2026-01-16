@@ -305,6 +305,23 @@
       "word_count": 1191,
       "filepath": "content/posts/2026-01-15-ai-candidate-tracking-software-boost-hiring-efficiency.md",
       "topic": "AI Candidate Tracking Software: Boost Hiring Efficiency"
+    },
+    {
+      "title": "Improving Candidate Experience with AI: 5 Proven Tactics",
+      "slug": "improving-candidate-experience-with-ai-5-proven-tactics",
+      "description": "# Improving Candidate Experience with AI: 5 Proven Tactics  \n\nIn today\u2019s talent\u2011driven market, a smooth, respectful, and transparent hiring journey ca...",
+      "pub_date": "2026-01-16",
+      "tags": [],
+      "keywords": [
+        "improving candidate experience with AI",
+        "candidate follow-up automation",
+        "smart hiring tools",
+        "AI interview assessment",
+        "inclusive hiring"
+      ],
+      "word_count": 1139,
+      "filepath": "content/posts/2026-01-16-improving-candidate-experience-with-ai-5-proven-tactics.md",
+      "topic": "Improving Candidate Experience with AI: 5 Proven Tactics"
     }
   ],
   "topics_used": [
@@ -325,8 +342,9 @@
     "How a Real-Time Hiring Dashboard Boosts Recruiter Efficiency",
     "Generative AI & Interview Intelligence: 2026 Outlook",
     "AI-Driven Hiring Funnel Optimization for Faster Hiring",
-    "AI Candidate Tracking Software: Boost Hiring Efficiency"
+    "AI Candidate Tracking Software: Boost Hiring Efficiency",
+    "Improving Candidate Experience with AI: 5 Proven Tactics"
   ],
-  "last_updated": "2026-01-15",
-  "total_posts": 18
+  "last_updated": "2026-01-16",
+  "total_posts": 19
 }
