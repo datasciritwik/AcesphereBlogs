@@ -322,6 +322,23 @@
       "word_count": 1139,
       "filepath": "content/posts/2026-01-16-improving-candidate-experience-with-ai-5-proven-tactics.md",
       "topic": "Improving Candidate Experience with AI: 5 Proven Tactics"
+    },
+    {
+      "title": "Predictive Hiring Dashboard: Forecast Talent Needs",
+      "slug": "predictive-hiring-dashboard-forecast-talent-needs",
+      "description": "# Predictive Hiring Dashboard: Forecast Talent Needs\n\nIn fast\u2011moving startups, every hiring decision ripples through product roadmaps, funding rounds,...",
+      "pub_date": "2026-01-16",
+      "tags": [],
+      "keywords": [
+        "hiring dashboard",
+        "AI recruitment",
+        "scaling hiring with automation",
+        "recruitment analytics",
+        "future of hiring"
+      ],
+      "word_count": 1165,
+      "filepath": "content/posts/2026-01-16-predictive-hiring-dashboard-forecast-talent-needs.md",
+      "topic": "Predictive Hiring Dashboard: Forecast Talent Needs"
     }
   ],
   "topics_used": [
@@ -343,8 +360,9 @@
     "Generative AI & Interview Intelligence: 2026 Outlook",
     "AI-Driven Hiring Funnel Optimization for Faster Hiring",
     "AI Candidate Tracking Software: Boost Hiring Efficiency",
-    "Improving Candidate Experience with AI: 5 Proven Tactics"
+    "Improving Candidate Experience with AI: 5 Proven Tactics",
+    "Predictive Hiring Dashboard: Forecast Talent Needs"
   ],
   "last_updated": "2026-01-16",
-  "total_posts": 19
+  "total_posts": 20
 }
