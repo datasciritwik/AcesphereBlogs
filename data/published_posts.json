@@ -373,6 +373,23 @@
       "word_count": 1206,
       "filepath": "content/posts/2026-01-17-ai-onboarding-accelerate-new-hire-productivity.md",
       "topic": "AI Onboarding: Accelerate New Hire Productivity"
+    },
+    {
+      "title": "Boost Remote Hiring with Video Interview AI for Soft Skills",
+      "slug": "boost-remote-hiring-with-video-interview-ai-for-soft-skills",
+      "description": "# Boost Remote Hiring with Video Interview AI for Soft Skills  \n\nIn today\u2019s distributed workforce, hiring the right talent means looking beyond techni...",
+      "pub_date": "2026-01-17",
+      "tags": [],
+      "keywords": [
+        "video interview AI",
+        "soft skill assessment",
+        "remote hiring",
+        "AI talent acquisition",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1115,
+      "filepath": "content/posts/2026-01-17-boost-remote-hiring-with-video-interview-ai-for-soft-skills.md",
+      "topic": "Boost Remote Hiring with Video Interview AI for Soft Skills"
     }
   ],
   "topics_used": [
@@ -397,8 +414,9 @@
     "Improving Candidate Experience with AI: 5 Proven Tactics",
     "Predictive Hiring Dashboard: Forecast Talent Needs",
     "Recruitment Analytics: Predicting Turnover Before It Happens",
-    "AI Onboarding: Accelerate New Hire Productivity"
+    "AI Onboarding: Accelerate New Hire Productivity",
+    "Boost Remote Hiring with Video Interview AI for Soft Skills"
   ],
   "last_updated": "2026-01-17",
-  "total_posts": 22
+  "total_posts": 23
 }
