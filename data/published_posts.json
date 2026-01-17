@@ -356,6 +356,23 @@
       "word_count": 1220,
       "filepath": "content/posts/2026-01-16-recruitment-analytics-predicting-turnover-before-it-happens.md",
       "topic": "Recruitment Analytics: Predicting Turnover Before It Happens"
+    },
+    {
+      "title": "AI Onboarding: Accelerate New Hire Productivity",
+      "slug": "ai-onboarding-accelerate-new-hire-productivity",
+      "description": "# AI Onboarding: Accelerate New Hire Productivity  \n\nIn today\u2019s fast\u2011moving talent market, the first weeks on the job are a decisive period for both t...",
+      "pub_date": "2026-01-17",
+      "tags": [],
+      "keywords": [
+        "AI onboarding",
+        "automated hiring",
+        "future of recruitment",
+        "candidate experience",
+        "recruiter productivity"
+      ],
+      "word_count": 1206,
+      "filepath": "content/posts/2026-01-17-ai-onboarding-accelerate-new-hire-productivity.md",
+      "topic": "AI Onboarding: Accelerate New Hire Productivity"
     }
   ],
   "topics_used": [
@@ -379,8 +396,9 @@
     "AI Candidate Tracking Software: Boost Hiring Efficiency",
     "Improving Candidate Experience with AI: 5 Proven Tactics",
     "Predictive Hiring Dashboard: Forecast Talent Needs",
-    "Recruitment Analytics: Predicting Turnover Before It Happens"
+    "Recruitment Analytics: Predicting Turnover Before It Happens",
+    "AI Onboarding: Accelerate New Hire Productivity"
   ],
-  "last_updated": "2026-01-16",
-  "total_posts": 21
+  "last_updated": "2026-01-17",
+  "total_posts": 22
 }
