@@ -407,6 +407,23 @@
       "word_count": 1169,
       "filepath": "content/posts/2026-01-17-ai-powered-skill-evaluation-boost-hiring-accuracy.md",
       "topic": "AI-Powered Skill Evaluation: Boost Hiring Accuracy"
+    },
+    {
+      "title": "Smart Hiring Tools: Mapping Future Skill Gaps with AI",
+      "slug": "smart-hiring-tools-mapping-future-skill-gaps-with-ai",
+      "description": "# Smart Hiring Tools: Mapping Future Skill Gaps with AI\n\nStartups that can see the talent they\u2019ll need\u202f\u2014\u202fand when they\u2019ll need it\u202f\u2014\u202fgain a decisive ed...",
+      "pub_date": "2026-01-18",
+      "tags": [],
+      "keywords": [
+        "smart hiring tools",
+        "AI hiring for startups",
+        "data-driven hiring decisions",
+        "hiring funnel optimization",
+        "future of work"
+      ],
+      "word_count": 1289,
+      "filepath": "content/posts/2026-01-18-smart-hiring-tools-mapping-future-skill-gaps-with-ai.md",
+      "topic": "Smart Hiring Tools: Mapping Future Skill Gaps with AI"
     }
   ],
   "topics_used": [
@@ -433,8 +450,9 @@
     "Recruitment Analytics: Predicting Turnover Before It Happens",
     "AI Onboarding: Accelerate New Hire Productivity",
     "Boost Remote Hiring with Video Interview AI for Soft Skills",
-    "AI-Powered Skill Evaluation: Boost Hiring Accuracy"
+    "AI-Powered Skill Evaluation: Boost Hiring Accuracy",
+    "Smart Hiring Tools: Mapping Future Skill Gaps with AI"
   ],
-  "last_updated": "2026-01-17",
-  "total_posts": 24
+  "last_updated": "2026-01-18",
+  "total_posts": 25
 }
