@@ -424,6 +424,23 @@
       "word_count": 1289,
       "filepath": "content/posts/2026-01-18-smart-hiring-tools-mapping-future-skill-gaps-with-ai.md",
       "topic": "Smart Hiring Tools: Mapping Future Skill Gaps with AI"
+    },
+    {
+      "title": "AI Hiring Playbook: Build Candidate Personas Fast",
+      "slug": "ai-hiring-playbook-build-candidate-personas-fast",
+      "description": "# AI Hiring Playbook: Build Candidate Personas Fast\n\nRecruiters at fast\u2011growing startups need a reliable way to understand *who* they\u2019re hiring for, *...",
+      "pub_date": "2026-01-18",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "candidate personas",
+        "recruiter productivity",
+        "hiring automation",
+        "scaling hiring with automation"
+      ],
+      "word_count": 1400,
+      "filepath": "content/posts/2026-01-18-ai-hiring-playbook-build-candidate-personas-fast.md",
+      "topic": "AI Hiring Playbook: Build Candidate Personas Fast"
     }
   ],
   "topics_used": [
@@ -451,8 +468,9 @@
     "AI Onboarding: Accelerate New Hire Productivity",
     "Boost Remote Hiring with Video Interview AI for Soft Skills",
     "AI-Powered Skill Evaluation: Boost Hiring Accuracy",
-    "Smart Hiring Tools: Mapping Future Skill Gaps with AI"
+    "Smart Hiring Tools: Mapping Future Skill Gaps with AI",
+    "AI Hiring Playbook: Build Candidate Personas Fast"
   ],
   "last_updated": "2026-01-18",
-  "total_posts": 25
+  "total_posts": 26
 }
