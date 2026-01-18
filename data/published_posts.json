@@ -441,6 +441,22 @@
       "word_count": 1400,
       "filepath": "content/posts/2026-01-18-ai-hiring-playbook-build-candidate-personas-fast.md",
       "topic": "AI Hiring Playbook: Build Candidate Personas Fast"
+    },
+    {
+      "title": "Recruiter Efficiency Tools: AI Hacks to Cut Hiring Time",
+      "slug": "recruiter-efficiency-tools-ai-hacks-to-cut-hiring-time",
+      "description": "# Recruiter Efficiency Tools: AI Hacks to Cut Hiring Time\n\nIn today\u2019s hyper\u2011competitive talent market, every minute saved in the hiring process transl...",
+      "pub_date": "2026-01-18",
+      "tags": [],
+      "keywords": [
+        "recruiter efficiency tools",
+        "hiring automation",
+        "AI recruitment",
+        "candidate screening automation"
+      ],
+      "word_count": 1201,
+      "filepath": "content/posts/2026-01-18-recruiter-efficiency-tools-ai-hacks-to-cut-hiring-time.md",
+      "topic": "Recruiter Efficiency Tools: AI Hacks to Cut Hiring Time"
     }
   ],
   "topics_used": [
@@ -469,8 +485,9 @@
     "Boost Remote Hiring with Video Interview AI for Soft Skills",
     "AI-Powered Skill Evaluation: Boost Hiring Accuracy",
     "Smart Hiring Tools: Mapping Future Skill Gaps with AI",
-    "AI Hiring Playbook: Build Candidate Personas Fast"
+    "AI Hiring Playbook: Build Candidate Personas Fast",
+    "Recruiter Efficiency Tools: AI Hacks to Cut Hiring Time"
   ],
   "last_updated": "2026-01-18",
-  "total_posts": 26
+  "total_posts": 27
 }
