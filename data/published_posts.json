@@ -457,6 +457,23 @@
       "word_count": 1201,
       "filepath": "content/posts/2026-01-18-recruiter-efficiency-tools-ai-hacks-to-cut-hiring-time.md",
       "topic": "Recruiter Efficiency Tools: AI Hacks to Cut Hiring Time"
+    },
+    {
+      "title": "AI Interview Feedback Loops: Elevating Hiring Quality",
+      "slug": "ai-interview-feedback-loops-elevating-hiring-quality",
+      "description": "# AI Interview Feedback Loops: Elevating Hiring Quality  \n\nIn today\u2019s fast\u2011moving talent market, HR teams need more than a one\u2011off interview assessmen...",
+      "pub_date": "2026-01-19",
+      "tags": [],
+      "keywords": [
+        "AI interview",
+        "recruiter productivity",
+        "automated interviews",
+        "interview intelligence",
+        "continuous hiring improvement"
+      ],
+      "word_count": 1149,
+      "filepath": "content/posts/2026-01-19-ai-interview-feedback-loops-elevating-hiring-quality.md",
+      "topic": "AI Interview Feedback Loops: Elevating Hiring Quality"
     }
   ],
   "topics_used": [
@@ -486,8 +503,9 @@
     "AI-Powered Skill Evaluation: Boost Hiring Accuracy",
     "Smart Hiring Tools: Mapping Future Skill Gaps with AI",
     "AI Hiring Playbook: Build Candidate Personas Fast",
-    "Recruiter Efficiency Tools: AI Hacks to Cut Hiring Time"
+    "Recruiter Efficiency Tools: AI Hacks to Cut Hiring Time",
+    "AI Interview Feedback Loops: Elevating Hiring Quality"
   ],
-  "last_updated": "2026-01-18",
-  "total_posts": 27
+  "last_updated": "2026-01-19",
+  "total_posts": 28
 }
