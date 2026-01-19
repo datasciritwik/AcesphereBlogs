@@ -474,6 +474,22 @@
       "word_count": 1149,
       "filepath": "content/posts/2026-01-19-ai-interview-feedback-loops-elevating-hiring-quality.md",
       "topic": "AI Interview Feedback Loops: Elevating Hiring Quality"
+    },
+    {
+      "title": "AI-Powered Hiring for Gig Workers: Startup Strategies",
+      "slug": "ai-powered-hiring-for-gig-workers-startup-strategies",
+      "description": "# AI-Powered Hiring for Gig Workers: Startup Strategies\n\nHiring gig\u2011economy talent is no longer a fringe activity\u2014it's a core growth engine for startu...",
+      "pub_date": "2026-01-19",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "gig economy hiring",
+        "remote hiring best practices",
+        "AI-driven talent sourcing"
+      ],
+      "word_count": 1081,
+      "filepath": "content/posts/2026-01-19-ai-powered-hiring-for-gig-workers-startup-strategies.md",
+      "topic": "AI-Powered Hiring for Gig Workers: Startup Strategies"
     }
   ],
   "topics_used": [
@@ -504,8 +520,9 @@
     "Smart Hiring Tools: Mapping Future Skill Gaps with AI",
     "AI Hiring Playbook: Build Candidate Personas Fast",
     "Recruiter Efficiency Tools: AI Hacks to Cut Hiring Time",
-    "AI Interview Feedback Loops: Elevating Hiring Quality"
+    "AI Interview Feedback Loops: Elevating Hiring Quality",
+    "AI-Powered Hiring for Gig Workers: Startup Strategies"
   ],
   "last_updated": "2026-01-19",
-  "total_posts": 28
+  "total_posts": 29
 }
