@@ -523,6 +523,23 @@
       "word_count": 1268,
       "filepath": "content/posts/2026-01-20-ai-bias-mitigation-building-trust-in-automated-hiring.md",
       "topic": "AI Bias Mitigation: Building Trust in Automated Hiring"
+    },
+    {
+      "title": "AI Skill Testing: Scaling Remote Soft\u2011Skill Assessment",
+      "slug": "ai-skill-testing-scaling-remote-softskill-assessment",
+      "description": "# AI Skill Testing: Scaling Remote Soft\u2011Skill Assessment\n\nRemote work has turned soft skills\u2014communication, empathy, collaboration\u2014into the linchpin o...",
+      "pub_date": "2026-01-20",
+      "tags": [],
+      "keywords": [
+        "AI skill testing",
+        "remote hiring best practices",
+        "soft skill assessment AI",
+        "automated evaluation",
+        "AI recruitment"
+      ],
+      "word_count": 1157,
+      "filepath": "content/posts/2026-01-20-ai-skill-testing-scaling-remote-softskill-assessment.md",
+      "topic": "AI Skill Testing: Scaling Remote Soft\u2011Skill Assessment"
     }
   ],
   "topics_used": [
@@ -556,8 +573,9 @@
     "AI Interview Feedback Loops: Elevating Hiring Quality",
     "AI-Powered Hiring for Gig Workers: Startup Strategies",
     "AI-Driven Workforce Planning: Harness Hiring Automation",
-    "AI Bias Mitigation: Building Trust in Automated Hiring"
+    "AI Bias Mitigation: Building Trust in Automated Hiring",
+    "AI Skill Testing: Scaling Remote Soft\u2011Skill Assessment"
   ],
   "last_updated": "2026-01-20",
-  "total_posts": 31
+  "total_posts": 32
 }
