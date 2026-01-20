@@ -507,6 +507,22 @@
       "word_count": 1182,
       "filepath": "content/posts/2026-01-20-ai-driven-workforce-planning-harness-hiring-automation.md",
       "topic": "AI-Driven Workforce Planning: Harness Hiring Automation"
+    },
+    {
+      "title": "AI Bias Mitigation: Building Trust in Automated Hiring",
+      "slug": "ai-bias-mitigation-building-trust-in-automated-hiring",
+      "description": "# AI Bias Mitigation: Building Trust in Automated Hiring\n\nRecruiters at scaling startups need more than a fast hiring pipeline\u2014they need confidence th...",
+      "pub_date": "2026-01-20",
+      "tags": [],
+      "keywords": [
+        "AI bias mitigation",
+        "recruiter productivity",
+        "hiring pipeline management",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1268,
+      "filepath": "content/posts/2026-01-20-ai-bias-mitigation-building-trust-in-automated-hiring.md",
+      "topic": "AI Bias Mitigation: Building Trust in Automated Hiring"
     }
   ],
   "topics_used": [
@@ -539,8 +555,9 @@
     "Recruiter Efficiency Tools: AI Hacks to Cut Hiring Time",
     "AI Interview Feedback Loops: Elevating Hiring Quality",
     "AI-Powered Hiring for Gig Workers: Startup Strategies",
-    "AI-Driven Workforce Planning: Harness Hiring Automation"
+    "AI-Driven Workforce Planning: Harness Hiring Automation",
+    "AI Bias Mitigation: Building Trust in Automated Hiring"
   ],
   "last_updated": "2026-01-20",
-  "total_posts": 30
+  "total_posts": 31
 }
