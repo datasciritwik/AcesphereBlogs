@@ -490,6 +490,23 @@
       "word_count": 1081,
       "filepath": "content/posts/2026-01-19-ai-powered-hiring-for-gig-workers-startup-strategies.md",
       "topic": "AI-Powered Hiring for Gig Workers: Startup Strategies"
+    },
+    {
+      "title": "AI-Driven Workforce Planning: Harness Hiring Automation",
+      "slug": "ai-driven-workforce-planning-harness-hiring-automation",
+      "description": "# AI-Driven Workforce Planning: Harness Hiring Automation\n\nScaling a startup isn\u2019t just about adding headcount faster\u2014it\u2019s about adding the **right**...",
+      "pub_date": "2026-01-20",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "AI talent acquisition",
+        "workforce planning",
+        "smart hiring tools",
+        "future of recruitment"
+      ],
+      "word_count": 1182,
+      "filepath": "content/posts/2026-01-20-ai-driven-workforce-planning-harness-hiring-automation.md",
+      "topic": "AI-Driven Workforce Planning: Harness Hiring Automation"
     }
   ],
   "topics_used": [
@@ -521,8 +538,9 @@
     "AI Hiring Playbook: Build Candidate Personas Fast",
     "Recruiter Efficiency Tools: AI Hacks to Cut Hiring Time",
     "AI Interview Feedback Loops: Elevating Hiring Quality",
-    "AI-Powered Hiring for Gig Workers: Startup Strategies"
+    "AI-Powered Hiring for Gig Workers: Startup Strategies",
+    "AI-Driven Workforce Planning: Harness Hiring Automation"
   ],
-  "last_updated": "2026-01-19",
-  "total_posts": 29
+  "last_updated": "2026-01-20",
+  "total_posts": 30
 }
