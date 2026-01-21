@@ -557,6 +557,23 @@
       "word_count": 1208,
       "filepath": "content/posts/2026-01-21-ai-coding-interviews-scaling-technical-hiring-for-startups.md",
       "topic": "AI Coding Interviews: Scaling Technical Hiring for Startups"
+    },
+    {
+      "title": "AI-Driven Competency Assessment for Future-Ready Teams",
+      "slug": "ai-driven-competency-assessment-for-future-ready-teams",
+      "description": "# AI-Driven Competency Assessment for Future-Ready Teams  \n\nIn today\u2019s hyper\u2011competitive talent market, the ability to **identify, measure, and develo...",
+      "pub_date": "2026-01-21",
+      "tags": [],
+      "keywords": [
+        "competency assessment",
+        "AI skill testing",
+        "hiring technology",
+        "HR tech trends 2026",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1218,
+      "filepath": "content/posts/2026-01-21-ai-driven-competency-assessment-for-future-ready-teams.md",
+      "topic": "AI-Driven Competency Assessment for Future-Ready Teams"
     }
   ],
   "topics_used": [
@@ -592,8 +609,9 @@
     "AI-Driven Workforce Planning: Harness Hiring Automation",
     "AI Bias Mitigation: Building Trust in Automated Hiring",
     "AI Skill Testing: Scaling Remote Soft\u2011Skill Assessment",
-    "AI Coding Interviews: Scaling Technical Hiring for Startups"
+    "AI Coding Interviews: Scaling Technical Hiring for Startups",
+    "AI-Driven Competency Assessment for Future-Ready Teams"
   ],
   "last_updated": "2026-01-21",
-  "total_posts": 33
+  "total_posts": 34
 }
