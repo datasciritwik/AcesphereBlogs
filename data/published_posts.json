@@ -574,6 +574,23 @@
       "word_count": 1218,
       "filepath": "content/posts/2026-01-21-ai-driven-competency-assessment-for-future-ready-teams.md",
       "topic": "AI-Driven Competency Assessment for Future-Ready Teams"
+    },
+    {
+      "title": "Choosing the Best Virtual Interview AI for Your Startup",
+      "slug": "choosing-the-best-virtual-interview-ai-for-your-startup",
+      "description": "# Choosing the Best Virtual Interview AI for Your Startup\n\nHiring at a fast\u2011growing startup is a race against time, talent, and budget. Selecting the...",
+      "pub_date": "2026-01-21",
+      "tags": [],
+      "keywords": [
+        "virtual interview AI",
+        "AI interviews",
+        "AI hiring for startups",
+        "interview intelligence",
+        "recruiter productivity"
+      ],
+      "word_count": 1383,
+      "filepath": "content/posts/2026-01-21-choosing-the-best-virtual-interview-ai-for-your-startup.md",
+      "topic": "Choosing the Best Virtual Interview AI for Your Startup"
     }
   ],
   "topics_used": [
@@ -610,8 +627,9 @@
     "AI Bias Mitigation: Building Trust in Automated Hiring",
     "AI Skill Testing: Scaling Remote Soft\u2011Skill Assessment",
     "AI Coding Interviews: Scaling Technical Hiring for Startups",
-    "AI-Driven Competency Assessment for Future-Ready Teams"
+    "AI-Driven Competency Assessment for Future-Ready Teams",
+    "Choosing the Best Virtual Interview AI for Your Startup"
   ],
   "last_updated": "2026-01-21",
-  "total_posts": 34
+  "total_posts": 35
 }
