@@ -540,6 +540,23 @@
       "word_count": 1157,
       "filepath": "content/posts/2026-01-20-ai-skill-testing-scaling-remote-softskill-assessment.md",
       "topic": "AI Skill Testing: Scaling Remote Soft\u2011Skill Assessment"
+    },
+    {
+      "title": "AI Coding Interviews: Scaling Technical Hiring for Startups",
+      "slug": "ai-coding-interviews-scaling-technical-hiring-for-startups",
+      "description": "# AI Coding Interviews: Scaling Technical Hiring for Startups\n\nStartups need to move fast, but hiring the right engineers often feels like a bottlenec...",
+      "pub_date": "2026-01-21",
+      "tags": [],
+      "keywords": [
+        "AI coding interviews",
+        "skill-based screening",
+        "recruiter productivity tips",
+        "automated candidate screening",
+        "smart hiring tools"
+      ],
+      "word_count": 1208,
+      "filepath": "content/posts/2026-01-21-ai-coding-interviews-scaling-technical-hiring-for-startups.md",
+      "topic": "AI Coding Interviews: Scaling Technical Hiring for Startups"
     }
   ],
   "topics_used": [
@@ -574,8 +591,9 @@
     "AI-Powered Hiring for Gig Workers: Startup Strategies",
     "AI-Driven Workforce Planning: Harness Hiring Automation",
     "AI Bias Mitigation: Building Trust in Automated Hiring",
-    "AI Skill Testing: Scaling Remote Soft\u2011Skill Assessment"
+    "AI Skill Testing: Scaling Remote Soft\u2011Skill Assessment",
+    "AI Coding Interviews: Scaling Technical Hiring for Startups"
   ],
-  "last_updated": "2026-01-20",
-  "total_posts": 32
+  "last_updated": "2026-01-21",
+  "total_posts": 33
 }
