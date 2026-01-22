@@ -608,6 +608,23 @@
       "word_count": 1067,
       "filepath": "content/posts/2026-01-22-predictive-hiring-with-ai-forecast-talent-gaps-today.md",
       "topic": "Predictive Hiring with AI: Forecast Talent Gaps Today"
+    },
+    {
+      "title": "AI-Enhanced Remote Hiring Best Practices for Startups",
+      "slug": "ai-enhanced-remote-hiring-best-practices-for-startups",
+      "description": "# AI-Enhanced Remote Hiring Best Practices for Startups\n\nIn today\u2019s hyper\u2011competitive talent market, fast\u2011growing startups need a hiring playbook that...",
+      "pub_date": "2026-01-22",
+      "tags": [],
+      "keywords": [
+        "remote hiring best practices",
+        "AI recruitment",
+        "hiring workflow",
+        "startup hiring",
+        "HR tech trends 2026"
+      ],
+      "word_count": 1066,
+      "filepath": "content/posts/2026-01-22-ai-enhanced-remote-hiring-best-practices-for-startups.md",
+      "topic": "AI-Enhanced Remote Hiring Best Practices for Startups"
     }
   ],
   "topics_used": [
@@ -646,8 +663,9 @@
     "AI Coding Interviews: Scaling Technical Hiring for Startups",
     "AI-Driven Competency Assessment for Future-Ready Teams",
     "Choosing the Best Virtual Interview AI for Your Startup",
-    "Predictive Hiring with AI: Forecast Talent Gaps Today"
+    "Predictive Hiring with AI: Forecast Talent Gaps Today",
+    "AI-Enhanced Remote Hiring Best Practices for Startups"
   ],
   "last_updated": "2026-01-22",
-  "total_posts": 36
+  "total_posts": 37
 }
