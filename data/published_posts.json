@@ -625,6 +625,23 @@
       "word_count": 1066,
       "filepath": "content/posts/2026-01-22-ai-enhanced-remote-hiring-best-practices-for-startups.md",
       "topic": "AI-Enhanced Remote Hiring Best Practices for Startups"
+    },
+    {
+      "title": "AI-Powered Hiring Metrics: Measure Recruiter ROI",
+      "slug": "ai-powered-hiring-metrics-measure-recruiter-roi",
+      "description": "# AI-Powered Hiring Metrics: Measure Recruiter ROI  \n\nRecruiters today are asked to do more with less\u2014fill roles faster, improve quality, and keep hir...",
+      "pub_date": "2026-01-22",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "recruiter productivity tips",
+        "hiring metrics",
+        "data-driven hiring decisions",
+        "hiring best practices"
+      ],
+      "word_count": 1340,
+      "filepath": "content/posts/2026-01-22-ai-powered-hiring-metrics-measure-recruiter-roi.md",
+      "topic": "AI-Powered Hiring Metrics: Measure Recruiter ROI"
     }
   ],
   "topics_used": [
@@ -664,8 +681,9 @@
     "AI-Driven Competency Assessment for Future-Ready Teams",
     "Choosing the Best Virtual Interview AI for Your Startup",
     "Predictive Hiring with AI: Forecast Talent Gaps Today",
-    "AI-Enhanced Remote Hiring Best Practices for Startups"
+    "AI-Enhanced Remote Hiring Best Practices for Startups",
+    "AI-Powered Hiring Metrics: Measure Recruiter ROI"
   ],
   "last_updated": "2026-01-22",
-  "total_posts": 37
+  "total_posts": 38
 }
