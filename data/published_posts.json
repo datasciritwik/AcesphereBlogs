@@ -591,6 +591,23 @@
       "word_count": 1383,
       "filepath": "content/posts/2026-01-21-choosing-the-best-virtual-interview-ai-for-your-startup.md",
       "topic": "Choosing the Best Virtual Interview AI for Your Startup"
+    },
+    {
+      "title": "Predictive Hiring with AI: Forecast Talent Gaps Today",
+      "slug": "predictive-hiring-with-ai-forecast-talent-gaps-today",
+      "description": "# Predictive Hiring with AI: Forecast Talent Gaps Today\n\nHR teams that can anticipate skill shortages before they cripple projects turn hiring from a...",
+      "pub_date": "2026-01-22",
+      "tags": [],
+      "keywords": [
+        "predictive hiring",
+        "talent gap forecasting",
+        "AI hiring",
+        "data-driven hiring decisions",
+        "future of hiring"
+      ],
+      "word_count": 1067,
+      "filepath": "content/posts/2026-01-22-predictive-hiring-with-ai-forecast-talent-gaps-today.md",
+      "topic": "Predictive Hiring with AI: Forecast Talent Gaps Today"
     }
   ],
   "topics_used": [
@@ -628,8 +645,9 @@
     "AI Skill Testing: Scaling Remote Soft\u2011Skill Assessment",
     "AI Coding Interviews: Scaling Technical Hiring for Startups",
     "AI-Driven Competency Assessment for Future-Ready Teams",
-    "Choosing the Best Virtual Interview AI for Your Startup"
+    "Choosing the Best Virtual Interview AI for Your Startup",
+    "Predictive Hiring with AI: Forecast Talent Gaps Today"
   ],
-  "last_updated": "2026-01-21",
-  "total_posts": 35
+  "last_updated": "2026-01-22",
+  "total_posts": 36
 }
