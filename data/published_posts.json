@@ -658,6 +658,23 @@
       "word_count": 1212,
       "filepath": "content/posts/2026-01-23-hiring-automation-for-compliance-ai-meets-eeoc-gdpr.md",
       "topic": "Hiring Automation for Compliance: AI Meets EEOC & GDPR"
+    },
+    {
+      "title": "AI-Powered Hiring: Personalize Outreach to Boost Acceptance",
+      "slug": "ai-powered-hiring-personalize-outreach-to-boost-acceptance",
+      "description": "# AI-Powered Hiring: Personalize Outreach to Boost Acceptance\n\nIn today\u2019s competitive talent market, the difference between a filled role and a vacant...",
+      "pub_date": "2026-01-23",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "candidate outreach automation",
+        "offer acceptance rate",
+        "personalized recruiting",
+        "recruiter productivity tips"
+      ],
+      "word_count": 1078,
+      "filepath": "content/posts/2026-01-23-ai-powered-hiring-personalize-outreach-to-boost-acceptance.md",
+      "topic": "AI-Powered Hiring: Personalize Outreach to Boost Acceptance"
     }
   ],
   "topics_used": [
@@ -699,8 +716,9 @@
     "Predictive Hiring with AI: Forecast Talent Gaps Today",
     "AI-Enhanced Remote Hiring Best Practices for Startups",
     "AI-Powered Hiring Metrics: Measure Recruiter ROI",
-    "Hiring Automation for Compliance: AI Meets EEOC & GDPR"
+    "Hiring Automation for Compliance: AI Meets EEOC & GDPR",
+    "AI-Powered Hiring: Personalize Outreach to Boost Acceptance"
   ],
   "last_updated": "2026-01-23",
-  "total_posts": 39
+  "total_posts": 40
 }
