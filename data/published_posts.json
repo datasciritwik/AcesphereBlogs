@@ -642,6 +642,22 @@
       "word_count": 1340,
       "filepath": "content/posts/2026-01-22-ai-powered-hiring-metrics-measure-recruiter-roi.md",
       "topic": "AI-Powered Hiring Metrics: Measure Recruiter ROI"
+    },
+    {
+      "title": "Hiring Automation for Compliance: AI Meets EEOC & GDPR",
+      "slug": "hiring-automation-for-compliance-ai-meets-eeoc-gdpr",
+      "description": "# Hiring Automation for Compliance: AI Meets EEOC & GDPR  \n\nIn today\u2019s data\u2011driven talent market, HR teams need more than speed\u2014they need certainty th...",
+      "pub_date": "2026-01-23",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "candidate screening automation",
+        "recruiter productivity",
+        "AI vs traditional hiring methods"
+      ],
+      "word_count": 1212,
+      "filepath": "content/posts/2026-01-23-hiring-automation-for-compliance-ai-meets-eeoc-gdpr.md",
+      "topic": "Hiring Automation for Compliance: AI Meets EEOC & GDPR"
     }
   ],
   "topics_used": [
@@ -682,8 +698,9 @@
     "Choosing the Best Virtual Interview AI for Your Startup",
     "Predictive Hiring with AI: Forecast Talent Gaps Today",
     "AI-Enhanced Remote Hiring Best Practices for Startups",
-    "AI-Powered Hiring Metrics: Measure Recruiter ROI"
+    "AI-Powered Hiring Metrics: Measure Recruiter ROI",
+    "Hiring Automation for Compliance: AI Meets EEOC & GDPR"
   ],
-  "last_updated": "2026-01-22",
-  "total_posts": 38
+  "last_updated": "2026-01-23",
+  "total_posts": 39
 }
