@@ -675,6 +675,22 @@
       "word_count": 1078,
       "filepath": "content/posts/2026-01-23-ai-powered-hiring-personalize-outreach-to-boost-acceptance.md",
       "topic": "AI-Powered Hiring: Personalize Outreach to Boost Acceptance"
+    },
+    {
+      "title": "AI Hiring for Startups: Build Scalable Talent Pipelines",
+      "slug": "ai-hiring-for-startups-build-scalable-talent-pipelines",
+      "description": "# AI Hiring for Startups: Build Scalable Talent Pipelines\n\nStartups move fast, and their hiring must keep pace without draining the limited recruiting...",
+      "pub_date": "2026-01-23",
+      "tags": [],
+      "keywords": [
+        "AI hiring for startups",
+        "candidate screening automation",
+        "recruiter productivity",
+        "hiring technology"
+      ],
+      "word_count": 997,
+      "filepath": "content/posts/2026-01-23-ai-hiring-for-startups-build-scalable-talent-pipelines.md",
+      "topic": "AI Hiring for Startups: Build Scalable Talent Pipelines"
     }
   ],
   "topics_used": [
@@ -717,8 +733,9 @@
     "AI-Enhanced Remote Hiring Best Practices for Startups",
     "AI-Powered Hiring Metrics: Measure Recruiter ROI",
     "Hiring Automation for Compliance: AI Meets EEOC & GDPR",
-    "AI-Powered Hiring: Personalize Outreach to Boost Acceptance"
+    "AI-Powered Hiring: Personalize Outreach to Boost Acceptance",
+    "AI Hiring for Startups: Build Scalable Talent Pipelines"
   ],
   "last_updated": "2026-01-23",
-  "total_posts": 40
+  "total_posts": 41
 }
