@@ -691,6 +691,23 @@
       "word_count": 997,
       "filepath": "content/posts/2026-01-23-ai-hiring-for-startups-build-scalable-talent-pipelines.md",
       "topic": "AI Hiring for Startups: Build Scalable Talent Pipelines"
+    },
+    {
+      "title": "AI Hiring Forecasts: Taming Seasonal Hiring Surges",
+      "slug": "ai-hiring-forecasts-taming-seasonal-hiring-surges",
+      "description": "# AI Hiring Forecasts: Taming Seasonal Hiring Surges\n\nMid\u2011sized companies often scramble when a seasonal hiring wave hits, losing time, money, and tal...",
+      "pub_date": "2026-01-24",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "predictive hiring",
+        "seasonal hiring",
+        "recruitment analytics",
+        "hiring automation"
+      ],
+      "word_count": 1236,
+      "filepath": "content/posts/2026-01-24-ai-hiring-forecasts-taming-seasonal-hiring-surges.md",
+      "topic": "AI Hiring Forecasts: Taming Seasonal Hiring Surges"
     }
   ],
   "topics_used": [
@@ -734,8 +751,9 @@
     "AI-Powered Hiring Metrics: Measure Recruiter ROI",
     "Hiring Automation for Compliance: AI Meets EEOC & GDPR",
     "AI-Powered Hiring: Personalize Outreach to Boost Acceptance",
-    "AI Hiring for Startups: Build Scalable Talent Pipelines"
+    "AI Hiring for Startups: Build Scalable Talent Pipelines",
+    "AI Hiring Forecasts: Taming Seasonal Hiring Surges"
   ],
-  "last_updated": "2026-01-23",
-  "total_posts": 41
+  "last_updated": "2026-01-24",
+  "total_posts": 42
 }
