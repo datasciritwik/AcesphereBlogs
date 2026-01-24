@@ -708,6 +708,23 @@
       "word_count": 1236,
       "filepath": "content/posts/2026-01-24-ai-hiring-forecasts-taming-seasonal-hiring-surges.md",
       "topic": "AI Hiring Forecasts: Taming Seasonal Hiring Surges"
+    },
+    {
+      "title": "AI Talent Acquisition: Elevate Your Employer Brand",
+      "slug": "ai-talent-acquisition-elevate-your-employer-brand",
+      "description": "# AI Talent Acquisition: Elevate Your Employer Brand  \n\nIn today\u2019s competitive talent market, a strong employer brand is no longer a nice\u2011to\u2011have\u2014it\u2019s...",
+      "pub_date": "2026-01-24",
+      "tags": [],
+      "keywords": [
+        "AI talent acquisition",
+        "employer branding",
+        "candidate experience",
+        "recruitment workflow",
+        "bias-free hiring"
+      ],
+      "word_count": 1082,
+      "filepath": "content/posts/2026-01-24-ai-talent-acquisition-elevate-your-employer-brand.md",
+      "topic": "AI Talent Acquisition: Elevate Your Employer Brand"
     }
   ],
   "topics_used": [
@@ -752,8 +769,9 @@
     "Hiring Automation for Compliance: AI Meets EEOC & GDPR",
     "AI-Powered Hiring: Personalize Outreach to Boost Acceptance",
     "AI Hiring for Startups: Build Scalable Talent Pipelines",
-    "AI Hiring Forecasts: Taming Seasonal Hiring Surges"
+    "AI Hiring Forecasts: Taming Seasonal Hiring Surges",
+    "AI Talent Acquisition: Elevate Your Employer Brand"
   ],
   "last_updated": "2026-01-24",
-  "total_posts": 42
+  "total_posts": 43
 }
