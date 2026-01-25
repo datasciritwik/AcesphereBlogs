@@ -725,6 +725,23 @@
       "word_count": 1082,
       "filepath": "content/posts/2026-01-24-ai-talent-acquisition-elevate-your-employer-brand.md",
       "topic": "AI Talent Acquisition: Elevate Your Employer Brand"
+    },
+    {
+      "title": "AI Hiring Platform: Measuring DEI Impact in Real Time",
+      "slug": "ai-hiring-platform-measuring-dei-impact-in-real-time",
+      "description": "# AI Hiring Platform: Measuring DEI Impact in Real Time  \n\nRecruiters and HR teams are under pressure to prove that diversity, equity, and inclusion (...",
+      "pub_date": "2026-01-25",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "DEI hiring metrics",
+        "data-driven hiring",
+        "recruiter productivity tips",
+        "future of hiring"
+      ],
+      "word_count": 1443,
+      "filepath": "content/posts/2026-01-25-ai-hiring-platform-measuring-dei-impact-in-real-time.md",
+      "topic": "AI Hiring Platform: Measuring DEI Impact in Real Time"
     }
   ],
   "topics_used": [
@@ -770,8 +787,9 @@
     "AI-Powered Hiring: Personalize Outreach to Boost Acceptance",
     "AI Hiring for Startups: Build Scalable Talent Pipelines",
     "AI Hiring Forecasts: Taming Seasonal Hiring Surges",
-    "AI Talent Acquisition: Elevate Your Employer Brand"
+    "AI Talent Acquisition: Elevate Your Employer Brand",
+    "AI Hiring Platform: Measuring DEI Impact in Real Time"
   ],
-  "last_updated": "2026-01-24",
-  "total_posts": 43
+  "last_updated": "2026-01-25",
+  "total_posts": 44
 }
