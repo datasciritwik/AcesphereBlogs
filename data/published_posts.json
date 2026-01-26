@@ -742,6 +742,23 @@
       "word_count": 1443,
       "filepath": "content/posts/2026-01-25-ai-hiring-platform-measuring-dei-impact-in-real-time.md",
       "topic": "AI Hiring Platform: Measuring DEI Impact in Real Time"
+    },
+    {
+      "title": "AI Skill Gap Forecasting: Hire for Tomorrow's Needs",
+      "slug": "ai-skill-gap-forecasting-hire-for-tomorrows-needs",
+      "description": "# AI Skill Gap Forecasting: Hire for Tomorrow's Needs\n\nIn today\u2019s fast\u2011moving talent market, waiting for a vacancy to open before you start searching...",
+      "pub_date": "2026-01-26",
+      "tags": [],
+      "keywords": [
+        "skill evaluation",
+        "AI-powered hiring",
+        "data-driven hiring decisions",
+        "future of work",
+        "hiring automation"
+      ],
+      "word_count": 1347,
+      "filepath": "content/posts/2026-01-26-ai-skill-gap-forecasting-hire-for-tomorrows-needs.md",
+      "topic": "AI Skill Gap Forecasting: Hire for Tomorrow's Needs"
     }
   ],
   "topics_used": [
@@ -788,8 +805,9 @@
     "AI Hiring for Startups: Build Scalable Talent Pipelines",
     "AI Hiring Forecasts: Taming Seasonal Hiring Surges",
     "AI Talent Acquisition: Elevate Your Employer Brand",
-    "AI Hiring Platform: Measuring DEI Impact in Real Time"
+    "AI Hiring Platform: Measuring DEI Impact in Real Time",
+    "AI Skill Gap Forecasting: Hire for Tomorrow's Needs"
   ],
-  "last_updated": "2026-01-25",
-  "total_posts": 44
+  "last_updated": "2026-01-26",
+  "total_posts": 45
 }
