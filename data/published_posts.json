@@ -775,6 +775,23 @@
       "word_count": 1375,
       "filepath": "content/posts/2026-01-26-automated-scheduling-secrets-cut-30-more-time-from-hiring.md",
       "topic": "Automated Scheduling Secrets: Cut 30% More Time from Hiring"
+    },
+    {
+      "title": "Data-Driven Hiring Playbook: Turn Metrics into Action",
+      "slug": "data-driven-hiring-playbook-turn-metrics-into-action",
+      "description": "# Data\u2011Driven Hiring Playbook: Turn Metrics into Action  \n\nIn today\u2019s competitive talent market, **data\u2011driven hiring decisions** are no longer a nice...",
+      "pub_date": "2026-01-26",
+      "tags": [],
+      "keywords": [
+        "data-driven hiring decisions",
+        "hiring dashboard",
+        "AI hiring",
+        "recruiter productivity",
+        "hiring ROI"
+      ],
+      "word_count": 1242,
+      "filepath": "content/posts/2026-01-26-data-driven-hiring-playbook-turn-metrics-into-action.md",
+      "topic": "Data-Driven Hiring Playbook: Turn Metrics into Action"
     }
   ],
   "topics_used": [
@@ -823,8 +840,9 @@
     "AI Talent Acquisition: Elevate Your Employer Brand",
     "AI Hiring Platform: Measuring DEI Impact in Real Time",
     "AI Skill Gap Forecasting: Hire for Tomorrow's Needs",
-    "Automated Scheduling Secrets: Cut 30% More Time from Hiring"
+    "Automated Scheduling Secrets: Cut 30% More Time from Hiring",
+    "Data-Driven Hiring Playbook: Turn Metrics into Action"
   ],
   "last_updated": "2026-01-26",
-  "total_posts": 46
+  "total_posts": 47
 }
