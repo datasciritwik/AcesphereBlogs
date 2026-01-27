@@ -826,6 +826,23 @@
       "word_count": 1136,
       "filepath": "content/posts/2026-01-27-ai-recruiter-efficiency-tools-scaling-remote-teams-fast.md",
       "topic": "AI Recruiter Efficiency Tools: Scaling Remote Teams Fast"
+    },
+    {
+      "title": "AI-Powered Hiring: Unlocking Passive Talent Pools",
+      "slug": "ai-powered-hiring-unlocking-passive-talent-pools",
+      "description": "# AI-Powered Hiring: Unlocking Passive Talent Pools\n\nIn today\u2019s hyper\u2011competitive talent market, the best candidates are often not actively looking fo...",
+      "pub_date": "2026-01-27",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "passive candidate sourcing",
+        "automated candidate outreach",
+        "recruiter productivity",
+        "talent intelligence"
+      ],
+      "word_count": 1203,
+      "filepath": "content/posts/2026-01-27-ai-powered-hiring-unlocking-passive-talent-pools.md",
+      "topic": "AI-Powered Hiring: Unlocking Passive Talent Pools"
     }
   ],
   "topics_used": [
@@ -877,8 +894,9 @@
     "Automated Scheduling Secrets: Cut 30% More Time from Hiring",
     "Data-Driven Hiring Playbook: Turn Metrics into Action",
     "Next\u2011Gen Hiring: How AI Boosts Recruiter Productivity",
-    "AI Recruiter Efficiency Tools: Scaling Remote Teams Fast"
+    "AI Recruiter Efficiency Tools: Scaling Remote Teams Fast",
+    "AI-Powered Hiring: Unlocking Passive Talent Pools"
   ],
   "last_updated": "2026-01-27",
-  "total_posts": 49
+  "total_posts": 50
 }
