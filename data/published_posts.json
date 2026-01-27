@@ -809,6 +809,23 @@
       "word_count": 1374,
       "filepath": "content/posts/2026-01-27-nextgen-hiring-how-ai-boosts-recruiter-productivity.md",
       "topic": "Next\u2011Gen Hiring: How AI Boosts Recruiter Productivity"
+    },
+    {
+      "title": "AI Recruiter Efficiency Tools: Scaling Remote Teams Fast",
+      "slug": "ai-recruiter-efficiency-tools-scaling-remote-teams-fast",
+      "description": "# AI Recruiter Efficiency Tools: Scaling Remote Teams Fast\n\nStartups that need to grow quickly often hit a wall when hiring at scale\u2014especially when e...",
+      "pub_date": "2026-01-27",
+      "tags": [],
+      "keywords": [
+        "recruiter efficiency tools",
+        "remote hiring automation",
+        "scaling hiring operations",
+        "AI recruitment",
+        "recruiter productivity"
+      ],
+      "word_count": 1136,
+      "filepath": "content/posts/2026-01-27-ai-recruiter-efficiency-tools-scaling-remote-teams-fast.md",
+      "topic": "AI Recruiter Efficiency Tools: Scaling Remote Teams Fast"
     }
   ],
   "topics_used": [
@@ -859,8 +876,9 @@
     "AI Skill Gap Forecasting: Hire for Tomorrow's Needs",
     "Automated Scheduling Secrets: Cut 30% More Time from Hiring",
     "Data-Driven Hiring Playbook: Turn Metrics into Action",
-    "Next\u2011Gen Hiring: How AI Boosts Recruiter Productivity"
+    "Next\u2011Gen Hiring: How AI Boosts Recruiter Productivity",
+    "AI Recruiter Efficiency Tools: Scaling Remote Teams Fast"
   ],
   "last_updated": "2026-01-27",
-  "total_posts": 48
+  "total_posts": 49
 }
