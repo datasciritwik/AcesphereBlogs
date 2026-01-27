@@ -792,6 +792,23 @@
       "word_count": 1242,
       "filepath": "content/posts/2026-01-26-data-driven-hiring-playbook-turn-metrics-into-action.md",
       "topic": "Data-Driven Hiring Playbook: Turn Metrics into Action"
+    },
+    {
+      "title": "Next\u2011Gen Hiring: How AI Boosts Recruiter Productivity",
+      "slug": "nextgen-hiring-how-ai-boosts-recruiter-productivity",
+      "description": "# Next\u2011Gen Hiring: How AI Boosts Recruiter Productivity  \n\nRecruiters in scaling startups are under constant pressure to fill roles faster, diversify...",
+      "pub_date": "2026-01-27",
+      "tags": [],
+      "keywords": [
+        "next-gen hiring",
+        "recruiter productivity tips",
+        "AI hiring platform",
+        "streamlined recruitment",
+        "hiring technology"
+      ],
+      "word_count": 1374,
+      "filepath": "content/posts/2026-01-27-nextgen-hiring-how-ai-boosts-recruiter-productivity.md",
+      "topic": "Next\u2011Gen Hiring: How AI Boosts Recruiter Productivity"
     }
   ],
   "topics_used": [
@@ -841,8 +858,9 @@
     "AI Hiring Platform: Measuring DEI Impact in Real Time",
     "AI Skill Gap Forecasting: Hire for Tomorrow's Needs",
     "Automated Scheduling Secrets: Cut 30% More Time from Hiring",
-    "Data-Driven Hiring Playbook: Turn Metrics into Action"
+    "Data-Driven Hiring Playbook: Turn Metrics into Action",
+    "Next\u2011Gen Hiring: How AI Boosts Recruiter Productivity"
   ],
-  "last_updated": "2026-01-26",
-  "total_posts": 47
+  "last_updated": "2026-01-27",
+  "total_posts": 48
 }
