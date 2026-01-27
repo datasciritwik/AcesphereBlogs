@@ -104,4 +104,4 @@ Strategic workforce planning and hiring automation are two sides of the same coi
 2. **Select a smart hiring tool** that integrates with your ATS and analytics stack.  
 3. **Pilot an AI‑driven sourcing campaign** for a high‑impact role and measure the outlined KPIs.  
 
-By treating hiring automation as a strategic lever rather than a speed bump, scaling startups can align talent pipelines with business goals, reduce costs, and build a diverse, future‑ready workforce. Ready to transform your hiring engine? Explore our platform at [AcesphereAI](https://acesphereai.org) and start turning data into talent.
+By treating hiring automation as a strategic lever rather than a speed bump, scaling startups can align talent pipelines with business goals, reduce costs, and build a diverse, future‑ready workforce. Ready to transform your hiring engine? Explore our platform at [AcesphereAI](https://acesphereai.com) and start turning data into talent.

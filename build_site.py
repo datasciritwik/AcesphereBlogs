@@ -195,7 +195,7 @@ def create_default_templates():
         <footer style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.875rem;">
             <p>&copy; {{ now.year }} AcesphereAI. All rights reserved.</p>
             <p style="margin-top: 0.5rem;">
-                <a href="https://acesphereai.org" style="color: var(--accent); text-decoration: none;">Main Site</a>
+                <a href="https://acesphereai.com" style="color: var(--accent); text-decoration: none;">Main Site</a>
             </p>
         </footer>
     </div>

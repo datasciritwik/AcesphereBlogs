@@ -131,7 +131,7 @@ JSON only:"""
             tone=brand_voice.get("tone", "Professional but accessible"),
             style=brand_voice.get("style", "Insight-driven"),
             approach=brand_voice.get("approach", "Educational and practical"),
-            website=self.config.business_context.get("website", "https://acesphereai.org")
+            website=self.config.business_context.get("website", "https://acesphereai.com")
         )
     
     def _get_internal_links(self, limit: int = 3) -> str:
