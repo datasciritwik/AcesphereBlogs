@@ -860,6 +860,22 @@
       "word_count": 1444,
       "filepath": "content/posts/2026-01-28-scaling-hiring-with-automation-tapping-hidden-talent-pools.md",
       "topic": "Scaling Hiring with Automation: Tapping Hidden Talent Pools"
+    },
+    {
+      "title": "AI-Driven Referral Hiring: Boost Recruiter Productivity",
+      "slug": "ai-driven-referral-hiring-boost-recruiter-productivity",
+      "description": "# AI-Driven Referral Hiring: Boost Recruiter Productivity  \n\nEmployee referrals have long been the gold standard for sourcing high\u2011quality talent, but...",
+      "pub_date": "2026-01-28",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity",
+        "automated hiring",
+        "diversity hiring",
+        "AI bias mitigation"
+      ],
+      "word_count": 1333,
+      "filepath": "content/posts/2026-01-28-ai-driven-referral-hiring-boost-recruiter-productivity.md",
+      "topic": "AI-Driven Referral Hiring: Boost Recruiter Productivity"
     }
   ],
   "topics_used": [
@@ -913,8 +929,9 @@
     "Next\u2011Gen Hiring: How AI Boosts Recruiter Productivity",
     "AI Recruiter Efficiency Tools: Scaling Remote Teams Fast",
     "AI-Powered Hiring: Unlocking Passive Talent Pools",
-    "Scaling Hiring with Automation: Tapping Hidden Talent Pools"
+    "Scaling Hiring with Automation: Tapping Hidden Talent Pools",
+    "AI-Driven Referral Hiring: Boost Recruiter Productivity"
   ],
   "last_updated": "2026-01-28",
-  "total_posts": 51
+  "total_posts": 52
 }
