@@ -843,6 +843,23 @@
       "word_count": 1203,
       "filepath": "content/posts/2026-01-27-ai-powered-hiring-unlocking-passive-talent-pools.md",
       "topic": "AI-Powered Hiring: Unlocking Passive Talent Pools"
+    },
+    {
+      "title": "Scaling Hiring with Automation: Tapping Hidden Talent Pools",
+      "slug": "scaling-hiring-with-automation-tapping-hidden-talent-pools",
+      "description": "# Scaling Hiring with Automation: Tapping Hidden Talent Pools\n\nHiring at speed doesn\u2019t have to mean sacrificing quality or diversity. In this guide yo...",
+      "pub_date": "2026-01-28",
+      "tags": [],
+      "keywords": [
+        "scaling hiring with automation",
+        "hidden talent pools",
+        "AI talent mapping",
+        "niche industry recruiting",
+        "recruitment analytics"
+      ],
+      "word_count": 1444,
+      "filepath": "content/posts/2026-01-28-scaling-hiring-with-automation-tapping-hidden-talent-pools.md",
+      "topic": "Scaling Hiring with Automation: Tapping Hidden Talent Pools"
     }
   ],
   "topics_used": [
@@ -895,8 +912,9 @@
     "Data-Driven Hiring Playbook: Turn Metrics into Action",
     "Next\u2011Gen Hiring: How AI Boosts Recruiter Productivity",
     "AI Recruiter Efficiency Tools: Scaling Remote Teams Fast",
-    "AI-Powered Hiring: Unlocking Passive Talent Pools"
+    "AI-Powered Hiring: Unlocking Passive Talent Pools",
+    "Scaling Hiring with Automation: Tapping Hidden Talent Pools"
   ],
-  "last_updated": "2026-01-27",
-  "total_posts": 50
+  "last_updated": "2026-01-28",
+  "total_posts": 51
 }
