@@ -910,6 +910,22 @@
       "word_count": 1250,
       "filepath": "content/posts/2026-01-29-prehire-testing-predict-new-hire-success-with-data.md",
       "topic": "Pre\u2011Hire Testing: Predict New Hire Success with Data"
+    },
+    {
+      "title": "AI for Technical Hiring: Faster Engineer Selection",
+      "slug": "ai-for-technical-hiring-faster-engineer-selection",
+      "description": "# AI for Technical Hiring: Faster Engineer Selection\n\nHiring top engineering talent is the lifeblood of a fast\u2011growing startup, yet the recruitment pr...",
+      "pub_date": "2026-01-29",
+      "tags": [],
+      "keywords": [
+        "AI for technical hiring",
+        "automated candidate screening benefits",
+        "machine learning hiring",
+        "technical recruitment automation"
+      ],
+      "word_count": 1508,
+      "filepath": "content/posts/2026-01-29-ai-for-technical-hiring-faster-engineer-selection.md",
+      "topic": "AI for Technical Hiring: Faster Engineer Selection"
     }
   ],
   "topics_used": [
@@ -966,8 +982,9 @@
     "Scaling Hiring with Automation: Tapping Hidden Talent Pools",
     "AI-Driven Referral Hiring: Boost Recruiter Productivity",
     "AI Candidate Sentiment Analysis: Boost Hiring Decisions",
-    "Pre\u2011Hire Testing: Predict New Hire Success with Data"
+    "Pre\u2011Hire Testing: Predict New Hire Success with Data",
+    "AI for Technical Hiring: Faster Engineer Selection"
   ],
   "last_updated": "2026-01-29",
-  "total_posts": 54
+  "total_posts": 55
 }
