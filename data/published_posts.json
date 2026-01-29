@@ -876,6 +876,23 @@
       "word_count": 1333,
       "filepath": "content/posts/2026-01-28-ai-driven-referral-hiring-boost-recruiter-productivity.md",
       "topic": "AI-Driven Referral Hiring: Boost Recruiter Productivity"
+    },
+    {
+      "title": "AI Candidate Sentiment Analysis: Boost Hiring Decisions",
+      "slug": "ai-candidate-sentiment-analysis-boost-hiring-decisions",
+      "description": "# AI Candidate Sentiment Analysis: Boost Hiring Decisions\n\nIn today\u2019s fast\u2011moving talent market, hiring managers need more than just r\u00e9sum\u00e9s and skill...",
+      "pub_date": "2026-01-29",
+      "tags": [],
+      "keywords": [
+        "AI candidate sentiment analysis",
+        "bias-free hiring",
+        "data-driven hiring decisions",
+        "recruitment workflow",
+        "candidate screening automation"
+      ],
+      "word_count": 1052,
+      "filepath": "content/posts/2026-01-29-ai-candidate-sentiment-analysis-boost-hiring-decisions.md",
+      "topic": "AI Candidate Sentiment Analysis: Boost Hiring Decisions"
     }
   ],
   "topics_used": [
@@ -930,8 +947,9 @@
     "AI Recruiter Efficiency Tools: Scaling Remote Teams Fast",
     "AI-Powered Hiring: Unlocking Passive Talent Pools",
     "Scaling Hiring with Automation: Tapping Hidden Talent Pools",
-    "AI-Driven Referral Hiring: Boost Recruiter Productivity"
+    "AI-Driven Referral Hiring: Boost Recruiter Productivity",
+    "AI Candidate Sentiment Analysis: Boost Hiring Decisions"
   ],
-  "last_updated": "2026-01-28",
-  "total_posts": 52
+  "last_updated": "2026-01-29",
+  "total_posts": 53
 }
