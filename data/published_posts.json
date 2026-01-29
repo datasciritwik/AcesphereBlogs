@@ -893,6 +893,23 @@
       "word_count": 1052,
       "filepath": "content/posts/2026-01-29-ai-candidate-sentiment-analysis-boost-hiring-decisions.md",
       "topic": "AI Candidate Sentiment Analysis: Boost Hiring Decisions"
+    },
+    {
+      "title": "Pre\u2011Hire Testing: Predict New Hire Success with Data",
+      "slug": "prehire-testing-predict-new-hire-success-with-data",
+      "description": "# Pre\u2011Hire Testing: Predict New Hire Success with Data  \n\nRecruiters and HR teams constantly ask, \u201cHow can we know if a candidate will truly thrive in...",
+      "pub_date": "2026-01-29",
+      "tags": [],
+      "keywords": [
+        "pre-hire testing",
+        "objective candidate evaluation",
+        "recruiter productivity",
+        "hiring best practices",
+        "future of hiring"
+      ],
+      "word_count": 1250,
+      "filepath": "content/posts/2026-01-29-prehire-testing-predict-new-hire-success-with-data.md",
+      "topic": "Pre\u2011Hire Testing: Predict New Hire Success with Data"
     }
   ],
   "topics_used": [
@@ -948,8 +965,9 @@
     "AI-Powered Hiring: Unlocking Passive Talent Pools",
     "Scaling Hiring with Automation: Tapping Hidden Talent Pools",
     "AI-Driven Referral Hiring: Boost Recruiter Productivity",
-    "AI Candidate Sentiment Analysis: Boost Hiring Decisions"
+    "AI Candidate Sentiment Analysis: Boost Hiring Decisions",
+    "Pre\u2011Hire Testing: Predict New Hire Success with Data"
   ],
   "last_updated": "2026-01-29",
-  "total_posts": 53
+  "total_posts": 54
 }
