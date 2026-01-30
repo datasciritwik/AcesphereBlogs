@@ -960,6 +960,23 @@
       "word_count": 1366,
       "filepath": "content/posts/2026-01-30-future-of-recruitment-ai-maps-talent-hotspots-for-scaling.md",
       "topic": "Future of Recruitment: AI Maps Talent Hotspots for Scaling"
+    },
+    {
+      "title": "AI Hiring Platform: Ensuring Compensation Fairness",
+      "slug": "ai-hiring-platform-ensuring-compensation-fairness",
+      "description": "# AI Hiring Platform: Ensuring Compensation Fairness\n\nIn today\u2019s talent\u2011driven market, HR teams need more than intuition to make equitable salary offe...",
+      "pub_date": "2026-01-30",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "fair recruitment",
+        "compensation fairness",
+        "salary benchmarking AI",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1172,
+      "filepath": "content/posts/2026-01-30-ai-hiring-platform-ensuring-compensation-fairness.md",
+      "topic": "AI Hiring Platform: Ensuring Compensation Fairness"
     }
   ],
   "topics_used": [
@@ -1019,8 +1036,9 @@
     "Pre\u2011Hire Testing: Predict New Hire Success with Data",
     "AI for Technical Hiring: Faster Engineer Selection",
     "Future of Hiring: How AI Powers Internal Talent Mobility",
-    "Future of Recruitment: AI Maps Talent Hotspots for Scaling"
+    "Future of Recruitment: AI Maps Talent Hotspots for Scaling",
+    "AI Hiring Platform: Ensuring Compensation Fairness"
   ],
   "last_updated": "2026-01-30",
-  "total_posts": 57
+  "total_posts": 58
 }
