@@ -943,6 +943,23 @@
       "word_count": 1161,
       "filepath": "content/posts/2026-01-30-future-of-hiring-how-ai-powers-internal-talent-mobility.md",
       "topic": "Future of Hiring: How AI Powers Internal Talent Mobility"
+    },
+    {
+      "title": "Future of Recruitment: AI Maps Talent Hotspots for Scaling",
+      "slug": "future-of-recruitment-ai-maps-talent-hotspots-for-scaling",
+      "description": "# Future of Recruitment: AI Maps Talent Hotspots for Scaling  \n\nIn a talent\u2011driven economy, the biggest competitive edge isn\u2019t a bigger budget\u2014it\u2019s th...",
+      "pub_date": "2026-01-30",
+      "tags": [],
+      "keywords": [
+        "future of recruitment",
+        "AI hiring platform",
+        "recruitment analytics",
+        "talent market mapping",
+        "scaling hiring with automation"
+      ],
+      "word_count": 1366,
+      "filepath": "content/posts/2026-01-30-future-of-recruitment-ai-maps-talent-hotspots-for-scaling.md",
+      "topic": "Future of Recruitment: AI Maps Talent Hotspots for Scaling"
     }
   ],
   "topics_used": [
@@ -1001,8 +1018,9 @@
     "AI Candidate Sentiment Analysis: Boost Hiring Decisions",
     "Pre\u2011Hire Testing: Predict New Hire Success with Data",
     "AI for Technical Hiring: Faster Engineer Selection",
-    "Future of Hiring: How AI Powers Internal Talent Mobility"
+    "Future of Hiring: How AI Powers Internal Talent Mobility",
+    "Future of Recruitment: AI Maps Talent Hotspots for Scaling"
   ],
   "last_updated": "2026-01-30",
-  "total_posts": 56
+  "total_posts": 57
 }
