@@ -926,6 +926,23 @@
       "word_count": 1508,
       "filepath": "content/posts/2026-01-29-ai-for-technical-hiring-faster-engineer-selection.md",
       "topic": "AI for Technical Hiring: Faster Engineer Selection"
+    },
+    {
+      "title": "Future of Hiring: How AI Powers Internal Talent Mobility",
+      "slug": "future-of-hiring-how-ai-powers-internal-talent-mobility",
+      "description": "# Future of Hiring: How AI Powers Internal Talent Mobility  \n\nIn today\u2019s competitive talent market, the smartest way to fill critical roles isn\u2019t alwa...",
+      "pub_date": "2026-01-30",
+      "tags": [],
+      "keywords": [
+        "future of hiring",
+        "AI hiring",
+        "skill-based screening",
+        "hiring best practices",
+        "AI bias mitigation"
+      ],
+      "word_count": 1161,
+      "filepath": "content/posts/2026-01-30-future-of-hiring-how-ai-powers-internal-talent-mobility.md",
+      "topic": "Future of Hiring: How AI Powers Internal Talent Mobility"
     }
   ],
   "topics_used": [
@@ -983,8 +1000,9 @@
     "AI-Driven Referral Hiring: Boost Recruiter Productivity",
     "AI Candidate Sentiment Analysis: Boost Hiring Decisions",
     "Pre\u2011Hire Testing: Predict New Hire Success with Data",
-    "AI for Technical Hiring: Faster Engineer Selection"
+    "AI for Technical Hiring: Faster Engineer Selection",
+    "Future of Hiring: How AI Powers Internal Talent Mobility"
   ],
-  "last_updated": "2026-01-29",
-  "total_posts": 55
+  "last_updated": "2026-01-30",
+  "total_posts": 56
 }
