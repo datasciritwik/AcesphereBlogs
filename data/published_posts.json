@@ -977,6 +977,22 @@
       "word_count": 1172,
       "filepath": "content/posts/2026-01-30-ai-hiring-platform-ensuring-compensation-fairness.md",
       "topic": "AI Hiring Platform: Ensuring Compensation Fairness"
+    },
+    {
+      "title": "AI Hiring Playbook: Data\u2011Driven Decisions to Cut Bad Hires",
+      "slug": "ai-hiring-playbook-datadriven-decisions-to-cut-bad-hires",
+      "description": "# AI Hiring Playbook: Data\u2011Driven Decisions to Cut Bad Hires  \n\nHiring the right talent is the single most powerful lever for growth, yet\u202f*bad hires*...",
+      "pub_date": "2026-01-31",
+      "tags": [],
+      "keywords": [
+        "data-driven hiring decisions",
+        "AI hiring playbook",
+        "reduce bad hires",
+        "recruiter productivity"
+      ],
+      "word_count": 1354,
+      "filepath": "content/posts/2026-01-31-ai-hiring-playbook-datadriven-decisions-to-cut-bad-hires.md",
+      "topic": "AI Hiring Playbook: Data\u2011Driven Decisions to Cut Bad Hires"
     }
   ],
   "topics_used": [
@@ -1037,8 +1053,9 @@
     "AI for Technical Hiring: Faster Engineer Selection",
     "Future of Hiring: How AI Powers Internal Talent Mobility",
     "Future of Recruitment: AI Maps Talent Hotspots for Scaling",
-    "AI Hiring Platform: Ensuring Compensation Fairness"
+    "AI Hiring Platform: Ensuring Compensation Fairness",
+    "AI Hiring Playbook: Data\u2011Driven Decisions to Cut Bad Hires"
   ],
-  "last_updated": "2026-01-30",
-  "total_posts": 58
+  "last_updated": "2026-01-31",
+  "total_posts": 59
 }
