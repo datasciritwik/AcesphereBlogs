@@ -1010,6 +1010,23 @@
       "word_count": 1049,
       "filepath": "content/posts/2026-01-31-ai-generated-job-descriptions-cut-bias-speed-hiring.md",
       "topic": "AI-Generated Job Descriptions: Cut Bias & Speed Hiring"
+    },
+    {
+      "title": "AI Interview Assessment: Quantifying Cultural Fit",
+      "slug": "ai-interview-assessment-quantifying-cultural-fit",
+      "description": "# AI Interview Assessment: Quantifying Cultural Fit  \n\nRecruiters today need more than intuition to gauge whether a candidate will thrive in their org...",
+      "pub_date": "2026-01-31",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "soft skill evaluation",
+        "cultural fit AI",
+        "interview intelligence",
+        "candidate experience with AI"
+      ],
+      "word_count": 1186,
+      "filepath": "content/posts/2026-01-31-ai-interview-assessment-quantifying-cultural-fit.md",
+      "topic": "AI Interview Assessment: Quantifying Cultural Fit"
     }
   ],
   "topics_used": [
@@ -1072,8 +1089,9 @@
     "Future of Recruitment: AI Maps Talent Hotspots for Scaling",
     "AI Hiring Platform: Ensuring Compensation Fairness",
     "AI Hiring Playbook: Data\u2011Driven Decisions to Cut Bad Hires",
-    "AI-Generated Job Descriptions: Cut Bias & Speed Hiring"
+    "AI-Generated Job Descriptions: Cut Bias & Speed Hiring",
+    "AI Interview Assessment: Quantifying Cultural Fit"
   ],
   "last_updated": "2026-01-31",
-  "total_posts": 60
+  "total_posts": 61
 }
