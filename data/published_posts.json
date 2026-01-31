@@ -993,6 +993,23 @@
       "word_count": 1354,
       "filepath": "content/posts/2026-01-31-ai-hiring-playbook-datadriven-decisions-to-cut-bad-hires.md",
       "topic": "AI Hiring Playbook: Data\u2011Driven Decisions to Cut Bad Hires"
+    },
+    {
+      "title": "AI-Generated Job Descriptions: Cut Bias & Speed Hiring",
+      "slug": "ai-generated-job-descriptions-cut-bias-speed-hiring",
+      "description": "# AI-Generated Job Descriptions: Cut Bias & Speed Hiring  \n\nIn today\u2019s ultra\u2011competitive talent market, startups can\u2019t afford to waste days drafting j...",
+      "pub_date": "2026-01-31",
+      "tags": [],
+      "keywords": [
+        "AI-generated job descriptions",
+        "reduce hiring bias",
+        "recruitment workflow",
+        "hiring automation",
+        "employer branding"
+      ],
+      "word_count": 1049,
+      "filepath": "content/posts/2026-01-31-ai-generated-job-descriptions-cut-bias-speed-hiring.md",
+      "topic": "AI-Generated Job Descriptions: Cut Bias & Speed Hiring"
     }
   ],
   "topics_used": [
@@ -1054,8 +1071,9 @@
     "Future of Hiring: How AI Powers Internal Talent Mobility",
     "Future of Recruitment: AI Maps Talent Hotspots for Scaling",
     "AI Hiring Platform: Ensuring Compensation Fairness",
-    "AI Hiring Playbook: Data\u2011Driven Decisions to Cut Bad Hires"
+    "AI Hiring Playbook: Data\u2011Driven Decisions to Cut Bad Hires",
+    "AI-Generated Job Descriptions: Cut Bias & Speed Hiring"
   ],
   "last_updated": "2026-01-31",
-  "total_posts": 59
+  "total_posts": 60
 }
