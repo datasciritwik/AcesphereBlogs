@@ -1027,6 +1027,23 @@
       "word_count": 1186,
       "filepath": "content/posts/2026-01-31-ai-interview-assessment-quantifying-cultural-fit.md",
       "topic": "AI Interview Assessment: Quantifying Cultural Fit"
+    },
+    {
+      "title": "Hiring Automation ROI: How to Quantify AI's Impact",
+      "slug": "hiring-automation-roi-how-to-quantify-ais-impact",
+      "description": "# Hiring Automation ROI: How to Quantify AI's Impact\n\nIn today\u2019s talent\u2011driven market, HR leaders and finance managers need more than anecdotal succes...",
+      "pub_date": "2026-02-01",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "recruiter productivity",
+        "hiring ROI",
+        "AI hiring metrics",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1375,
+      "filepath": "content/posts/2026-02-01-hiring-automation-roi-how-to-quantify-ais-impact.md",
+      "topic": "Hiring Automation ROI: How to Quantify AI's Impact"
     }
   ],
   "topics_used": [
@@ -1090,8 +1107,9 @@
     "AI Hiring Platform: Ensuring Compensation Fairness",
     "AI Hiring Playbook: Data\u2011Driven Decisions to Cut Bad Hires",
     "AI-Generated Job Descriptions: Cut Bias & Speed Hiring",
-    "AI Interview Assessment: Quantifying Cultural Fit"
+    "AI Interview Assessment: Quantifying Cultural Fit",
+    "Hiring Automation ROI: How to Quantify AI's Impact"
   ],
-  "last_updated": "2026-01-31",
-  "total_posts": 61
+  "last_updated": "2026-02-01",
+  "total_posts": 62
 }
