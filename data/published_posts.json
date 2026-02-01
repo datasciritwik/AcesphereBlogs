@@ -1044,6 +1044,23 @@
       "word_count": 1375,
       "filepath": "content/posts/2026-02-01-hiring-automation-roi-how-to-quantify-ais-impact.md",
       "topic": "Hiring Automation ROI: How to Quantify AI's Impact"
+    },
+    {
+      "title": "Automated Candidate Sourcing: AI Wins for Niche Skills",
+      "slug": "automated-candidate-sourcing-ai-wins-for-niche-skills",
+      "description": "# Automated Candidate Sourcing: AI Wins for Niche Skills\n\nFinding the right talent for highly specialized roles is one of the toughest challenges scal...",
+      "pub_date": "2026-02-01",
+      "tags": [],
+      "keywords": [
+        "automated candidate sourcing",
+        "AI talent sourcing",
+        "niche skill hiring",
+        "recruiting automation",
+        "AI-driven sourcing"
+      ],
+      "word_count": 1373,
+      "filepath": "content/posts/2026-02-01-automated-candidate-sourcing-ai-wins-for-niche-skills.md",
+      "topic": "Automated Candidate Sourcing: AI Wins for Niche Skills"
     }
   ],
   "topics_used": [
@@ -1108,8 +1125,9 @@
     "AI Hiring Playbook: Data\u2011Driven Decisions to Cut Bad Hires",
     "AI-Generated Job Descriptions: Cut Bias & Speed Hiring",
     "AI Interview Assessment: Quantifying Cultural Fit",
-    "Hiring Automation ROI: How to Quantify AI's Impact"
+    "Hiring Automation ROI: How to Quantify AI's Impact",
+    "Automated Candidate Sourcing: AI Wins for Niche Skills"
   ],
   "last_updated": "2026-02-01",
-  "total_posts": 62
+  "total_posts": 63
 }
