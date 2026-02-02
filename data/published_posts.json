@@ -1078,6 +1078,23 @@
       "word_count": 1371,
       "filepath": "content/posts/2026-02-02-recruiter-productivity-boost-aipowered-hiring-calendar.md",
       "topic": "Recruiter Productivity Boost: AI\u2011Powered Hiring Calendar"
+    },
+    {
+      "title": "AI Offer Management: Reduce Declines & Speed Up Hiring",
+      "slug": "ai-offer-management-reduce-declines-speed-up-hiring",
+      "description": "# AI Offer Management: Reduce Declines & Speed Up Hiring  \n\nIn fast\u2011growing startups, every lost offer is a hidden cost that hurts momentum, burns cas...",
+      "pub_date": "2026-02-02",
+      "tags": [],
+      "keywords": [
+        "AI offer management",
+        "offer acceptance rate",
+        "hiring automation",
+        "candidate compensation optimization",
+        "reduce offer declines"
+      ],
+      "word_count": 1228,
+      "filepath": "content/posts/2026-02-02-ai-offer-management-reduce-declines-speed-up-hiring.md",
+      "topic": "AI Offer Management: Reduce Declines & Speed Up Hiring"
     }
   ],
   "topics_used": [
@@ -1144,8 +1161,9 @@
     "AI Interview Assessment: Quantifying Cultural Fit",
     "Hiring Automation ROI: How to Quantify AI's Impact",
     "Automated Candidate Sourcing: AI Wins for Niche Skills",
-    "Recruiter Productivity Boost: AI\u2011Powered Hiring Calendar"
+    "Recruiter Productivity Boost: AI\u2011Powered Hiring Calendar",
+    "AI Offer Management: Reduce Declines & Speed Up Hiring"
   ],
   "last_updated": "2026-02-02",
-  "total_posts": 64
+  "total_posts": 65
 }
