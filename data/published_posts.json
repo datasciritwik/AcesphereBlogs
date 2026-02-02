@@ -1061,6 +1061,23 @@
       "word_count": 1373,
       "filepath": "content/posts/2026-02-01-automated-candidate-sourcing-ai-wins-for-niche-skills.md",
       "topic": "Automated Candidate Sourcing: AI Wins for Niche Skills"
+    },
+    {
+      "title": "Recruiter Productivity Boost: AI\u2011Powered Hiring Calendar",
+      "slug": "recruiter-productivity-boost-aipowered-hiring-calendar",
+      "description": "# Recruiter Productivity Boost: AI\u2011Powered Hiring Calendar  \n\nRecruiters spend **up to 20\u202f% of their weekly workload** just juggling interview times,...",
+      "pub_date": "2026-02-02",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity",
+        "hiring automation",
+        "AI scheduling",
+        "interview coordination",
+        "workflow optimization"
+      ],
+      "word_count": 1371,
+      "filepath": "content/posts/2026-02-02-recruiter-productivity-boost-aipowered-hiring-calendar.md",
+      "topic": "Recruiter Productivity Boost: AI\u2011Powered Hiring Calendar"
     }
   ],
   "topics_used": [
@@ -1126,8 +1143,9 @@
     "AI-Generated Job Descriptions: Cut Bias & Speed Hiring",
     "AI Interview Assessment: Quantifying Cultural Fit",
     "Hiring Automation ROI: How to Quantify AI's Impact",
-    "Automated Candidate Sourcing: AI Wins for Niche Skills"
+    "Automated Candidate Sourcing: AI Wins for Niche Skills",
+    "Recruiter Productivity Boost: AI\u2011Powered Hiring Calendar"
   ],
-  "last_updated": "2026-02-01",
-  "total_posts": 63
+  "last_updated": "2026-02-02",
+  "total_posts": 64
 }
