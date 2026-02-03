@@ -1095,6 +1095,23 @@
       "word_count": 1228,
       "filepath": "content/posts/2026-02-02-ai-offer-management-reduce-declines-speed-up-hiring.md",
       "topic": "AI Offer Management: Reduce Declines & Speed Up Hiring"
+    },
+    {
+      "title": "Recruitment Innovation: AI-Powered Talent Attraction",
+      "slug": "recruitment-innovation-ai-powered-talent-attraction",
+      "description": "# Recruitment Innovation: AI-Powered Talent Attraction\n\nIn today\u2019s talent\u2011short market, waiting for candidates to apply is no longer enough. By treati...",
+      "pub_date": "2026-02-03",
+      "tags": [],
+      "keywords": [
+        "recruitment innovation",
+        "AI recruitment",
+        "recruitment analytics",
+        "hiring automation",
+        "talent attraction AI"
+      ],
+      "word_count": 1177,
+      "filepath": "content/posts/2026-02-03-recruitment-innovation-ai-powered-talent-attraction.md",
+      "topic": "Recruitment Innovation: AI-Powered Talent Attraction"
     }
   ],
   "topics_used": [
@@ -1162,8 +1179,9 @@
     "Hiring Automation ROI: How to Quantify AI's Impact",
     "Automated Candidate Sourcing: AI Wins for Niche Skills",
     "Recruiter Productivity Boost: AI\u2011Powered Hiring Calendar",
-    "AI Offer Management: Reduce Declines & Speed Up Hiring"
+    "AI Offer Management: Reduce Declines & Speed Up Hiring",
+    "Recruitment Innovation: AI-Powered Talent Attraction"
   ],
-  "last_updated": "2026-02-02",
-  "total_posts": 65
+  "last_updated": "2026-02-03",
+  "total_posts": 66
 }
