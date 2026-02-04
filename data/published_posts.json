@@ -1112,6 +1112,23 @@
       "word_count": 1177,
       "filepath": "content/posts/2026-02-03-recruitment-innovation-ai-powered-talent-attraction.md",
       "topic": "Recruitment Innovation: AI-Powered Talent Attraction"
+    },
+    {
+      "title": "Intelligent Screening for Niche Roles: AI Finds Talent",
+      "slug": "intelligent-screening-for-niche-roles-ai-finds-talent",
+      "description": "# Intelligent Screening for Niche Roles: AI Finds Talent  \n\nRecruiters at startups and mid\u2011sized companies constantly wrestle with positions that dema...",
+      "pub_date": "2026-02-04",
+      "tags": [],
+      "keywords": [
+        "intelligent screening",
+        "candidate screening automation",
+        "niche talent acquisition",
+        "hiring automation",
+        "recruiter productivity"
+      ],
+      "word_count": 1152,
+      "filepath": "content/posts/2026-02-04-intelligent-screening-for-niche-roles-ai-finds-talent.md",
+      "topic": "Intelligent Screening for Niche Roles: AI Finds Talent"
     }
   ],
   "topics_used": [
@@ -1180,8 +1197,9 @@
     "Automated Candidate Sourcing: AI Wins for Niche Skills",
     "Recruiter Productivity Boost: AI\u2011Powered Hiring Calendar",
     "AI Offer Management: Reduce Declines & Speed Up Hiring",
-    "Recruitment Innovation: AI-Powered Talent Attraction"
+    "Recruitment Innovation: AI-Powered Talent Attraction",
+    "Intelligent Screening for Niche Roles: AI Finds Talent"
   ],
-  "last_updated": "2026-02-03",
-  "total_posts": 66
+  "last_updated": "2026-02-04",
+  "total_posts": 67
 }
