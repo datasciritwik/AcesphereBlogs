@@ -1180,6 +1180,23 @@
       "word_count": 1180,
       "filepath": "content/posts/2026-02-05-skill-based-screening-unlock-internal-talent-mobility.md",
       "topic": "Skill-Based Screening: Unlock Internal Talent Mobility"
+    },
+    {
+      "title": "AI Recruitment Marketplace: Activate Passive Talent",
+      "slug": "ai-recruitment-marketplace-activate-passive-talent",
+      "description": "# AI Recruitment Marketplace: Activate Passive Talent\n\nIn today\u2019s hyper\u2011competitive hiring landscape, the most valuable talent often isn\u2019t actively lo...",
+      "pub_date": "2026-02-05",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "passive candidates",
+        "talent marketplace",
+        "candidate activation",
+        "AI matching"
+      ],
+      "word_count": 1153,
+      "filepath": "content/posts/2026-02-05-ai-recruitment-marketplace-activate-passive-talent.md",
+      "topic": "AI Recruitment Marketplace: Activate Passive Talent"
     }
   ],
   "topics_used": [
@@ -1252,8 +1269,9 @@
     "Intelligent Screening for Niche Roles: AI Finds Talent",
     "Smart Hiring Tools: Mapping Emerging Tech Hubs for Talent",
     "AI Interview Panel Optimization: 5 Steps to Better Hires",
-    "Skill-Based Screening: Unlock Internal Talent Mobility"
+    "Skill-Based Screening: Unlock Internal Talent Mobility",
+    "AI Recruitment Marketplace: Activate Passive Talent"
   ],
   "last_updated": "2026-02-05",
-  "total_posts": 70
+  "total_posts": 71
 }
