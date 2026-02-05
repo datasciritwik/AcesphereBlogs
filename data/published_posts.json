@@ -1163,6 +1163,23 @@
       "word_count": 1229,
       "filepath": "content/posts/2026-02-04-ai-interview-panel-optimization-5-steps-to-better-hires.md",
       "topic": "AI Interview Panel Optimization: 5 Steps to Better Hires"
+    },
+    {
+      "title": "Skill-Based Screening: Unlock Internal Talent Mobility",
+      "slug": "skill-based-screening-unlock-internal-talent-mobility",
+      "description": "# Skill-Based Screening: Unlock Internal Talent Mobility\n\nIn today\u2019s fast\u2011moving business landscape, the ability to redeploy existing talent quickly i...",
+      "pub_date": "2026-02-05",
+      "tags": [],
+      "keywords": [
+        "skill-based screening",
+        "internal talent mobility",
+        "AI recruitment",
+        "hiring automation",
+        "recruiter efficiency tools"
+      ],
+      "word_count": 1180,
+      "filepath": "content/posts/2026-02-05-skill-based-screening-unlock-internal-talent-mobility.md",
+      "topic": "Skill-Based Screening: Unlock Internal Talent Mobility"
     }
   ],
   "topics_used": [
@@ -1234,8 +1251,9 @@
     "Recruitment Innovation: AI-Powered Talent Attraction",
     "Intelligent Screening for Niche Roles: AI Finds Talent",
     "Smart Hiring Tools: Mapping Emerging Tech Hubs for Talent",
-    "AI Interview Panel Optimization: 5 Steps to Better Hires"
+    "AI Interview Panel Optimization: 5 Steps to Better Hires",
+    "Skill-Based Screening: Unlock Internal Talent Mobility"
   ],
-  "last_updated": "2026-02-04",
-  "total_posts": 69
+  "last_updated": "2026-02-05",
+  "total_posts": 70
 }
