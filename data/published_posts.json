@@ -1231,6 +1231,23 @@
       "word_count": 1168,
       "filepath": "content/posts/2026-02-06-ai-recruitment-budget-optimization-maximize-roi.md",
       "topic": "AI Recruitment Budget Optimization: Maximize ROI"
+    },
+    {
+      "title": "AI Interview Assessment + ATS: Seamless Data Flow Blueprint",
+      "slug": "ai-interview-assessment-ats-seamless-data-flow-blueprint",
+      "description": "# AI Interview Assessment + ATS: Seamless Data Flow Blueprint  \n\nIntegrating AI interview assessment results directly into your applicant tracking sys...",
+      "pub_date": "2026-02-06",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "ATS integration",
+        "hiring automation",
+        "data-driven hiring decisions",
+        "recruiter productivity"
+      ],
+      "word_count": 1362,
+      "filepath": "content/posts/2026-02-06-ai-interview-assessment-ats-seamless-data-flow-blueprint.md",
+      "topic": "AI Interview Assessment + ATS: Seamless Data Flow Blueprint"
     }
   ],
   "topics_used": [
@@ -1306,8 +1323,9 @@
     "Skill-Based Screening: Unlock Internal Talent Mobility",
     "AI Recruitment Marketplace: Activate Passive Talent",
     "How AI Interviews Work: A Recruiter\u2019s Guide",
-    "AI Recruitment Budget Optimization: Maximize ROI"
+    "AI Recruitment Budget Optimization: Maximize ROI",
+    "AI Interview Assessment + ATS: Seamless Data Flow Blueprint"
   ],
   "last_updated": "2026-02-06",
-  "total_posts": 73
+  "total_posts": 74
 }
