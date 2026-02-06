@@ -1214,6 +1214,23 @@
       "word_count": 1069,
       "filepath": "content/posts/2026-02-06-how-ai-interviews-work-a-recruiters-guide.md",
       "topic": "How AI Interviews Work: A Recruiter\u2019s Guide"
+    },
+    {
+      "title": "AI Recruitment Budget Optimization: Maximize ROI",
+      "slug": "ai-recruitment-budget-optimization-maximize-roi",
+      "description": "# AI Recruitment Budget Optimization: Maximize ROI  \n\nIn today\u2019s competitive talent market, every dollar spent on hiring must earn a clear return. Thi...",
+      "pub_date": "2026-02-06",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "recruitment analytics",
+        "hiring automation",
+        "recruiter productivity",
+        "hiring dashboard"
+      ],
+      "word_count": 1168,
+      "filepath": "content/posts/2026-02-06-ai-recruitment-budget-optimization-maximize-roi.md",
+      "topic": "AI Recruitment Budget Optimization: Maximize ROI"
     }
   ],
   "topics_used": [
@@ -1288,8 +1305,9 @@
     "AI Interview Panel Optimization: 5 Steps to Better Hires",
     "Skill-Based Screening: Unlock Internal Talent Mobility",
     "AI Recruitment Marketplace: Activate Passive Talent",
-    "How AI Interviews Work: A Recruiter\u2019s Guide"
+    "How AI Interviews Work: A Recruiter\u2019s Guide",
+    "AI Recruitment Budget Optimization: Maximize ROI"
   ],
   "last_updated": "2026-02-06",
-  "total_posts": 72
+  "total_posts": 73
 }
