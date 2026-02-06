@@ -1197,6 +1197,23 @@
       "word_count": 1153,
       "filepath": "content/posts/2026-02-05-ai-recruitment-marketplace-activate-passive-talent.md",
       "topic": "AI Recruitment Marketplace: Activate Passive Talent"
+    },
+    {
+      "title": "How AI Interviews Work: A Recruiter\u2019s Guide",
+      "slug": "how-ai-interviews-work-a-recruiters-guide",
+      "description": "# How AI Interviews Work: A Recruiter\u2019s Guide\n\nArtificial intelligence is reshaping every stage of talent acquisition, but many recruiters still wonde...",
+      "pub_date": "2026-02-06",
+      "tags": [],
+      "keywords": [
+        "how AI interviews work",
+        "AI interview",
+        "interview intelligence",
+        "AI hiring platform",
+        "AI bias mitigation"
+      ],
+      "word_count": 1069,
+      "filepath": "content/posts/2026-02-06-how-ai-interviews-work-a-recruiters-guide.md",
+      "topic": "How AI Interviews Work: A Recruiter\u2019s Guide"
     }
   ],
   "topics_used": [
@@ -1270,8 +1287,9 @@
     "Smart Hiring Tools: Mapping Emerging Tech Hubs for Talent",
     "AI Interview Panel Optimization: 5 Steps to Better Hires",
     "Skill-Based Screening: Unlock Internal Talent Mobility",
-    "AI Recruitment Marketplace: Activate Passive Talent"
+    "AI Recruitment Marketplace: Activate Passive Talent",
+    "How AI Interviews Work: A Recruiter\u2019s Guide"
   ],
-  "last_updated": "2026-02-05",
-  "total_posts": 71
+  "last_updated": "2026-02-06",
+  "total_posts": 72
 }
