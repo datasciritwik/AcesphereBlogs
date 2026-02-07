@@ -1248,6 +1248,23 @@
       "word_count": 1362,
       "filepath": "content/posts/2026-02-06-ai-interview-assessment-ats-seamless-data-flow-blueprint.md",
       "topic": "AI Interview Assessment + ATS: Seamless Data Flow Blueprint"
+    },
+    {
+      "title": "AI Workforce Analytics: Predict Future Skill Demand",
+      "slug": "ai-workforce-analytics-predict-future-skill-demand",
+      "description": "# AI Workforce Analytics: Predict Future Skill Demand\n\nIn today\u2019s fast\u2011moving talent market, HR leaders who can anticipate the skills their organizati...",
+      "pub_date": "2026-02-07",
+      "tags": [],
+      "keywords": [
+        "data-driven hiring decisions",
+        "AI talent acquisition",
+        "future of hiring",
+        "recruitment innovation",
+        "skill evaluation"
+      ],
+      "word_count": 1258,
+      "filepath": "content/posts/2026-02-07-ai-workforce-analytics-predict-future-skill-demand.md",
+      "topic": "AI Workforce Analytics: Predict Future Skill Demand"
     }
   ],
   "topics_used": [
@@ -1324,8 +1341,9 @@
     "AI Recruitment Marketplace: Activate Passive Talent",
     "How AI Interviews Work: A Recruiter\u2019s Guide",
     "AI Recruitment Budget Optimization: Maximize ROI",
-    "AI Interview Assessment + ATS: Seamless Data Flow Blueprint"
+    "AI Interview Assessment + ATS: Seamless Data Flow Blueprint",
+    "AI Workforce Analytics: Predict Future Skill Demand"
   ],
-  "last_updated": "2026-02-06",
-  "total_posts": 74
+  "last_updated": "2026-02-07",
+  "total_posts": 75
 }
