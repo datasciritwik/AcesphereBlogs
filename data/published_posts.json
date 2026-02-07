@@ -1265,6 +1265,22 @@
       "word_count": 1258,
       "filepath": "content/posts/2026-02-07-ai-workforce-analytics-predict-future-skill-demand.md",
       "topic": "AI Workforce Analytics: Predict Future Skill Demand"
+    },
+    {
+      "title": "AI-Generated Interview Questions: Boost Hiring Accuracy",
+      "slug": "ai-generated-interview-questions-boost-hiring-accuracy",
+      "description": "# AI-Generated Interview Questions: Boost Hiring Accuracy  \n\nRecruiters today face the dual pressure of hiring faster while maintaining\u2014or even improv...",
+      "pub_date": "2026-02-07",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "smart hiring tools",
+        "data-driven hiring decisions",
+        "interview intelligence"
+      ],
+      "word_count": 1261,
+      "filepath": "content/posts/2026-02-07-ai-generated-interview-questions-boost-hiring-accuracy.md",
+      "topic": "AI-Generated Interview Questions: Boost Hiring Accuracy"
     }
   ],
   "topics_used": [
@@ -1342,8 +1358,9 @@
     "How AI Interviews Work: A Recruiter\u2019s Guide",
     "AI Recruitment Budget Optimization: Maximize ROI",
     "AI Interview Assessment + ATS: Seamless Data Flow Blueprint",
-    "AI Workforce Analytics: Predict Future Skill Demand"
+    "AI Workforce Analytics: Predict Future Skill Demand",
+    "AI-Generated Interview Questions: Boost Hiring Accuracy"
   ],
   "last_updated": "2026-02-07",
-  "total_posts": 75
+  "total_posts": 76
 }
