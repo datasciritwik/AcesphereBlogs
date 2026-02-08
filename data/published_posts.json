@@ -1281,6 +1281,22 @@
       "word_count": 1261,
       "filepath": "content/posts/2026-02-07-ai-generated-interview-questions-boost-hiring-accuracy.md",
       "topic": "AI-Generated Interview Questions: Boost Hiring Accuracy"
+    },
+    {
+      "title": "Virtual Interview AI: Boosting Candidate Insight in 2026",
+      "slug": "virtual-interview-ai-boosting-candidate-insight-in-2026",
+      "description": "# Virtual Interview AI: Boosting Candidate Insight in 2026  \n\nRecruiters today face a paradox: an ever\u2011growing talent pool, yet tighter timelines and...",
+      "pub_date": "2026-02-08",
+      "tags": [],
+      "keywords": [
+        "virtual interview AI",
+        "recruitment analytics",
+        "candidate insight",
+        "AI hiring automation"
+      ],
+      "word_count": 1111,
+      "filepath": "content/posts/2026-02-08-virtual-interview-ai-boosting-candidate-insight-in-2026.md",
+      "topic": "Virtual Interview AI: Boosting Candidate Insight in 2026"
     }
   ],
   "topics_used": [
@@ -1359,8 +1375,9 @@
     "AI Recruitment Budget Optimization: Maximize ROI",
     "AI Interview Assessment + ATS: Seamless Data Flow Blueprint",
     "AI Workforce Analytics: Predict Future Skill Demand",
-    "AI-Generated Interview Questions: Boost Hiring Accuracy"
+    "AI-Generated Interview Questions: Boost Hiring Accuracy",
+    "Virtual Interview AI: Boosting Candidate Insight in 2026"
   ],
-  "last_updated": "2026-02-07",
-  "total_posts": 76
+  "last_updated": "2026-02-08",
+  "total_posts": 77
 }
