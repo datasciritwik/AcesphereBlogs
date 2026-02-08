@@ -1318,6 +1318,21 @@
       "word_count": 1360,
       "filepath": "content/posts/2026-02-08-ai-powered-hiring-analytics-turning-data-into-talent-wins.md",
       "topic": "AI-Powered Hiring Analytics: Turning Data into Talent Wins"
+    },
+    {
+      "title": "Smart Hiring Tools That Empower Hiring Managers",
+      "slug": "smart-hiring-tools-that-empower-hiring-managers",
+      "description": "# Smart Hiring Tools That Empower Hiring Managers\n\nHiring managers are the frontline judges of talent, yet they often juggle interview prep, note\u2011taki...",
+      "pub_date": "2026-02-08",
+      "tags": [],
+      "keywords": [
+        "smart hiring tools",
+        "how AI interviews work",
+        "automated evaluation"
+      ],
+      "word_count": 1194,
+      "filepath": "content/posts/2026-02-08-smart-hiring-tools-that-empower-hiring-managers.md",
+      "topic": "Smart Hiring Tools That Empower Hiring Managers"
     }
   ],
   "topics_used": [
@@ -1398,8 +1413,9 @@
     "AI Workforce Analytics: Predict Future Skill Demand",
     "AI-Generated Interview Questions: Boost Hiring Accuracy",
     "Virtual Interview AI: Boosting Candidate Insight in 2026",
-    "AI-Powered Hiring Analytics: Turning Data into Talent Wins"
+    "AI-Powered Hiring Analytics: Turning Data into Talent Wins",
+    "Smart Hiring Tools That Empower Hiring Managers"
   ],
   "last_updated": "2026-02-08",
-  "total_posts": 78
+  "total_posts": 79
 }
