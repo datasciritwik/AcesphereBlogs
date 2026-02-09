@@ -1333,6 +1333,23 @@
       "word_count": 1194,
       "filepath": "content/posts/2026-02-08-smart-hiring-tools-that-empower-hiring-managers.md",
       "topic": "Smart Hiring Tools That Empower Hiring Managers"
+    },
+    {
+      "title": "AI Hiring Platform: Forecasting DEI Needs for Smarter Hiring",
+      "slug": "ai-hiring-platform-forecasting-dei-needs-for-smarter-hiring",
+      "description": "# AI Hiring Platform: Forecasting DEI Needs for Smarter Hiring  \n\nIn today\u2019s competitive talent market,\u202f*predictive*\u202fDEI insight is no longer a nice\u2011t...",
+      "pub_date": "2026-02-09",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "DEI forecasting",
+        "bias-free hiring",
+        "data-driven hiring decisions",
+        "future of work"
+      ],
+      "word_count": 1260,
+      "filepath": "content/posts/2026-02-09-ai-hiring-platform-forecasting-dei-needs-for-smarter-hiring.md",
+      "topic": "AI Hiring Platform: Forecasting DEI Needs for Smarter Hiring"
     }
   ],
   "topics_used": [
@@ -1414,8 +1431,9 @@
     "AI-Generated Interview Questions: Boost Hiring Accuracy",
     "Virtual Interview AI: Boosting Candidate Insight in 2026",
     "AI-Powered Hiring Analytics: Turning Data into Talent Wins",
-    "Smart Hiring Tools That Empower Hiring Managers"
+    "Smart Hiring Tools That Empower Hiring Managers",
+    "AI Hiring Platform: Forecasting DEI Needs for Smarter Hiring"
   ],
-  "last_updated": "2026-02-08",
-  "total_posts": 79
+  "last_updated": "2026-02-09",
+  "total_posts": 80
 }
