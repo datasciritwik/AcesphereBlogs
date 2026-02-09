@@ -1350,6 +1350,23 @@
       "word_count": 1260,
       "filepath": "content/posts/2026-02-09-ai-hiring-platform-forecasting-dei-needs-for-smarter-hiring.md",
       "topic": "AI Hiring Platform: Forecasting DEI Needs for Smarter Hiring"
+    },
+    {
+      "title": "Predictive Attrition Modeling: AI Boosts Hiring Quality",
+      "slug": "predictive-attrition-modeling-ai-boosts-hiring-quality",
+      "description": "# Predictive Attrition Modeling: AI Boosts Hiring Quality  \n\nHiring the right people is only half the battle; keeping them engaged and retained is the...",
+      "pub_date": "2026-02-09",
+      "tags": [],
+      "keywords": [
+        "predictive attrition modeling",
+        "AI hiring",
+        "data-driven hiring decisions",
+        "hiring automation",
+        "employee turnover prediction"
+      ],
+      "word_count": 1259,
+      "filepath": "content/posts/2026-02-09-predictive-attrition-modeling-ai-boosts-hiring-quality.md",
+      "topic": "Predictive Attrition Modeling: AI Boosts Hiring Quality"
     }
   ],
   "topics_used": [
@@ -1432,8 +1449,9 @@
     "Virtual Interview AI: Boosting Candidate Insight in 2026",
     "AI-Powered Hiring Analytics: Turning Data into Talent Wins",
     "Smart Hiring Tools That Empower Hiring Managers",
-    "AI Hiring Platform: Forecasting DEI Needs for Smarter Hiring"
+    "AI Hiring Platform: Forecasting DEI Needs for Smarter Hiring",
+    "Predictive Attrition Modeling: AI Boosts Hiring Quality"
   ],
   "last_updated": "2026-02-09",
-  "total_posts": 80
+  "total_posts": 81
 }
