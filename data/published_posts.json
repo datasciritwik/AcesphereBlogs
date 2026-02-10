@@ -1384,6 +1384,23 @@
       "word_count": 1112,
       "filepath": "content/posts/2026-02-09-skill-based-screening-via-social-listening-ai.md",
       "topic": "Skill-Based Screening via Social Listening AI"
+    },
+    {
+      "title": "AI Recruitment: Scaling Apprenticeship Programs with Data",
+      "slug": "ai-recruitment-scaling-apprenticeship-programs-with-data",
+      "description": "# AI Recruitment: Scaling Apprenticeship Programs with Data  \n\nApprenticeship programs are a powerful way to build a future\u2011ready workforce, but they...",
+      "pub_date": "2026-02-10",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "apprenticeship programs",
+        "skill-based screening",
+        "competency assessment",
+        "hiring automation"
+      ],
+      "word_count": 1287,
+      "filepath": "content/posts/2026-02-10-ai-recruitment-scaling-apprenticeship-programs-with-data.md",
+      "topic": "AI Recruitment: Scaling Apprenticeship Programs with Data"
     }
   ],
   "topics_used": [
@@ -1468,8 +1485,9 @@
     "Smart Hiring Tools That Empower Hiring Managers",
     "AI Hiring Platform: Forecasting DEI Needs for Smarter Hiring",
     "Predictive Attrition Modeling: AI Boosts Hiring Quality",
-    "Skill-Based Screening via Social Listening AI"
+    "Skill-Based Screening via Social Listening AI",
+    "AI Recruitment: Scaling Apprenticeship Programs with Data"
   ],
-  "last_updated": "2026-02-09",
-  "total_posts": 82
+  "last_updated": "2026-02-10",
+  "total_posts": 83
 }
