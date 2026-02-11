@@ -1418,6 +1418,23 @@
       "word_count": 1359,
       "filepath": "content/posts/2026-02-10-boost-recruiter-productivity-with-ai-task-allocation.md",
       "topic": "Boost Recruiter Productivity with AI Task Allocation"
+    },
+    {
+      "title": "AI Hiring: Preventing Recruiter Burnout While Scaling",
+      "slug": "ai-hiring-preventing-recruiter-burnout-while-scaling",
+      "description": "# AI Hiring: Preventing Recruiter Burnout While Scaling\n\nWhen a startup moves from ten to a hundred hires in six months, the excitement of growth can...",
+      "pub_date": "2026-02-11",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "recruiter productivity",
+        "burnout prevention",
+        "hiring automation",
+        "HR tech trends 2026"
+      ],
+      "word_count": 1188,
+      "filepath": "content/posts/2026-02-11-ai-hiring-preventing-recruiter-burnout-while-scaling.md",
+      "topic": "AI Hiring: Preventing Recruiter Burnout While Scaling"
     }
   ],
   "topics_used": [
@@ -1504,8 +1521,9 @@
     "Predictive Attrition Modeling: AI Boosts Hiring Quality",
     "Skill-Based Screening via Social Listening AI",
     "AI Recruitment: Scaling Apprenticeship Programs with Data",
-    "Boost Recruiter Productivity with AI Task Allocation"
+    "Boost Recruiter Productivity with AI Task Allocation",
+    "AI Hiring: Preventing Recruiter Burnout While Scaling"
   ],
-  "last_updated": "2026-02-10",
-  "total_posts": 84
+  "last_updated": "2026-02-11",
+  "total_posts": 85
 }
