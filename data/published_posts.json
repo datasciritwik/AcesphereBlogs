@@ -1469,6 +1469,22 @@
       "word_count": 1081,
       "filepath": "content/posts/2026-02-12-ai-powered-reference-checks-cut-hiring-time.md",
       "topic": "AI-Powered Reference Checks Cut Hiring Time"
+    },
+    {
+      "title": "Automated Candidate Screening Benefits for Growing Startups",
+      "slug": "automated-candidate-screening-benefits-for-growing-startups",
+      "description": "# Automated Candidate Screening Benefits for Growing Startups\n\nFor startups racing to scale, every hiring decision directly impacts product velocity,...",
+      "pub_date": "2026-02-12",
+      "tags": [],
+      "keywords": [
+        "automated candidate screening benefits",
+        "recruiter productivity tips",
+        "hiring automation ROI",
+        "candidate screening automation"
+      ],
+      "word_count": 1186,
+      "filepath": "content/posts/2026-02-12-automated-candidate-screening-benefits-for-growing-startups.md",
+      "topic": "Automated Candidate Screening Benefits for Growing Startups"
     }
   ],
   "topics_used": [
@@ -1558,8 +1574,9 @@
     "Boost Recruiter Productivity with AI Task Allocation",
     "AI Hiring: Preventing Recruiter Burnout While Scaling",
     "AI Interviews: Real-Time Coaching to Boost Performance",
-    "AI-Powered Reference Checks Cut Hiring Time"
+    "AI-Powered Reference Checks Cut Hiring Time",
+    "Automated Candidate Screening Benefits for Growing Startups"
   ],
   "last_updated": "2026-02-12",
-  "total_posts": 87
+  "total_posts": 88
 }
