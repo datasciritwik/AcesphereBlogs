@@ -1435,6 +1435,23 @@
       "word_count": 1188,
       "filepath": "content/posts/2026-02-11-ai-hiring-preventing-recruiter-burnout-while-scaling.md",
       "topic": "AI Hiring: Preventing Recruiter Burnout While Scaling"
+    },
+    {
+      "title": "AI Interviews: Real-Time Coaching to Boost Performance",
+      "slug": "ai-interviews-real-time-coaching-to-boost-performance",
+      "description": "# AI Interviews: Real\u2011Time Coaching to Boost Performance  \n\nIn today\u2019s competitive talent market, candidates need more than a polished r\u00e9sum\u00e9\u2014they nee...",
+      "pub_date": "2026-02-12",
+      "tags": [],
+      "keywords": [
+        "AI interviews",
+        "real-time coaching",
+        "candidate performance",
+        "interview intelligence",
+        "candidate experience"
+      ],
+      "word_count": 1124,
+      "filepath": "content/posts/2026-02-12-ai-interviews-real-time-coaching-to-boost-performance.md",
+      "topic": "AI Interviews: Real-Time Coaching to Boost Performance"
     }
   ],
   "topics_used": [
@@ -1522,8 +1539,9 @@
     "Skill-Based Screening via Social Listening AI",
     "AI Recruitment: Scaling Apprenticeship Programs with Data",
     "Boost Recruiter Productivity with AI Task Allocation",
-    "AI Hiring: Preventing Recruiter Burnout While Scaling"
+    "AI Hiring: Preventing Recruiter Burnout While Scaling",
+    "AI Interviews: Real-Time Coaching to Boost Performance"
   ],
-  "last_updated": "2026-02-11",
-  "total_posts": 85
+  "last_updated": "2026-02-12",
+  "total_posts": 86
 }
