@@ -1452,6 +1452,23 @@
       "word_count": 1124,
       "filepath": "content/posts/2026-02-12-ai-interviews-real-time-coaching-to-boost-performance.md",
       "topic": "AI Interviews: Real-Time Coaching to Boost Performance"
+    },
+    {
+      "title": "AI-Powered Reference Checks Cut Hiring Time",
+      "slug": "ai-powered-reference-checks-cut-hiring-time",
+      "description": "# AI-Powered Reference Checks Cut Hiring Time  \n\nIn today\u2019s competitive talent market, every day a vacancy remains open costs your organization money,...",
+      "pub_date": "2026-02-12",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "automated reference checking",
+        "recruiter productivity",
+        "hiring automation",
+        "bias-free hiring"
+      ],
+      "word_count": 1081,
+      "filepath": "content/posts/2026-02-12-ai-powered-reference-checks-cut-hiring-time.md",
+      "topic": "AI-Powered Reference Checks Cut Hiring Time"
     }
   ],
   "topics_used": [
@@ -1540,8 +1557,9 @@
     "AI Recruitment: Scaling Apprenticeship Programs with Data",
     "Boost Recruiter Productivity with AI Task Allocation",
     "AI Hiring: Preventing Recruiter Burnout While Scaling",
-    "AI Interviews: Real-Time Coaching to Boost Performance"
+    "AI Interviews: Real-Time Coaching to Boost Performance",
+    "AI-Powered Reference Checks Cut Hiring Time"
   ],
   "last_updated": "2026-02-12",
-  "total_posts": 86
+  "total_posts": 87
 }
