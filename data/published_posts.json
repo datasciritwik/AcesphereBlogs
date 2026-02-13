@@ -1485,6 +1485,23 @@
       "word_count": 1186,
       "filepath": "content/posts/2026-02-12-automated-candidate-screening-benefits-for-growing-startups.md",
       "topic": "Automated Candidate Screening Benefits for Growing Startups"
+    },
+    {
+      "title": "AI Interviews: Real-Time Debriefing for Better Hires",
+      "slug": "ai-interviews-real-time-debriefing-for-better-hires",
+      "description": "# AI Interviews: Real-Time Debriefing for Better Hires\n\nIn today\u2019s fast\u2011paced talent market, recruiters need more than gut feeling to make confident h...",
+      "pub_date": "2026-02-13",
+      "tags": [],
+      "keywords": [
+        "AI interviews",
+        "interview intelligence",
+        "real-time hiring analytics",
+        "recruiter productivity",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1046,
+      "filepath": "content/posts/2026-02-13-ai-interviews-real-time-debriefing-for-better-hires.md",
+      "topic": "AI Interviews: Real-Time Debriefing for Better Hires"
     }
   ],
   "topics_used": [
@@ -1575,8 +1592,9 @@
     "AI Hiring: Preventing Recruiter Burnout While Scaling",
     "AI Interviews: Real-Time Coaching to Boost Performance",
     "AI-Powered Reference Checks Cut Hiring Time",
-    "Automated Candidate Screening Benefits for Growing Startups"
+    "Automated Candidate Screening Benefits for Growing Startups",
+    "AI Interviews: Real-Time Debriefing for Better Hires"
   ],
-  "last_updated": "2026-02-12",
-  "total_posts": 88
+  "last_updated": "2026-02-13",
+  "total_posts": 89
 }
