@@ -1502,6 +1502,23 @@
       "word_count": 1046,
       "filepath": "content/posts/2026-02-13-ai-interviews-real-time-debriefing-for-better-hires.md",
       "topic": "AI Interviews: Real-Time Debriefing for Better Hires"
+    },
+    {
+      "title": "Hiring Automation Playbook for Seasonal E\u2011commerce Peaks",
+      "slug": "hiring-automation-playbook-for-seasonal-ecommerce-peaks",
+      "description": "# Hiring Automation Playbook for Seasonal E\u2011commerce Peaks  \n\nSeasonal spikes\u2014whether it\u2019s Black\u202fFriday, Cyber\u202fMonday, or a holiday\u2011driven surge\u2014can m...",
+      "pub_date": "2026-02-14",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "seasonal hiring",
+        "hiring forecast",
+        "e\u2011commerce hiring",
+        "AI hiring predictions"
+      ],
+      "word_count": 1387,
+      "filepath": "content/posts/2026-02-14-hiring-automation-playbook-for-seasonal-ecommerce-peaks.md",
+      "topic": "Hiring Automation Playbook for Seasonal E\u2011commerce Peaks"
     }
   ],
   "topics_used": [
@@ -1593,8 +1610,9 @@
     "AI Interviews: Real-Time Coaching to Boost Performance",
     "AI-Powered Reference Checks Cut Hiring Time",
     "Automated Candidate Screening Benefits for Growing Startups",
-    "AI Interviews: Real-Time Debriefing for Better Hires"
+    "AI Interviews: Real-Time Debriefing for Better Hires",
+    "Hiring Automation Playbook for Seasonal E\u2011commerce Peaks"
   ],
-  "last_updated": "2026-02-13",
-  "total_posts": 89
+  "last_updated": "2026-02-14",
+  "total_posts": 90
 }
