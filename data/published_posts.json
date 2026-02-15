@@ -1536,6 +1536,23 @@
       "word_count": 1274,
       "filepath": "content/posts/2026-02-14-ai-hiring-for-nontech-roles-unlock-hidden-talent.md",
       "topic": "AI Hiring for Non\u2011Tech Roles: Unlock Hidden Talent"
+    },
+    {
+      "title": "Enterprise Recruitment Automation: A Playbook for Scaling Teams",
+      "slug": "enterprise-recruitment-automation-a-playbook-for-scaling-tea",
+      "description": "# Enterprise Recruitment Automation: A Playbook for Scaling Teams  \n\nHiring at scale is no longer a luxury\u2014it\u2019s a necessity for organizations that wan...",
+      "pub_date": "2026-02-15",
+      "tags": [],
+      "keywords": [
+        "enterprise recruitment automation",
+        "recruiter efficiency tools",
+        "hiring dashboard",
+        "AI hiring platform",
+        "recruitment workflow"
+      ],
+      "word_count": 1305,
+      "filepath": "content/posts/2026-02-15-enterprise-recruitment-automation-a-playbook-for-scaling-tea.md",
+      "topic": "Enterprise Recruitment Automation: A Playbook for Scaling Teams"
     }
   ],
   "topics_used": [
@@ -1629,8 +1646,9 @@
     "Automated Candidate Screening Benefits for Growing Startups",
     "AI Interviews: Real-Time Debriefing for Better Hires",
     "Hiring Automation Playbook for Seasonal E\u2011commerce Peaks",
-    "AI Hiring for Non\u2011Tech Roles: Unlock Hidden Talent"
+    "AI Hiring for Non\u2011Tech Roles: Unlock Hidden Talent",
+    "Enterprise Recruitment Automation: A Playbook for Scaling Teams"
   ],
-  "last_updated": "2026-02-14",
-  "total_posts": 91
+  "last_updated": "2026-02-15",
+  "total_posts": 92
 }
