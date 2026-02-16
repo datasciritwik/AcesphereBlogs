@@ -1570,6 +1570,23 @@
       "word_count": 1210,
       "filepath": "content/posts/2026-02-16-automated-hiring-workflow-sync-teams-cut-delays.md",
       "topic": "Automated Hiring Workflow: Sync Teams & Cut Delays"
+    },
+    {
+      "title": "Boost Recruiter Productivity with AI-Powered Workflows",
+      "slug": "boost-recruiter-productivity-with-ai-powered-workflows",
+      "description": "# Boost Recruiter Productivity with AI\u2011Powered Workflows\n\nRecruiters spend the majority of their day juggling repetitive tasks\u2014scheduling interviews,...",
+      "pub_date": "2026-02-16",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity",
+        "hiring dashboard",
+        "recruitment analytics",
+        "automated candidate screening benefits",
+        "streamlined recruitment"
+      ],
+      "word_count": 1343,
+      "filepath": "content/posts/2026-02-16-boost-recruiter-productivity-with-ai-powered-workflows.md",
+      "topic": "Boost Recruiter Productivity with AI-Powered Workflows"
     }
   ],
   "topics_used": [
@@ -1665,8 +1682,9 @@
     "Hiring Automation Playbook for Seasonal E\u2011commerce Peaks",
     "AI Hiring for Non\u2011Tech Roles: Unlock Hidden Talent",
     "Enterprise Recruitment Automation: A Playbook for Scaling Teams",
-    "Automated Hiring Workflow: Sync Teams & Cut Delays"
+    "Automated Hiring Workflow: Sync Teams & Cut Delays",
+    "Boost Recruiter Productivity with AI-Powered Workflows"
   ],
   "last_updated": "2026-02-16",
-  "total_posts": 93
+  "total_posts": 94
 }
