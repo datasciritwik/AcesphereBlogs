@@ -1553,6 +1553,23 @@
       "word_count": 1305,
       "filepath": "content/posts/2026-02-15-enterprise-recruitment-automation-a-playbook-for-scaling-tea.md",
       "topic": "Enterprise Recruitment Automation: A Playbook for Scaling Teams"
+    },
+    {
+      "title": "Automated Hiring Workflow: Sync Teams & Cut Delays",
+      "slug": "automated-hiring-workflow-sync-teams-cut-delays",
+      "description": "# Automated Hiring Workflow: Sync Teams & Cut Delays  \n\nHiring managers at fast\u2011growing startups know that every day a vacancy stays open, the cost is...",
+      "pub_date": "2026-02-16",
+      "tags": [],
+      "keywords": [
+        "automated hiring",
+        "recruitment workflow",
+        "hiring best practices",
+        "recruiter productivity",
+        "AI recruitment"
+      ],
+      "word_count": 1210,
+      "filepath": "content/posts/2026-02-16-automated-hiring-workflow-sync-teams-cut-delays.md",
+      "topic": "Automated Hiring Workflow: Sync Teams & Cut Delays"
     }
   ],
   "topics_used": [
@@ -1647,8 +1664,9 @@
     "AI Interviews: Real-Time Debriefing for Better Hires",
     "Hiring Automation Playbook for Seasonal E\u2011commerce Peaks",
     "AI Hiring for Non\u2011Tech Roles: Unlock Hidden Talent",
-    "Enterprise Recruitment Automation: A Playbook for Scaling Teams"
+    "Enterprise Recruitment Automation: A Playbook for Scaling Teams",
+    "Automated Hiring Workflow: Sync Teams & Cut Delays"
   ],
-  "last_updated": "2026-02-15",
-  "total_posts": 92
+  "last_updated": "2026-02-16",
+  "total_posts": 93
 }
