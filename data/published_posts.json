@@ -1587,6 +1587,23 @@
       "word_count": 1343,
       "filepath": "content/posts/2026-02-16-boost-recruiter-productivity-with-ai-powered-workflows.md",
       "topic": "Boost Recruiter Productivity with AI-Powered Workflows"
+    },
+    {
+      "title": "AI Tactics to Boost Recruiter Productivity & Cut Burnout",
+      "slug": "ai-tactics-to-boost-recruiter-productivity-cut-burnout",
+      "description": "# AI Tactics to Boost Recruiter Productivity & Cut Burnout  \n\nRecruiters at fast\u2011growing startups are asked to fill more roles, faster, while keeping...",
+      "pub_date": "2026-02-17",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity",
+        "recruiter burnout",
+        "AI hiring automation",
+        "hiring automation",
+        "AI mental health"
+      ],
+      "word_count": 1127,
+      "filepath": "content/posts/2026-02-17-ai-tactics-to-boost-recruiter-productivity-cut-burnout.md",
+      "topic": "AI Tactics to Boost Recruiter Productivity & Cut Burnout"
     }
   ],
   "topics_used": [
@@ -1683,8 +1700,9 @@
     "AI Hiring for Non\u2011Tech Roles: Unlock Hidden Talent",
     "Enterprise Recruitment Automation: A Playbook for Scaling Teams",
     "Automated Hiring Workflow: Sync Teams & Cut Delays",
-    "Boost Recruiter Productivity with AI-Powered Workflows"
+    "Boost Recruiter Productivity with AI-Powered Workflows",
+    "AI Tactics to Boost Recruiter Productivity & Cut Burnout"
   ],
-  "last_updated": "2026-02-16",
-  "total_posts": 94
+  "last_updated": "2026-02-17",
+  "total_posts": 95
 }
