@@ -1604,6 +1604,23 @@
       "word_count": 1127,
       "filepath": "content/posts/2026-02-17-ai-tactics-to-boost-recruiter-productivity-cut-burnout.md",
       "topic": "AI Tactics to Boost Recruiter Productivity & Cut Burnout"
+    },
+    {
+      "title": "AI Hiring for Neurodiverse Talent: A Practical Guide",
+      "slug": "ai-hiring-for-neurodiverse-talent-a-practical-guide",
+      "description": "# AI Hiring for Neurodiverse Talent: A Practical Guide\n\nHiring neurodiverse talent can feel like navigating a maze of vague qualifications, biased int...",
+      "pub_date": "2026-02-17",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "neurodiversity hiring",
+        "inclusive hiring",
+        "AI bias mitigation",
+        "skill-based screening"
+      ],
+      "word_count": 1160,
+      "filepath": "content/posts/2026-02-17-ai-hiring-for-neurodiverse-talent-a-practical-guide.md",
+      "topic": "AI Hiring for Neurodiverse Talent: A Practical Guide"
     }
   ],
   "topics_used": [
@@ -1701,8 +1718,9 @@
     "Enterprise Recruitment Automation: A Playbook for Scaling Teams",
     "Automated Hiring Workflow: Sync Teams & Cut Delays",
     "Boost Recruiter Productivity with AI-Powered Workflows",
-    "AI Tactics to Boost Recruiter Productivity & Cut Burnout"
+    "AI Tactics to Boost Recruiter Productivity & Cut Burnout",
+    "AI Hiring for Neurodiverse Talent: A Practical Guide"
   ],
   "last_updated": "2026-02-17",
-  "total_posts": 95
+  "total_posts": 96
 }
