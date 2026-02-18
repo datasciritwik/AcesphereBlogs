@@ -1621,6 +1621,23 @@
       "word_count": 1160,
       "filepath": "content/posts/2026-02-17-ai-hiring-for-neurodiverse-talent-a-practical-guide.md",
       "topic": "AI Hiring for Neurodiverse Talent: A Practical Guide"
+    },
+    {
+      "title": "AI Interview Scorecards: Boost Consistency & Fairness",
+      "slug": "ai-interview-scorecards-boost-consistency-fairness",
+      "description": "# AI Interview Scorecards: Boost Consistency & Fairness  \n\nHiring managers spend countless hours debating whether a candidate \u201cfeels right.\u201d\u202fWhat if y...",
+      "pub_date": "2026-02-18",
+      "tags": [],
+      "keywords": [
+        "AI interview",
+        "interview scorecard",
+        "recruiter productivity",
+        "bias mitigation",
+        "interview consistency"
+      ],
+      "word_count": 1201,
+      "filepath": "content/posts/2026-02-18-ai-interview-scorecards-boost-consistency-fairness.md",
+      "topic": "AI Interview Scorecards: Boost Consistency & Fairness"
     }
   ],
   "topics_used": [
@@ -1719,8 +1736,9 @@
     "Automated Hiring Workflow: Sync Teams & Cut Delays",
     "Boost Recruiter Productivity with AI-Powered Workflows",
     "AI Tactics to Boost Recruiter Productivity & Cut Burnout",
-    "AI Hiring for Neurodiverse Talent: A Practical Guide"
+    "AI Hiring for Neurodiverse Talent: A Practical Guide",
+    "AI Interview Scorecards: Boost Consistency & Fairness"
   ],
-  "last_updated": "2026-02-17",
-  "total_posts": 96
+  "last_updated": "2026-02-18",
+  "total_posts": 97
 }
