@@ -1655,6 +1655,23 @@
       "word_count": 1166,
       "filepath": "content/posts/2026-02-19-enterprise-recruitment-automation-enhances-team-collaboratio.md",
       "topic": "Enterprise Recruitment Automation Enhances Team Collaboration"
+    },
+    {
+      "title": "AI Hiring Dashboard: Empowering Managers with Data",
+      "slug": "ai-hiring-dashboard-empowering-managers-with-data",
+      "description": "# AI Hiring Dashboard: Empowering Managers with Data\n\nHiring managers and founders are constantly asked to make fast, high\u2011stakes decisions about tale...",
+      "pub_date": "2026-02-19",
+      "tags": [],
+      "keywords": [
+        "hiring dashboard",
+        "data-driven hiring decisions",
+        "AI hiring",
+        "manager empowerment",
+        "recruiter productivity tips"
+      ],
+      "word_count": 1192,
+      "filepath": "content/posts/2026-02-19-ai-hiring-dashboard-empowering-managers-with-data.md",
+      "topic": "AI Hiring Dashboard: Empowering Managers with Data"
     }
   ],
   "topics_used": [
@@ -1755,8 +1772,9 @@
     "AI Tactics to Boost Recruiter Productivity & Cut Burnout",
     "AI Hiring for Neurodiverse Talent: A Practical Guide",
     "AI Interview Scorecards: Boost Consistency & Fairness",
-    "Enterprise Recruitment Automation Enhances Team Collaboration"
+    "Enterprise Recruitment Automation Enhances Team Collaboration",
+    "AI Hiring Dashboard: Empowering Managers with Data"
   ],
   "last_updated": "2026-02-19",
-  "total_posts": 98
+  "total_posts": 99
 }
