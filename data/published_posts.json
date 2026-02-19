@@ -1638,6 +1638,23 @@
       "word_count": 1201,
       "filepath": "content/posts/2026-02-18-ai-interview-scorecards-boost-consistency-fairness.md",
       "topic": "AI Interview Scorecards: Boost Consistency & Fairness"
+    },
+    {
+      "title": "Enterprise Recruitment Automation Enhances Team Collaboration",
+      "slug": "enterprise-recruitment-automation-enhances-team-collaboratio",
+      "description": "# Enterprise Recruitment Automation Enhances Team Collaboration\n\nIn today\u2019s fast\u2011moving talent market, the ability to turn hiring into a unified, data...",
+      "pub_date": "2026-02-19",
+      "tags": [],
+      "keywords": [
+        "enterprise recruitment automation",
+        "recruiter productivity",
+        "cross-functional hiring",
+        "data-driven hiring decisions",
+        "hiring technology"
+      ],
+      "word_count": 1166,
+      "filepath": "content/posts/2026-02-19-enterprise-recruitment-automation-enhances-team-collaboratio.md",
+      "topic": "Enterprise Recruitment Automation Enhances Team Collaboration"
     }
   ],
   "topics_used": [
@@ -1737,8 +1754,9 @@
     "Boost Recruiter Productivity with AI-Powered Workflows",
     "AI Tactics to Boost Recruiter Productivity & Cut Burnout",
     "AI Hiring for Neurodiverse Talent: A Practical Guide",
-    "AI Interview Scorecards: Boost Consistency & Fairness"
+    "AI Interview Scorecards: Boost Consistency & Fairness",
+    "Enterprise Recruitment Automation Enhances Team Collaboration"
   ],
-  "last_updated": "2026-02-18",
-  "total_posts": 97
+  "last_updated": "2026-02-19",
+  "total_posts": 98
 }
