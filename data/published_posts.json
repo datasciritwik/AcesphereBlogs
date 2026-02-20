@@ -1672,6 +1672,22 @@
       "word_count": 1192,
       "filepath": "content/posts/2026-02-19-ai-hiring-dashboard-empowering-managers-with-data.md",
       "topic": "AI Hiring Dashboard: Empowering Managers with Data"
+    },
+    {
+      "title": "Uncover Hidden Bottlenecks with Recruiter Efficiency Tools",
+      "slug": "uncover-hidden-bottlenecks-with-recruiter-efficiency-tools",
+      "description": "# Uncover Hidden Bottlenecks with Recruiter Efficiency Tools  \n\nRecruiters at fast\u2011growing startups often feel like they\u2019re juggling endless spreadshe...",
+      "pub_date": "2026-02-20",
+      "tags": [],
+      "keywords": [
+        "recruiter efficiency tools",
+        "data-driven hiring decisions",
+        "hiring dashboard",
+        "AI hiring metrics"
+      ],
+      "word_count": 1242,
+      "filepath": "content/posts/2026-02-20-uncover-hidden-bottlenecks-with-recruiter-efficiency-tools.md",
+      "topic": "Uncover Hidden Bottlenecks with Recruiter Efficiency Tools"
     }
   ],
   "topics_used": [
@@ -1773,8 +1789,9 @@
     "AI Hiring for Neurodiverse Talent: A Practical Guide",
     "AI Interview Scorecards: Boost Consistency & Fairness",
     "Enterprise Recruitment Automation Enhances Team Collaboration",
-    "AI Hiring Dashboard: Empowering Managers with Data"
+    "AI Hiring Dashboard: Empowering Managers with Data",
+    "Uncover Hidden Bottlenecks with Recruiter Efficiency Tools"
   ],
-  "last_updated": "2026-02-19",
-  "total_posts": 99
+  "last_updated": "2026-02-20",
+  "total_posts": 100
 }
