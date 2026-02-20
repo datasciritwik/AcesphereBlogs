@@ -1688,6 +1688,23 @@
       "word_count": 1242,
       "filepath": "content/posts/2026-02-20-uncover-hidden-bottlenecks-with-recruiter-efficiency-tools.md",
       "topic": "Uncover Hidden Bottlenecks with Recruiter Efficiency Tools"
+    },
+    {
+      "title": "AI Competency Assessment for Soft Skills",
+      "slug": "ai-competency-assessment-for-soft-skills",
+      "description": "# AI Competency Assessment for Soft Skills  \n\nIn today\u2019s talent\u2011driven market, HR leaders need a **data\u2011driven guide** that shows how AI can **reliabl...",
+      "pub_date": "2026-02-20",
+      "tags": [],
+      "keywords": [
+        "competency assessment",
+        "AI hiring platform",
+        "data-driven hiring decisions",
+        "improving candidate experience with AI",
+        "recruitment analytics"
+      ],
+      "word_count": 1256,
+      "filepath": "content/posts/2026-02-20-ai-competency-assessment-for-soft-skills.md",
+      "topic": "AI Competency Assessment for Soft Skills"
     }
   ],
   "topics_used": [
@@ -1790,8 +1807,9 @@
     "AI Interview Scorecards: Boost Consistency & Fairness",
     "Enterprise Recruitment Automation Enhances Team Collaboration",
     "AI Hiring Dashboard: Empowering Managers with Data",
-    "Uncover Hidden Bottlenecks with Recruiter Efficiency Tools"
+    "Uncover Hidden Bottlenecks with Recruiter Efficiency Tools",
+    "AI Competency Assessment for Soft Skills"
   ],
   "last_updated": "2026-02-20",
-  "total_posts": 100
+  "total_posts": 101
 }
