@@ -1705,6 +1705,23 @@
       "word_count": 1256,
       "filepath": "content/posts/2026-02-20-ai-competency-assessment-for-soft-skills.md",
       "topic": "AI Competency Assessment for Soft Skills"
+    },
+    {
+      "title": "AI Hiring for Sustainable Talent Acquisition",
+      "slug": "ai-hiring-for-sustainable-talent-acquisition",
+      "description": "# AI Hiring for Sustainable Talent Acquisition\n\nIn today\u2019s ESG\u2011focused business climate, HR leaders can cut costs, reduce carbon emissions, and future...",
+      "pub_date": "2026-02-21",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "sustainable recruitment",
+        "ESG hiring",
+        "hiring automation",
+        "recruiter productivity"
+      ],
+      "word_count": 1146,
+      "filepath": "content/posts/2026-02-21-ai-hiring-for-sustainable-talent-acquisition.md",
+      "topic": "AI Hiring for Sustainable Talent Acquisition"
     }
   ],
   "topics_used": [
@@ -1808,8 +1825,9 @@
     "Enterprise Recruitment Automation Enhances Team Collaboration",
     "AI Hiring Dashboard: Empowering Managers with Data",
     "Uncover Hidden Bottlenecks with Recruiter Efficiency Tools",
-    "AI Competency Assessment for Soft Skills"
+    "AI Competency Assessment for Soft Skills",
+    "AI Hiring for Sustainable Talent Acquisition"
   ],
-  "last_updated": "2026-02-20",
-  "total_posts": 101
+  "last_updated": "2026-02-21",
+  "total_posts": 102
 }
