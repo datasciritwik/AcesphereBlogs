@@ -1722,6 +1722,22 @@
       "word_count": 1146,
       "filepath": "content/posts/2026-02-21-ai-hiring-for-sustainable-talent-acquisition.md",
       "topic": "AI Hiring for Sustainable Talent Acquisition"
+    },
+    {
+      "title": "AI Recruitment: Nurturing Talent Communities for Better Hires",
+      "slug": "ai-recruitment-nurturing-talent-communities-for-better-hires",
+      "description": "# AI Recruitment: Nurturing Talent Communities for Better Hires  \n\nIn today\u2019s hyper\u2011competitive talent market, recruiters who rely on one\u2011off sourcing...",
+      "pub_date": "2026-02-22",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "candidate tracking software",
+        "recruiter productivity tips",
+        "intelligent screening"
+      ],
+      "word_count": 1034,
+      "filepath": "content/posts/2026-02-22-ai-recruitment-nurturing-talent-communities-for-better-hires.md",
+      "topic": "AI Recruitment: Nurturing Talent Communities for Better Hires"
     }
   ],
   "topics_used": [
@@ -1826,8 +1842,9 @@
     "AI Hiring Dashboard: Empowering Managers with Data",
     "Uncover Hidden Bottlenecks with Recruiter Efficiency Tools",
     "AI Competency Assessment for Soft Skills",
-    "AI Hiring for Sustainable Talent Acquisition"
+    "AI Hiring for Sustainable Talent Acquisition",
+    "AI Recruitment: Nurturing Talent Communities for Better Hires"
   ],
-  "last_updated": "2026-02-21",
-  "total_posts": 102
+  "last_updated": "2026-02-22",
+  "total_posts": 103
 }
