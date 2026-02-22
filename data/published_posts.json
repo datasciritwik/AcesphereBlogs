@@ -1754,6 +1754,22 @@
       "word_count": 1254,
       "filepath": "content/posts/2026-02-22-ai-hiring-automation-reengage-candidates-cut-dropouts.md",
       "topic": "AI Hiring Automation: Re\u2011Engage Candidates & Cut Dropouts"
+    },
+    {
+      "title": "Interview Intelligence: AI Boosts Remote Hiring Decisions",
+      "slug": "interview-intelligence-ai-boosts-remote-hiring-decisions",
+      "description": "# Interview Intelligence: AI Boosts Remote Hiring Decisions  \n\nRemote hiring has become the default for many startups, but scaling it without sacrific...",
+      "pub_date": "2026-02-22",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "remote hiring best practices",
+        "AI skill testing",
+        "recruiter efficiency tools"
+      ],
+      "word_count": 1161,
+      "filepath": "content/posts/2026-02-22-interview-intelligence-ai-boosts-remote-hiring-decisions.md",
+      "topic": "Interview Intelligence: AI Boosts Remote Hiring Decisions"
     }
   ],
   "topics_used": [
@@ -1860,8 +1876,9 @@
     "AI Competency Assessment for Soft Skills",
     "AI Hiring for Sustainable Talent Acquisition",
     "AI Recruitment: Nurturing Talent Communities for Better Hires",
-    "AI Hiring Automation: Re\u2011Engage Candidates & Cut Dropouts"
+    "AI Hiring Automation: Re\u2011Engage Candidates & Cut Dropouts",
+    "Interview Intelligence: AI Boosts Remote Hiring Decisions"
   ],
   "last_updated": "2026-02-22",
-  "total_posts": 104
+  "total_posts": 105
 }
