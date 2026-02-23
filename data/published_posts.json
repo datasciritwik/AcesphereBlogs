@@ -1770,6 +1770,23 @@
       "word_count": 1161,
       "filepath": "content/posts/2026-02-22-interview-intelligence-ai-boosts-remote-hiring-decisions.md",
       "topic": "Interview Intelligence: AI Boosts Remote Hiring Decisions"
+    },
+    {
+      "title": "AI Coaching for Hiring Managers: Cut Bias & Boost Decisions",
+      "slug": "ai-coaching-for-hiring-managers-cut-bias-boost-decisions",
+      "description": "# AI Coaching for Hiring Managers: Cut Bias & Boost Decisions  \n\nHiring managers are the gatekeepers of talent, but even the most experienced intervie...",
+      "pub_date": "2026-02-23",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "hiring manager bias",
+        "AI decision coaching",
+        "bias mitigation",
+        "recruiter productivity"
+      ],
+      "word_count": 1048,
+      "filepath": "content/posts/2026-02-23-ai-coaching-for-hiring-managers-cut-bias-boost-decisions.md",
+      "topic": "AI Coaching for Hiring Managers: Cut Bias & Boost Decisions"
     }
   ],
   "topics_used": [
@@ -1877,8 +1894,9 @@
     "AI Hiring for Sustainable Talent Acquisition",
     "AI Recruitment: Nurturing Talent Communities for Better Hires",
     "AI Hiring Automation: Re\u2011Engage Candidates & Cut Dropouts",
-    "Interview Intelligence: AI Boosts Remote Hiring Decisions"
+    "Interview Intelligence: AI Boosts Remote Hiring Decisions",
+    "AI Coaching for Hiring Managers: Cut Bias & Boost Decisions"
   ],
-  "last_updated": "2026-02-22",
-  "total_posts": 105
+  "last_updated": "2026-02-23",
+  "total_posts": 106
 }
