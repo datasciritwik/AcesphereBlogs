@@ -1854,6 +1854,23 @@
       "word_count": 1305,
       "filepath": "content/posts/2026-02-25-audit-your-hiring-pipeline-with-ai-for-hidden-inefficiencies.md",
       "topic": "Audit Your Hiring Pipeline with AI for Hidden Inefficiencies"
+    },
+    {
+      "title": "AI Hiring Metrics That Impress the Board: A Guide",
+      "slug": "ai-hiring-metrics-that-impress-the-board-a-guide",
+      "description": "# AI Hiring Metrics That Impress the Board: A Guide  \n\nIn today\u2019s fast\u2011moving talent market, C\u2011level leaders need more than gut feeling to justify hir...",
+      "pub_date": "2026-02-25",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "hiring metrics",
+        "recruitment analytics",
+        "board reporting",
+        "hiring ROI"
+      ],
+      "word_count": 1234,
+      "filepath": "content/posts/2026-02-25-ai-hiring-metrics-that-impress-the-board-a-guide.md",
+      "topic": "AI Hiring Metrics That Impress the Board: A Guide"
     }
   ],
   "topics_used": [
@@ -1966,8 +1983,9 @@
     "Boost AI Recruitment Marketing ROI with Data-Driven Insights",
     "Video Interview AI Boosts Soft\u2011Skill Assessment",
     "Future of Recruitment: AI Maps Emerging Skill Hotspots",
-    "Audit Your Hiring Pipeline with AI for Hidden Inefficiencies"
+    "Audit Your Hiring Pipeline with AI for Hidden Inefficiencies",
+    "AI Hiring Metrics That Impress the Board: A Guide"
   ],
   "last_updated": "2026-02-25",
-  "total_posts": 110
+  "total_posts": 111
 }
