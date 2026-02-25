@@ -1837,6 +1837,23 @@
       "word_count": 1304,
       "filepath": "content/posts/2026-02-24-future-of-recruitment-ai-maps-emerging-skill-hotspots.md",
       "topic": "Future of Recruitment: AI Maps Emerging Skill Hotspots"
+    },
+    {
+      "title": "Audit Your Hiring Pipeline with AI for Hidden Inefficiencies",
+      "slug": "audit-your-hiring-pipeline-with-ai-for-hidden-inefficiencies",
+      "description": "# Audit Your Hiring Pipeline with AI for Hidden Inefficiencies  \n\nIn today\u2019s competitive talent market, mid\u2011sized companies can\u2019t afford to let slow,...",
+      "pub_date": "2026-02-25",
+      "tags": [],
+      "keywords": [
+        "hiring pipeline management",
+        "recruiter efficiency tools",
+        "recruitment workflow",
+        "recruitment analytics",
+        "automated hiring"
+      ],
+      "word_count": 1305,
+      "filepath": "content/posts/2026-02-25-audit-your-hiring-pipeline-with-ai-for-hidden-inefficiencies.md",
+      "topic": "Audit Your Hiring Pipeline with AI for Hidden Inefficiencies"
     }
   ],
   "topics_used": [
@@ -1948,8 +1965,9 @@
     "AI Coaching for Hiring Managers: Cut Bias & Boost Decisions",
     "Boost AI Recruitment Marketing ROI with Data-Driven Insights",
     "Video Interview AI Boosts Soft\u2011Skill Assessment",
-    "Future of Recruitment: AI Maps Emerging Skill Hotspots"
+    "Future of Recruitment: AI Maps Emerging Skill Hotspots",
+    "Audit Your Hiring Pipeline with AI for Hidden Inefficiencies"
   ],
-  "last_updated": "2026-02-24",
-  "total_posts": 109
+  "last_updated": "2026-02-25",
+  "total_posts": 110
 }
