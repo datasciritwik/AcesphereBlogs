@@ -1905,6 +1905,23 @@
       "word_count": 931,
       "filepath": "content/posts/2026-02-26-ai-enhanced-background-checks-faster-safer-hiring.md",
       "topic": "AI-Enhanced Background Checks: Faster, Safer Hiring"
+    },
+    {
+      "title": "AI Talent Market Intelligence: Data\u2011Driven Hiring Strategy",
+      "slug": "ai-talent-market-intelligence-datadriven-hiring-strategy",
+      "description": "# AI Talent Market Intelligence: Data\u2011Driven Hiring Strategy\n\nIn today\u2019s hyper\u2011competitive talent landscape, the ability to anticipate where skill sho...",
+      "pub_date": "2026-02-26",
+      "tags": [],
+      "keywords": [
+        "AI talent acquisition",
+        "hiring automation",
+        "data-driven hiring decisions",
+        "talent market intelligence",
+        "recruiter productivity"
+      ],
+      "word_count": 1129,
+      "filepath": "content/posts/2026-02-26-ai-talent-market-intelligence-datadriven-hiring-strategy.md",
+      "topic": "AI Talent Market Intelligence: Data\u2011Driven Hiring Strategy"
     }
   ],
   "topics_used": [
@@ -2020,8 +2037,9 @@
     "Audit Your Hiring Pipeline with AI for Hidden Inefficiencies",
     "AI Hiring Metrics That Impress the Board: A Guide",
     "AI\u2011Powered Hiring Dashboards: A Decision\u2011Support Guide for Managers",
-    "AI-Enhanced Background Checks: Faster, Safer Hiring"
+    "AI-Enhanced Background Checks: Faster, Safer Hiring",
+    "AI Talent Market Intelligence: Data\u2011Driven Hiring Strategy"
   ],
   "last_updated": "2026-02-26",
-  "total_posts": 113
+  "total_posts": 114
 }
