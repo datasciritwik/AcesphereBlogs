@@ -1871,6 +1871,23 @@
       "word_count": 1234,
       "filepath": "content/posts/2026-02-25-ai-hiring-metrics-that-impress-the-board-a-guide.md",
       "topic": "AI Hiring Metrics That Impress the Board: A Guide"
+    },
+    {
+      "title": "AI\u2011Powered Hiring Dashboards: A Decision\u2011Support Guide for Managers",
+      "slug": "aipowered-hiring-dashboards-a-decisionsupport-guide-for-mana",
+      "description": "# AI\u2011Powered Hiring Dashboards: A Decision\u2011Support Guide for Managers  \n\nHiring managers are inundated with spreadsheets, email threads, and fragmente...",
+      "pub_date": "2026-02-26",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "hiring dashboard",
+        "data-driven hiring decisions",
+        "hiring manager tools",
+        "recruitment analytics"
+      ],
+      "word_count": 1517,
+      "filepath": "content/posts/2026-02-26-aipowered-hiring-dashboards-a-decisionsupport-guide-for-mana.md",
+      "topic": "AI\u2011Powered Hiring Dashboards: A Decision\u2011Support Guide for Managers"
     }
   ],
   "topics_used": [
@@ -1984,8 +2001,9 @@
     "Video Interview AI Boosts Soft\u2011Skill Assessment",
     "Future of Recruitment: AI Maps Emerging Skill Hotspots",
     "Audit Your Hiring Pipeline with AI for Hidden Inefficiencies",
-    "AI Hiring Metrics That Impress the Board: A Guide"
+    "AI Hiring Metrics That Impress the Board: A Guide",
+    "AI\u2011Powered Hiring Dashboards: A Decision\u2011Support Guide for Managers"
   ],
-  "last_updated": "2026-02-25",
-  "total_posts": 111
+  "last_updated": "2026-02-26",
+  "total_posts": 112
 }
