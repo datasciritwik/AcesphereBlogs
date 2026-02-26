@@ -1888,6 +1888,23 @@
       "word_count": 1517,
       "filepath": "content/posts/2026-02-26-aipowered-hiring-dashboards-a-decisionsupport-guide-for-mana.md",
       "topic": "AI\u2011Powered Hiring Dashboards: A Decision\u2011Support Guide for Managers"
+    },
+    {
+      "title": "AI-Enhanced Background Checks: Faster, Safer Hiring",
+      "slug": "ai-enhanced-background-checks-faster-safer-hiring",
+      "description": "# AI-Enhanced Background Checks: Faster, Safer Hiring  \n\nHiring the right talent is the lifeblood of any startup, but lengthy background checks can st...",
+      "pub_date": "2026-02-26",
+      "tags": [],
+      "keywords": [
+        "automated background checks",
+        "AI hiring compliance",
+        "recruiter productivity",
+        "hiring process automation",
+        "AI talent acquisition"
+      ],
+      "word_count": 931,
+      "filepath": "content/posts/2026-02-26-ai-enhanced-background-checks-faster-safer-hiring.md",
+      "topic": "AI-Enhanced Background Checks: Faster, Safer Hiring"
     }
   ],
   "topics_used": [
@@ -2002,8 +2019,9 @@
     "Future of Recruitment: AI Maps Emerging Skill Hotspots",
     "Audit Your Hiring Pipeline with AI for Hidden Inefficiencies",
     "AI Hiring Metrics That Impress the Board: A Guide",
-    "AI\u2011Powered Hiring Dashboards: A Decision\u2011Support Guide for Managers"
+    "AI\u2011Powered Hiring Dashboards: A Decision\u2011Support Guide for Managers",
+    "AI-Enhanced Background Checks: Faster, Safer Hiring"
   ],
   "last_updated": "2026-02-26",
-  "total_posts": 112
+  "total_posts": 113
 }
