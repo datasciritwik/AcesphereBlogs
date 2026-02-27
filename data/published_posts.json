@@ -1922,6 +1922,23 @@
       "word_count": 1129,
       "filepath": "content/posts/2026-02-26-ai-talent-market-intelligence-datadriven-hiring-strategy.md",
       "topic": "AI Talent Market Intelligence: Data\u2011Driven Hiring Strategy"
+    },
+    {
+      "title": "AI\u2011Driven Talent Pool Segmentation for Faster Hiring",
+      "slug": "aidriven-talent-pool-segmentation-for-faster-hiring",
+      "description": "# AI\u2011Driven Talent Pool Segmentation for Faster Hiring\n\nIn today\u2019s hyper\u2011competitive talent market, recruiters need a way to surface the right candida...",
+      "pub_date": "2026-02-27",
+      "tags": [],
+      "keywords": [
+        "AI-driven talent pool segmentation",
+        "personalized sourcing",
+        "recruiter productivity",
+        "hiring automation",
+        "candidate experience"
+      ],
+      "word_count": 1114,
+      "filepath": "content/posts/2026-02-27-aidriven-talent-pool-segmentation-for-faster-hiring.md",
+      "topic": "AI\u2011Driven Talent Pool Segmentation for Faster Hiring"
     }
   ],
   "topics_used": [
@@ -2038,8 +2055,9 @@
     "AI Hiring Metrics That Impress the Board: A Guide",
     "AI\u2011Powered Hiring Dashboards: A Decision\u2011Support Guide for Managers",
     "AI-Enhanced Background Checks: Faster, Safer Hiring",
-    "AI Talent Market Intelligence: Data\u2011Driven Hiring Strategy"
+    "AI Talent Market Intelligence: Data\u2011Driven Hiring Strategy",
+    "AI\u2011Driven Talent Pool Segmentation for Faster Hiring"
   ],
-  "last_updated": "2026-02-26",
-  "total_posts": 114
+  "last_updated": "2026-02-27",
+  "total_posts": 115
 }
