@@ -1939,6 +1939,23 @@
       "word_count": 1114,
       "filepath": "content/posts/2026-02-27-aidriven-talent-pool-segmentation-for-faster-hiring.md",
       "topic": "AI\u2011Driven Talent Pool Segmentation for Faster Hiring"
+    },
+    {
+      "title": "AI Interview Analytics: Turning Data into Better Hires",
+      "slug": "ai-interview-analytics-turning-data-into-better-hires",
+      "description": "# AI Interview Analytics: Turning Data into Better Hires  \n\nHiring managers are under constant pressure to fill roles quickly, keep turnover low, and...",
+      "pub_date": "2026-02-27",
+      "tags": [],
+      "keywords": [
+        "AI interview analytics",
+        "interview intelligence",
+        "data-driven hiring decisions",
+        "hiring manager dashboard",
+        "candidate assessment metrics"
+      ],
+      "word_count": 1409,
+      "filepath": "content/posts/2026-02-27-ai-interview-analytics-turning-data-into-better-hires.md",
+      "topic": "AI Interview Analytics: Turning Data into Better Hires"
     }
   ],
   "topics_used": [
@@ -2056,8 +2073,9 @@
     "AI\u2011Powered Hiring Dashboards: A Decision\u2011Support Guide for Managers",
     "AI-Enhanced Background Checks: Faster, Safer Hiring",
     "AI Talent Market Intelligence: Data\u2011Driven Hiring Strategy",
-    "AI\u2011Driven Talent Pool Segmentation for Faster Hiring"
+    "AI\u2011Driven Talent Pool Segmentation for Faster Hiring",
+    "AI Interview Analytics: Turning Data into Better Hires"
   ],
   "last_updated": "2026-02-27",
-  "total_posts": 115
+  "total_posts": 116
 }
