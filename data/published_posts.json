@@ -1956,6 +1956,23 @@
       "word_count": 1409,
       "filepath": "content/posts/2026-02-27-ai-interview-analytics-turning-data-into-better-hires.md",
       "topic": "AI Interview Analytics: Turning Data into Better Hires"
+    },
+    {
+      "title": "AI Hiring Playbook for Remote\u2011First Teams: Culture & Skills",
+      "slug": "ai-hiring-playbook-for-remotefirst-teams-culture-skills",
+      "description": "# AI Hiring Playbook for Remote\u2011First Teams: Culture & Skills  \n\nRemote\u2011first startups face a unique hiring paradox: they must evaluate candidates who...",
+      "pub_date": "2026-02-28",
+      "tags": [],
+      "keywords": [
+        "remote hiring best practices",
+        "AI hiring",
+        "skill-based screening",
+        "culture fit assessment",
+        "recruiter productivity"
+      ],
+      "word_count": 1474,
+      "filepath": "content/posts/2026-02-28-ai-hiring-playbook-for-remotefirst-teams-culture-skills.md",
+      "topic": "AI Hiring Playbook for Remote\u2011First Teams: Culture & Skills"
     }
   ],
   "topics_used": [
@@ -2074,8 +2091,9 @@
     "AI-Enhanced Background Checks: Faster, Safer Hiring",
     "AI Talent Market Intelligence: Data\u2011Driven Hiring Strategy",
     "AI\u2011Driven Talent Pool Segmentation for Faster Hiring",
-    "AI Interview Analytics: Turning Data into Better Hires"
+    "AI Interview Analytics: Turning Data into Better Hires",
+    "AI Hiring Playbook for Remote\u2011First Teams: Culture & Skills"
   ],
-  "last_updated": "2026-02-27",
-  "total_posts": 116
+  "last_updated": "2026-02-28",
+  "total_posts": 117
 }
