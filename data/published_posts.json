@@ -1973,6 +1973,23 @@
       "word_count": 1474,
       "filepath": "content/posts/2026-02-28-ai-hiring-playbook-for-remotefirst-teams-culture-skills.md",
       "topic": "AI Hiring Playbook for Remote\u2011First Teams: Culture & Skills"
+    },
+    {
+      "title": "Next\u2011Gen Hiring: AI\u2011Powered Candidate Journey Mapping",
+      "slug": "nextgen-hiring-aipowered-candidate-journey-mapping",
+      "description": "# Next\u2011Gen Hiring: AI\u2011Powered Candidate Journey Mapping  \n\nIn today\u2019s talent\u2011driven market, recruiters need more than a checklist\u2014they need a living,...",
+      "pub_date": "2026-02-28",
+      "tags": [],
+      "keywords": [
+        "next-gen hiring",
+        "candidate journey mapping",
+        "AI hiring",
+        "recruiter efficiency tools",
+        "improving candidate experience with AI"
+      ],
+      "word_count": 1253,
+      "filepath": "content/posts/2026-02-28-nextgen-hiring-aipowered-candidate-journey-mapping.md",
+      "topic": "Next\u2011Gen Hiring: AI\u2011Powered Candidate Journey Mapping"
     }
   ],
   "topics_used": [
@@ -2092,8 +2109,9 @@
     "AI Talent Market Intelligence: Data\u2011Driven Hiring Strategy",
     "AI\u2011Driven Talent Pool Segmentation for Faster Hiring",
     "AI Interview Analytics: Turning Data into Better Hires",
-    "AI Hiring Playbook for Remote\u2011First Teams: Culture & Skills"
+    "AI Hiring Playbook for Remote\u2011First Teams: Culture & Skills",
+    "Next\u2011Gen Hiring: AI\u2011Powered Candidate Journey Mapping"
   ],
   "last_updated": "2026-02-28",
-  "total_posts": 117
+  "total_posts": 118
 }
