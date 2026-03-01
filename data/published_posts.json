@@ -2007,6 +2007,22 @@
       "word_count": 1063,
       "filepath": "content/posts/2026-03-01-virtual-interview-ai-boosting-hiring-accuracy-for-startups.md",
       "topic": "Virtual Interview AI: Boosting Hiring Accuracy for Startups"
+    },
+    {
+      "title": "Recruiter Productivity Tips: AI-Driven Scheduling Hacks",
+      "slug": "recruiter-productivity-tips-ai-driven-scheduling-hacks",
+      "description": "# Recruiter Productivity Tips: AI-Driven Scheduling Hacks  \n\nRecruiters spend a surprising amount of time juggling calendars, chasing replies, and res...",
+      "pub_date": "2026-03-01",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity tips",
+        "automated scheduling",
+        "hiring automation",
+        "AI-driven hiring"
+      ],
+      "word_count": 1484,
+      "filepath": "content/posts/2026-03-01-recruiter-productivity-tips-ai-driven-scheduling-hacks.md",
+      "topic": "Recruiter Productivity Tips: AI-Driven Scheduling Hacks"
     }
   ],
   "topics_used": [
@@ -2128,8 +2144,9 @@
     "AI Interview Analytics: Turning Data into Better Hires",
     "AI Hiring Playbook for Remote\u2011First Teams: Culture & Skills",
     "Next\u2011Gen Hiring: AI\u2011Powered Candidate Journey Mapping",
-    "Virtual Interview AI: Boosting Hiring Accuracy for Startups"
+    "Virtual Interview AI: Boosting Hiring Accuracy for Startups",
+    "Recruiter Productivity Tips: AI-Driven Scheduling Hacks"
   ],
   "last_updated": "2026-03-01",
-  "total_posts": 119
+  "total_posts": 120
 }
