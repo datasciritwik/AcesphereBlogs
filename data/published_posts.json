@@ -1990,6 +1990,23 @@
       "word_count": 1253,
       "filepath": "content/posts/2026-02-28-nextgen-hiring-aipowered-candidate-journey-mapping.md",
       "topic": "Next\u2011Gen Hiring: AI\u2011Powered Candidate Journey Mapping"
+    },
+    {
+      "title": "Virtual Interview AI: Boosting Hiring Accuracy for Startups",
+      "slug": "virtual-interview-ai-boosting-hiring-accuracy-for-startups",
+      "description": "# Virtual Interview AI: Boosting Hiring Accuracy for Startups  \n\nEarly\u2011stage startups can\u2019t afford costly hiring missteps. By leveraging **virtual int...",
+      "pub_date": "2026-03-01",
+      "tags": [],
+      "keywords": [
+        "virtual interview AI",
+        "hiring accuracy",
+        "hiring technology",
+        "remote hiring best practices",
+        "skill evaluation"
+      ],
+      "word_count": 1063,
+      "filepath": "content/posts/2026-03-01-virtual-interview-ai-boosting-hiring-accuracy-for-startups.md",
+      "topic": "Virtual Interview AI: Boosting Hiring Accuracy for Startups"
     }
   ],
   "topics_used": [
@@ -2110,8 +2127,9 @@
     "AI\u2011Driven Talent Pool Segmentation for Faster Hiring",
     "AI Interview Analytics: Turning Data into Better Hires",
     "AI Hiring Playbook for Remote\u2011First Teams: Culture & Skills",
-    "Next\u2011Gen Hiring: AI\u2011Powered Candidate Journey Mapping"
+    "Next\u2011Gen Hiring: AI\u2011Powered Candidate Journey Mapping",
+    "Virtual Interview AI: Boosting Hiring Accuracy for Startups"
   ],
-  "last_updated": "2026-02-28",
-  "total_posts": 118
+  "last_updated": "2026-03-01",
+  "total_posts": 119
 }
