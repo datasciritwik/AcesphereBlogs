@@ -2023,6 +2023,22 @@
       "word_count": 1484,
       "filepath": "content/posts/2026-03-01-recruiter-productivity-tips-ai-driven-scheduling-hacks.md",
       "topic": "Recruiter Productivity Tips: AI-Driven Scheduling Hacks"
+    },
+    {
+      "title": "Hiring Process Automation: Boost Recruiter Productivity",
+      "slug": "hiring-process-automation-boost-recruiter-productivity",
+      "description": "# Hiring Process Automation: Boost Recruiter Productivity  \n\nHiring managers who invest in **hiring process automation** instantly free their recruiti...",
+      "pub_date": "2026-03-02",
+      "tags": [],
+      "keywords": [
+        "hiring process automation",
+        "recruiter productivity tips",
+        "HR tech trends 2026",
+        "automated hiring"
+      ],
+      "word_count": 1069,
+      "filepath": "content/posts/2026-03-02-hiring-process-automation-boost-recruiter-productivity.md",
+      "topic": "Hiring Process Automation: Boost Recruiter Productivity"
     }
   ],
   "topics_used": [
@@ -2145,8 +2161,9 @@
     "AI Hiring Playbook for Remote\u2011First Teams: Culture & Skills",
     "Next\u2011Gen Hiring: AI\u2011Powered Candidate Journey Mapping",
     "Virtual Interview AI: Boosting Hiring Accuracy for Startups",
-    "Recruiter Productivity Tips: AI-Driven Scheduling Hacks"
+    "Recruiter Productivity Tips: AI-Driven Scheduling Hacks",
+    "Hiring Process Automation: Boost Recruiter Productivity"
   ],
-  "last_updated": "2026-03-01",
-  "total_posts": 120
+  "last_updated": "2026-03-02",
+  "total_posts": 121
 }
