@@ -2039,6 +2039,23 @@
       "word_count": 1069,
       "filepath": "content/posts/2026-03-02-hiring-process-automation-boost-recruiter-productivity.md",
       "topic": "Hiring Process Automation: Boost Recruiter Productivity"
+    },
+    {
+      "title": "Video Interview AI ROI: Quantify Hiring Gains",
+      "slug": "video-interview-ai-roi-quantify-hiring-gains",
+      "description": "# Video Interview AI ROI: Quantify Hiring Gains\n\nStartups that move fast need hiring decisions that are both swift **and** smart. Leveraging video int...",
+      "pub_date": "2026-03-03",
+      "tags": [],
+      "keywords": [
+        "video interview AI",
+        "hiring technology",
+        "cost savings with hiring automation",
+        "recruiter productivity tips",
+        "hiring best practices"
+      ],
+      "word_count": 1310,
+      "filepath": "content/posts/2026-03-03-video-interview-ai-roi-quantify-hiring-gains.md",
+      "topic": "Video Interview AI ROI: Quantify Hiring Gains"
     }
   ],
   "topics_used": [
@@ -2162,8 +2179,9 @@
     "Next\u2011Gen Hiring: AI\u2011Powered Candidate Journey Mapping",
     "Virtual Interview AI: Boosting Hiring Accuracy for Startups",
     "Recruiter Productivity Tips: AI-Driven Scheduling Hacks",
-    "Hiring Process Automation: Boost Recruiter Productivity"
+    "Hiring Process Automation: Boost Recruiter Productivity",
+    "Video Interview AI ROI: Quantify Hiring Gains"
   ],
-  "last_updated": "2026-03-02",
-  "total_posts": 121
+  "last_updated": "2026-03-03",
+  "total_posts": 122
 }
