@@ -2056,6 +2056,23 @@
       "word_count": 1310,
       "filepath": "content/posts/2026-03-03-video-interview-ai-roi-quantify-hiring-gains.md",
       "topic": "Video Interview AI ROI: Quantify Hiring Gains"
+    },
+    {
+      "title": "AI Recruitment Ethics: Building Transparent Hiring Algorithms",
+      "slug": "ai-recruitment-ethics-building-transparent-hiring-algorithms",
+      "description": "# AI Recruitment Ethics: Building Transparent Hiring Algorithms\n\nIn today\u2019s fast\u2011moving talent market, HR leaders need more than just speed\u2014they need...",
+      "pub_date": "2026-03-04",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "AI bias mitigation",
+        "recruitment innovation",
+        "transparent hiring algorithms",
+        "ethical AI hiring"
+      ],
+      "word_count": 1160,
+      "filepath": "content/posts/2026-03-04-ai-recruitment-ethics-building-transparent-hiring-algorithms.md",
+      "topic": "AI Recruitment Ethics: Building Transparent Hiring Algorithms"
     }
   ],
   "topics_used": [
@@ -2180,8 +2197,9 @@
     "Virtual Interview AI: Boosting Hiring Accuracy for Startups",
     "Recruiter Productivity Tips: AI-Driven Scheduling Hacks",
     "Hiring Process Automation: Boost Recruiter Productivity",
-    "Video Interview AI ROI: Quantify Hiring Gains"
+    "Video Interview AI ROI: Quantify Hiring Gains",
+    "AI Recruitment Ethics: Building Transparent Hiring Algorithms"
   ],
-  "last_updated": "2026-03-03",
-  "total_posts": 122
+  "last_updated": "2026-03-04",
+  "total_posts": 123
 }
