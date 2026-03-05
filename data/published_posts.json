@@ -2107,6 +2107,23 @@
       "word_count": 1107,
       "filepath": "content/posts/2026-03-05-objective-candidate-evaluation-meets-culture-fit.md",
       "topic": "Objective Candidate Evaluation Meets Culture Fit"
+    },
+    {
+      "title": "AI Hiring for Startups: Optimize Recruitment Spend",
+      "slug": "ai-hiring-for-startups-optimize-recruitment-spend",
+      "description": "# AI Hiring for Startups: Optimize Recruitment Spend\n\nFor early\u2011stage founders, every dollar spent on hiring must earn a clear return. This guide show...",
+      "pub_date": "2026-03-05",
+      "tags": [],
+      "keywords": [
+        "AI hiring for startups",
+        "smart hiring tools",
+        "hiring automation",
+        "recruiter productivity tips",
+        "candidate follow-up automation"
+      ],
+      "word_count": 1260,
+      "filepath": "content/posts/2026-03-05-ai-hiring-for-startups-optimize-recruitment-spend.md",
+      "topic": "AI Hiring for Startups: Optimize Recruitment Spend"
     }
   ],
   "topics_used": [
@@ -2234,8 +2251,9 @@
     "Video Interview AI ROI: Quantify Hiring Gains",
     "AI Recruitment Ethics: Building Transparent Hiring Algorithms",
     "AI Interview Scheduling: Cut Fatigue, Boost Offers",
-    "Objective Candidate Evaluation Meets Culture Fit"
+    "Objective Candidate Evaluation Meets Culture Fit",
+    "AI Hiring for Startups: Optimize Recruitment Spend"
   ],
   "last_updated": "2026-03-05",
-  "total_posts": 125
+  "total_posts": 126
 }
