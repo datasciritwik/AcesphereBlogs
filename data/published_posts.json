@@ -2090,6 +2090,23 @@
       "word_count": 1163,
       "filepath": "content/posts/2026-03-04-ai-interview-scheduling-cut-fatigue-boost-offers.md",
       "topic": "AI Interview Scheduling: Cut Fatigue, Boost Offers"
+    },
+    {
+      "title": "Objective Candidate Evaluation Meets Culture Fit",
+      "slug": "objective-candidate-evaluation-meets-culture-fit",
+      "description": "# Objective Candidate Evaluation Meets Culture Fit\n\nHiring managers and founders constantly wrestle with a paradox: **how to make hiring decisions tha...",
+      "pub_date": "2026-03-05",
+      "tags": [],
+      "keywords": [
+        "objective candidate evaluation",
+        "cultural fit assessment",
+        "AI hiring platform",
+        "data-driven hiring",
+        "recruiter productivity"
+      ],
+      "word_count": 1107,
+      "filepath": "content/posts/2026-03-05-objective-candidate-evaluation-meets-culture-fit.md",
+      "topic": "Objective Candidate Evaluation Meets Culture Fit"
     }
   ],
   "topics_used": [
@@ -2216,8 +2233,9 @@
     "Hiring Process Automation: Boost Recruiter Productivity",
     "Video Interview AI ROI: Quantify Hiring Gains",
     "AI Recruitment Ethics: Building Transparent Hiring Algorithms",
-    "AI Interview Scheduling: Cut Fatigue, Boost Offers"
+    "AI Interview Scheduling: Cut Fatigue, Boost Offers",
+    "Objective Candidate Evaluation Meets Culture Fit"
   ],
-  "last_updated": "2026-03-04",
-  "total_posts": 124
+  "last_updated": "2026-03-05",
+  "total_posts": 125
 }
