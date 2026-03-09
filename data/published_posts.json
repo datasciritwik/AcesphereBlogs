@@ -2124,6 +2124,23 @@
       "word_count": 1260,
       "filepath": "content/posts/2026-03-05-ai-hiring-for-startups-optimize-recruitment-spend.md",
       "topic": "AI Hiring for Startups: Optimize Recruitment Spend"
+    },
+    {
+      "title": "AI Hiring Health Score: Boost Your Modern Hiring Pipeline",
+      "slug": "ai-hiring-health-score-boost-your-modern-hiring-pipeline",
+      "description": "# AI Hiring Health Score: Boost Your Modern Hiring Pipeline\n\nIn today\u2019s fast\u2011paced talent market, recruiters need more than intuition to keep pipeline...",
+      "pub_date": "2026-03-09",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "building a modern hiring pipeline",
+        "next-gen hiring",
+        "hiring technology",
+        "candidate tracking software"
+      ],
+      "word_count": 1418,
+      "filepath": "content/posts/2026-03-09-ai-hiring-health-score-boost-your-modern-hiring-pipeline.md",
+      "topic": "AI Hiring Health Score: Boost Your Modern Hiring Pipeline"
     }
   ],
   "topics_used": [
@@ -2252,8 +2269,9 @@
     "AI Recruitment Ethics: Building Transparent Hiring Algorithms",
     "AI Interview Scheduling: Cut Fatigue, Boost Offers",
     "Objective Candidate Evaluation Meets Culture Fit",
-    "AI Hiring for Startups: Optimize Recruitment Spend"
+    "AI Hiring for Startups: Optimize Recruitment Spend",
+    "AI Hiring Health Score: Boost Your Modern Hiring Pipeline"
   ],
-  "last_updated": "2026-03-05",
-  "total_posts": 126
+  "last_updated": "2026-03-09",
+  "total_posts": 127
 }
