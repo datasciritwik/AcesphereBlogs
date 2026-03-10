@@ -2141,6 +2141,23 @@
       "word_count": 1418,
       "filepath": "content/posts/2026-03-09-ai-hiring-health-score-boost-your-modern-hiring-pipeline.md",
       "topic": "AI Hiring Health Score: Boost Your Modern Hiring Pipeline"
+    },
+    {
+      "title": "AI Salary Benchmarking: Optimize Compensation Offers",
+      "slug": "ai-salary-benchmarking-optimize-compensation-offers",
+      "description": "# AI Salary Benchmarking: Optimize Compensation Offers\n\nIn today\u2019s tight talent market, the difference between a signed contract and a missed opportun...",
+      "pub_date": "2026-03-10",
+      "tags": [],
+      "keywords": [
+        "AI salary benchmarking",
+        "compensation optimization",
+        "machine learning hiring",
+        "hiring best practices",
+        "AI talent acquisition"
+      ],
+      "word_count": 1429,
+      "filepath": "content/posts/2026-03-10-ai-salary-benchmarking-optimize-compensation-offers.md",
+      "topic": "AI Salary Benchmarking: Optimize Compensation Offers"
     }
   ],
   "topics_used": [
@@ -2270,8 +2287,9 @@
     "AI Interview Scheduling: Cut Fatigue, Boost Offers",
     "Objective Candidate Evaluation Meets Culture Fit",
     "AI Hiring for Startups: Optimize Recruitment Spend",
-    "AI Hiring Health Score: Boost Your Modern Hiring Pipeline"
+    "AI Hiring Health Score: Boost Your Modern Hiring Pipeline",
+    "AI Salary Benchmarking: Optimize Compensation Offers"
   ],
-  "last_updated": "2026-03-09",
-  "total_posts": 127
+  "last_updated": "2026-03-10",
+  "total_posts": 128
 }
