@@ -2158,6 +2158,22 @@
       "word_count": 1429,
       "filepath": "content/posts/2026-03-10-ai-salary-benchmarking-optimize-compensation-offers.md",
       "topic": "AI Salary Benchmarking: Optimize Compensation Offers"
+    },
+    {
+      "title": "AI Talent Acquisition for Climate Tech Startups",
+      "slug": "ai-talent-acquisition-for-climate-tech-startups",
+      "description": "# AI Talent Acquisition for Climate Tech Startups  \n\nIn the fast\u2011moving world of climate\u2011tech, attracting the right talent isn\u2019t just a hiring challen...",
+      "pub_date": "2026-03-11",
+      "tags": [],
+      "keywords": [
+        "AI talent acquisition",
+        "recruitment workflow",
+        "hiring best practices",
+        "AI hiring platform"
+      ],
+      "word_count": 1418,
+      "filepath": "content/posts/2026-03-11-ai-talent-acquisition-for-climate-tech-startups.md",
+      "topic": "AI Talent Acquisition for Climate Tech Startups"
     }
   ],
   "topics_used": [
@@ -2288,8 +2304,9 @@
     "Objective Candidate Evaluation Meets Culture Fit",
     "AI Hiring for Startups: Optimize Recruitment Spend",
     "AI Hiring Health Score: Boost Your Modern Hiring Pipeline",
-    "AI Salary Benchmarking: Optimize Compensation Offers"
+    "AI Salary Benchmarking: Optimize Compensation Offers",
+    "AI Talent Acquisition for Climate Tech Startups"
   ],
-  "last_updated": "2026-03-10",
-  "total_posts": 128
+  "last_updated": "2026-03-11",
+  "total_posts": 129
 }
