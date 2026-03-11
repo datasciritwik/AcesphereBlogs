@@ -2174,6 +2174,23 @@
       "word_count": 1418,
       "filepath": "content/posts/2026-03-11-ai-talent-acquisition-for-climate-tech-startups.md",
       "topic": "AI Talent Acquisition for Climate Tech Startups"
+    },
+    {
+      "title": "AI Talent Acquisition: Predictive Workforce Planning",
+      "slug": "ai-talent-acquisition-predictive-workforce-planning",
+      "description": "# AI Talent Acquisition: Predictive Workforce Planning\n\nIn today\u2019s fast\u2011moving market, waiting for a vacancy to appear before you start recruiting is...",
+      "pub_date": "2026-03-11",
+      "tags": [],
+      "keywords": [
+        "AI talent acquisition",
+        "predictive analytics hiring",
+        "workforce planning",
+        "skill gap forecasting",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1182,
+      "filepath": "content/posts/2026-03-11-ai-talent-acquisition-predictive-workforce-planning.md",
+      "topic": "AI Talent Acquisition: Predictive Workforce Planning"
     }
   ],
   "topics_used": [
@@ -2305,8 +2322,9 @@
     "AI Hiring for Startups: Optimize Recruitment Spend",
     "AI Hiring Health Score: Boost Your Modern Hiring Pipeline",
     "AI Salary Benchmarking: Optimize Compensation Offers",
-    "AI Talent Acquisition for Climate Tech Startups"
+    "AI Talent Acquisition for Climate Tech Startups",
+    "AI Talent Acquisition: Predictive Workforce Planning"
   ],
   "last_updated": "2026-03-11",
-  "total_posts": 129
+  "total_posts": 130
 }
