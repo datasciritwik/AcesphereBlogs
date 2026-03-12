@@ -2191,6 +2191,23 @@
       "word_count": 1182,
       "filepath": "content/posts/2026-03-11-ai-talent-acquisition-predictive-workforce-planning.md",
       "topic": "AI Talent Acquisition: Predictive Workforce Planning"
+    },
+    {
+      "title": "Audit Your AI Hiring Tools: A Bias Mitigation Playbook",
+      "slug": "audit-your-ai-hiring-tools-a-bias-mitigation-playbook",
+      "description": "# Audit Your AI Hiring Tools: A Bias Mitigation Playbook\n\nEnterprises that rely on AI\u2011driven recruitment gain speed and scale, but without a rigorous...",
+      "pub_date": "2026-03-12",
+      "tags": [],
+      "keywords": [
+        "AI bias mitigation",
+        "enterprise recruitment automation",
+        "reduce hiring bias",
+        "HR tech stack",
+        "audit AI hiring"
+      ],
+      "word_count": 1291,
+      "filepath": "content/posts/2026-03-12-audit-your-ai-hiring-tools-a-bias-mitigation-playbook.md",
+      "topic": "Audit Your AI Hiring Tools: A Bias Mitigation Playbook"
     }
   ],
   "topics_used": [
@@ -2323,8 +2340,9 @@
     "AI Hiring Health Score: Boost Your Modern Hiring Pipeline",
     "AI Salary Benchmarking: Optimize Compensation Offers",
     "AI Talent Acquisition for Climate Tech Startups",
-    "AI Talent Acquisition: Predictive Workforce Planning"
+    "AI Talent Acquisition: Predictive Workforce Planning",
+    "Audit Your AI Hiring Tools: A Bias Mitigation Playbook"
   ],
-  "last_updated": "2026-03-11",
-  "total_posts": 130
+  "last_updated": "2026-03-12",
+  "total_posts": 131
 }
