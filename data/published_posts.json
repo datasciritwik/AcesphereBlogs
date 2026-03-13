@@ -2208,6 +2208,29 @@
       "word_count": 1291,
       "filepath": "content/posts/2026-03-12-audit-your-ai-hiring-tools-a-bias-mitigation-playbook.md",
       "topic": "Audit Your AI Hiring Tools: A Bias Mitigation Playbook"
+    },
+    {
+      "title": "Automated Hiring for Contract-to-Hire Roles",
+      "slug": "automated-hiring-contract-to-hire",
+      "description": "Discover how automated hiring transforms contract-to-hire pipelines, boosting recruiter productivity while maintaining quality in today\u2019s fast\u2011moving talent market.",
+      "pub_date": "2026-03-13",
+      "tags": [
+        "AI Hiring",
+        "Contract-to-Hire",
+        "Recruiter Productivity",
+        "Talent Acquisition",
+        "Startup Hiring"
+      ],
+      "keywords": [
+        "automated hiring",
+        "contract-to-hire",
+        "recruiter productivity",
+        "skill-based screening",
+        "hiring workflow"
+      ],
+      "word_count": 1181,
+      "filepath": "content/posts/2026-03-13-automated-hiring-contract-to-hire.md",
+      "topic": "Automated Hiring for Contract-to-Hire Roles"
     }
   ],
   "topics_used": [
@@ -2341,8 +2364,9 @@
     "AI Salary Benchmarking: Optimize Compensation Offers",
     "AI Talent Acquisition for Climate Tech Startups",
     "AI Talent Acquisition: Predictive Workforce Planning",
-    "Audit Your AI Hiring Tools: A Bias Mitigation Playbook"
+    "Audit Your AI Hiring Tools: A Bias Mitigation Playbook",
+    "Automated Hiring for Contract-to-Hire Roles"
   ],
-  "last_updated": "2026-03-12",
-  "total_posts": 131
+  "last_updated": "2026-03-13",
+  "total_posts": 132
 }
