@@ -2231,6 +2231,22 @@
       "word_count": 1181,
       "filepath": "content/posts/2026-03-13-automated-hiring-contract-to-hire.md",
       "topic": "Automated Hiring for Contract-to-Hire Roles"
+    },
+    {
+      "title": "Seamless AI Hiring Integration with Your ATS",
+      "slug": "seamless-ai-hiring-integration-with-your-ats",
+      "description": "# Seamless AI Hiring Integration with Your\u202fATS\n\nIntegrating AI hiring tools into your existing applicant tracking system (ATS) doesn\u2019t have to be a di...",
+      "pub_date": "2026-03-13",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "recruiter efficiency tools",
+        "streamlined recruitment",
+        "AI hiring integration"
+      ],
+      "word_count": 1367,
+      "filepath": "content/posts/2026-03-13-seamless-ai-hiring-integration-with-your-ats.md",
+      "topic": "Seamless AI Hiring Integration with Your ATS"
     }
   ],
   "topics_used": [
@@ -2365,8 +2381,9 @@
     "AI Talent Acquisition for Climate Tech Startups",
     "AI Talent Acquisition: Predictive Workforce Planning",
     "Audit Your AI Hiring Tools: A Bias Mitigation Playbook",
-    "Automated Hiring for Contract-to-Hire Roles"
+    "Automated Hiring for Contract-to-Hire Roles",
+    "Seamless AI Hiring Integration with Your ATS"
   ],
   "last_updated": "2026-03-13",
-  "total_posts": 132
+  "total_posts": 133
 }
