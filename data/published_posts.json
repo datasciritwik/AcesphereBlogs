@@ -2247,6 +2247,23 @@
       "word_count": 1367,
       "filepath": "content/posts/2026-03-13-seamless-ai-hiring-integration-with-your-ats.md",
       "topic": "Seamless AI Hiring Integration with Your ATS"
+    },
+    {
+      "title": "AI Recruitment Upskilling: Microlearning for Recruiters",
+      "slug": "ai-recruitment-upskilling-microlearning-for-recruiters",
+      "description": "# AI Recruitment Upskilling: Microlearning for Recruiters  \n\nIn today\u2019s AI\u2011first hiring landscape, recruiters who treat artificial intelligence merely...",
+      "pub_date": "2026-03-14",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "recruiter productivity",
+        "microlearning",
+        "skill development",
+        "AI-powered hiring"
+      ],
+      "word_count": 1259,
+      "filepath": "content/posts/2026-03-14-ai-recruitment-upskilling-microlearning-for-recruiters.md",
+      "topic": "AI Recruitment Upskilling: Microlearning for Recruiters"
     }
   ],
   "topics_used": [
@@ -2382,8 +2399,9 @@
     "AI Talent Acquisition: Predictive Workforce Planning",
     "Audit Your AI Hiring Tools: A Bias Mitigation Playbook",
     "Automated Hiring for Contract-to-Hire Roles",
-    "Seamless AI Hiring Integration with Your ATS"
+    "Seamless AI Hiring Integration with Your ATS",
+    "AI Recruitment Upskilling: Microlearning for Recruiters"
   ],
-  "last_updated": "2026-03-13",
-  "total_posts": 133
+  "last_updated": "2026-03-14",
+  "total_posts": 134
 }
