@@ -2264,6 +2264,23 @@
       "word_count": 1259,
       "filepath": "content/posts/2026-03-14-ai-recruitment-upskilling-microlearning-for-recruiters.md",
       "topic": "AI Recruitment Upskilling: Microlearning for Recruiters"
+    },
+    {
+      "title": "AI Hiring Manager Coaching: Boost Decision Quality",
+      "slug": "ai-hiring-manager-coaching-boost-decision-quality",
+      "description": "# AI Hiring Manager Coaching: Boost Decision Quality  \n\nHiring managers are the front\u2011line decision makers in every interview, yet they often lack the...",
+      "pub_date": "2026-03-14",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "hiring manager coaching",
+        "data-driven hiring decisions",
+        "recruiter productivity",
+        "hiring automation"
+      ],
+      "word_count": 1061,
+      "filepath": "content/posts/2026-03-14-ai-hiring-manager-coaching-boost-decision-quality.md",
+      "topic": "AI Hiring Manager Coaching: Boost Decision Quality"
     }
   ],
   "topics_used": [
@@ -2400,8 +2417,9 @@
     "Audit Your AI Hiring Tools: A Bias Mitigation Playbook",
     "Automated Hiring for Contract-to-Hire Roles",
     "Seamless AI Hiring Integration with Your ATS",
-    "AI Recruitment Upskilling: Microlearning for Recruiters"
+    "AI Recruitment Upskilling: Microlearning for Recruiters",
+    "AI Hiring Manager Coaching: Boost Decision Quality"
   ],
   "last_updated": "2026-03-14",
-  "total_posts": 134
+  "total_posts": 135
 }
