@@ -2298,6 +2298,23 @@
       "word_count": 1224,
       "filepath": "content/posts/2026-03-15-ai-for-credentialagnostic-hiring-hire-skills-not-degrees.md",
       "topic": "AI for Credential\u2011Agnostic Hiring: Hire Skills, Not Degrees"
+    },
+    {
+      "title": "AI Interview Insights to Boost Employee Performance",
+      "slug": "ai-interview-insights-to-boost-employee-performance",
+      "description": "# AI Interview Insights to Boost Employee Performance\n\nRecruiters today have unprecedented access to granular interview data\u2014tone analysis, keyword pa...",
+      "pub_date": "2026-03-15",
+      "tags": [],
+      "keywords": [
+        "AI interview",
+        "interview intelligence",
+        "data-driven hiring decisions",
+        "hiring process automation",
+        "recruiter efficiency tools"
+      ],
+      "word_count": 1365,
+      "filepath": "content/posts/2026-03-15-ai-interview-insights-to-boost-employee-performance.md",
+      "topic": "AI Interview Insights to Boost Employee Performance"
     }
   ],
   "topics_used": [
@@ -2436,8 +2453,9 @@
     "Seamless AI Hiring Integration with Your ATS",
     "AI Recruitment Upskilling: Microlearning for Recruiters",
     "AI Hiring Manager Coaching: Boost Decision Quality",
-    "AI for Credential\u2011Agnostic Hiring: Hire Skills, Not Degrees"
+    "AI for Credential\u2011Agnostic Hiring: Hire Skills, Not Degrees",
+    "AI Interview Insights to Boost Employee Performance"
   ],
   "last_updated": "2026-03-15",
-  "total_posts": 136
+  "total_posts": 137
 }
