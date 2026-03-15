@@ -2281,6 +2281,23 @@
       "word_count": 1061,
       "filepath": "content/posts/2026-03-14-ai-hiring-manager-coaching-boost-decision-quality.md",
       "topic": "AI Hiring Manager Coaching: Boost Decision Quality"
+    },
+    {
+      "title": "AI for Credential\u2011Agnostic Hiring: Hire Skills, Not Degrees",
+      "slug": "ai-for-credentialagnostic-hiring-hire-skills-not-degrees",
+      "description": "# AI for Credential\u2011Agnostic Hiring: Hire Skills, Not Degrees  \n\nIn today\u2019s hyper\u2011competitive talent market, fast\u2011growing startups can\u2019t afford to lim...",
+      "pub_date": "2026-03-15",
+      "tags": [],
+      "keywords": [
+        "AI hiring for startups",
+        "skill-based hiring",
+        "credential-agnostic hiring",
+        "AI recruitment",
+        "coding assessment platform"
+      ],
+      "word_count": 1224,
+      "filepath": "content/posts/2026-03-15-ai-for-credentialagnostic-hiring-hire-skills-not-degrees.md",
+      "topic": "AI for Credential\u2011Agnostic Hiring: Hire Skills, Not Degrees"
     }
   ],
   "topics_used": [
@@ -2418,8 +2435,9 @@
     "Automated Hiring for Contract-to-Hire Roles",
     "Seamless AI Hiring Integration with Your ATS",
     "AI Recruitment Upskilling: Microlearning for Recruiters",
-    "AI Hiring Manager Coaching: Boost Decision Quality"
+    "AI Hiring Manager Coaching: Boost Decision Quality",
+    "AI for Credential\u2011Agnostic Hiring: Hire Skills, Not Degrees"
   ],
-  "last_updated": "2026-03-14",
-  "total_posts": 135
+  "last_updated": "2026-03-15",
+  "total_posts": 136
 }
