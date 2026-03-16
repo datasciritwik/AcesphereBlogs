@@ -2315,6 +2315,23 @@
       "word_count": 1365,
       "filepath": "content/posts/2026-03-15-ai-interview-insights-to-boost-employee-performance.md",
       "topic": "AI Interview Insights to Boost Employee Performance"
+    },
+    {
+      "title": "AI Salary Negotiation Coach: Boost Offer Acceptance",
+      "slug": "ai-salary-negotiation-coach-boost-offer-acceptance",
+      "description": "# AI Salary Negotiation Coach: Boost Offer Acceptance\n\nHiring managers constantly wrestle with the \u201coffer\u2011acceptance bottleneck.\u201d\u202fWhat if you could tu...",
+      "pub_date": "2026-03-16",
+      "tags": [],
+      "keywords": [
+        "AI salary negotiation",
+        "offer acceptance rates",
+        "AI recruitment",
+        "data-driven hiring decisions",
+        "AI hiring"
+      ],
+      "word_count": 1238,
+      "filepath": "content/posts/2026-03-16-ai-salary-negotiation-coach-boost-offer-acceptance.md",
+      "topic": "AI Salary Negotiation Coach: Boost Offer Acceptance"
     }
   ],
   "topics_used": [
@@ -2454,8 +2471,9 @@
     "AI Recruitment Upskilling: Microlearning for Recruiters",
     "AI Hiring Manager Coaching: Boost Decision Quality",
     "AI for Credential\u2011Agnostic Hiring: Hire Skills, Not Degrees",
-    "AI Interview Insights to Boost Employee Performance"
+    "AI Interview Insights to Boost Employee Performance",
+    "AI Salary Negotiation Coach: Boost Offer Acceptance"
   ],
-  "last_updated": "2026-03-15",
-  "total_posts": 137
+  "last_updated": "2026-03-16",
+  "total_posts": 138
 }
