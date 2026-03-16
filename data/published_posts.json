@@ -2332,6 +2332,23 @@
       "word_count": 1238,
       "filepath": "content/posts/2026-03-16-ai-salary-negotiation-coach-boost-offer-acceptance.md",
       "topic": "AI Salary Negotiation Coach: Boost Offer Acceptance"
+    },
+    {
+      "title": "Hiring Dashboard: Capacity Planning for Recruiters",
+      "slug": "hiring-dashboard-capacity-planning-for-recruiters",
+      "description": "# Hiring Dashboard: Capacity Planning for Recruiters\n\nRecruiters at fast\u2011growing startups constantly juggle multiple requisitions, shifting priorities...",
+      "pub_date": "2026-03-16",
+      "tags": [],
+      "keywords": [
+        "hiring dashboard",
+        "hiring pipeline management",
+        "predictive hiring",
+        "recruiter productivity",
+        "hiring process automation"
+      ],
+      "word_count": 1358,
+      "filepath": "content/posts/2026-03-16-hiring-dashboard-capacity-planning-for-recruiters.md",
+      "topic": "Hiring Dashboard: Capacity Planning for Recruiters"
     }
   ],
   "topics_used": [
@@ -2472,8 +2489,9 @@
     "AI Hiring Manager Coaching: Boost Decision Quality",
     "AI for Credential\u2011Agnostic Hiring: Hire Skills, Not Degrees",
     "AI Interview Insights to Boost Employee Performance",
-    "AI Salary Negotiation Coach: Boost Offer Acceptance"
+    "AI Salary Negotiation Coach: Boost Offer Acceptance",
+    "Hiring Dashboard: Capacity Planning for Recruiters"
   ],
   "last_updated": "2026-03-16",
-  "total_posts": 138
+  "total_posts": 139
 }
