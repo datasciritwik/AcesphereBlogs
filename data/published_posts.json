@@ -2349,6 +2349,22 @@
       "word_count": 1358,
       "filepath": "content/posts/2026-03-16-hiring-dashboard-capacity-planning-for-recruiters.md",
       "topic": "Hiring Dashboard: Capacity Planning for Recruiters"
+    },
+    {
+      "title": "AI Recruitment & Sustainability: Green Hiring Practices",
+      "slug": "ai-recruitment-sustainability-green-hiring-practices",
+      "description": "# AI Recruitment & Sustainability: Green Hiring Practices  \n\nIn today\u2019s talent\u2011driven market, HR teams are under pressure to **scale quickly, cut cost...",
+      "pub_date": "2026-03-17",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "recruitment innovation",
+        "future of recruitment",
+        "automated hiring"
+      ],
+      "word_count": 1140,
+      "filepath": "content/posts/2026-03-17-ai-recruitment-sustainability-green-hiring-practices.md",
+      "topic": "AI Recruitment & Sustainability: Green Hiring Practices"
     }
   ],
   "topics_used": [
@@ -2490,8 +2506,9 @@
     "AI for Credential\u2011Agnostic Hiring: Hire Skills, Not Degrees",
     "AI Interview Insights to Boost Employee Performance",
     "AI Salary Negotiation Coach: Boost Offer Acceptance",
-    "Hiring Dashboard: Capacity Planning for Recruiters"
+    "Hiring Dashboard: Capacity Planning for Recruiters",
+    "AI Recruitment & Sustainability: Green Hiring Practices"
   ],
-  "last_updated": "2026-03-16",
-  "total_posts": 139
+  "last_updated": "2026-03-17",
+  "total_posts": 140
 }
