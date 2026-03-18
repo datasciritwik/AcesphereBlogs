@@ -2365,6 +2365,23 @@
       "word_count": 1140,
       "filepath": "content/posts/2026-03-17-ai-recruitment-sustainability-green-hiring-practices.md",
       "topic": "AI Recruitment & Sustainability: Green Hiring Practices"
+    },
+    {
+      "title": "Predictive Diversity Hiring: AI Forecasts Bias\u2011Free Talent Gaps",
+      "slug": "predictive-diversity-hiring-ai-forecasts-biasfree-talent-gap",
+      "description": "# Predictive Diversity Hiring: AI Forecasts Bias\u2011Free Talent Gaps  \n\nRecruiters who wait for a diversity shortfall to appear are constantly playing ca...",
+      "pub_date": "2026-03-18",
+      "tags": [],
+      "keywords": [
+        "bias-free hiring",
+        "predictive hiring",
+        "diversity analytics",
+        "AI hiring forecast",
+        "future of recruitment"
+      ],
+      "word_count": 1315,
+      "filepath": "content/posts/2026-03-18-predictive-diversity-hiring-ai-forecasts-biasfree-talent-gap.md",
+      "topic": "Predictive Diversity Hiring: AI Forecasts Bias\u2011Free Talent Gaps"
     }
   ],
   "topics_used": [
@@ -2507,8 +2524,9 @@
     "AI Interview Insights to Boost Employee Performance",
     "AI Salary Negotiation Coach: Boost Offer Acceptance",
     "Hiring Dashboard: Capacity Planning for Recruiters",
-    "AI Recruitment & Sustainability: Green Hiring Practices"
+    "AI Recruitment & Sustainability: Green Hiring Practices",
+    "Predictive Diversity Hiring: AI Forecasts Bias\u2011Free Talent Gaps"
   ],
-  "last_updated": "2026-03-17",
-  "total_posts": 140
+  "last_updated": "2026-03-18",
+  "total_posts": 141
 }
