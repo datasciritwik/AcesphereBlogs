@@ -2399,6 +2399,23 @@
       "word_count": 1335,
       "filepath": "content/posts/2026-03-18-ai-hiring-for-multilingual-teams-boost-global-talent.md",
       "topic": "AI Hiring for Multilingual Teams: Boost Global Talent"
+    },
+    {
+      "title": "Boost Recruitment Workflow with AI\u2011Slack Integration",
+      "slug": "boost-recruitment-workflow-with-aislack-integration",
+      "description": "# Boost Recruitment Workflow with AI\u2011Slack Integration\n\nIn today\u2019s fast\u2011moving talent market, the ability to move a candidate from resume to interview...",
+      "pub_date": "2026-03-19",
+      "tags": [],
+      "keywords": [
+        "recruitment workflow",
+        "AI recruitment",
+        "hiring process automation",
+        "recruiter productivity",
+        "AI integration"
+      ],
+      "word_count": 1452,
+      "filepath": "content/posts/2026-03-19-boost-recruitment-workflow-with-aislack-integration.md",
+      "topic": "Boost Recruitment Workflow with AI\u2011Slack Integration"
     }
   ],
   "topics_used": [
@@ -2543,8 +2560,9 @@
     "Hiring Dashboard: Capacity Planning for Recruiters",
     "AI Recruitment & Sustainability: Green Hiring Practices",
     "Predictive Diversity Hiring: AI Forecasts Bias\u2011Free Talent Gaps",
-    "AI Hiring for Multilingual Teams: Boost Global Talent"
+    "AI Hiring for Multilingual Teams: Boost Global Talent",
+    "Boost Recruitment Workflow with AI\u2011Slack Integration"
   ],
-  "last_updated": "2026-03-18",
-  "total_posts": 142
+  "last_updated": "2026-03-19",
+  "total_posts": 143
 }
