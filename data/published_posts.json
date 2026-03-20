@@ -2433,6 +2433,23 @@
       "word_count": 1366,
       "filepath": "content/posts/2026-03-20-ai-powered-candidate-nurturing-for-faster-hires.md",
       "topic": "AI-Powered Candidate Nurturing for Faster Hires"
+    },
+    {
+      "title": "AI Hiring Platform Playbook for Series A Startups",
+      "slug": "ai-hiring-platform-playbook-for-series-a-startups",
+      "description": "# AI Hiring Platform Playbook for Series A Startups  \n\nSeries A funding unlocks the resources you need to accelerate growth, but the real challenge is...",
+      "pub_date": "2026-03-20",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "recruiter productivity",
+        "hiring automation",
+        "startup hiring best practices",
+        "scaling hiring"
+      ],
+      "word_count": 1241,
+      "filepath": "content/posts/2026-03-20-ai-hiring-platform-playbook-for-series-a-startups.md",
+      "topic": "AI Hiring Platform Playbook for Series A Startups"
     }
   ],
   "topics_used": [
@@ -2579,8 +2596,9 @@
     "Predictive Diversity Hiring: AI Forecasts Bias\u2011Free Talent Gaps",
     "AI Hiring for Multilingual Teams: Boost Global Talent",
     "Boost Recruitment Workflow with AI\u2011Slack Integration",
-    "AI-Powered Candidate Nurturing for Faster Hires"
+    "AI-Powered Candidate Nurturing for Faster Hires",
+    "AI Hiring Platform Playbook for Series A Startups"
   ],
   "last_updated": "2026-03-20",
-  "total_posts": 144
+  "total_posts": 145
 }
