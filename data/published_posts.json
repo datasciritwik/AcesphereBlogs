@@ -2416,6 +2416,23 @@
       "word_count": 1452,
       "filepath": "content/posts/2026-03-19-boost-recruitment-workflow-with-aislack-integration.md",
       "topic": "Boost Recruitment Workflow with AI\u2011Slack Integration"
+    },
+    {
+      "title": "AI-Powered Candidate Nurturing for Faster Hires",
+      "slug": "ai-powered-candidate-nurturing-for-faster-hires",
+      "description": "# AI-Powered Candidate Nurturing for Faster Hires  \n\nIn today\u2019s talent\u2011scarce market, the ability to **turn passive talent into active applicants** ca...",
+      "pub_date": "2026-03-20",
+      "tags": [],
+      "keywords": [
+        "candidate nurturing",
+        "AI recruiting automation",
+        "passive talent engagement",
+        "recruiter efficiency tools",
+        "improving candidate experience with AI"
+      ],
+      "word_count": 1366,
+      "filepath": "content/posts/2026-03-20-ai-powered-candidate-nurturing-for-faster-hires.md",
+      "topic": "AI-Powered Candidate Nurturing for Faster Hires"
     }
   ],
   "topics_used": [
@@ -2561,8 +2578,9 @@
     "AI Recruitment & Sustainability: Green Hiring Practices",
     "Predictive Diversity Hiring: AI Forecasts Bias\u2011Free Talent Gaps",
     "AI Hiring for Multilingual Teams: Boost Global Talent",
-    "Boost Recruitment Workflow with AI\u2011Slack Integration"
+    "Boost Recruitment Workflow with AI\u2011Slack Integration",
+    "AI-Powered Candidate Nurturing for Faster Hires"
   ],
-  "last_updated": "2026-03-19",
-  "total_posts": 143
+  "last_updated": "2026-03-20",
+  "total_posts": 144
 }
