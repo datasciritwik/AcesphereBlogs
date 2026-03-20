@@ -2450,6 +2450,23 @@
       "word_count": 1241,
       "filepath": "content/posts/2026-03-20-ai-hiring-platform-playbook-for-series-a-startups.md",
       "topic": "AI Hiring Platform Playbook for Series A Startups"
+    },
+    {
+      "title": "AI Hiring Platform: Hiring for Hybrid Workforces",
+      "slug": "ai-hiring-platform-hiring-for-hybrid-workforces",
+      "description": "# AI Hiring Platform: Hiring for Hybrid Workforces\n\nRecruiters today face a new paradox: the talent pool is larger than ever, but the criteria for a g...",
+      "pub_date": "2026-03-20",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "hybrid work hiring",
+        "recruiter efficiency tools",
+        "hiring automation",
+        "future of recruitment"
+      ],
+      "word_count": 1143,
+      "filepath": "content/posts/2026-03-20-ai-hiring-platform-hiring-for-hybrid-workforces.md",
+      "topic": "AI Hiring Platform: Hiring for Hybrid Workforces"
     }
   ],
   "topics_used": [
@@ -2597,8 +2614,9 @@
     "AI Hiring for Multilingual Teams: Boost Global Talent",
     "Boost Recruitment Workflow with AI\u2011Slack Integration",
     "AI-Powered Candidate Nurturing for Faster Hires",
-    "AI Hiring Platform Playbook for Series A Startups"
+    "AI Hiring Platform Playbook for Series A Startups",
+    "AI Hiring Platform: Hiring for Hybrid Workforces"
   ],
   "last_updated": "2026-03-20",
-  "total_posts": 145
+  "total_posts": 146
 }
