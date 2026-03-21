@@ -2467,6 +2467,23 @@
       "word_count": 1143,
       "filepath": "content/posts/2026-03-20-ai-hiring-platform-hiring-for-hybrid-workforces.md",
       "topic": "AI Hiring Platform: Hiring for Hybrid Workforces"
+    },
+    {
+      "title": "Hiring Automation Blueprint: Build a Continuous Talent Funnel",
+      "slug": "hiring-automation-blueprint-build-a-continuous-talent-funnel",
+      "description": "# Hiring Automation Blueprint: Build a Continuous Talent Funnel\n\nFast\u2011growing startups can\u2019t afford to scramble for talent every time a role opens. By...",
+      "pub_date": "2026-03-21",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "continuous talent pipeline",
+        "scaling hiring operations",
+        "AI recruitment workflow",
+        "growth-stage hiring"
+      ],
+      "word_count": 1420,
+      "filepath": "content/posts/2026-03-21-hiring-automation-blueprint-build-a-continuous-talent-funnel.md",
+      "topic": "Hiring Automation Blueprint: Build a Continuous Talent Funnel"
     }
   ],
   "topics_used": [
@@ -2615,8 +2632,9 @@
     "Boost Recruitment Workflow with AI\u2011Slack Integration",
     "AI-Powered Candidate Nurturing for Faster Hires",
     "AI Hiring Platform Playbook for Series A Startups",
-    "AI Hiring Platform: Hiring for Hybrid Workforces"
+    "AI Hiring Platform: Hiring for Hybrid Workforces",
+    "Hiring Automation Blueprint: Build a Continuous Talent Funnel"
   ],
-  "last_updated": "2026-03-20",
-  "total_posts": 146
+  "last_updated": "2026-03-21",
+  "total_posts": 147
 }
