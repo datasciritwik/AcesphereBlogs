@@ -2484,6 +2484,23 @@
       "word_count": 1420,
       "filepath": "content/posts/2026-03-21-hiring-automation-blueprint-build-a-continuous-talent-funnel.md",
       "topic": "Hiring Automation Blueprint: Build a Continuous Talent Funnel"
+    },
+    {
+      "title": "Game\u2011Based AI Skill Evaluation: Hire Soft Skills Fast",
+      "slug": "gamebased-ai-skill-evaluation-hire-soft-skills-fast",
+      "description": "# Game\u2011Based AI Skill Evaluation: Hire Soft Skills Fast\n\nHiring the right people is no longer just about ticking off technical boxes. Modern teams nee...",
+      "pub_date": "2026-03-21",
+      "tags": [],
+      "keywords": [
+        "AI skill evaluation",
+        "soft skill assessment",
+        "automated evaluation",
+        "candidate screening automation",
+        "AI for technical hiring"
+      ],
+      "word_count": 1098,
+      "filepath": "content/posts/2026-03-21-gamebased-ai-skill-evaluation-hire-soft-skills-fast.md",
+      "topic": "Game\u2011Based AI Skill Evaluation: Hire Soft Skills Fast"
     }
   ],
   "topics_used": [
@@ -2633,8 +2650,9 @@
     "AI-Powered Candidate Nurturing for Faster Hires",
     "AI Hiring Platform Playbook for Series A Startups",
     "AI Hiring Platform: Hiring for Hybrid Workforces",
-    "Hiring Automation Blueprint: Build a Continuous Talent Funnel"
+    "Hiring Automation Blueprint: Build a Continuous Talent Funnel",
+    "Game\u2011Based AI Skill Evaluation: Hire Soft Skills Fast"
   ],
   "last_updated": "2026-03-21",
-  "total_posts": 147
+  "total_posts": 148
 }
