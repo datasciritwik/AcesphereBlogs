@@ -2535,6 +2535,23 @@
       "word_count": 1206,
       "filepath": "content/posts/2026-03-22-ai-talent-market-forecasting-predict-skill-trends-for-recrui.md",
       "topic": "AI Talent Market Forecasting: Predict Skill Trends for Recruiters"
+    },
+    {
+      "title": "AI-Powered Hiring Budget Optimization: Maximize ROI",
+      "slug": "ai-powered-hiring-budget-optimization-maximize-roi",
+      "description": "# AI\u2011Powered Hiring Budget Optimization: Maximize ROI  \n\nHR leaders are under constant pressure to do more with less\u2014delivering top talent while keepi...",
+      "pub_date": "2026-03-23",
+      "tags": [],
+      "keywords": [
+        "hiring budget optimization",
+        "AI hiring automation",
+        "recruiter ROI",
+        "talent acquisition cost",
+        "hiring spend analytics"
+      ],
+      "word_count": 1108,
+      "filepath": "content/posts/2026-03-23-ai-powered-hiring-budget-optimization-maximize-roi.md",
+      "topic": "AI-Powered Hiring Budget Optimization: Maximize ROI"
     }
   ],
   "topics_used": [
@@ -2687,8 +2704,9 @@
     "Hiring Automation Blueprint: Build a Continuous Talent Funnel",
     "Game\u2011Based AI Skill Evaluation: Hire Soft Skills Fast",
     "Hiring Automation Playbook for Fast\u2011Growth Funding Rounds",
-    "AI Talent Market Forecasting: Predict Skill Trends for Recruiters"
+    "AI Talent Market Forecasting: Predict Skill Trends for Recruiters",
+    "AI-Powered Hiring Budget Optimization: Maximize ROI"
   ],
-  "last_updated": "2026-03-22",
-  "total_posts": 150
+  "last_updated": "2026-03-23",
+  "total_posts": 151
 }
