@@ -2552,6 +2552,23 @@
       "word_count": 1108,
       "filepath": "content/posts/2026-03-23-ai-powered-hiring-budget-optimization-maximize-roi.md",
       "topic": "AI-Powered Hiring Budget Optimization: Maximize ROI"
+    },
+    {
+      "title": "AI Interview Debrief Automation: Turn Notes into Insights",
+      "slug": "ai-interview-debrief-automation-turn-notes-into-insights",
+      "description": "# AI Interview Debrief Automation: Turn Notes into Insights  \n\nRecruiters spend countless hours sifting through handwritten notes, re\u2011listening to rec...",
+      "pub_date": "2026-03-23",
+      "tags": [],
+      "keywords": [
+        "AI interview debrief",
+        "interview intelligence",
+        "automated screening",
+        "data-driven hiring decisions",
+        "recruiter productivity"
+      ],
+      "word_count": 1297,
+      "filepath": "content/posts/2026-03-23-ai-interview-debrief-automation-turn-notes-into-insights.md",
+      "topic": "AI Interview Debrief Automation: Turn Notes into Insights"
     }
   ],
   "topics_used": [
@@ -2705,8 +2722,9 @@
     "Game\u2011Based AI Skill Evaluation: Hire Soft Skills Fast",
     "Hiring Automation Playbook for Fast\u2011Growth Funding Rounds",
     "AI Talent Market Forecasting: Predict Skill Trends for Recruiters",
-    "AI-Powered Hiring Budget Optimization: Maximize ROI"
+    "AI-Powered Hiring Budget Optimization: Maximize ROI",
+    "AI Interview Debrief Automation: Turn Notes into Insights"
   ],
   "last_updated": "2026-03-23",
-  "total_posts": 151
+  "total_posts": 152
 }
