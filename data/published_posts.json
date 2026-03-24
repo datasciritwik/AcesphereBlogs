@@ -2569,6 +2569,23 @@
       "word_count": 1297,
       "filepath": "content/posts/2026-03-23-ai-interview-debrief-automation-turn-notes-into-insights.md",
       "topic": "AI Interview Debrief Automation: Turn Notes into Insights"
+    },
+    {
+      "title": "AI Interview Summaries: A Recruiter Productivity Boost",
+      "slug": "ai-interview-summaries-a-recruiter-productivity-boost",
+      "description": "# AI Interview Summaries: A Recruiter Productivity Boost  \n\nRecruiters and hiring managers at fast\u2011growing startups and mid\u2011sized companies spend coun...",
+      "pub_date": "2026-03-24",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity",
+        "AI interview",
+        "interview summarization",
+        "hiring automation",
+        "AI hiring for startups"
+      ],
+      "word_count": 1184,
+      "filepath": "content/posts/2026-03-24-ai-interview-summaries-a-recruiter-productivity-boost.md",
+      "topic": "AI Interview Summaries: A Recruiter Productivity Boost"
     }
   ],
   "topics_used": [
@@ -2723,8 +2740,9 @@
     "Hiring Automation Playbook for Fast\u2011Growth Funding Rounds",
     "AI Talent Market Forecasting: Predict Skill Trends for Recruiters",
     "AI-Powered Hiring Budget Optimization: Maximize ROI",
-    "AI Interview Debrief Automation: Turn Notes into Insights"
+    "AI Interview Debrief Automation: Turn Notes into Insights",
+    "AI Interview Summaries: A Recruiter Productivity Boost"
   ],
-  "last_updated": "2026-03-23",
-  "total_posts": 152
+  "last_updated": "2026-03-24",
+  "total_posts": 153
 }
