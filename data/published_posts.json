@@ -2636,6 +2636,23 @@
       "word_count": 1193,
       "filepath": "content/posts/2026-03-25-ai-hiring-reduce-manager-fatigue-with-decision-support.md",
       "topic": "AI Hiring: Reduce Manager Fatigue with Decision Support"
+    },
+    {
+      "title": "HR Tech Trends 2026: AI\u2019s Impact on Recruitment Workflows",
+      "slug": "hr-tech-trends-2026-ais-impact-on-recruitment-workflows",
+      "description": "# HR Tech Trends 2026: AI\u2019s Impact on Recruitment Workflows  \n\nRecruiters and HR leaders are under pressure to fill roles faster, cut bias, and keep t...",
+      "pub_date": "2026-03-25",
+      "tags": [],
+      "keywords": [
+        "HR tech trends 2026",
+        "enterprise recruitment automation",
+        "recruitment analytics",
+        "AI interview assessment",
+        "streamlined recruitment"
+      ],
+      "word_count": 1543,
+      "filepath": "content/posts/2026-03-25-hr-tech-trends-2026-ais-impact-on-recruitment-workflows.md",
+      "topic": "HR Tech Trends 2026: AI\u2019s Impact on Recruitment Workflows"
     }
   ],
   "topics_used": [
@@ -2794,8 +2811,9 @@
     "AI Interview Summaries: A Recruiter Productivity Boost",
     "AI\u2011Built Skill Taxonomy: Future\u2011Proof Your Hiring Funnel",
     "AI Talent Rediscovery: Reactivate Past Candidates Fast",
-    "AI Hiring: Reduce Manager Fatigue with Decision Support"
+    "AI Hiring: Reduce Manager Fatigue with Decision Support",
+    "HR Tech Trends 2026: AI\u2019s Impact on Recruitment Workflows"
   ],
   "last_updated": "2026-03-25",
-  "total_posts": 156
+  "total_posts": 157
 }
