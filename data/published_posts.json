@@ -2669,6 +2669,23 @@
       "word_count": 1174,
       "filepath": "content/posts/2026-03-26-automated-scheduling-secrets-for-interview-panels.md",
       "topic": "Automated Scheduling Secrets for Interview Panels"
+    },
+    {
+      "title": "AI Hiring for Tech Leaders: Elevate Diversity",
+      "slug": "ai-hiring-for-tech-leaders-elevate-diversity",
+      "description": "# AI Hiring for Tech Leaders: Elevate Diversity  \n\nIn today\u2019s competitive talent market, senior\u2011level tech roles are the linchpin of innovation and gr...",
+      "pub_date": "2026-03-26",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "diversity hiring",
+        "tech leadership recruitment",
+        "executive hiring AI",
+        "AI bias mitigation"
+      ],
+      "word_count": 1086,
+      "filepath": "content/posts/2026-03-26-ai-hiring-for-tech-leaders-elevate-diversity.md",
+      "topic": "AI Hiring for Tech Leaders: Elevate Diversity"
     }
   ],
   "topics_used": [
@@ -2829,8 +2846,9 @@
     "AI Talent Rediscovery: Reactivate Past Candidates Fast",
     "AI Hiring: Reduce Manager Fatigue with Decision Support",
     "HR Tech Trends 2026: AI\u2019s Impact on Recruitment Workflows",
-    "Automated Scheduling Secrets for Interview Panels"
+    "Automated Scheduling Secrets for Interview Panels",
+    "AI Hiring for Tech Leaders: Elevate Diversity"
   ],
   "last_updated": "2026-03-26",
-  "total_posts": 158
+  "total_posts": 159
 }
