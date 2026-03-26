@@ -2653,6 +2653,22 @@
       "word_count": 1543,
       "filepath": "content/posts/2026-03-25-hr-tech-trends-2026-ais-impact-on-recruitment-workflows.md",
       "topic": "HR Tech Trends 2026: AI\u2019s Impact on Recruitment Workflows"
+    },
+    {
+      "title": "Automated Scheduling Secrets for Interview Panels",
+      "slug": "automated-scheduling-secrets-for-interview-panels",
+      "description": "# Automated Scheduling Secrets for Interview Panels\n\nCoordinating interview panels doesn\u2019t have to be a logistical nightmare. In this step\u2011by\u2011step gui...",
+      "pub_date": "2026-03-26",
+      "tags": [],
+      "keywords": [
+        "automated scheduling",
+        "interview panel coordination",
+        "recruiter productivity",
+        "candidate experience"
+      ],
+      "word_count": 1174,
+      "filepath": "content/posts/2026-03-26-automated-scheduling-secrets-for-interview-panels.md",
+      "topic": "Automated Scheduling Secrets for Interview Panels"
     }
   ],
   "topics_used": [
@@ -2812,8 +2828,9 @@
     "AI\u2011Built Skill Taxonomy: Future\u2011Proof Your Hiring Funnel",
     "AI Talent Rediscovery: Reactivate Past Candidates Fast",
     "AI Hiring: Reduce Manager Fatigue with Decision Support",
-    "HR Tech Trends 2026: AI\u2019s Impact on Recruitment Workflows"
+    "HR Tech Trends 2026: AI\u2019s Impact on Recruitment Workflows",
+    "Automated Scheduling Secrets for Interview Panels"
   ],
-  "last_updated": "2026-03-25",
-  "total_posts": 157
+  "last_updated": "2026-03-26",
+  "total_posts": 158
 }
