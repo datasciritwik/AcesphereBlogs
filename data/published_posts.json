@@ -2686,6 +2686,23 @@
       "word_count": 1086,
       "filepath": "content/posts/2026-03-26-ai-hiring-for-tech-leaders-elevate-diversity.md",
       "topic": "AI Hiring for Tech Leaders: Elevate Diversity"
+    },
+    {
+      "title": "Interview Intelligence: AI Solutions for Global Time\u2011Zone Scheduling",
+      "slug": "interview-intelligence-ai-solutions-for-global-timezone-sche",
+      "description": "# Interview Intelligence: AI Solutions for Global Time\u2011Zone Scheduling  \n\nRecruiters and HR teams juggling candidates across continents know that coor...",
+      "pub_date": "2026-03-26",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "recruiter productivity",
+        "remote hiring best practices",
+        "hiring dashboard",
+        "AI hiring"
+      ],
+      "word_count": 1112,
+      "filepath": "content/posts/2026-03-26-interview-intelligence-ai-solutions-for-global-timezone-sche.md",
+      "topic": "Interview Intelligence: AI Solutions for Global Time\u2011Zone Scheduling"
     }
   ],
   "topics_used": [
@@ -2847,8 +2864,9 @@
     "AI Hiring: Reduce Manager Fatigue with Decision Support",
     "HR Tech Trends 2026: AI\u2019s Impact on Recruitment Workflows",
     "Automated Scheduling Secrets for Interview Panels",
-    "AI Hiring for Tech Leaders: Elevate Diversity"
+    "AI Hiring for Tech Leaders: Elevate Diversity",
+    "Interview Intelligence: AI Solutions for Global Time\u2011Zone Scheduling"
   ],
   "last_updated": "2026-03-26",
-  "total_posts": 159
+  "total_posts": 160
 }
