@@ -2703,6 +2703,23 @@
       "word_count": 1112,
       "filepath": "content/posts/2026-03-26-interview-intelligence-ai-solutions-for-global-timezone-sche.md",
       "topic": "Interview Intelligence: AI Solutions for Global Time\u2011Zone Scheduling"
+    },
+    {
+      "title": "AI-Driven Diversity Sourcing: Unlock Hidden Talent Pools",
+      "slug": "ai-driven-diversity-sourcing-unlock-hidden-talent-pools",
+      "description": "# AI-Driven Diversity Sourcing: Unlock Hidden Talent Pools  \n\nIn today\u2019s hyper\u2011competitive startup landscape, finding skilled candidates *and* buildin...",
+      "pub_date": "2026-03-27",
+      "tags": [],
+      "keywords": [
+        "AI-driven diversity sourcing",
+        "inclusive hiring",
+        "talent pool diversification",
+        "AI recruiting tools",
+        "candidate sourcing automation"
+      ],
+      "word_count": 1265,
+      "filepath": "content/posts/2026-03-27-ai-driven-diversity-sourcing-unlock-hidden-talent-pools.md",
+      "topic": "AI-Driven Diversity Sourcing: Unlock Hidden Talent Pools"
     }
   ],
   "topics_used": [
@@ -2865,8 +2882,9 @@
     "HR Tech Trends 2026: AI\u2019s Impact on Recruitment Workflows",
     "Automated Scheduling Secrets for Interview Panels",
     "AI Hiring for Tech Leaders: Elevate Diversity",
-    "Interview Intelligence: AI Solutions for Global Time\u2011Zone Scheduling"
+    "Interview Intelligence: AI Solutions for Global Time\u2011Zone Scheduling",
+    "AI-Driven Diversity Sourcing: Unlock Hidden Talent Pools"
   ],
-  "last_updated": "2026-03-26",
-  "total_posts": 160
+  "last_updated": "2026-03-27",
+  "total_posts": 161
 }
