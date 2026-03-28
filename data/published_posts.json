@@ -2720,6 +2720,23 @@
       "word_count": 1265,
       "filepath": "content/posts/2026-03-27-ai-driven-diversity-sourcing-unlock-hidden-talent-pools.md",
       "topic": "AI-Driven Diversity Sourcing: Unlock Hidden Talent Pools"
+    },
+    {
+      "title": "AI Interview Personalization: Tailor Questions to Skills",
+      "slug": "ai-interview-personalization-tailor-questions-to-skills",
+      "description": "# AI Interview Personalization: Tailor Questions to Skills  \n\nRecruiters today juggle speed, quality, and candidate experience\u2014all while competing for...",
+      "pub_date": "2026-03-28",
+      "tags": [],
+      "keywords": [
+        "AI interview",
+        "interview personalization",
+        "candidate experience with AI",
+        "AI interview assessment",
+        "hiring best practices"
+      ],
+      "word_count": 1152,
+      "filepath": "content/posts/2026-03-28-ai-interview-personalization-tailor-questions-to-skills.md",
+      "topic": "AI Interview Personalization: Tailor Questions to Skills"
     }
   ],
   "topics_used": [
@@ -2883,8 +2900,9 @@
     "Automated Scheduling Secrets for Interview Panels",
     "AI Hiring for Tech Leaders: Elevate Diversity",
     "Interview Intelligence: AI Solutions for Global Time\u2011Zone Scheduling",
-    "AI-Driven Diversity Sourcing: Unlock Hidden Talent Pools"
+    "AI-Driven Diversity Sourcing: Unlock Hidden Talent Pools",
+    "AI Interview Personalization: Tailor Questions to Skills"
   ],
-  "last_updated": "2026-03-27",
-  "total_posts": 161
+  "last_updated": "2026-03-28",
+  "total_posts": 162
 }
