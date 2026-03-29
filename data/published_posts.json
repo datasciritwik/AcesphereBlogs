@@ -2754,6 +2754,23 @@
       "word_count": 1370,
       "filepath": "content/posts/2026-03-29-ai-hiring-compliance-for-regulated-industries.md",
       "topic": "AI Hiring Compliance for Regulated Industries"
+    },
+    {
+      "title": "Next\u2011Gen Hiring Risk Radar: AI Detects Bad\u2011Hire Red Flags",
+      "slug": "nextgen-hiring-risk-radar-ai-detects-badhire-red-flags",
+      "description": "# Next\u2011Gen Hiring Risk Radar: AI Detects Bad\u2011Hire Red Flags  \n\nHiring the wrong person can drain a fast\u2011growing startup\u2019s cash flow, morale, and momen...",
+      "pub_date": "2026-03-29",
+      "tags": [],
+      "keywords": [
+        "next-gen hiring",
+        "AI recruitment",
+        "hiring risk assessment",
+        "recruitment workflow",
+        "recruiter efficiency tools"
+      ],
+      "word_count": 1119,
+      "filepath": "content/posts/2026-03-29-nextgen-hiring-risk-radar-ai-detects-badhire-red-flags.md",
+      "topic": "Next\u2011Gen Hiring Risk Radar: AI Detects Bad\u2011Hire Red Flags"
     }
   ],
   "topics_used": [
@@ -2919,8 +2936,9 @@
     "Interview Intelligence: AI Solutions for Global Time\u2011Zone Scheduling",
     "AI-Driven Diversity Sourcing: Unlock Hidden Talent Pools",
     "AI Interview Personalization: Tailor Questions to Skills",
-    "AI Hiring Compliance for Regulated Industries"
+    "AI Hiring Compliance for Regulated Industries",
+    "Next\u2011Gen Hiring Risk Radar: AI Detects Bad\u2011Hire Red Flags"
   ],
   "last_updated": "2026-03-29",
-  "total_posts": 163
+  "total_posts": 164
 }
