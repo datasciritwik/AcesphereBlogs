@@ -2737,6 +2737,23 @@
       "word_count": 1152,
       "filepath": "content/posts/2026-03-28-ai-interview-personalization-tailor-questions-to-skills.md",
       "topic": "AI Interview Personalization: Tailor Questions to Skills"
+    },
+    {
+      "title": "AI Hiring Compliance for Regulated Industries",
+      "slug": "ai-hiring-compliance-for-regulated-industries",
+      "description": "# AI Hiring Compliance for Regulated Industries  \n\nRecruiters and compliance officers in finance, pharma, and healthcare face a double\u2011edged challenge...",
+      "pub_date": "2026-03-29",
+      "tags": [],
+      "keywords": [
+        "AI hiring compliance",
+        "regulatory hiring",
+        "hiring automation",
+        "AI recruitment",
+        "compliance in hiring"
+      ],
+      "word_count": 1370,
+      "filepath": "content/posts/2026-03-29-ai-hiring-compliance-for-regulated-industries.md",
+      "topic": "AI Hiring Compliance for Regulated Industries"
     }
   ],
   "topics_used": [
@@ -2901,8 +2918,9 @@
     "AI Hiring for Tech Leaders: Elevate Diversity",
     "Interview Intelligence: AI Solutions for Global Time\u2011Zone Scheduling",
     "AI-Driven Diversity Sourcing: Unlock Hidden Talent Pools",
-    "AI Interview Personalization: Tailor Questions to Skills"
+    "AI Interview Personalization: Tailor Questions to Skills",
+    "AI Hiring Compliance for Regulated Industries"
   ],
-  "last_updated": "2026-03-28",
-  "total_posts": 162
+  "last_updated": "2026-03-29",
+  "total_posts": 163
 }
