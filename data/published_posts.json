@@ -2788,6 +2788,23 @@
       "word_count": 1326,
       "filepath": "content/posts/2026-03-30-intelligent-screening-for-global-data-privacy-compliance.md",
       "topic": "Intelligent Screening for Global Data Privacy Compliance"
+    },
+    {
+      "title": "Scaling Hiring with Automation: AI for Hourly Workers",
+      "slug": "scaling-hiring-with-automation-ai-for-hourly-workers",
+      "description": "# Scaling Hiring with Automation: AI for Hourly Workers  \n\nHiring large volumes of hourly or frontline staff can feel like trying to fill a leaky buck...",
+      "pub_date": "2026-03-30",
+      "tags": [],
+      "keywords": [
+        "scaling hiring with automation",
+        "hourly hiring",
+        "frontline workforce",
+        "AI recruitment",
+        "automated scheduling"
+      ],
+      "word_count": 1354,
+      "filepath": "content/posts/2026-03-30-scaling-hiring-with-automation-ai-for-hourly-workers.md",
+      "topic": "Scaling Hiring with Automation: AI for Hourly Workers"
     }
   ],
   "topics_used": [
@@ -2955,8 +2972,9 @@
     "AI Interview Personalization: Tailor Questions to Skills",
     "AI Hiring Compliance for Regulated Industries",
     "Next\u2011Gen Hiring Risk Radar: AI Detects Bad\u2011Hire Red Flags",
-    "Intelligent Screening for Global Data Privacy Compliance"
+    "Intelligent Screening for Global Data Privacy Compliance",
+    "Scaling Hiring with Automation: AI for Hourly Workers"
   ],
   "last_updated": "2026-03-30",
-  "total_posts": 165
+  "total_posts": 166
 }
