@@ -2771,6 +2771,23 @@
       "word_count": 1119,
       "filepath": "content/posts/2026-03-29-nextgen-hiring-risk-radar-ai-detects-badhire-red-flags.md",
       "topic": "Next\u2011Gen Hiring Risk Radar: AI Detects Bad\u2011Hire Red Flags"
+    },
+    {
+      "title": "Intelligent Screening for Global Data Privacy Compliance",
+      "slug": "intelligent-screening-for-global-data-privacy-compliance",
+      "description": "# Intelligent Screening for Global Data Privacy Compliance\n\nHiring teams that can **screen candidates quickly, fairly, and in full compliance with pri...",
+      "pub_date": "2026-03-30",
+      "tags": [],
+      "keywords": [
+        "intelligent screening",
+        "hiring compliance",
+        "data privacy hiring",
+        "AI hiring",
+        "global hiring regulations"
+      ],
+      "word_count": 1326,
+      "filepath": "content/posts/2026-03-30-intelligent-screening-for-global-data-privacy-compliance.md",
+      "topic": "Intelligent Screening for Global Data Privacy Compliance"
     }
   ],
   "topics_used": [
@@ -2937,8 +2954,9 @@
     "AI-Driven Diversity Sourcing: Unlock Hidden Talent Pools",
     "AI Interview Personalization: Tailor Questions to Skills",
     "AI Hiring Compliance for Regulated Industries",
-    "Next\u2011Gen Hiring Risk Radar: AI Detects Bad\u2011Hire Red Flags"
+    "Next\u2011Gen Hiring Risk Radar: AI Detects Bad\u2011Hire Red Flags",
+    "Intelligent Screening for Global Data Privacy Compliance"
   ],
-  "last_updated": "2026-03-29",
-  "total_posts": 164
+  "last_updated": "2026-03-30",
+  "total_posts": 165
 }
