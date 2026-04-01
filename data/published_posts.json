@@ -2822,6 +2822,23 @@
       "word_count": 1092,
       "filepath": "content/posts/2026-04-01-ai-powered-hiring-predicting-cultural-fit-with-data.md",
       "topic": "AI-Powered Hiring: Predicting Cultural Fit with Data"
+    },
+    {
+      "title": "Predicting Hybrid Work Success with AI Hiring",
+      "slug": "predicting-hybrid-work-success-with-ai-hiring",
+      "description": "# Predicting Hybrid Work Success with AI Hiring\n\nIn today\u2019s fluid workplace, hiring the right talent for a hybrid model is no longer a gut\u2011feel exerci...",
+      "pub_date": "2026-04-01",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "hybrid work hiring",
+        "data-driven hiring decisions",
+        "candidate success prediction",
+        "future of recruitment"
+      ],
+      "word_count": 1333,
+      "filepath": "content/posts/2026-04-01-predicting-hybrid-work-success-with-ai-hiring.md",
+      "topic": "Predicting Hybrid Work Success with AI Hiring"
     }
   ],
   "topics_used": [
@@ -2991,8 +3008,9 @@
     "Next\u2011Gen Hiring Risk Radar: AI Detects Bad\u2011Hire Red Flags",
     "Intelligent Screening for Global Data Privacy Compliance",
     "Scaling Hiring with Automation: AI for Hourly Workers",
-    "AI-Powered Hiring: Predicting Cultural Fit with Data"
+    "AI-Powered Hiring: Predicting Cultural Fit with Data",
+    "Predicting Hybrid Work Success with AI Hiring"
   ],
   "last_updated": "2026-04-01",
-  "total_posts": 167
+  "total_posts": 168
 }
