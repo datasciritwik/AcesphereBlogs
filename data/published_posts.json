@@ -2805,6 +2805,23 @@
       "word_count": 1354,
       "filepath": "content/posts/2026-03-30-scaling-hiring-with-automation-ai-for-hourly-workers.md",
       "topic": "Scaling Hiring with Automation: AI for Hourly Workers"
+    },
+    {
+      "title": "AI-Powered Hiring: Predicting Cultural Fit with Data",
+      "slug": "ai-powered-hiring-predicting-cultural-fit-with-data",
+      "description": "# AI-Powered Hiring: Predicting Cultural Fit with Data  \n\nIn today\u2019s talent\u2011driven market, hiring the right person isn\u2019t just about skills\u2014cultural fi...",
+      "pub_date": "2026-04-01",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "cultural fit prediction",
+        "data-driven hiring decisions",
+        "candidate screening automation",
+        "employee retention analytics"
+      ],
+      "word_count": 1092,
+      "filepath": "content/posts/2026-04-01-ai-powered-hiring-predicting-cultural-fit-with-data.md",
+      "topic": "AI-Powered Hiring: Predicting Cultural Fit with Data"
     }
   ],
   "topics_used": [
@@ -2973,8 +2990,9 @@
     "AI Hiring Compliance for Regulated Industries",
     "Next\u2011Gen Hiring Risk Radar: AI Detects Bad\u2011Hire Red Flags",
     "Intelligent Screening for Global Data Privacy Compliance",
-    "Scaling Hiring with Automation: AI for Hourly Workers"
+    "Scaling Hiring with Automation: AI for Hourly Workers",
+    "AI-Powered Hiring: Predicting Cultural Fit with Data"
   ],
-  "last_updated": "2026-03-30",
-  "total_posts": 166
+  "last_updated": "2026-04-01",
+  "total_posts": 167
 }
