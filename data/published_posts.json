@@ -2856,6 +2856,22 @@
       "word_count": 1246,
       "filepath": "content/posts/2026-04-02-automated-interviews-turn-transcripts-into-hiring-roi.md",
       "topic": "Automated Interviews: Turn Transcripts into Hiring ROI"
+    },
+    {
+      "title": "AI-Driven Employer Branding: Attract Top Talent with Data",
+      "slug": "ai-driven-employer-branding-attract-top-talent-with-data",
+      "description": "# AI-Driven Employer Branding: Attract Top Talent with Data  \n\nIn today\u2019s hyper\u2011competitive talent market, a compelling employer brand is no longer a...",
+      "pub_date": "2026-04-02",
+      "tags": [],
+      "keywords": [
+        "AI employer branding",
+        "candidate attraction AI",
+        "employer brand automation",
+        "talent magnet AI"
+      ],
+      "word_count": 1189,
+      "filepath": "content/posts/2026-04-02-ai-driven-employer-branding-attract-top-talent-with-data.md",
+      "topic": "AI-Driven Employer Branding: Attract Top Talent with Data"
     }
   ],
   "topics_used": [
@@ -3027,8 +3043,9 @@
     "Scaling Hiring with Automation: AI for Hourly Workers",
     "AI-Powered Hiring: Predicting Cultural Fit with Data",
     "Predicting Hybrid Work Success with AI Hiring",
-    "Automated Interviews: Turn Transcripts into Hiring ROI"
+    "Automated Interviews: Turn Transcripts into Hiring ROI",
+    "AI-Driven Employer Branding: Attract Top Talent with Data"
   ],
   "last_updated": "2026-04-02",
-  "total_posts": 169
+  "total_posts": 170
 }
