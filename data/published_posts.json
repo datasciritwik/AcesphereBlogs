@@ -2839,6 +2839,23 @@
       "word_count": 1333,
       "filepath": "content/posts/2026-04-01-predicting-hybrid-work-success-with-ai-hiring.md",
       "topic": "Predicting Hybrid Work Success with AI Hiring"
+    },
+    {
+      "title": "Automated Interviews: Turn Transcripts into Hiring ROI",
+      "slug": "automated-interviews-turn-transcripts-into-hiring-roi",
+      "description": "# Automated Interviews: Turn Transcripts into Hiring ROI  \n\nHiring managers and founders are constantly asked to do more with less\u2014shorter time\u2011to\u2011hir...",
+      "pub_date": "2026-04-02",
+      "tags": [],
+      "keywords": [
+        "automated interviews",
+        "recruitment analytics",
+        "hiring automation",
+        "data-driven hiring decisions",
+        "AI hiring platform"
+      ],
+      "word_count": 1246,
+      "filepath": "content/posts/2026-04-02-automated-interviews-turn-transcripts-into-hiring-roi.md",
+      "topic": "Automated Interviews: Turn Transcripts into Hiring ROI"
     }
   ],
   "topics_used": [
@@ -3009,8 +3026,9 @@
     "Intelligent Screening for Global Data Privacy Compliance",
     "Scaling Hiring with Automation: AI for Hourly Workers",
     "AI-Powered Hiring: Predicting Cultural Fit with Data",
-    "Predicting Hybrid Work Success with AI Hiring"
+    "Predicting Hybrid Work Success with AI Hiring",
+    "Automated Interviews: Turn Transcripts into Hiring ROI"
   ],
-  "last_updated": "2026-04-01",
-  "total_posts": 168
+  "last_updated": "2026-04-02",
+  "total_posts": 169
 }
