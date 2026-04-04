@@ -2888,6 +2888,23 @@
       "word_count": 1499,
       "filepath": "content/posts/2026-04-04-machine-learning-hiring-predict-success-beyond-resumes.md",
       "topic": "Machine Learning Hiring: Predict Success Beyond Resumes"
+    },
+    {
+      "title": "AI-Powered Hiring to Cut Turnover: Data-Driven Retention",
+      "slug": "ai-powered-hiring-to-cut-turnover-data-driven-retention",
+      "description": "# AI-Powered Hiring to Cut Turnover: Data-Driven Retention  \n\nHiring is no longer just about filling a vacancy quickly; it\u2019s about building a workforc...",
+      "pub_date": "2026-04-04",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "data-driven hiring decisions",
+        "employee retention analytics",
+        "hiring funnel optimization",
+        "reduce hiring bias"
+      ],
+      "word_count": 1300,
+      "filepath": "content/posts/2026-04-04-ai-powered-hiring-to-cut-turnover-data-driven-retention.md",
+      "topic": "AI-Powered Hiring to Cut Turnover: Data-Driven Retention"
     }
   ],
   "topics_used": [
@@ -3061,8 +3078,9 @@
     "Predicting Hybrid Work Success with AI Hiring",
     "Automated Interviews: Turn Transcripts into Hiring ROI",
     "AI-Driven Employer Branding: Attract Top Talent with Data",
-    "Machine Learning Hiring: Predict Success Beyond Resumes"
+    "Machine Learning Hiring: Predict Success Beyond Resumes",
+    "AI-Powered Hiring to Cut Turnover: Data-Driven Retention"
   ],
   "last_updated": "2026-04-04",
-  "total_posts": 171
+  "total_posts": 172
 }
