@@ -2872,6 +2872,22 @@
       "word_count": 1189,
       "filepath": "content/posts/2026-04-02-ai-driven-employer-branding-attract-top-talent-with-data.md",
       "topic": "AI-Driven Employer Branding: Attract Top Talent with Data"
+    },
+    {
+      "title": "Machine Learning Hiring: Predict Success Beyond Resumes",
+      "slug": "machine-learning-hiring-predict-success-beyond-resumes",
+      "description": "# Machine Learning Hiring: Predict Success Beyond Resumes  \n\nRecruiters today face a paradox: they have more candidate data than ever, yet most hiring...",
+      "pub_date": "2026-04-04",
+      "tags": [],
+      "keywords": [
+        "machine learning hiring",
+        "predictive hiring",
+        "recruitment analytics",
+        "recruiter efficiency tools"
+      ],
+      "word_count": 1499,
+      "filepath": "content/posts/2026-04-04-machine-learning-hiring-predict-success-beyond-resumes.md",
+      "topic": "Machine Learning Hiring: Predict Success Beyond Resumes"
     }
   ],
   "topics_used": [
@@ -3044,8 +3060,9 @@
     "AI-Powered Hiring: Predicting Cultural Fit with Data",
     "Predicting Hybrid Work Success with AI Hiring",
     "Automated Interviews: Turn Transcripts into Hiring ROI",
-    "AI-Driven Employer Branding: Attract Top Talent with Data"
+    "AI-Driven Employer Branding: Attract Top Talent with Data",
+    "Machine Learning Hiring: Predict Success Beyond Resumes"
   ],
-  "last_updated": "2026-04-02",
-  "total_posts": 170
+  "last_updated": "2026-04-04",
+  "total_posts": 171
 }
