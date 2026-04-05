@@ -2905,6 +2905,23 @@
       "word_count": 1300,
       "filepath": "content/posts/2026-04-04-ai-powered-hiring-to-cut-turnover-data-driven-retention.md",
       "topic": "AI-Powered Hiring to Cut Turnover: Data-Driven Retention"
+    },
+    {
+      "title": "Recruiter Productivity Tips: AI\u2011Powered Collaboration Hacks",
+      "slug": "recruiter-productivity-tips-aipowered-collaboration-hacks",
+      "description": "# Recruiter Productivity Tips: AI\u2011Powered Collaboration Hacks  \n\nIn today\u2019s fast\u2011paced talent market, the difference between a great hire and a missed...",
+      "pub_date": "2026-04-05",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity tips",
+        "hiring technology",
+        "AI hiring",
+        "recruiter efficiency tools",
+        "collaboration tools"
+      ],
+      "word_count": 1096,
+      "filepath": "content/posts/2026-04-05-recruiter-productivity-tips-aipowered-collaboration-hacks.md",
+      "topic": "Recruiter Productivity Tips: AI\u2011Powered Collaboration Hacks"
     }
   ],
   "topics_used": [
@@ -3079,8 +3096,9 @@
     "Automated Interviews: Turn Transcripts into Hiring ROI",
     "AI-Driven Employer Branding: Attract Top Talent with Data",
     "Machine Learning Hiring: Predict Success Beyond Resumes",
-    "AI-Powered Hiring to Cut Turnover: Data-Driven Retention"
+    "AI-Powered Hiring to Cut Turnover: Data-Driven Retention",
+    "Recruiter Productivity Tips: AI\u2011Powered Collaboration Hacks"
   ],
-  "last_updated": "2026-04-04",
-  "total_posts": 172
+  "last_updated": "2026-04-05",
+  "total_posts": 173
 }
