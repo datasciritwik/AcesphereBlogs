@@ -2922,6 +2922,22 @@
       "word_count": 1096,
       "filepath": "content/posts/2026-04-05-recruiter-productivity-tips-aipowered-collaboration-hacks.md",
       "topic": "Recruiter Productivity Tips: AI\u2011Powered Collaboration Hacks"
+    },
+    {
+      "title": "Recruiter Efficiency Tools: AI-Driven Team Collaboration",
+      "slug": "recruiter-efficiency-tools-ai-driven-team-collaboration",
+      "description": "# Recruiter Efficiency Tools: AI\u2011Driven Team Collaboration  \n\nIn today\u2019s fast\u2011moving talent market, the ability to hire quickly **and** collaborativel...",
+      "pub_date": "2026-04-06",
+      "tags": [],
+      "keywords": [
+        "recruiter efficiency tools",
+        "AI-driven collaboration",
+        "cross-functional hiring workflow",
+        "recruitment workflow automation"
+      ],
+      "word_count": 1378,
+      "filepath": "content/posts/2026-04-06-recruiter-efficiency-tools-ai-driven-team-collaboration.md",
+      "topic": "Recruiter Efficiency Tools: AI-Driven Team Collaboration"
     }
   ],
   "topics_used": [
@@ -3097,8 +3113,9 @@
     "AI-Driven Employer Branding: Attract Top Talent with Data",
     "Machine Learning Hiring: Predict Success Beyond Resumes",
     "AI-Powered Hiring to Cut Turnover: Data-Driven Retention",
-    "Recruiter Productivity Tips: AI\u2011Powered Collaboration Hacks"
+    "Recruiter Productivity Tips: AI\u2011Powered Collaboration Hacks",
+    "Recruiter Efficiency Tools: AI-Driven Team Collaboration"
   ],
-  "last_updated": "2026-04-05",
-  "total_posts": 173
+  "last_updated": "2026-04-06",
+  "total_posts": 174
 }
