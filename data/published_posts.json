@@ -2938,6 +2938,23 @@
       "word_count": 1378,
       "filepath": "content/posts/2026-04-06-recruiter-efficiency-tools-ai-driven-team-collaboration.md",
       "topic": "Recruiter Efficiency Tools: AI-Driven Team Collaboration"
+    },
+    {
+      "title": "AI Job Description Generator: Multilingual Hiring Made Easy",
+      "slug": "ai-job-description-generator-multilingual-hiring-made-easy",
+      "description": "# AI Job Description Generator: Multilingual Hiring Made Easy\n\nIn today\u2019s hyper\u2011connected market, the ability to attract talent across borders can be...",
+      "pub_date": "2026-04-06",
+      "tags": [],
+      "keywords": [
+        "AI job description generator",
+        "multilingual hiring",
+        "inclusive job postings",
+        "global talent acquisition",
+        "AI-powered recruitment content"
+      ],
+      "word_count": 1378,
+      "filepath": "content/posts/2026-04-06-ai-job-description-generator-multilingual-hiring-made-easy.md",
+      "topic": "AI Job Description Generator: Multilingual Hiring Made Easy"
     }
   ],
   "topics_used": [
@@ -3114,8 +3131,9 @@
     "Machine Learning Hiring: Predict Success Beyond Resumes",
     "AI-Powered Hiring to Cut Turnover: Data-Driven Retention",
     "Recruiter Productivity Tips: AI\u2011Powered Collaboration Hacks",
-    "Recruiter Efficiency Tools: AI-Driven Team Collaboration"
+    "Recruiter Efficiency Tools: AI-Driven Team Collaboration",
+    "AI Job Description Generator: Multilingual Hiring Made Easy"
   ],
   "last_updated": "2026-04-06",
-  "total_posts": 174
+  "total_posts": 175
 }
