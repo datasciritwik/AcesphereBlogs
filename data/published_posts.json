@@ -2955,6 +2955,23 @@
       "word_count": 1378,
       "filepath": "content/posts/2026-04-06-ai-job-description-generator-multilingual-hiring-made-easy.md",
       "topic": "AI Job Description Generator: Multilingual Hiring Made Easy"
+    },
+    {
+      "title": "Intelligent Screening: Cutting Hiring Bias in Mid\u2011Size Firms",
+      "slug": "intelligent-screening-cutting-hiring-bias-in-midsize-firms",
+      "description": "# Intelligent Screening: Cutting Hiring Bias in Mid\u2011Size Firms\n\nMid\u2011size organizations (50\u2011500 employees) often struggle to balance speed, quality, an...",
+      "pub_date": "2026-04-07",
+      "tags": [],
+      "keywords": [
+        "intelligent screening",
+        "reduce hiring bias",
+        "recruiter productivity",
+        "hiring technology",
+        "skill-based screening"
+      ],
+      "word_count": 1030,
+      "filepath": "content/posts/2026-04-07-intelligent-screening-cutting-hiring-bias-in-midsize-firms.md",
+      "topic": "Intelligent Screening: Cutting Hiring Bias in Mid\u2011Size Firms"
     }
   ],
   "topics_used": [
@@ -3132,8 +3149,9 @@
     "AI-Powered Hiring to Cut Turnover: Data-Driven Retention",
     "Recruiter Productivity Tips: AI\u2011Powered Collaboration Hacks",
     "Recruiter Efficiency Tools: AI-Driven Team Collaboration",
-    "AI Job Description Generator: Multilingual Hiring Made Easy"
+    "AI Job Description Generator: Multilingual Hiring Made Easy",
+    "Intelligent Screening: Cutting Hiring Bias in Mid\u2011Size Firms"
   ],
-  "last_updated": "2026-04-06",
-  "total_posts": 175
+  "last_updated": "2026-04-07",
+  "total_posts": 176
 }
