@@ -2972,6 +2972,23 @@
       "word_count": 1030,
       "filepath": "content/posts/2026-04-07-intelligent-screening-cutting-hiring-bias-in-midsize-firms.md",
       "topic": "Intelligent Screening: Cutting Hiring Bias in Mid\u2011Size Firms"
+    },
+    {
+      "title": "AI-Powered Emotional Intelligence Assessment for Hiring",
+      "slug": "ai-powered-emotional-intelligence-assessment-for-hiring",
+      "description": "# AI-Powered Emotional Intelligence Assessment for Hiring  \n\nIn today\u2019s talent\u2011driven market, hiring decisions that rely solely on technical skill scr...",
+      "pub_date": "2026-04-08",
+      "tags": [],
+      "keywords": [
+        "emotional intelligence assessment",
+        "AI interview assessment",
+        "culture fit analytics",
+        "hiring quality metrics",
+        "recruiter productivity tips"
+      ],
+      "word_count": 1287,
+      "filepath": "content/posts/2026-04-08-ai-powered-emotional-intelligence-assessment-for-hiring.md",
+      "topic": "AI-Powered Emotional Intelligence Assessment for Hiring"
     }
   ],
   "topics_used": [
@@ -3150,8 +3167,9 @@
     "Recruiter Productivity Tips: AI\u2011Powered Collaboration Hacks",
     "Recruiter Efficiency Tools: AI-Driven Team Collaboration",
     "AI Job Description Generator: Multilingual Hiring Made Easy",
-    "Intelligent Screening: Cutting Hiring Bias in Mid\u2011Size Firms"
+    "Intelligent Screening: Cutting Hiring Bias in Mid\u2011Size Firms",
+    "AI-Powered Emotional Intelligence Assessment for Hiring"
   ],
-  "last_updated": "2026-04-07",
-  "total_posts": 176
+  "last_updated": "2026-04-08",
+  "total_posts": 177
 }
