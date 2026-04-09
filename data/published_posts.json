@@ -2989,6 +2989,23 @@
       "word_count": 1287,
       "filepath": "content/posts/2026-04-08-ai-powered-emotional-intelligence-assessment-for-hiring.md",
       "topic": "AI-Powered Emotional Intelligence Assessment for Hiring"
+    },
+    {
+      "title": "AI Hiring for Manufacturing: Fill Skilled Labor Fast",
+      "slug": "ai-hiring-for-manufacturing-fill-skilled-labor-fast",
+      "description": "# AI Hiring for Manufacturing: Fill Skilled Labor Fast\n\nManufacturers facing a **skilled labor shortage** can cut hiring time from weeks to days by ad...",
+      "pub_date": "2026-04-09",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "manufacturing recruitment",
+        "skilled labor shortage",
+        "data-driven hiring decisions",
+        "hiring automation"
+      ],
+      "word_count": 1315,
+      "filepath": "content/posts/2026-04-09-ai-hiring-for-manufacturing-fill-skilled-labor-fast.md",
+      "topic": "AI Hiring for Manufacturing: Fill Skilled Labor Fast"
     }
   ],
   "topics_used": [
@@ -3168,8 +3185,9 @@
     "Recruiter Efficiency Tools: AI-Driven Team Collaboration",
     "AI Job Description Generator: Multilingual Hiring Made Easy",
     "Intelligent Screening: Cutting Hiring Bias in Mid\u2011Size Firms",
-    "AI-Powered Emotional Intelligence Assessment for Hiring"
+    "AI-Powered Emotional Intelligence Assessment for Hiring",
+    "AI Hiring for Manufacturing: Fill Skilled Labor Fast"
   ],
-  "last_updated": "2026-04-08",
-  "total_posts": 177
+  "last_updated": "2026-04-09",
+  "total_posts": 178
 }
