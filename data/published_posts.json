@@ -3040,6 +3040,23 @@
       "word_count": 1269,
       "filepath": "content/posts/2026-04-11-ai-candidate-screening-automation-elevate-hiring-quality.md",
       "topic": "AI Candidate Screening Automation: Elevate Hiring Quality"
+    },
+    {
+      "title": "AI Interview Sentiment Analysis: Predict On\u2011Job Success",
+      "slug": "ai-interview-sentiment-analysis-predict-onjob-success",
+      "description": "# AI Interview Sentiment Analysis: Predict On\u2011Job Success\n\nHiring managers are constantly looking for a reliable way to separate the candidates who wi...",
+      "pub_date": "2026-04-12",
+      "tags": [],
+      "keywords": [
+        "AI interview",
+        "interview sentiment analysis",
+        "predictive hiring",
+        "candidate performance metrics",
+        "recruiter productivity"
+      ],
+      "word_count": 1159,
+      "filepath": "content/posts/2026-04-12-ai-interview-sentiment-analysis-predict-onjob-success.md",
+      "topic": "AI Interview Sentiment Analysis: Predict On\u2011Job Success"
     }
   ],
   "topics_used": [
@@ -3222,8 +3239,9 @@
     "AI-Powered Emotional Intelligence Assessment for Hiring",
     "AI Hiring for Manufacturing: Fill Skilled Labor Fast",
     "AI Hiring for Non\u2011Profits: Smart Talent on a Mission Budget",
-    "AI Candidate Screening Automation: Elevate Hiring Quality"
+    "AI Candidate Screening Automation: Elevate Hiring Quality",
+    "AI Interview Sentiment Analysis: Predict On\u2011Job Success"
   ],
-  "last_updated": "2026-04-11",
-  "total_posts": 180
+  "last_updated": "2026-04-12",
+  "total_posts": 181
 }
