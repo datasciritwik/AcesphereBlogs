@@ -3057,6 +3057,23 @@
       "word_count": 1159,
       "filepath": "content/posts/2026-04-12-ai-interview-sentiment-analysis-predict-onjob-success.md",
       "topic": "AI Interview Sentiment Analysis: Predict On\u2011Job Success"
+    },
+    {
+      "title": "How AI Interview Assessment Reduces Candidate Fatigue",
+      "slug": "how-ai-interview-assessment-reduces-candidate-fatigue",
+      "description": "# How AI Interview Assessment Reduces Candidate Fatigue  \n\nIn today\u2019s hyper\u2011competitive talent market, a smooth **interview experience** can be the di...",
+      "pub_date": "2026-04-12",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "candidate fatigue",
+        "interview experience",
+        "recruiter efficiency tools",
+        "bias-free hiring"
+      ],
+      "word_count": 1088,
+      "filepath": "content/posts/2026-04-12-how-ai-interview-assessment-reduces-candidate-fatigue.md",
+      "topic": "How AI Interview Assessment Reduces Candidate Fatigue"
     }
   ],
   "topics_used": [
@@ -3240,8 +3257,9 @@
     "AI Hiring for Manufacturing: Fill Skilled Labor Fast",
     "AI Hiring for Non\u2011Profits: Smart Talent on a Mission Budget",
     "AI Candidate Screening Automation: Elevate Hiring Quality",
-    "AI Interview Sentiment Analysis: Predict On\u2011Job Success"
+    "AI Interview Sentiment Analysis: Predict On\u2011Job Success",
+    "How AI Interview Assessment Reduces Candidate Fatigue"
   ],
   "last_updated": "2026-04-12",
-  "total_posts": 181
+  "total_posts": 182
 }
