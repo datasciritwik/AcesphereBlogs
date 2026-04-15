@@ -3090,6 +3090,23 @@
       "word_count": 1091,
       "filepath": "content/posts/2026-04-15-automated-evaluation-how-ai-guarantees-fair-hiring.md",
       "topic": "Automated Evaluation: How AI Guarantees Fair Hiring"
+    },
+    {
+      "title": "AI-Quantified Referral ROI: Boost Hiring with Data",
+      "slug": "ai-quantified-referral-roi-boost-hiring-with-data",
+      "description": "# AI-Quantified Referral ROI: Boost Hiring with Data  \n\nIn today\u2019s talent\u2011tight market, startups and mid\u2011sized firms need a hiring engine that deliver...",
+      "pub_date": "2026-04-15",
+      "tags": [],
+      "keywords": [
+        "smart hiring tools",
+        "recruiter productivity tips",
+        "hiring automation",
+        "employee referral ROI",
+        "AI hiring for startups"
+      ],
+      "word_count": 1373,
+      "filepath": "content/posts/2026-04-15-ai-quantified-referral-roi-boost-hiring-with-data.md",
+      "topic": "AI-Quantified Referral ROI: Boost Hiring with Data"
     }
   ],
   "topics_used": [
@@ -3275,8 +3292,9 @@
     "AI Candidate Screening Automation: Elevate Hiring Quality",
     "AI Interview Sentiment Analysis: Predict On\u2011Job Success",
     "How AI Interview Assessment Reduces Candidate Fatigue",
-    "Automated Evaluation: How AI Guarantees Fair Hiring"
+    "Automated Evaluation: How AI Guarantees Fair Hiring",
+    "AI-Quantified Referral ROI: Boost Hiring with Data"
   ],
   "last_updated": "2026-04-15",
-  "total_posts": 183
+  "total_posts": 184
 }
