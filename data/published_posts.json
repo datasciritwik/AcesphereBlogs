@@ -3074,6 +3074,22 @@
       "word_count": 1088,
       "filepath": "content/posts/2026-04-12-how-ai-interview-assessment-reduces-candidate-fatigue.md",
       "topic": "How AI Interview Assessment Reduces Candidate Fatigue"
+    },
+    {
+      "title": "Automated Evaluation: How AI Guarantees Fair Hiring",
+      "slug": "automated-evaluation-how-ai-guarantees-fair-hiring",
+      "description": "# Automated Evaluation: How AI Guarantees Fair Hiring  \n\nIn today\u2019s tightly regulated talent market, HR compliance officers and midsize HR teams need...",
+      "pub_date": "2026-04-15",
+      "tags": [],
+      "keywords": [
+        "automated evaluation",
+        "fair recruitment",
+        "AI vs traditional hiring methods",
+        "recruitment analytics"
+      ],
+      "word_count": 1091,
+      "filepath": "content/posts/2026-04-15-automated-evaluation-how-ai-guarantees-fair-hiring.md",
+      "topic": "Automated Evaluation: How AI Guarantees Fair Hiring"
     }
   ],
   "topics_used": [
@@ -3258,8 +3274,9 @@
     "AI Hiring for Non\u2011Profits: Smart Talent on a Mission Budget",
     "AI Candidate Screening Automation: Elevate Hiring Quality",
     "AI Interview Sentiment Analysis: Predict On\u2011Job Success",
-    "How AI Interview Assessment Reduces Candidate Fatigue"
+    "How AI Interview Assessment Reduces Candidate Fatigue",
+    "Automated Evaluation: How AI Guarantees Fair Hiring"
   ],
-  "last_updated": "2026-04-12",
-  "total_posts": 182
+  "last_updated": "2026-04-15",
+  "total_posts": 183
 }
