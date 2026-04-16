@@ -3124,6 +3124,23 @@
       "word_count": 1283,
       "filepath": "content/posts/2026-04-16-ai-hiring-automation-build-seasonal-talent-pools.md",
       "topic": "AI Hiring Automation: Build Seasonal Talent Pools"
+    },
+    {
+      "title": "AI Interview Assessment: Engineer Feedback Made Actionable",
+      "slug": "ai-interview-assessment-engineer-feedback-made-actionable",
+      "description": "# AI Interview Assessment: Engineer Feedback Made Actionable\n\nHiring the right engineer quickly and fairly is a perpetual challenge for startups and m...",
+      "pub_date": "2026-04-16",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "technical hiring analytics",
+        "engineer feedback automation",
+        "interview intelligence",
+        "recruiter productivity tips"
+      ],
+      "word_count": 1192,
+      "filepath": "content/posts/2026-04-16-ai-interview-assessment-engineer-feedback-made-actionable.md",
+      "topic": "AI Interview Assessment: Engineer Feedback Made Actionable"
     }
   ],
   "topics_used": [
@@ -3311,8 +3328,9 @@
     "How AI Interview Assessment Reduces Candidate Fatigue",
     "Automated Evaluation: How AI Guarantees Fair Hiring",
     "AI-Quantified Referral ROI: Boost Hiring with Data",
-    "AI Hiring Automation: Build Seasonal Talent Pools"
+    "AI Hiring Automation: Build Seasonal Talent Pools",
+    "AI Interview Assessment: Engineer Feedback Made Actionable"
   ],
   "last_updated": "2026-04-16",
-  "total_posts": 185
+  "total_posts": 186
 }
