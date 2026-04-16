@@ -3107,6 +3107,23 @@
       "word_count": 1373,
       "filepath": "content/posts/2026-04-15-ai-quantified-referral-roi-boost-hiring-with-data.md",
       "topic": "AI-Quantified Referral ROI: Boost Hiring with Data"
+    },
+    {
+      "title": "AI Hiring Automation: Build Seasonal Talent Pools",
+      "slug": "ai-hiring-automation-build-seasonal-talent-pools",
+      "description": "# AI Hiring Automation: Build Seasonal Talent Pools\n\nSeasonal spikes in hiring don\u2019t have to mean frantic, reactive recruiting. By leveraging AI\u2011drive...",
+      "pub_date": "2026-04-16",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "seasonal hiring",
+        "talent pools",
+        "recruitment analytics",
+        "candidate engagement automation"
+      ],
+      "word_count": 1283,
+      "filepath": "content/posts/2026-04-16-ai-hiring-automation-build-seasonal-talent-pools.md",
+      "topic": "AI Hiring Automation: Build Seasonal Talent Pools"
     }
   ],
   "topics_used": [
@@ -3293,8 +3310,9 @@
     "AI Interview Sentiment Analysis: Predict On\u2011Job Success",
     "How AI Interview Assessment Reduces Candidate Fatigue",
     "Automated Evaluation: How AI Guarantees Fair Hiring",
-    "AI-Quantified Referral ROI: Boost Hiring with Data"
+    "AI-Quantified Referral ROI: Boost Hiring with Data",
+    "AI Hiring Automation: Build Seasonal Talent Pools"
   ],
-  "last_updated": "2026-04-15",
-  "total_posts": 184
+  "last_updated": "2026-04-16",
+  "total_posts": 185
 }
