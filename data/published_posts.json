@@ -3141,6 +3141,23 @@
       "word_count": 1192,
       "filepath": "content/posts/2026-04-16-ai-interview-assessment-engineer-feedback-made-actionable.md",
       "topic": "AI Interview Assessment: Engineer Feedback Made Actionable"
+    },
+    {
+      "title": "AI Skill Testing for Customer Support: Hire the Right People",
+      "slug": "ai-skill-testing-for-customer-support-hire-the-right-people",
+      "description": "# AI Skill Testing for Customer Support: Hire the Right People  \n\nHiring for customer support is more than ticking off a checklist of technical abilit...",
+      "pub_date": "2026-04-17",
+      "tags": [],
+      "keywords": [
+        "AI skill testing",
+        "customer support hiring",
+        "soft skill assessment AI",
+        "remote support recruitment",
+        "AI hiring automation"
+      ],
+      "word_count": 1471,
+      "filepath": "content/posts/2026-04-17-ai-skill-testing-for-customer-support-hire-the-right-people.md",
+      "topic": "AI Skill Testing for Customer Support: Hire the Right People"
     }
   ],
   "topics_used": [
@@ -3329,8 +3346,9 @@
     "Automated Evaluation: How AI Guarantees Fair Hiring",
     "AI-Quantified Referral ROI: Boost Hiring with Data",
     "AI Hiring Automation: Build Seasonal Talent Pools",
-    "AI Interview Assessment: Engineer Feedback Made Actionable"
+    "AI Interview Assessment: Engineer Feedback Made Actionable",
+    "AI Skill Testing for Customer Support: Hire the Right People"
   ],
-  "last_updated": "2026-04-16",
-  "total_posts": 186
+  "last_updated": "2026-04-17",
+  "total_posts": 187
 }
