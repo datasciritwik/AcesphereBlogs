@@ -3158,6 +3158,23 @@
       "word_count": 1471,
       "filepath": "content/posts/2026-04-17-ai-skill-testing-for-customer-support-hire-the-right-people.md",
       "topic": "AI Skill Testing for Customer Support: Hire the Right People"
+    },
+    {
+      "title": "AI Interviews Meet VR: Immersive Hiring for Tech Talent",
+      "slug": "ai-interviews-meet-vr-immersive-hiring-for-tech-talent",
+      "description": "# AI Interviews Meet VR: Immersive Hiring for Tech Talent  \n\nHiring technical talent is getting harder, not because there aren\u2019t enough engineers, but...",
+      "pub_date": "2026-04-18",
+      "tags": [],
+      "keywords": [
+        "AI interviews",
+        "virtual reality hiring",
+        "immersive interview assessment",
+        "tech talent acquisition",
+        "AI interview technology"
+      ],
+      "word_count": 1548,
+      "filepath": "content/posts/2026-04-18-ai-interviews-meet-vr-immersive-hiring-for-tech-talent.md",
+      "topic": "AI Interviews Meet VR: Immersive Hiring for Tech Talent"
     }
   ],
   "topics_used": [
@@ -3347,8 +3364,9 @@
     "AI-Quantified Referral ROI: Boost Hiring with Data",
     "AI Hiring Automation: Build Seasonal Talent Pools",
     "AI Interview Assessment: Engineer Feedback Made Actionable",
-    "AI Skill Testing for Customer Support: Hire the Right People"
+    "AI Skill Testing for Customer Support: Hire the Right People",
+    "AI Interviews Meet VR: Immersive Hiring for Tech Talent"
   ],
-  "last_updated": "2026-04-17",
-  "total_posts": 187
+  "last_updated": "2026-04-18",
+  "total_posts": 188
 }
