@@ -3192,6 +3192,23 @@
       "word_count": 1163,
       "filepath": "content/posts/2026-04-19-ai-hiring-platform-ease-hiring-manager-burnout.md",
       "topic": "AI Hiring Platform: Ease Hiring Manager Burnout"
+    },
+    {
+      "title": "Virtual Interview AI: Multilingual Hiring Made Easy",
+      "slug": "virtual-interview-ai-multilingual-hiring-made-easy",
+      "description": "# Virtual Interview AI: Multilingual Hiring Made Easy\n\nIn today\u2019s hyper\u2011connected talent market, recruiters need a reliable way to evaluate candidates...",
+      "pub_date": "2026-04-19",
+      "tags": [],
+      "keywords": [
+        "virtual interview AI",
+        "multilingual hiring",
+        "language assessment AI",
+        "global recruitment",
+        "AI interview technology"
+      ],
+      "word_count": 1253,
+      "filepath": "content/posts/2026-04-19-virtual-interview-ai-multilingual-hiring-made-easy.md",
+      "topic": "Virtual Interview AI: Multilingual Hiring Made Easy"
     }
   ],
   "topics_used": [
@@ -3383,8 +3400,9 @@
     "AI Interview Assessment: Engineer Feedback Made Actionable",
     "AI Skill Testing for Customer Support: Hire the Right People",
     "AI Interviews Meet VR: Immersive Hiring for Tech Talent",
-    "AI Hiring Platform: Ease Hiring Manager Burnout"
+    "AI Hiring Platform: Ease Hiring Manager Burnout",
+    "Virtual Interview AI: Multilingual Hiring Made Easy"
   ],
   "last_updated": "2026-04-19",
-  "total_posts": 189
+  "total_posts": 190
 }
