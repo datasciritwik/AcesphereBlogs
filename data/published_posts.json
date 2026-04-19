@@ -3175,6 +3175,23 @@
       "word_count": 1548,
       "filepath": "content/posts/2026-04-18-ai-interviews-meet-vr-immersive-hiring-for-tech-talent.md",
       "topic": "AI Interviews Meet VR: Immersive Hiring for Tech Talent"
+    },
+    {
+      "title": "AI Hiring Platform: Ease Hiring Manager Burnout",
+      "slug": "ai-hiring-platform-ease-hiring-manager-burnout",
+      "description": "# AI Hiring Platform: Ease Hiring Manager Burnout  \n\nHiring managers at fast\u2011growing startups and mid\u2011size firms are juggling strategic planning, prod...",
+      "pub_date": "2026-04-19",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "hiring manager burnout",
+        "recruiter efficiency tools",
+        "hiring automation",
+        "manager productivity"
+      ],
+      "word_count": 1163,
+      "filepath": "content/posts/2026-04-19-ai-hiring-platform-ease-hiring-manager-burnout.md",
+      "topic": "AI Hiring Platform: Ease Hiring Manager Burnout"
     }
   ],
   "topics_used": [
@@ -3365,8 +3382,9 @@
     "AI Hiring Automation: Build Seasonal Talent Pools",
     "AI Interview Assessment: Engineer Feedback Made Actionable",
     "AI Skill Testing for Customer Support: Hire the Right People",
-    "AI Interviews Meet VR: Immersive Hiring for Tech Talent"
+    "AI Interviews Meet VR: Immersive Hiring for Tech Talent",
+    "AI Hiring Platform: Ease Hiring Manager Burnout"
   ],
-  "last_updated": "2026-04-18",
-  "total_posts": 188
+  "last_updated": "2026-04-19",
+  "total_posts": 189
 }
