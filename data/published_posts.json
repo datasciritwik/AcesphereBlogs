@@ -3209,6 +3209,23 @@
       "word_count": 1253,
       "filepath": "content/posts/2026-04-19-virtual-interview-ai-multilingual-hiring-made-easy.md",
       "topic": "Virtual Interview AI: Multilingual Hiring Made Easy"
+    },
+    {
+      "title": "AI Interview Fatigue Detection: Boost Candidate Retention",
+      "slug": "ai-interview-fatigue-detection-boost-candidate-retention",
+      "description": "# AI Interview Fatigue Detection: Boost Candidate Retention  \n\nIn today\u2019s fast\u2011paced hiring landscape, a smooth candidate experience isn\u2019t just a nice...",
+      "pub_date": "2026-04-20",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "candidate fatigue detection",
+        "interview intelligence",
+        "candidate experience AI",
+        "video interview AI"
+      ],
+      "word_count": 1239,
+      "filepath": "content/posts/2026-04-20-ai-interview-fatigue-detection-boost-candidate-retention.md",
+      "topic": "AI Interview Fatigue Detection: Boost Candidate Retention"
     }
   ],
   "topics_used": [
@@ -3401,8 +3418,9 @@
     "AI Skill Testing for Customer Support: Hire the Right People",
     "AI Interviews Meet VR: Immersive Hiring for Tech Talent",
     "AI Hiring Platform: Ease Hiring Manager Burnout",
-    "Virtual Interview AI: Multilingual Hiring Made Easy"
+    "Virtual Interview AI: Multilingual Hiring Made Easy",
+    "AI Interview Fatigue Detection: Boost Candidate Retention"
   ],
-  "last_updated": "2026-04-19",
-  "total_posts": 190
+  "last_updated": "2026-04-20",
+  "total_posts": 191
 }
