@@ -3226,6 +3226,23 @@
       "word_count": 1239,
       "filepath": "content/posts/2026-04-20-ai-interview-fatigue-detection-boost-candidate-retention.md",
       "topic": "AI Interview Fatigue Detection: Boost Candidate Retention"
+    },
+    {
+      "title": "AI for Cross\u2011Functional Hiring: Bridge Teams Fast",
+      "slug": "ai-for-crossfunctional-hiring-bridge-teams-fast",
+      "description": "# AI for Cross\u2011Functional Hiring: Bridge Teams Fast  \n\nIn today\u2019s fast\u2011moving markets, the ability to assemble teams that span product, engineering, m...",
+      "pub_date": "2026-04-20",
+      "tags": [],
+      "keywords": [
+        "cross-functional hiring",
+        "AI recruitment",
+        "skill-based screening",
+        "hiring pipeline management",
+        "recruiter productivity"
+      ],
+      "word_count": 1251,
+      "filepath": "content/posts/2026-04-20-ai-for-crossfunctional-hiring-bridge-teams-fast.md",
+      "topic": "AI for Cross\u2011Functional Hiring: Bridge Teams Fast"
     }
   ],
   "topics_used": [
@@ -3419,8 +3436,9 @@
     "AI Interviews Meet VR: Immersive Hiring for Tech Talent",
     "AI Hiring Platform: Ease Hiring Manager Burnout",
     "Virtual Interview AI: Multilingual Hiring Made Easy",
-    "AI Interview Fatigue Detection: Boost Candidate Retention"
+    "AI Interview Fatigue Detection: Boost Candidate Retention",
+    "AI for Cross\u2011Functional Hiring: Bridge Teams Fast"
   ],
   "last_updated": "2026-04-20",
-  "total_posts": 191
+  "total_posts": 192
 }
