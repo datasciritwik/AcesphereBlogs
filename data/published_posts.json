@@ -3259,6 +3259,23 @@
       "word_count": 1311,
       "filepath": "content/posts/2026-04-21-aidriven-competency-assessment-forecasts-newhire-success.md",
       "topic": "AI\u2011Driven Competency Assessment Forecasts New\u2011Hire Success"
+    },
+    {
+      "title": "AI interview assessment: How Managers Can Eliminate Bias",
+      "slug": "ai-interview-assessment-how-managers-can-eliminate-bias",
+      "description": "# AI Interview Assessment: How Managers Can Eliminate Bias  \n\nHiring managers are under pressure to fill roles quickly, but speed should never come at...",
+      "pub_date": "2026-04-21",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "bias reduction",
+        "hiring manager",
+        "data\u2011driven hiring",
+        "objective interview scoring"
+      ],
+      "word_count": 1114,
+      "filepath": "content/posts/2026-04-21-ai-interview-assessment-how-managers-can-eliminate-bias.md",
+      "topic": "AI interview assessment: How Managers Can Eliminate Bias"
     }
   ],
   "topics_used": [
@@ -3454,8 +3471,9 @@
     "Virtual Interview AI: Multilingual Hiring Made Easy",
     "AI Interview Fatigue Detection: Boost Candidate Retention",
     "AI for Cross\u2011Functional Hiring: Bridge Teams Fast",
-    "AI\u2011Driven Competency Assessment Forecasts New\u2011Hire Success"
+    "AI\u2011Driven Competency Assessment Forecasts New\u2011Hire Success",
+    "AI interview assessment: How Managers Can Eliminate Bias"
   ],
   "last_updated": "2026-04-21",
-  "total_posts": 193
+  "total_posts": 194
 }
