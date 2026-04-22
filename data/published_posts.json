@@ -3276,6 +3276,23 @@
       "word_count": 1114,
       "filepath": "content/posts/2026-04-21-ai-interview-assessment-how-managers-can-eliminate-bias.md",
       "topic": "AI interview assessment: How Managers Can Eliminate Bias"
+    },
+    {
+      "title": "AI Hiring Platform: Predict Recruiter Burnout & Boost Efficiency",
+      "slug": "ai-hiring-platform-predict-recruiter-burnout-boost-efficienc",
+      "description": "# AI Hiring Platform: Predict Recruiter Burnout & Boost Efficiency  \n\nRecruiter burnout isn\u2019t just a personal health issue\u2014it directly erodes hiring v...",
+      "pub_date": "2026-04-22",
+      "tags": [],
+      "keywords": [
+        "recruiter efficiency tools",
+        "AI hiring platform",
+        "burnout detection AI",
+        "data-driven hiring decisions",
+        "scaling hiring with automation"
+      ],
+      "word_count": 1461,
+      "filepath": "content/posts/2026-04-22-ai-hiring-platform-predict-recruiter-burnout-boost-efficienc.md",
+      "topic": "AI Hiring Platform: Predict Recruiter Burnout & Boost Efficiency"
     }
   ],
   "topics_used": [
@@ -3472,8 +3489,9 @@
     "AI Interview Fatigue Detection: Boost Candidate Retention",
     "AI for Cross\u2011Functional Hiring: Bridge Teams Fast",
     "AI\u2011Driven Competency Assessment Forecasts New\u2011Hire Success",
-    "AI interview assessment: How Managers Can Eliminate Bias"
+    "AI interview assessment: How Managers Can Eliminate Bias",
+    "AI Hiring Platform: Predict Recruiter Burnout & Boost Efficiency"
   ],
-  "last_updated": "2026-04-21",
-  "total_posts": 194
+  "last_updated": "2026-04-22",
+  "total_posts": 195
 }
