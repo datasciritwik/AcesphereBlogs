@@ -3293,6 +3293,23 @@
       "word_count": 1461,
       "filepath": "content/posts/2026-04-22-ai-hiring-platform-predict-recruiter-burnout-boost-efficienc.md",
       "topic": "AI Hiring Platform: Predict Recruiter Burnout & Boost Efficiency"
+    },
+    {
+      "title": "Predictive AI Onboarding: Ensure New Hire Success",
+      "slug": "predictive-ai-onboarding-ensure-new-hire-success",
+      "description": "# Predictive AI Onboarding: Ensure New Hire Success\n\nIn today\u2019s fast\u2011moving talent market, getting a new hire productive\u2014and, more importantly, retain...",
+      "pub_date": "2026-04-24",
+      "tags": [],
+      "keywords": [
+        "predictive onboarding",
+        "AI onboarding",
+        "new hire success metrics",
+        "early turnover prediction",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1306,
+      "filepath": "content/posts/2026-04-24-predictive-ai-onboarding-ensure-new-hire-success.md",
+      "topic": "Predictive AI Onboarding: Ensure New Hire Success"
     }
   ],
   "topics_used": [
@@ -3490,8 +3507,9 @@
     "AI for Cross\u2011Functional Hiring: Bridge Teams Fast",
     "AI\u2011Driven Competency Assessment Forecasts New\u2011Hire Success",
     "AI interview assessment: How Managers Can Eliminate Bias",
-    "AI Hiring Platform: Predict Recruiter Burnout & Boost Efficiency"
+    "AI Hiring Platform: Predict Recruiter Burnout & Boost Efficiency",
+    "Predictive AI Onboarding: Ensure New Hire Success"
   ],
-  "last_updated": "2026-04-22",
-  "total_posts": 195
+  "last_updated": "2026-04-24",
+  "total_posts": 196
 }
