@@ -3310,6 +3310,22 @@
       "word_count": 1306,
       "filepath": "content/posts/2026-04-24-predictive-ai-onboarding-ensure-new-hire-success.md",
       "topic": "Predictive AI Onboarding: Ensure New Hire Success"
+    },
+    {
+      "title": "AI for Executive Hiring: Data\u2011Driven C\u2011Suite Recruitment",
+      "slug": "ai-for-executive-hiring-datadriven-csuite-recruitment",
+      "description": "# AI for Executive Hiring: Data\u2011Driven C\u2011Suite Recruitment  \n\nIn today\u2019s hyper\u2011competitive talent market, senior\u2011level hires can make or break a scali...",
+      "pub_date": "2026-04-25",
+      "tags": [],
+      "keywords": [
+        "AI for executive hiring",
+        "C-suite recruitment automation",
+        "executive talent analytics",
+        "AI-driven board hiring"
+      ],
+      "word_count": 1184,
+      "filepath": "content/posts/2026-04-25-ai-for-executive-hiring-datadriven-csuite-recruitment.md",
+      "topic": "AI for Executive Hiring: Data\u2011Driven C\u2011Suite Recruitment"
     }
   ],
   "topics_used": [
@@ -3508,8 +3524,9 @@
     "AI\u2011Driven Competency Assessment Forecasts New\u2011Hire Success",
     "AI interview assessment: How Managers Can Eliminate Bias",
     "AI Hiring Platform: Predict Recruiter Burnout & Boost Efficiency",
-    "Predictive AI Onboarding: Ensure New Hire Success"
+    "Predictive AI Onboarding: Ensure New Hire Success",
+    "AI for Executive Hiring: Data\u2011Driven C\u2011Suite Recruitment"
   ],
-  "last_updated": "2026-04-24",
-  "total_posts": 196
+  "last_updated": "2026-04-25",
+  "total_posts": 197
 }
