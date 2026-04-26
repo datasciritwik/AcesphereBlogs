@@ -3326,6 +3326,23 @@
       "word_count": 1184,
       "filepath": "content/posts/2026-04-25-ai-for-executive-hiring-datadriven-csuite-recruitment.md",
       "topic": "AI for Executive Hiring: Data\u2011Driven C\u2011Suite Recruitment"
+    },
+    {
+      "title": "AI\u2011Powered Hiring for Sales: Predict Quota\u2011Crushing Reps",
+      "slug": "aipowered-hiring-for-sales-predict-quotacrushing-reps",
+      "description": "# AI\u2011Powered Hiring for Sales: Predict Quota\u2011Crushing Reps  \n\nHiring managers and founders spend countless hours sifting r\u00e9sum\u00e9s, conducting interview...",
+      "pub_date": "2026-04-26",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "sales hiring",
+        "predictive hiring",
+        "skill evaluation",
+        "quota attainment prediction"
+      ],
+      "word_count": 1190,
+      "filepath": "content/posts/2026-04-26-aipowered-hiring-for-sales-predict-quotacrushing-reps.md",
+      "topic": "AI\u2011Powered Hiring for Sales: Predict Quota\u2011Crushing Reps"
     }
   ],
   "topics_used": [
@@ -3525,8 +3542,9 @@
     "AI interview assessment: How Managers Can Eliminate Bias",
     "AI Hiring Platform: Predict Recruiter Burnout & Boost Efficiency",
     "Predictive AI Onboarding: Ensure New Hire Success",
-    "AI for Executive Hiring: Data\u2011Driven C\u2011Suite Recruitment"
+    "AI for Executive Hiring: Data\u2011Driven C\u2011Suite Recruitment",
+    "AI\u2011Powered Hiring for Sales: Predict Quota\u2011Crushing Reps"
   ],
-  "last_updated": "2026-04-25",
-  "total_posts": 197
+  "last_updated": "2026-04-26",
+  "total_posts": 198
 }
