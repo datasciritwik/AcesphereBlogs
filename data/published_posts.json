@@ -3343,6 +3343,23 @@
       "word_count": 1190,
       "filepath": "content/posts/2026-04-26-aipowered-hiring-for-sales-predict-quotacrushing-reps.md",
       "topic": "AI\u2011Powered Hiring for Sales: Predict Quota\u2011Crushing Reps"
+    },
+    {
+      "title": "Predictive Hiring: AI Strategies to Boost Employee Retention",
+      "slug": "predictive-hiring-ai-strategies-to-boost-employee-retention",
+      "description": "# Predictive Hiring: AI Strategies to Boost Employee Retention  \n\nIn today\u2019s competitive talent market, hiring isn\u2019t just about filling a vacancy\u2014it\u2019s...",
+      "pub_date": "2026-04-27",
+      "tags": [],
+      "keywords": [
+        "predictive hiring",
+        "AI hiring retention",
+        "employee retention analytics",
+        "data-driven hiring decisions",
+        "hiring best practices"
+      ],
+      "word_count": 1379,
+      "filepath": "content/posts/2026-04-27-predictive-hiring-ai-strategies-to-boost-employee-retention.md",
+      "topic": "Predictive Hiring: AI Strategies to Boost Employee Retention"
     }
   ],
   "topics_used": [
@@ -3543,8 +3560,9 @@
     "AI Hiring Platform: Predict Recruiter Burnout & Boost Efficiency",
     "Predictive AI Onboarding: Ensure New Hire Success",
     "AI for Executive Hiring: Data\u2011Driven C\u2011Suite Recruitment",
-    "AI\u2011Powered Hiring for Sales: Predict Quota\u2011Crushing Reps"
+    "AI\u2011Powered Hiring for Sales: Predict Quota\u2011Crushing Reps",
+    "Predictive Hiring: AI Strategies to Boost Employee Retention"
   ],
-  "last_updated": "2026-04-26",
-  "total_posts": 198
+  "last_updated": "2026-04-27",
+  "total_posts": 199
 }
