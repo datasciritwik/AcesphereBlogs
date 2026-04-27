@@ -3360,6 +3360,23 @@
       "word_count": 1379,
       "filepath": "content/posts/2026-04-27-predictive-hiring-ai-strategies-to-boost-employee-retention.md",
       "topic": "Predictive Hiring: AI Strategies to Boost Employee Retention"
+    },
+    {
+      "title": "AI Remote Work Readiness: Hire for Distributed Teams",
+      "slug": "ai-remote-work-readiness-hire-for-distributed-teams",
+      "description": "# AI Remote Work Readiness: Hire for Distributed Teams\n\nIn today\u2019s hyper\u2011connected market, the ability to assess **candidate readiness** for remote wo...",
+      "pub_date": "2026-04-27",
+      "tags": [],
+      "keywords": [
+        "AI remote work assessment",
+        "remote hiring",
+        "candidate readiness",
+        "distributed teams",
+        "AI hiring"
+      ],
+      "word_count": 1166,
+      "filepath": "content/posts/2026-04-27-ai-remote-work-readiness-hire-for-distributed-teams.md",
+      "topic": "AI Remote Work Readiness: Hire for Distributed Teams"
     }
   ],
   "topics_used": [
@@ -3561,8 +3578,9 @@
     "Predictive AI Onboarding: Ensure New Hire Success",
     "AI for Executive Hiring: Data\u2011Driven C\u2011Suite Recruitment",
     "AI\u2011Powered Hiring for Sales: Predict Quota\u2011Crushing Reps",
-    "Predictive Hiring: AI Strategies to Boost Employee Retention"
+    "Predictive Hiring: AI Strategies to Boost Employee Retention",
+    "AI Remote Work Readiness: Hire for Distributed Teams"
   ],
   "last_updated": "2026-04-27",
-  "total_posts": 199
+  "total_posts": 200
 }
