@@ -3411,6 +3411,23 @@
       "word_count": 1265,
       "filepath": "content/posts/2026-04-28-predict-offer-acceptance-with-ai-cut-lost-hires.md",
       "topic": "Predict Offer Acceptance with AI: Cut Lost Hires"
+    },
+    {
+      "title": "AI Hiring Compliance for Healthcare: Meet HIPAA & FDA",
+      "slug": "ai-hiring-compliance-for-healthcare-meet-hipaa-fda",
+      "description": "# AI Hiring Compliance for Healthcare: Meet HIPAA & FDA  \n\nHealthcare HR leaders face a paradox: the need to hire faster and smarter clashes with a ma...",
+      "pub_date": "2026-04-28",
+      "tags": [],
+      "keywords": [
+        "AI hiring compliance",
+        "healthcare recruitment AI",
+        "HIPAA hiring automation",
+        "AI recruitment regulatory",
+        "AI hiring for regulated industries"
+      ],
+      "word_count": 1291,
+      "filepath": "content/posts/2026-04-28-ai-hiring-compliance-for-healthcare-meet-hipaa-fda.md",
+      "topic": "AI Hiring Compliance for Healthcare: Meet HIPAA & FDA"
     }
   ],
   "topics_used": [
@@ -3615,8 +3632,9 @@
     "Predictive Hiring: AI Strategies to Boost Employee Retention",
     "AI Remote Work Readiness: Hire for Distributed Teams",
     "Intelligent Screening for Remote Teams: Boost Global Fit",
-    "Predict Offer Acceptance with AI: Cut Lost Hires"
+    "Predict Offer Acceptance with AI: Cut Lost Hires",
+    "AI Hiring Compliance for Healthcare: Meet HIPAA & FDA"
   ],
   "last_updated": "2026-04-28",
-  "total_posts": 202
+  "total_posts": 203
 }
