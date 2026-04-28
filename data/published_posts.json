@@ -3394,6 +3394,23 @@
       "word_count": 1232,
       "filepath": "content/posts/2026-04-27-intelligent-screening-for-remote-teams-boost-global-fit.md",
       "topic": "Intelligent Screening for Remote Teams: Boost Global Fit"
+    },
+    {
+      "title": "Predict Offer Acceptance with AI: Cut Lost Hires",
+      "slug": "predict-offer-acceptance-with-ai-cut-lost-hires",
+      "description": "# Predict Offer Acceptance with AI: Cut Lost Hires  \n\nRecruiters and HR teams spend countless hours crafting offers, only to watch promising candidate...",
+      "pub_date": "2026-04-28",
+      "tags": [],
+      "keywords": [
+        "offer acceptance prediction",
+        "AI hiring",
+        "candidate acceptance modeling",
+        "recruitment analytics",
+        "AI offer management"
+      ],
+      "word_count": 1265,
+      "filepath": "content/posts/2026-04-28-predict-offer-acceptance-with-ai-cut-lost-hires.md",
+      "topic": "Predict Offer Acceptance with AI: Cut Lost Hires"
     }
   ],
   "topics_used": [
@@ -3597,8 +3614,9 @@
     "AI\u2011Powered Hiring for Sales: Predict Quota\u2011Crushing Reps",
     "Predictive Hiring: AI Strategies to Boost Employee Retention",
     "AI Remote Work Readiness: Hire for Distributed Teams",
-    "Intelligent Screening for Remote Teams: Boost Global Fit"
+    "Intelligent Screening for Remote Teams: Boost Global Fit",
+    "Predict Offer Acceptance with AI: Cut Lost Hires"
   ],
-  "last_updated": "2026-04-27",
-  "total_posts": 201
+  "last_updated": "2026-04-28",
+  "total_posts": 202
 }
