@@ -3428,6 +3428,22 @@
       "word_count": 1291,
       "filepath": "content/posts/2026-04-28-ai-hiring-compliance-for-healthcare-meet-hipaa-fda.md",
       "topic": "AI Hiring Compliance for Healthcare: Meet HIPAA & FDA"
+    },
+    {
+      "title": "AI Interview Assessment: Predicting Soft\u2011Skill Growth",
+      "slug": "ai-interview-assessment-predicting-softskill-growth",
+      "description": "# AI Interview Assessment: Predicting Soft\u2011Skill Growth  \n\nIn today\u2019s talent\u2011driven economy, hiring teams need more than a snapshot of a candidate\u2019s c...",
+      "pub_date": "2026-04-29",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "soft skill forecasting",
+        "data-driven hiring decisions",
+        "candidate development analytics"
+      ],
+      "word_count": 1138,
+      "filepath": "content/posts/2026-04-29-ai-interview-assessment-predicting-softskill-growth.md",
+      "topic": "AI Interview Assessment: Predicting Soft\u2011Skill Growth"
     }
   ],
   "topics_used": [
@@ -3633,8 +3649,9 @@
     "AI Remote Work Readiness: Hire for Distributed Teams",
     "Intelligent Screening for Remote Teams: Boost Global Fit",
     "Predict Offer Acceptance with AI: Cut Lost Hires",
-    "AI Hiring Compliance for Healthcare: Meet HIPAA & FDA"
+    "AI Hiring Compliance for Healthcare: Meet HIPAA & FDA",
+    "AI Interview Assessment: Predicting Soft\u2011Skill Growth"
   ],
-  "last_updated": "2026-04-28",
-  "total_posts": 203
+  "last_updated": "2026-04-29",
+  "total_posts": 204
 }
