@@ -3444,6 +3444,22 @@
       "word_count": 1138,
       "filepath": "content/posts/2026-04-29-ai-interview-assessment-predicting-softskill-growth.md",
       "topic": "AI Interview Assessment: Predicting Soft\u2011Skill Growth"
+    },
+    {
+      "title": "AI Hiring Platform: Alleviating Manager Decision Fatigue",
+      "slug": "ai-hiring-platform-alleviating-manager-decision-fatigue",
+      "description": "# AI Hiring Platform: Alleviating Manager Decision Fatigue\n\nHiring managers are inundated with resumes, interview notes, and endless \u201cwho\u2011should\u2011we\u2011ca...",
+      "pub_date": "2026-04-29",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "decision fatigue",
+        "hiring manager productivity",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1045,
+      "filepath": "content/posts/2026-04-29-ai-hiring-platform-alleviating-manager-decision-fatigue.md",
+      "topic": "AI Hiring Platform: Alleviating Manager Decision Fatigue"
     }
   ],
   "topics_used": [
@@ -3650,8 +3666,9 @@
     "Intelligent Screening for Remote Teams: Boost Global Fit",
     "Predict Offer Acceptance with AI: Cut Lost Hires",
     "AI Hiring Compliance for Healthcare: Meet HIPAA & FDA",
-    "AI Interview Assessment: Predicting Soft\u2011Skill Growth"
+    "AI Interview Assessment: Predicting Soft\u2011Skill Growth",
+    "AI Hiring Platform: Alleviating Manager Decision Fatigue"
   ],
   "last_updated": "2026-04-29",
-  "total_posts": 204
+  "total_posts": 205
 }
