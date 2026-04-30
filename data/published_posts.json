@@ -3494,6 +3494,23 @@
       "word_count": 1328,
       "filepath": "content/posts/2026-04-30-ai-hiring-for-emerging-tech-roles-fill-quantum-jobs-fast.md",
       "topic": "AI Hiring for Emerging Tech Roles: Fill Quantum Jobs Fast"
+    },
+    {
+      "title": "AI-Driven Candidate Experience Mapping to Boost Hiring Success",
+      "slug": "ai-driven-candidate-experience-mapping-to-boost-hiring-succe",
+      "description": "# AI-Driven Candidate Experience Mapping to Boost Hiring Success\n\nIn today\u2019s competitive talent market, **AI\u2011driven candidate experience mapping** tur...",
+      "pub_date": "2026-04-30",
+      "tags": [],
+      "keywords": [
+        "candidate experience AI",
+        "AI hiring analytics",
+        "recruiter productivity",
+        "AI talent acquisition",
+        "objective candidate evaluation"
+      ],
+      "word_count": 1221,
+      "filepath": "content/posts/2026-04-30-ai-driven-candidate-experience-mapping-to-boost-hiring-succe.md",
+      "topic": "AI-Driven Candidate Experience Mapping to Boost Hiring Success"
     }
   ],
   "topics_used": [
@@ -3703,8 +3720,9 @@
     "AI Interview Assessment: Predicting Soft\u2011Skill Growth",
     "AI Hiring Platform: Alleviating Manager Decision Fatigue",
     "Adaptive Automated Interviews: Cut Candidate Fatigue",
-    "AI Hiring for Emerging Tech Roles: Fill Quantum Jobs Fast"
+    "AI Hiring for Emerging Tech Roles: Fill Quantum Jobs Fast",
+    "AI-Driven Candidate Experience Mapping to Boost Hiring Success"
   ],
   "last_updated": "2026-04-30",
-  "total_posts": 207
+  "total_posts": 208
 }
