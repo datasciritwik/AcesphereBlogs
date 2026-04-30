@@ -3477,6 +3477,23 @@
       "word_count": 1315,
       "filepath": "content/posts/2026-04-30-adaptive-automated-interviews-cut-candidate-fatigue.md",
       "topic": "Adaptive Automated Interviews: Cut Candidate Fatigue"
+    },
+    {
+      "title": "AI Hiring for Emerging Tech Roles: Fill Quantum Jobs Fast",
+      "slug": "ai-hiring-for-emerging-tech-roles-fill-quantum-jobs-fast",
+      "description": "# AI Hiring for Emerging Tech Roles: Fill Quantum Jobs Fast  \n\nIn today\u2019s hyper\u2011competitive talent market, startups and mid\u2011sized companies can\u2019t affo...",
+      "pub_date": "2026-04-30",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "emerging tech roles",
+        "quantum computing hiring",
+        "niche talent acquisition",
+        "AI ethics recruitment"
+      ],
+      "word_count": 1328,
+      "filepath": "content/posts/2026-04-30-ai-hiring-for-emerging-tech-roles-fill-quantum-jobs-fast.md",
+      "topic": "AI Hiring for Emerging Tech Roles: Fill Quantum Jobs Fast"
     }
   ],
   "topics_used": [
@@ -3685,8 +3702,9 @@
     "AI Hiring Compliance for Healthcare: Meet HIPAA & FDA",
     "AI Interview Assessment: Predicting Soft\u2011Skill Growth",
     "AI Hiring Platform: Alleviating Manager Decision Fatigue",
-    "Adaptive Automated Interviews: Cut Candidate Fatigue"
+    "Adaptive Automated Interviews: Cut Candidate Fatigue",
+    "AI Hiring for Emerging Tech Roles: Fill Quantum Jobs Fast"
   ],
   "last_updated": "2026-04-30",
-  "total_posts": 206
+  "total_posts": 207
 }
