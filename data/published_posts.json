@@ -3460,6 +3460,23 @@
       "word_count": 1045,
       "filepath": "content/posts/2026-04-29-ai-hiring-platform-alleviating-manager-decision-fatigue.md",
       "topic": "AI Hiring Platform: Alleviating Manager Decision Fatigue"
+    },
+    {
+      "title": "Adaptive Automated Interviews: Cut Candidate Fatigue",
+      "slug": "adaptive-automated-interviews-cut-candidate-fatigue",
+      "description": "# Adaptive Automated Interviews: Cut Candidate Fatigue  \n\nIn today\u2019s fast\u2011paced talent market, a lengthy, one\u2011size\u2011fits\u2011all interview can drain candid...",
+      "pub_date": "2026-04-30",
+      "tags": [],
+      "keywords": [
+        "automated interviews",
+        "candidate fatigue",
+        "interview intelligence",
+        "AI interview adaptation",
+        "recruiter productivity"
+      ],
+      "word_count": 1315,
+      "filepath": "content/posts/2026-04-30-adaptive-automated-interviews-cut-candidate-fatigue.md",
+      "topic": "Adaptive Automated Interviews: Cut Candidate Fatigue"
     }
   ],
   "topics_used": [
@@ -3667,8 +3684,9 @@
     "Predict Offer Acceptance with AI: Cut Lost Hires",
     "AI Hiring Compliance for Healthcare: Meet HIPAA & FDA",
     "AI Interview Assessment: Predicting Soft\u2011Skill Growth",
-    "AI Hiring Platform: Alleviating Manager Decision Fatigue"
+    "AI Hiring Platform: Alleviating Manager Decision Fatigue",
+    "Adaptive Automated Interviews: Cut Candidate Fatigue"
   ],
-  "last_updated": "2026-04-29",
-  "total_posts": 205
+  "last_updated": "2026-04-30",
+  "total_posts": 206
 }
