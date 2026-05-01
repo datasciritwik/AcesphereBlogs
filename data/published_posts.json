@@ -3511,6 +3511,23 @@
       "word_count": 1221,
       "filepath": "content/posts/2026-04-30-ai-driven-candidate-experience-mapping-to-boost-hiring-succe.md",
       "topic": "AI-Driven Candidate Experience Mapping to Boost Hiring Success"
+    },
+    {
+      "title": "Hiring Process Automation for Remote\u2011First Startups",
+      "slug": "hiring-process-automation-for-remotefirst-startups",
+      "description": "# Hiring Process Automation for Remote\u2011First Startups\n\nRemote\u2011first startups move at lightning speed, but hiring can quickly become the bottleneck tha...",
+      "pub_date": "2026-05-01",
+      "tags": [],
+      "keywords": [
+        "hiring process automation",
+        "remote hiring best practices",
+        "recruiter productivity tips",
+        "AI recruitment",
+        "recruitment analytics"
+      ],
+      "word_count": 1325,
+      "filepath": "content/posts/2026-05-01-hiring-process-automation-for-remotefirst-startups.md",
+      "topic": "Hiring Process Automation for Remote\u2011First Startups"
     }
   ],
   "topics_used": [
@@ -3721,8 +3738,9 @@
     "AI Hiring Platform: Alleviating Manager Decision Fatigue",
     "Adaptive Automated Interviews: Cut Candidate Fatigue",
     "AI Hiring for Emerging Tech Roles: Fill Quantum Jobs Fast",
-    "AI-Driven Candidate Experience Mapping to Boost Hiring Success"
+    "AI-Driven Candidate Experience Mapping to Boost Hiring Success",
+    "Hiring Process Automation for Remote\u2011First Startups"
   ],
-  "last_updated": "2026-04-30",
-  "total_posts": 208
+  "last_updated": "2026-05-01",
+  "total_posts": 209
 }
