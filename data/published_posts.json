@@ -3528,6 +3528,23 @@
       "word_count": 1325,
       "filepath": "content/posts/2026-05-01-hiring-process-automation-for-remotefirst-startups.md",
       "topic": "Hiring Process Automation for Remote\u2011First Startups"
+    },
+    {
+      "title": "Cross\u2011Border Hiring Automation: AI Solutions for Global Compliance",
+      "slug": "crossborder-hiring-automation-ai-solutions-for-global-compli",
+      "description": "# Cross\u2011Border Hiring Automation: AI Solutions for Global Compliance\n\nHiring talent across multiple countries is no longer a nice\u2011to\u2011have advantage\u2014it...",
+      "pub_date": "2026-05-02",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "AI-powered hiring",
+        "global compliance",
+        "cross-border recruitment",
+        "hiring technology"
+      ],
+      "word_count": 1050,
+      "filepath": "content/posts/2026-05-02-crossborder-hiring-automation-ai-solutions-for-global-compli.md",
+      "topic": "Cross\u2011Border Hiring Automation: AI Solutions for Global Compliance"
     }
   ],
   "topics_used": [
@@ -3739,8 +3756,9 @@
     "Adaptive Automated Interviews: Cut Candidate Fatigue",
     "AI Hiring for Emerging Tech Roles: Fill Quantum Jobs Fast",
     "AI-Driven Candidate Experience Mapping to Boost Hiring Success",
-    "Hiring Process Automation for Remote\u2011First Startups"
+    "Hiring Process Automation for Remote\u2011First Startups",
+    "Cross\u2011Border Hiring Automation: AI Solutions for Global Compliance"
   ],
-  "last_updated": "2026-05-01",
-  "total_posts": 209
+  "last_updated": "2026-05-02",
+  "total_posts": 210
 }
