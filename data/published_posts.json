@@ -3545,6 +3545,23 @@
       "word_count": 1050,
       "filepath": "content/posts/2026-05-02-crossborder-hiring-automation-ai-solutions-for-global-compli.md",
       "topic": "Cross\u2011Border Hiring Automation: AI Solutions for Global Compliance"
+    },
+    {
+      "title": "Virtual Interview AI: Data-Driven Skill Validation",
+      "slug": "virtual-interview-ai-data-driven-skill-validation",
+      "description": "# Virtual Interview AI: Data-Driven Skill Validation  \n\nIn today\u2019s fast\u2011moving talent market, HR teams need more than gut feelings to prove that a can...",
+      "pub_date": "2026-05-02",
+      "tags": [],
+      "keywords": [
+        "virtual interview AI",
+        "skill validation",
+        "data-driven hiring",
+        "interview analytics",
+        "hiring technology"
+      ],
+      "word_count": 1335,
+      "filepath": "content/posts/2026-05-02-virtual-interview-ai-data-driven-skill-validation.md",
+      "topic": "Virtual Interview AI: Data-Driven Skill Validation"
     }
   ],
   "topics_used": [
@@ -3757,8 +3774,9 @@
     "AI Hiring for Emerging Tech Roles: Fill Quantum Jobs Fast",
     "AI-Driven Candidate Experience Mapping to Boost Hiring Success",
     "Hiring Process Automation for Remote\u2011First Startups",
-    "Cross\u2011Border Hiring Automation: AI Solutions for Global Compliance"
+    "Cross\u2011Border Hiring Automation: AI Solutions for Global Compliance",
+    "Virtual Interview AI: Data-Driven Skill Validation"
   ],
   "last_updated": "2026-05-02",
-  "total_posts": 210
+  "total_posts": 211
 }
