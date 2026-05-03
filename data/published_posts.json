@@ -3562,6 +3562,23 @@
       "word_count": 1335,
       "filepath": "content/posts/2026-05-02-virtual-interview-ai-data-driven-skill-validation.md",
       "topic": "Virtual Interview AI: Data-Driven Skill Validation"
+    },
+    {
+      "title": "AI Hiring Compliance for Finance: Meet SEC & GDPR",
+      "slug": "ai-hiring-compliance-for-finance-meet-sec-gdpr",
+      "description": "# AI Hiring Compliance for Finance: Meet SEC & GDPR  \n\nIn the fast\u2011paced world of banking, fintech, and other financial services, hiring the right tal...",
+      "pub_date": "2026-05-03",
+      "tags": [],
+      "keywords": [
+        "AI hiring compliance",
+        "finance hiring regulations",
+        "AI recruitment",
+        "SEC hiring rules",
+        "GDPR recruitment"
+      ],
+      "word_count": 1053,
+      "filepath": "content/posts/2026-05-03-ai-hiring-compliance-for-finance-meet-sec-gdpr.md",
+      "topic": "AI Hiring Compliance for Finance: Meet SEC & GDPR"
     }
   ],
   "topics_used": [
@@ -3775,8 +3792,9 @@
     "AI-Driven Candidate Experience Mapping to Boost Hiring Success",
     "Hiring Process Automation for Remote\u2011First Startups",
     "Cross\u2011Border Hiring Automation: AI Solutions for Global Compliance",
-    "Virtual Interview AI: Data-Driven Skill Validation"
+    "Virtual Interview AI: Data-Driven Skill Validation",
+    "AI Hiring Compliance for Finance: Meet SEC & GDPR"
   ],
-  "last_updated": "2026-05-02",
-  "total_posts": 211
+  "last_updated": "2026-05-03",
+  "total_posts": 212
 }
