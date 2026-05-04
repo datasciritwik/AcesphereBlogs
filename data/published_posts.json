@@ -3579,6 +3579,22 @@
       "word_count": 1053,
       "filepath": "content/posts/2026-05-03-ai-hiring-compliance-for-finance-meet-sec-gdpr.md",
       "topic": "AI Hiring Compliance for Finance: Meet SEC & GDPR"
+    },
+    {
+      "title": "AI Recruitment Chatbots: Elevate Engagement & Cut Load",
+      "slug": "ai-recruitment-chatbots-elevate-engagement-cut-load",
+      "description": "# AI Recruitment Chatbots: Elevate Engagement & Cut Load  \n\nIn today\u2019s talent\u2011war, recruiters are juggling dozens of conversations while trying to kee...",
+      "pub_date": "2026-05-04",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "recruiter productivity tips",
+        "candidate experience with AI",
+        "AI hiring platform"
+      ],
+      "word_count": 1261,
+      "filepath": "content/posts/2026-05-04-ai-recruitment-chatbots-elevate-engagement-cut-load.md",
+      "topic": "AI Recruitment Chatbots: Elevate Engagement & Cut Load"
     }
   ],
   "topics_used": [
@@ -3793,8 +3809,9 @@
     "Hiring Process Automation for Remote\u2011First Startups",
     "Cross\u2011Border Hiring Automation: AI Solutions for Global Compliance",
     "Virtual Interview AI: Data-Driven Skill Validation",
-    "AI Hiring Compliance for Finance: Meet SEC & GDPR"
+    "AI Hiring Compliance for Finance: Meet SEC & GDPR",
+    "AI Recruitment Chatbots: Elevate Engagement & Cut Load"
   ],
-  "last_updated": "2026-05-03",
-  "total_posts": 212
+  "last_updated": "2026-05-04",
+  "total_posts": 213
 }
