@@ -3612,6 +3612,23 @@
       "word_count": 1326,
       "filepath": "content/posts/2026-05-05-automated-hiring-pipeline-futureproof-your-startup.md",
       "topic": "Automated Hiring Pipeline: Future\u2011Proof Your Startup"
+    },
+    {
+      "title": "AI Recruitment for Creative Roles: Portfolio Scoring",
+      "slug": "ai-recruitment-for-creative-roles-portfolio-scoring",
+      "description": "# AI Recruitment for Creative Roles: Portfolio Scoring  \n\nHiring managers in design studios, marketing teams, and media agencies constantly wrestle wi...",
+      "pub_date": "2026-05-05",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "creative hiring",
+        "portfolio scoring AI",
+        "AI talent acquisition",
+        "creative talent assessment"
+      ],
+      "word_count": 1429,
+      "filepath": "content/posts/2026-05-05-ai-recruitment-for-creative-roles-portfolio-scoring.md",
+      "topic": "AI Recruitment for Creative Roles: Portfolio Scoring"
     }
   ],
   "topics_used": [
@@ -3828,8 +3845,9 @@
     "Virtual Interview AI: Data-Driven Skill Validation",
     "AI Hiring Compliance for Finance: Meet SEC & GDPR",
     "AI Recruitment Chatbots: Elevate Engagement & Cut Load",
-    "Automated Hiring Pipeline: Future\u2011Proof Your Startup"
+    "Automated Hiring Pipeline: Future\u2011Proof Your Startup",
+    "AI Recruitment for Creative Roles: Portfolio Scoring"
   ],
   "last_updated": "2026-05-05",
-  "total_posts": 214
+  "total_posts": 215
 }
