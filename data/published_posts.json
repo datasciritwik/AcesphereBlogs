@@ -3629,6 +3629,23 @@
       "word_count": 1429,
       "filepath": "content/posts/2026-05-05-ai-recruitment-for-creative-roles-portfolio-scoring.md",
       "topic": "AI Recruitment for Creative Roles: Portfolio Scoring"
+    },
+    {
+      "title": "Hiring Process Automation for Internal Talent Mobility",
+      "slug": "hiring-process-automation-for-internal-talent-mobility",
+      "description": "# Hiring Process Automation for Internal Talent Mobility\n\nIn today\u2019s fast\u2011changing talent market, HR leaders need a **practical, data\u2011driven** way to...",
+      "pub_date": "2026-05-07",
+      "tags": [],
+      "keywords": [
+        "hiring process automation",
+        "internal talent mobility",
+        "AI promotion pipeline",
+        "employee retention AI",
+        "data-driven internal hiring"
+      ],
+      "word_count": 1130,
+      "filepath": "content/posts/2026-05-07-hiring-process-automation-for-internal-talent-mobility.md",
+      "topic": "Hiring Process Automation for Internal Talent Mobility"
     }
   ],
   "topics_used": [
@@ -3846,8 +3863,9 @@
     "AI Hiring Compliance for Finance: Meet SEC & GDPR",
     "AI Recruitment Chatbots: Elevate Engagement & Cut Load",
     "Automated Hiring Pipeline: Future\u2011Proof Your Startup",
-    "AI Recruitment for Creative Roles: Portfolio Scoring"
+    "AI Recruitment for Creative Roles: Portfolio Scoring",
+    "Hiring Process Automation for Internal Talent Mobility"
   ],
-  "last_updated": "2026-05-05",
-  "total_posts": 215
+  "last_updated": "2026-05-07",
+  "total_posts": 216
 }
