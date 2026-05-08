@@ -3663,6 +3663,23 @@
       "word_count": 1340,
       "filepath": "content/posts/2026-05-08-ai-talent-heatmaps-visualize-skill-demand-for-smarter-hiring.md",
       "topic": "AI Talent Heatmaps: Visualize Skill Demand for Smarter Hiring"
+    },
+    {
+      "title": "Interview Intelligence AI: Real\u2011Time Hiring Decisions",
+      "slug": "interview-intelligence-ai-realtime-hiring-decisions",
+      "description": "# Interview Intelligence AI: Real\u2011Time Hiring Decisions  \n\nHiring managers are under constant pressure to move fast, stay objective, and make the righ...",
+      "pub_date": "2026-05-08",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "real-time hiring decisions",
+        "AI hiring manager tools",
+        "data-driven interview insights",
+        "streamlined recruitment"
+      ],
+      "word_count": 1222,
+      "filepath": "content/posts/2026-05-08-interview-intelligence-ai-realtime-hiring-decisions.md",
+      "topic": "Interview Intelligence AI: Real\u2011Time Hiring Decisions"
     }
   ],
   "topics_used": [
@@ -3882,8 +3899,9 @@
     "Automated Hiring Pipeline: Future\u2011Proof Your Startup",
     "AI Recruitment for Creative Roles: Portfolio Scoring",
     "Hiring Process Automation for Internal Talent Mobility",
-    "AI Talent Heatmaps: Visualize Skill Demand for Smarter Hiring"
+    "AI Talent Heatmaps: Visualize Skill Demand for Smarter Hiring",
+    "Interview Intelligence AI: Real\u2011Time Hiring Decisions"
   ],
   "last_updated": "2026-05-08",
-  "total_posts": 217
+  "total_posts": 218
 }
