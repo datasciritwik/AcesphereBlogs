@@ -3646,6 +3646,23 @@
       "word_count": 1130,
       "filepath": "content/posts/2026-05-07-hiring-process-automation-for-internal-talent-mobility.md",
       "topic": "Hiring Process Automation for Internal Talent Mobility"
+    },
+    {
+      "title": "AI Talent Heatmaps: Visualize Skill Demand for Smarter Hiring",
+      "slug": "ai-talent-heatmaps-visualize-skill-demand-for-smarter-hiring",
+      "description": "# AI Talent Heatmaps: Visualize Skill Demand for Smarter Hiring  \n\nRecruiters and HR teams are constantly juggling where the right talent lives, what...",
+      "pub_date": "2026-05-08",
+      "tags": [],
+      "keywords": [
+        "AI talent heatmaps",
+        "skill demand visualization",
+        "data-driven hiring decisions",
+        "strategic hiring",
+        "recruiter productivity"
+      ],
+      "word_count": 1340,
+      "filepath": "content/posts/2026-05-08-ai-talent-heatmaps-visualize-skill-demand-for-smarter-hiring.md",
+      "topic": "AI Talent Heatmaps: Visualize Skill Demand for Smarter Hiring"
     }
   ],
   "topics_used": [
@@ -3864,8 +3881,9 @@
     "AI Recruitment Chatbots: Elevate Engagement & Cut Load",
     "Automated Hiring Pipeline: Future\u2011Proof Your Startup",
     "AI Recruitment for Creative Roles: Portfolio Scoring",
-    "Hiring Process Automation for Internal Talent Mobility"
+    "Hiring Process Automation for Internal Talent Mobility",
+    "AI Talent Heatmaps: Visualize Skill Demand for Smarter Hiring"
   ],
-  "last_updated": "2026-05-07",
-  "total_posts": 216
+  "last_updated": "2026-05-08",
+  "total_posts": 217
 }
