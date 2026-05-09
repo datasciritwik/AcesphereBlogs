@@ -3697,6 +3697,23 @@
       "word_count": 1241,
       "filepath": "content/posts/2026-05-09-predictive-talent-pipelines-with-hiring-automation.md",
       "topic": "Predictive Talent Pipelines with Hiring Automation"
+    },
+    {
+      "title": "AI Hiring for Reskilling: Fill Skill Gaps Faster",
+      "slug": "ai-hiring-for-reskilling-fill-skill-gaps-faster",
+      "description": "# AI Hiring for Reskilling: Fill Skill Gaps Faster  \n\nIn today\u2019s rapid\u2011change economy, the ability to close skill gaps **quickly** can mean the differ...",
+      "pub_date": "2026-05-09",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "skill gap forecasting",
+        "workforce reskilling",
+        "upskilling automation",
+        "talent pipeline analytics"
+      ],
+      "word_count": 1297,
+      "filepath": "content/posts/2026-05-09-ai-hiring-for-reskilling-fill-skill-gaps-faster.md",
+      "topic": "AI Hiring for Reskilling: Fill Skill Gaps Faster"
     }
   ],
   "topics_used": [
@@ -3918,8 +3935,9 @@
     "Hiring Process Automation for Internal Talent Mobility",
     "AI Talent Heatmaps: Visualize Skill Demand for Smarter Hiring",
     "Interview Intelligence AI: Real\u2011Time Hiring Decisions",
-    "Predictive Talent Pipelines with Hiring Automation"
+    "Predictive Talent Pipelines with Hiring Automation",
+    "AI Hiring for Reskilling: Fill Skill Gaps Faster"
   ],
   "last_updated": "2026-05-09",
-  "total_posts": 219
+  "total_posts": 220
 }
