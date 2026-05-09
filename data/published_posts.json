@@ -3680,6 +3680,23 @@
       "word_count": 1222,
       "filepath": "content/posts/2026-05-08-interview-intelligence-ai-realtime-hiring-decisions.md",
       "topic": "Interview Intelligence AI: Real\u2011Time Hiring Decisions"
+    },
+    {
+      "title": "Predictive Talent Pipelines with Hiring Automation",
+      "slug": "predictive-talent-pipelines-with-hiring-automation",
+      "description": "# Predictive Talent Pipelines with Hiring Automation  \n\nFast\u2011growing startups can\u2019t afford to wait for talent after a product milestone is set. By lin...",
+      "pub_date": "2026-05-09",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "predictive hiring",
+        "talent pipeline",
+        "product roadmap hiring",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1241,
+      "filepath": "content/posts/2026-05-09-predictive-talent-pipelines-with-hiring-automation.md",
+      "topic": "Predictive Talent Pipelines with Hiring Automation"
     }
   ],
   "topics_used": [
@@ -3900,8 +3917,9 @@
     "AI Recruitment for Creative Roles: Portfolio Scoring",
     "Hiring Process Automation for Internal Talent Mobility",
     "AI Talent Heatmaps: Visualize Skill Demand for Smarter Hiring",
-    "Interview Intelligence AI: Real\u2011Time Hiring Decisions"
+    "Interview Intelligence AI: Real\u2011Time Hiring Decisions",
+    "Predictive Talent Pipelines with Hiring Automation"
   ],
-  "last_updated": "2026-05-08",
-  "total_posts": 218
+  "last_updated": "2026-05-09",
+  "total_posts": 219
 }
