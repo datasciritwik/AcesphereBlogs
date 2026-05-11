@@ -3714,6 +3714,22 @@
       "word_count": 1297,
       "filepath": "content/posts/2026-05-09-ai-hiring-for-reskilling-fill-skill-gaps-faster.md",
       "topic": "AI Hiring for Reskilling: Fill Skill Gaps Faster"
+    },
+    {
+      "title": "AI Interview Simulators: Train Recruiters for Better Hires",
+      "slug": "ai-interview-simulators-train-recruiters-for-better-hires",
+      "description": "# AI Interview Simulators: Train Recruiters for Better Hires\n\nIn today\u2019s fast\u2011moving talent market, the difference between a great hire and a costly m...",
+      "pub_date": "2026-05-11",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "AI interview training",
+        "recruiter productivity tips",
+        "AI hiring platform"
+      ],
+      "word_count": 1498,
+      "filepath": "content/posts/2026-05-11-ai-interview-simulators-train-recruiters-for-better-hires.md",
+      "topic": "AI Interview Simulators: Train Recruiters for Better Hires"
     }
   ],
   "topics_used": [
@@ -3936,8 +3952,9 @@
     "AI Talent Heatmaps: Visualize Skill Demand for Smarter Hiring",
     "Interview Intelligence AI: Real\u2011Time Hiring Decisions",
     "Predictive Talent Pipelines with Hiring Automation",
-    "AI Hiring for Reskilling: Fill Skill Gaps Faster"
+    "AI Hiring for Reskilling: Fill Skill Gaps Faster",
+    "AI Interview Simulators: Train Recruiters for Better Hires"
   ],
-  "last_updated": "2026-05-09",
-  "total_posts": 220
+  "last_updated": "2026-05-11",
+  "total_posts": 221
 }
