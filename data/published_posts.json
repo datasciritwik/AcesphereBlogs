@@ -3747,6 +3747,23 @@
       "word_count": 1292,
       "filepath": "content/posts/2026-05-12-ai-microassessments-speeding-highvolume-skill-testing.md",
       "topic": "AI Micro\u2011Assessments: Speeding High\u2011Volume Skill Testing"
+    },
+    {
+      "title": "AI Scorecard Automation: Faster, Bias\u2011Free Hiring",
+      "slug": "ai-scorecard-automation-faster-biasfree-hiring",
+      "description": "# AI Scorecard Automation: Faster, Bias\u2011Free Hiring  \n\nIn today\u2019s talent\u2011driven market, recruiters need a way to turn interview notes into actionable...",
+      "pub_date": "2026-05-12",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "hiring automation",
+        "bias-free hiring",
+        "recruiter efficiency tools",
+        "hiring dashboard"
+      ],
+      "word_count": 1054,
+      "filepath": "content/posts/2026-05-12-ai-scorecard-automation-faster-biasfree-hiring.md",
+      "topic": "AI Scorecard Automation: Faster, Bias\u2011Free Hiring"
     }
   ],
   "topics_used": [
@@ -3971,8 +3988,9 @@
     "Predictive Talent Pipelines with Hiring Automation",
     "AI Hiring for Reskilling: Fill Skill Gaps Faster",
     "AI Interview Simulators: Train Recruiters for Better Hires",
-    "AI Micro\u2011Assessments: Speeding High\u2011Volume Skill Testing"
+    "AI Micro\u2011Assessments: Speeding High\u2011Volume Skill Testing",
+    "AI Scorecard Automation: Faster, Bias\u2011Free Hiring"
   ],
   "last_updated": "2026-05-12",
-  "total_posts": 222
+  "total_posts": 223
 }
