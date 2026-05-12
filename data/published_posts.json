@@ -3730,6 +3730,23 @@
       "word_count": 1498,
       "filepath": "content/posts/2026-05-11-ai-interview-simulators-train-recruiters-for-better-hires.md",
       "topic": "AI Interview Simulators: Train Recruiters for Better Hires"
+    },
+    {
+      "title": "AI Micro\u2011Assessments: Speeding High\u2011Volume Skill Testing",
+      "slug": "ai-microassessments-speeding-highvolume-skill-testing",
+      "description": "# AI Micro\u2011Assessments: Speeding High\u2011Volume Skill Testing\n\nRecruiters at fast\u2011growing startups often face a paradox: they need to evaluate thousands...",
+      "pub_date": "2026-05-12",
+      "tags": [],
+      "keywords": [
+        "AI skill evaluation",
+        "micro assessments",
+        "high-volume hiring",
+        "assessment automation",
+        "recruiter productivity"
+      ],
+      "word_count": 1292,
+      "filepath": "content/posts/2026-05-12-ai-microassessments-speeding-highvolume-skill-testing.md",
+      "topic": "AI Micro\u2011Assessments: Speeding High\u2011Volume Skill Testing"
     }
   ],
   "topics_used": [
@@ -3953,8 +3970,9 @@
     "Interview Intelligence AI: Real\u2011Time Hiring Decisions",
     "Predictive Talent Pipelines with Hiring Automation",
     "AI Hiring for Reskilling: Fill Skill Gaps Faster",
-    "AI Interview Simulators: Train Recruiters for Better Hires"
+    "AI Interview Simulators: Train Recruiters for Better Hires",
+    "AI Micro\u2011Assessments: Speeding High\u2011Volume Skill Testing"
   ],
-  "last_updated": "2026-05-11",
-  "total_posts": 221
+  "last_updated": "2026-05-12",
+  "total_posts": 222
 }
