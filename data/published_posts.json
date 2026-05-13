@@ -3781,6 +3781,23 @@
       "word_count": 1321,
       "filepath": "content/posts/2026-05-13-ai-talent-market-intelligence-the-next-wave-of-hiring-tech.md",
       "topic": "AI Talent Market Intelligence: The Next Wave of Hiring Tech"
+    },
+    {
+      "title": "AI Candidate Re\u2011Engagement: Revive Ghosted Applicants",
+      "slug": "ai-candidate-reengagement-revive-ghosted-applicants",
+      "description": "# AI Candidate Re\u2011Engagement: Revive Ghosted Applicants\n\nGhosting\u2014when candidates stop responding mid\u2011process\u2014drains time, talent, and budget.\u202fBy depl...",
+      "pub_date": "2026-05-13",
+      "tags": [],
+      "keywords": [
+        "AI candidate re-engagement",
+        "hiring funnel optimization",
+        "AI talent acquisition",
+        "candidate ghosting",
+        "re-engagement automation"
+      ],
+      "word_count": 1193,
+      "filepath": "content/posts/2026-05-13-ai-candidate-reengagement-revive-ghosted-applicants.md",
+      "topic": "AI Candidate Re\u2011Engagement: Revive Ghosted Applicants"
     }
   ],
   "topics_used": [
@@ -4007,8 +4024,9 @@
     "AI Interview Simulators: Train Recruiters for Better Hires",
     "AI Micro\u2011Assessments: Speeding High\u2011Volume Skill Testing",
     "AI Scorecard Automation: Faster, Bias\u2011Free Hiring",
-    "AI Talent Market Intelligence: The Next Wave of Hiring Tech"
+    "AI Talent Market Intelligence: The Next Wave of Hiring Tech",
+    "AI Candidate Re\u2011Engagement: Revive Ghosted Applicants"
   ],
   "last_updated": "2026-05-13",
-  "total_posts": 224
+  "total_posts": 225
 }
