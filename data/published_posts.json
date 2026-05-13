@@ -3764,6 +3764,23 @@
       "word_count": 1054,
       "filepath": "content/posts/2026-05-12-ai-scorecard-automation-faster-biasfree-hiring.md",
       "topic": "AI Scorecard Automation: Faster, Bias\u2011Free Hiring"
+    },
+    {
+      "title": "AI Talent Market Intelligence: The Next Wave of Hiring Tech",
+      "slug": "ai-talent-market-intelligence-the-next-wave-of-hiring-tech",
+      "description": "# AI Talent Market Intelligence: The Next Wave of Hiring Tech  \n\nIn today\u2019s fast\u2011moving talent landscape, startups and mid\u2011sized companies can no long...",
+      "pub_date": "2026-05-13",
+      "tags": [],
+      "keywords": [
+        "hiring technology",
+        "talent market intelligence",
+        "AI hiring for startups",
+        "data-driven hiring decisions",
+        "skill demand forecasting"
+      ],
+      "word_count": 1321,
+      "filepath": "content/posts/2026-05-13-ai-talent-market-intelligence-the-next-wave-of-hiring-tech.md",
+      "topic": "AI Talent Market Intelligence: The Next Wave of Hiring Tech"
     }
   ],
   "topics_used": [
@@ -3989,8 +4006,9 @@
     "AI Hiring for Reskilling: Fill Skill Gaps Faster",
     "AI Interview Simulators: Train Recruiters for Better Hires",
     "AI Micro\u2011Assessments: Speeding High\u2011Volume Skill Testing",
-    "AI Scorecard Automation: Faster, Bias\u2011Free Hiring"
+    "AI Scorecard Automation: Faster, Bias\u2011Free Hiring",
+    "AI Talent Market Intelligence: The Next Wave of Hiring Tech"
   ],
-  "last_updated": "2026-05-12",
-  "total_posts": 223
+  "last_updated": "2026-05-13",
+  "total_posts": 224
 }
