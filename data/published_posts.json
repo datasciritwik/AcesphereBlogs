@@ -3798,6 +3798,23 @@
       "word_count": 1193,
       "filepath": "content/posts/2026-05-13-ai-candidate-reengagement-revive-ghosted-applicants.md",
       "topic": "AI Candidate Re\u2011Engagement: Revive Ghosted Applicants"
+    },
+    {
+      "title": "AI Hiring for Internal Mobility: Boost Talent Retention",
+      "slug": "ai-hiring-for-internal-mobility-boost-talent-retention",
+      "description": "# AI Hiring for Internal Mobility: Boost Talent Retention  \n\nIn today\u2019s talent\u2011driven market, the fastest way to fill critical roles isn\u2019t always to l...",
+      "pub_date": "2026-05-13",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "internal mobility",
+        "data-driven hiring decisions",
+        "talent retention",
+        "skill evaluation"
+      ],
+      "word_count": 1223,
+      "filepath": "content/posts/2026-05-13-ai-hiring-for-internal-mobility-boost-talent-retention.md",
+      "topic": "AI Hiring for Internal Mobility: Boost Talent Retention"
     }
   ],
   "topics_used": [
@@ -4025,8 +4042,9 @@
     "AI Micro\u2011Assessments: Speeding High\u2011Volume Skill Testing",
     "AI Scorecard Automation: Faster, Bias\u2011Free Hiring",
     "AI Talent Market Intelligence: The Next Wave of Hiring Tech",
-    "AI Candidate Re\u2011Engagement: Revive Ghosted Applicants"
+    "AI Candidate Re\u2011Engagement: Revive Ghosted Applicants",
+    "AI Hiring for Internal Mobility: Boost Talent Retention"
   ],
   "last_updated": "2026-05-13",
-  "total_posts": 225
+  "total_posts": 226
 }
