@@ -3815,6 +3815,23 @@
       "word_count": 1223,
       "filepath": "content/posts/2026-05-13-ai-hiring-for-internal-mobility-boost-talent-retention.md",
       "topic": "AI Hiring for Internal Mobility: Boost Talent Retention"
+    },
+    {
+      "title": "AI Hiring Platform: Real\u2011Time Upskilling for Teams",
+      "slug": "ai-hiring-platform-realtime-upskilling-for-teams",
+      "description": "# AI Hiring Platform: Real\u2011Time Upskilling for Teams\n\nIn today\u2019s fast\u2011changing market, the ability to upskill employees **as they join and grow** is n...",
+      "pub_date": "2026-05-14",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "competency assessment",
+        "recruitment workflow",
+        "future of hiring",
+        "scaling hiring with automation"
+      ],
+      "word_count": 1174,
+      "filepath": "content/posts/2026-05-14-ai-hiring-platform-realtime-upskilling-for-teams.md",
+      "topic": "AI Hiring Platform: Real\u2011Time Upskilling for Teams"
     }
   ],
   "topics_used": [
@@ -4043,8 +4060,9 @@
     "AI Scorecard Automation: Faster, Bias\u2011Free Hiring",
     "AI Talent Market Intelligence: The Next Wave of Hiring Tech",
     "AI Candidate Re\u2011Engagement: Revive Ghosted Applicants",
-    "AI Hiring for Internal Mobility: Boost Talent Retention"
+    "AI Hiring for Internal Mobility: Boost Talent Retention",
+    "AI Hiring Platform: Real\u2011Time Upskilling for Teams"
   ],
-  "last_updated": "2026-05-13",
-  "total_posts": 226
+  "last_updated": "2026-05-14",
+  "total_posts": 227
 }
