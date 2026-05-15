@@ -3849,6 +3849,23 @@
       "word_count": 1298,
       "filepath": "content/posts/2026-05-14-ai-hiring-regulations-stay-compliant-in-2026.md",
       "topic": "AI Hiring Regulations: Stay Compliant in 2026"
+    },
+    {
+      "title": "AI Process Mining: Reveal Hidden Hiring Bottlenecks",
+      "slug": "ai-process-mining-reveal-hidden-hiring-bottlenecks",
+      "description": "# AI Process Mining: Reveal Hidden Hiring Bottlenecks  \n\nIn today\u2019s talent\u2011driven market, every extra day a vacancy sits open costs revenue and morale...",
+      "pub_date": "2026-05-15",
+      "tags": [],
+      "keywords": [
+        "recruitment workflow",
+        "recruiter productivity",
+        "recruitment analytics",
+        "process mining",
+        "AI hiring insights"
+      ],
+      "word_count": 1318,
+      "filepath": "content/posts/2026-05-15-ai-process-mining-reveal-hidden-hiring-bottlenecks.md",
+      "topic": "AI Process Mining: Reveal Hidden Hiring Bottlenecks"
     }
   ],
   "topics_used": [
@@ -4079,8 +4096,9 @@
     "AI Candidate Re\u2011Engagement: Revive Ghosted Applicants",
     "AI Hiring for Internal Mobility: Boost Talent Retention",
     "AI Hiring Platform: Real\u2011Time Upskilling for Teams",
-    "AI Hiring Regulations: Stay Compliant in 2026"
+    "AI Hiring Regulations: Stay Compliant in 2026",
+    "AI Process Mining: Reveal Hidden Hiring Bottlenecks"
   ],
-  "last_updated": "2026-05-14",
-  "total_posts": 228
+  "last_updated": "2026-05-15",
+  "total_posts": 229
 }
