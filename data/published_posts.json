@@ -3866,6 +3866,23 @@
       "word_count": 1318,
       "filepath": "content/posts/2026-05-15-ai-process-mining-reveal-hidden-hiring-bottlenecks.md",
       "topic": "AI Process Mining: Reveal Hidden Hiring Bottlenecks"
+    },
+    {
+      "title": "Hiring Process Automation: Agile Scaling for Startups",
+      "slug": "hiring-process-automation-agile-scaling-for-startups",
+      "description": "# Hiring Process Automation: Agile Scaling for Startups  \n\nIn today\u2019s hyper\u2011competitive market, fast\u2011growing startups can\u2019t afford a hiring bottleneck...",
+      "pub_date": "2026-05-16",
+      "tags": [],
+      "keywords": [
+        "hiring process automation",
+        "agile hiring",
+        "startup scaling",
+        "recruiter efficiency tools",
+        "remote hiring best practices"
+      ],
+      "word_count": 1294,
+      "filepath": "content/posts/2026-05-16-hiring-process-automation-agile-scaling-for-startups.md",
+      "topic": "Hiring Process Automation: Agile Scaling for Startups"
     }
   ],
   "topics_used": [
@@ -4097,8 +4114,9 @@
     "AI Hiring for Internal Mobility: Boost Talent Retention",
     "AI Hiring Platform: Real\u2011Time Upskilling for Teams",
     "AI Hiring Regulations: Stay Compliant in 2026",
-    "AI Process Mining: Reveal Hidden Hiring Bottlenecks"
+    "AI Process Mining: Reveal Hidden Hiring Bottlenecks",
+    "Hiring Process Automation: Agile Scaling for Startups"
   ],
-  "last_updated": "2026-05-15",
-  "total_posts": 229
+  "last_updated": "2026-05-16",
+  "total_posts": 230
 }
