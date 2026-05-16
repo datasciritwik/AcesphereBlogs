@@ -3900,6 +3900,23 @@
       "word_count": 1271,
       "filepath": "content/posts/2026-05-16-candidate-screening-automation-boost-quality-speed.md",
       "topic": "Candidate Screening Automation: Boost Quality & Speed"
+    },
+    {
+      "title": "AI Interview Assessment: Elevating Customer Success Hiring",
+      "slug": "ai-interview-assessment-elevating-customer-success-hiring",
+      "description": "# AI Interview Assessment: Elevating Customer Success Hiring\n\nIn today\u2019s hyper\u2011competitive SaaS landscape, the ability to retain customers is as valua...",
+      "pub_date": "2026-05-16",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "customer success hiring",
+        "soft skill evaluation",
+        "competency assessment",
+        "AI hiring"
+      ],
+      "word_count": 1190,
+      "filepath": "content/posts/2026-05-16-ai-interview-assessment-elevating-customer-success-hiring.md",
+      "topic": "AI Interview Assessment: Elevating Customer Success Hiring"
     }
   ],
   "topics_used": [
@@ -4133,8 +4150,9 @@
     "AI Hiring Regulations: Stay Compliant in 2026",
     "AI Process Mining: Reveal Hidden Hiring Bottlenecks",
     "Hiring Process Automation: Agile Scaling for Startups",
-    "Candidate Screening Automation: Boost Quality & Speed"
+    "Candidate Screening Automation: Boost Quality & Speed",
+    "AI Interview Assessment: Elevating Customer Success Hiring"
   ],
   "last_updated": "2026-05-16",
-  "total_posts": 231
+  "total_posts": 232
 }
