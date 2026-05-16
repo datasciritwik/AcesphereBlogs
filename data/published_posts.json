@@ -3883,6 +3883,23 @@
       "word_count": 1294,
       "filepath": "content/posts/2026-05-16-hiring-process-automation-agile-scaling-for-startups.md",
       "topic": "Hiring Process Automation: Agile Scaling for Startups"
+    },
+    {
+      "title": "Candidate Screening Automation: Boost Quality & Speed",
+      "slug": "candidate-screening-automation-boost-quality-speed",
+      "description": "# Candidate Screening Automation: Boost Quality & Speed  \n\nIn fast\u2011growing startups and mid\u2011size firms, every hiring decision directly impacts product...",
+      "pub_date": "2026-05-16",
+      "tags": [],
+      "keywords": [
+        "candidate screening automation",
+        "recruiter productivity",
+        "data-driven hiring decisions",
+        "hiring process automation",
+        "recruitment analytics"
+      ],
+      "word_count": 1271,
+      "filepath": "content/posts/2026-05-16-candidate-screening-automation-boost-quality-speed.md",
+      "topic": "Candidate Screening Automation: Boost Quality & Speed"
     }
   ],
   "topics_used": [
@@ -4115,8 +4132,9 @@
     "AI Hiring Platform: Real\u2011Time Upskilling for Teams",
     "AI Hiring Regulations: Stay Compliant in 2026",
     "AI Process Mining: Reveal Hidden Hiring Bottlenecks",
-    "Hiring Process Automation: Agile Scaling for Startups"
+    "Hiring Process Automation: Agile Scaling for Startups",
+    "Candidate Screening Automation: Boost Quality & Speed"
   ],
   "last_updated": "2026-05-16",
-  "total_posts": 230
+  "total_posts": 231
 }
