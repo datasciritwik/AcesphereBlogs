@@ -3917,6 +3917,23 @@
       "word_count": 1190,
       "filepath": "content/posts/2026-05-16-ai-interview-assessment-elevating-customer-success-hiring.md",
       "topic": "AI Interview Assessment: Elevating Customer Success Hiring"
+    },
+    {
+      "title": "AI Hiring for Series B Startups: Scale Talent Fast",
+      "slug": "ai-hiring-for-series-b-startups-scale-talent-fast",
+      "description": "# AI Hiring for Series B Startups: Scale Talent Fast\n\nSeries B funding unlocks the runway to accelerate product development, enter new markets, and ou...",
+      "pub_date": "2026-05-17",
+      "tags": [],
+      "keywords": [
+        "AI hiring for startups",
+        "scaling hiring with automation",
+        "hiring pipeline management",
+        "recruiter productivity",
+        "Series B hiring challenges"
+      ],
+      "word_count": 1177,
+      "filepath": "content/posts/2026-05-17-ai-hiring-for-series-b-startups-scale-talent-fast.md",
+      "topic": "AI Hiring for Series B Startups: Scale Talent Fast"
     }
   ],
   "topics_used": [
@@ -4151,8 +4168,9 @@
     "AI Process Mining: Reveal Hidden Hiring Bottlenecks",
     "Hiring Process Automation: Agile Scaling for Startups",
     "Candidate Screening Automation: Boost Quality & Speed",
-    "AI Interview Assessment: Elevating Customer Success Hiring"
+    "AI Interview Assessment: Elevating Customer Success Hiring",
+    "AI Hiring for Series B Startups: Scale Talent Fast"
   ],
-  "last_updated": "2026-05-16",
-  "total_posts": 232
+  "last_updated": "2026-05-17",
+  "total_posts": 233
 }
