@@ -3934,6 +3934,23 @@
       "word_count": 1177,
       "filepath": "content/posts/2026-05-17-ai-hiring-for-series-b-startups-scale-talent-fast.md",
       "topic": "AI Hiring for Series B Startups: Scale Talent Fast"
+    },
+    {
+      "title": "Automated Hiring Workflow: How AI Orchestrates End\u2011to\u2011End Recruiting",
+      "slug": "automated-hiring-workflow-how-ai-orchestrates-endtoend-recru",
+      "description": "# Automated Hiring Workflow: How AI Orchestrates End\u2011to\u2011End Recruiting  \n\nIn today\u2019s talent\u2011driven market, scaling quickly without sacrificing quality...",
+      "pub_date": "2026-05-17",
+      "tags": [],
+      "keywords": [
+        "automated hiring",
+        "AI hiring workflow",
+        "recruitment automation",
+        "end-to-end recruiting",
+        "hiring technology"
+      ],
+      "word_count": 1277,
+      "filepath": "content/posts/2026-05-17-automated-hiring-workflow-how-ai-orchestrates-endtoend-recru.md",
+      "topic": "Automated Hiring Workflow: How AI Orchestrates End\u2011to\u2011End Recruiting"
     }
   ],
   "topics_used": [
@@ -4169,8 +4186,9 @@
     "Hiring Process Automation: Agile Scaling for Startups",
     "Candidate Screening Automation: Boost Quality & Speed",
     "AI Interview Assessment: Elevating Customer Success Hiring",
-    "AI Hiring for Series B Startups: Scale Talent Fast"
+    "AI Hiring for Series B Startups: Scale Talent Fast",
+    "Automated Hiring Workflow: How AI Orchestrates End\u2011to\u2011End Recruiting"
   ],
   "last_updated": "2026-05-17",
-  "total_posts": 233
+  "total_posts": 234
 }
