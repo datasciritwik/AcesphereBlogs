@@ -3951,6 +3951,22 @@
       "word_count": 1277,
       "filepath": "content/posts/2026-05-17-automated-hiring-workflow-how-ai-orchestrates-endtoend-recru.md",
       "topic": "Automated Hiring Workflow: How AI Orchestrates End\u2011to\u2011End Recruiting"
+    },
+    {
+      "title": "AI Automated Scheduling: Stop Recruiter Burnout",
+      "slug": "ai-automated-scheduling-stop-recruiter-burnout",
+      "description": "# AI Automated Scheduling: Stop Recruiter Burnout  \n\nRecruiters at startups and mid\u2011sized companies spend **roughly 20\u202f% of their workweek** juggling...",
+      "pub_date": "2026-05-17",
+      "tags": [],
+      "keywords": [
+        "automated scheduling",
+        "recruiter efficiency tools",
+        "candidate experience",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1180,
+      "filepath": "content/posts/2026-05-17-ai-automated-scheduling-stop-recruiter-burnout.md",
+      "topic": "AI Automated Scheduling: Stop Recruiter Burnout"
     }
   ],
   "topics_used": [
@@ -4187,8 +4203,9 @@
     "Candidate Screening Automation: Boost Quality & Speed",
     "AI Interview Assessment: Elevating Customer Success Hiring",
     "AI Hiring for Series B Startups: Scale Talent Fast",
-    "Automated Hiring Workflow: How AI Orchestrates End\u2011to\u2011End Recruiting"
+    "Automated Hiring Workflow: How AI Orchestrates End\u2011to\u2011End Recruiting",
+    "AI Automated Scheduling: Stop Recruiter Burnout"
   ],
   "last_updated": "2026-05-17",
-  "total_posts": 234
+  "total_posts": 235
 }
