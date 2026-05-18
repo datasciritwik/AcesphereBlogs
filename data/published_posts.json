@@ -3983,6 +3983,23 @@
       "word_count": 1490,
       "filepath": "content/posts/2026-05-18-ai-hiring-compliance-for-manufacturing-meet-osha-standards.md",
       "topic": "AI Hiring Compliance for Manufacturing: Meet OSHA Standards"
+    },
+    {
+      "title": "Measuring ROI of Recruiter Efficiency Tools with AI",
+      "slug": "measuring-roi-of-recruiter-efficiency-tools-with-ai",
+      "description": "# Measuring ROI of Recruiter Efficiency Tools with AI\n\nMeasuring the ROI of recruiter efficiency tools with AI gives HR leaders and finance partners a...",
+      "pub_date": "2026-05-18",
+      "tags": [],
+      "keywords": [
+        "recruiter efficiency tools",
+        "recruitment analytics",
+        "cost savings with hiring automation",
+        "ROI of AI hiring",
+        "recruiter productivity"
+      ],
+      "word_count": 1358,
+      "filepath": "content/posts/2026-05-18-measuring-roi-of-recruiter-efficiency-tools-with-ai.md",
+      "topic": "Measuring ROI of Recruiter Efficiency Tools with AI"
     }
   ],
   "topics_used": [
@@ -4221,8 +4238,9 @@
     "AI Hiring for Series B Startups: Scale Talent Fast",
     "Automated Hiring Workflow: How AI Orchestrates End\u2011to\u2011End Recruiting",
     "AI Automated Scheduling: Stop Recruiter Burnout",
-    "AI Hiring Compliance for Manufacturing: Meet OSHA Standards"
+    "AI Hiring Compliance for Manufacturing: Meet OSHA Standards",
+    "Measuring ROI of Recruiter Efficiency Tools with AI"
   ],
   "last_updated": "2026-05-18",
-  "total_posts": 236
+  "total_posts": 237
 }
