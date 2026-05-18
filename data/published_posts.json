@@ -3967,6 +3967,22 @@
       "word_count": 1180,
       "filepath": "content/posts/2026-05-17-ai-automated-scheduling-stop-recruiter-burnout.md",
       "topic": "AI Automated Scheduling: Stop Recruiter Burnout"
+    },
+    {
+      "title": "AI Hiring Compliance for Manufacturing: Meet OSHA Standards",
+      "slug": "ai-hiring-compliance-for-manufacturing-meet-osha-standards",
+      "description": "# AI Hiring Compliance for Manufacturing: Meet OSHA Standards  \n\nManufacturing HR leaders can now harness AI\u2011driven recruitment without sacrificing sa...",
+      "pub_date": "2026-05-18",
+      "tags": [],
+      "keywords": [
+        "AI hiring compliance",
+        "manufacturing hiring automation",
+        "OSHA hiring regulations",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1490,
+      "filepath": "content/posts/2026-05-18-ai-hiring-compliance-for-manufacturing-meet-osha-standards.md",
+      "topic": "AI Hiring Compliance for Manufacturing: Meet OSHA Standards"
     }
   ],
   "topics_used": [
@@ -4204,8 +4220,9 @@
     "AI Interview Assessment: Elevating Customer Success Hiring",
     "AI Hiring for Series B Startups: Scale Talent Fast",
     "Automated Hiring Workflow: How AI Orchestrates End\u2011to\u2011End Recruiting",
-    "AI Automated Scheduling: Stop Recruiter Burnout"
+    "AI Automated Scheduling: Stop Recruiter Burnout",
+    "AI Hiring Compliance for Manufacturing: Meet OSHA Standards"
   ],
-  "last_updated": "2026-05-17",
-  "total_posts": 235
+  "last_updated": "2026-05-18",
+  "total_posts": 236
 }
