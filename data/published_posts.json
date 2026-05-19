@@ -4016,6 +4016,23 @@
       "word_count": 1151,
       "filepath": "content/posts/2026-05-19-ai-predicts-new-hire-time-to-productivity.md",
       "topic": "AI Predicts New Hire Time-to-Productivity"
+    },
+    {
+      "title": "AI Interviews: Using Social Signals to Predict Cultural Fit",
+      "slug": "ai-interviews-using-social-signals-to-predict-cultural-fit",
+      "description": "# AI Interviews: Using Social Signals to Predict Cultural Fit\n\nHiring managers and recruiters are under constant pressure to fill roles quickly **with...",
+      "pub_date": "2026-05-19",
+      "tags": [],
+      "keywords": [
+        "AI interviews",
+        "cultural fit assessment",
+        "social media AI hiring",
+        "predictive hiring analytics",
+        "bias-free hiring"
+      ],
+      "word_count": 1168,
+      "filepath": "content/posts/2026-05-19-ai-interviews-using-social-signals-to-predict-cultural-fit.md",
+      "topic": "AI Interviews: Using Social Signals to Predict Cultural Fit"
     }
   ],
   "topics_used": [
@@ -4256,8 +4273,9 @@
     "AI Automated Scheduling: Stop Recruiter Burnout",
     "AI Hiring Compliance for Manufacturing: Meet OSHA Standards",
     "Measuring ROI of Recruiter Efficiency Tools with AI",
-    "AI Predicts New Hire Time-to-Productivity"
+    "AI Predicts New Hire Time-to-Productivity",
+    "AI Interviews: Using Social Signals to Predict Cultural Fit"
   ],
   "last_updated": "2026-05-19",
-  "total_posts": 238
+  "total_posts": 239
 }
