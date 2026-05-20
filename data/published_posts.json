@@ -4033,6 +4033,23 @@
       "word_count": 1168,
       "filepath": "content/posts/2026-05-19-ai-interviews-using-social-signals-to-predict-cultural-fit.md",
       "topic": "AI Interviews: Using Social Signals to Predict Cultural Fit"
+    },
+    {
+      "title": "Interview Intelligence: Detecting Candidate Fatigue with AI",
+      "slug": "interview-intelligence-detecting-candidate-fatigue-with-ai",
+      "description": "# Interview Intelligence: Detecting Candidate Fatigue with AI  \n\nIn today\u2019s fast\u2011paced hiring landscape, a candidate\u2019s mental stamina can be as decisi...",
+      "pub_date": "2026-05-20",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "AI interview fatigue detection",
+        "automated interviews",
+        "candidate experience",
+        "reduce hiring bias"
+      ],
+      "word_count": 1069,
+      "filepath": "content/posts/2026-05-20-interview-intelligence-detecting-candidate-fatigue-with-ai.md",
+      "topic": "Interview Intelligence: Detecting Candidate Fatigue with AI"
     }
   ],
   "topics_used": [
@@ -4274,8 +4291,9 @@
     "AI Hiring Compliance for Manufacturing: Meet OSHA Standards",
     "Measuring ROI of Recruiter Efficiency Tools with AI",
     "AI Predicts New Hire Time-to-Productivity",
-    "AI Interviews: Using Social Signals to Predict Cultural Fit"
+    "AI Interviews: Using Social Signals to Predict Cultural Fit",
+    "Interview Intelligence: Detecting Candidate Fatigue with AI"
   ],
-  "last_updated": "2026-05-19",
-  "total_posts": 239
+  "last_updated": "2026-05-20",
+  "total_posts": 240
 }
