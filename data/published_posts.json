@@ -4050,6 +4050,23 @@
       "word_count": 1069,
       "filepath": "content/posts/2026-05-20-interview-intelligence-detecting-candidate-fatigue-with-ai.md",
       "topic": "Interview Intelligence: Detecting Candidate Fatigue with AI"
+    },
+    {
+      "title": "Build an AI\u2011First HR Tech Stack for Scalable Hiring",
+      "slug": "build-an-aifirst-hr-tech-stack-for-scalable-hiring",
+      "description": "# Build an AI\u2011First HR Tech Stack for Scalable Hiring  \n\nModern HR leaders need more than a collection of point solutions\u2014they need an **AI\u2011first HR t...",
+      "pub_date": "2026-05-20",
+      "tags": [],
+      "keywords": [
+        "HR tech stack",
+        "hiring automation",
+        "recruitment workflow",
+        "AI hiring",
+        "enterprise recruitment automation"
+      ],
+      "word_count": 1193,
+      "filepath": "content/posts/2026-05-20-build-an-aifirst-hr-tech-stack-for-scalable-hiring.md",
+      "topic": "Build an AI\u2011First HR Tech Stack for Scalable Hiring"
     }
   ],
   "topics_used": [
@@ -4292,8 +4309,9 @@
     "Measuring ROI of Recruiter Efficiency Tools with AI",
     "AI Predicts New Hire Time-to-Productivity",
     "AI Interviews: Using Social Signals to Predict Cultural Fit",
-    "Interview Intelligence: Detecting Candidate Fatigue with AI"
+    "Interview Intelligence: Detecting Candidate Fatigue with AI",
+    "Build an AI\u2011First HR Tech Stack for Scalable Hiring"
   ],
   "last_updated": "2026-05-20",
-  "total_posts": 240
+  "total_posts": 241
 }
