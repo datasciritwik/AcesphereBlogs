@@ -4084,6 +4084,23 @@
       "word_count": 1251,
       "filepath": "content/posts/2026-05-21-ai-hiring-measuring-async-collaboration-for-remote-teams.md",
       "topic": "AI Hiring: Measuring Async Collaboration for Remote Teams"
+    },
+    {
+      "title": "AI Hiring for Startups: Building Sustainable, ESG\u2011Ready Teams",
+      "slug": "ai-hiring-for-startups-building-sustainable-esgready-teams",
+      "description": "# AI Hiring for Startups: Building Sustainable, ESG\u2011Ready Teams  \n\nStartups that blend AI hiring automation with clear ESG (Environmental, Social, Gov...",
+      "pub_date": "2026-05-21",
+      "tags": [],
+      "keywords": [
+        "AI hiring for startups",
+        "sustainable hiring",
+        "ESG recruitment",
+        "hiring process automation",
+        "recruiter productivity"
+      ],
+      "word_count": 1294,
+      "filepath": "content/posts/2026-05-21-ai-hiring-for-startups-building-sustainable-esgready-teams.md",
+      "topic": "AI Hiring for Startups: Building Sustainable, ESG\u2011Ready Teams"
     }
   ],
   "topics_used": [
@@ -4328,8 +4345,9 @@
     "AI Interviews: Using Social Signals to Predict Cultural Fit",
     "Interview Intelligence: Detecting Candidate Fatigue with AI",
     "Build an AI\u2011First HR Tech Stack for Scalable Hiring",
-    "AI Hiring: Measuring Async Collaboration for Remote Teams"
+    "AI Hiring: Measuring Async Collaboration for Remote Teams",
+    "AI Hiring for Startups: Building Sustainable, ESG\u2011Ready Teams"
   ],
   "last_updated": "2026-05-21",
-  "total_posts": 242
+  "total_posts": 243
 }
