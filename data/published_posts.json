@@ -4118,6 +4118,23 @@
       "word_count": 1395,
       "filepath": "content/posts/2026-05-22-crossfunctional-hiring-automation-ai-aligns-skills-teams.md",
       "topic": "Cross\u2011Functional Hiring Automation: AI Aligns Skills & Teams"
+    },
+    {
+      "title": "AI Hiring Platform for Frontline Retail: Speed & Quality",
+      "slug": "ai-hiring-platform-for-frontline-retail-speed-quality",
+      "description": "# AI Hiring Platform for Frontline Retail: Speed & Quality  \n\nRetail HR leaders face relentless pressure to staff stores quickly while maintaining a h...",
+      "pub_date": "2026-05-22",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "hiring automation",
+        "recruiter efficiency tools",
+        "automated hiring",
+        "AI-powered hiring"
+      ],
+      "word_count": 1165,
+      "filepath": "content/posts/2026-05-22-ai-hiring-platform-for-frontline-retail-speed-quality.md",
+      "topic": "AI Hiring Platform for Frontline Retail: Speed & Quality"
     }
   ],
   "topics_used": [
@@ -4364,8 +4381,9 @@
     "Build an AI\u2011First HR Tech Stack for Scalable Hiring",
     "AI Hiring: Measuring Async Collaboration for Remote Teams",
     "AI Hiring for Startups: Building Sustainable, ESG\u2011Ready Teams",
-    "Cross\u2011Functional Hiring Automation: AI Aligns Skills & Teams"
+    "Cross\u2011Functional Hiring Automation: AI Aligns Skills & Teams",
+    "AI Hiring Platform for Frontline Retail: Speed & Quality"
   ],
   "last_updated": "2026-05-22",
-  "total_posts": 244
+  "total_posts": 245
 }
