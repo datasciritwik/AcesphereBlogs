@@ -4101,6 +4101,23 @@
       "word_count": 1294,
       "filepath": "content/posts/2026-05-21-ai-hiring-for-startups-building-sustainable-esgready-teams.md",
       "topic": "AI Hiring for Startups: Building Sustainable, ESG\u2011Ready Teams"
+    },
+    {
+      "title": "Cross\u2011Functional Hiring Automation: AI Aligns Skills & Teams",
+      "slug": "crossfunctional-hiring-automation-ai-aligns-skills-teams",
+      "description": "# Cross\u2011Functional Hiring Automation: AI Aligns Skills & Teams\n\nIn today\u2019s fast\u2011moving product landscape, startups and mid\u2011size companies must assembl...",
+      "pub_date": "2026-05-22",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "cross-functional hiring",
+        "AI skill alignment",
+        "team collaboration hiring",
+        "recruiter efficiency"
+      ],
+      "word_count": 1395,
+      "filepath": "content/posts/2026-05-22-crossfunctional-hiring-automation-ai-aligns-skills-teams.md",
+      "topic": "Cross\u2011Functional Hiring Automation: AI Aligns Skills & Teams"
     }
   ],
   "topics_used": [
@@ -4346,8 +4363,9 @@
     "Interview Intelligence: Detecting Candidate Fatigue with AI",
     "Build an AI\u2011First HR Tech Stack for Scalable Hiring",
     "AI Hiring: Measuring Async Collaboration for Remote Teams",
-    "AI Hiring for Startups: Building Sustainable, ESG\u2011Ready Teams"
+    "AI Hiring for Startups: Building Sustainable, ESG\u2011Ready Teams",
+    "Cross\u2011Functional Hiring Automation: AI Aligns Skills & Teams"
   ],
-  "last_updated": "2026-05-21",
-  "total_posts": 243
+  "last_updated": "2026-05-22",
+  "total_posts": 244
 }
