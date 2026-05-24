@@ -4135,6 +4135,23 @@
       "word_count": 1165,
       "filepath": "content/posts/2026-05-22-ai-hiring-platform-for-frontline-retail-speed-quality.md",
       "topic": "AI Hiring Platform for Frontline Retail: Speed & Quality"
+    },
+    {
+      "title": "Interview Intelligence: AI Simulations for Soft\u2011Skill Testing",
+      "slug": "interview-intelligence-ai-simulations-for-softskill-testing",
+      "description": "# Interview Intelligence: AI Simulations for Soft\u2011Skill Testing  \n\nRecruiters and hiring managers constantly wrestle with the paradox of needing deep...",
+      "pub_date": "2026-05-24",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "AI simulations",
+        "soft skill assessment",
+        "candidate evaluation",
+        "automated screening"
+      ],
+      "word_count": 1216,
+      "filepath": "content/posts/2026-05-24-interview-intelligence-ai-simulations-for-softskill-testing.md",
+      "topic": "Interview Intelligence: AI Simulations for Soft\u2011Skill Testing"
     }
   ],
   "topics_used": [
@@ -4382,8 +4399,9 @@
     "AI Hiring: Measuring Async Collaboration for Remote Teams",
     "AI Hiring for Startups: Building Sustainable, ESG\u2011Ready Teams",
     "Cross\u2011Functional Hiring Automation: AI Aligns Skills & Teams",
-    "AI Hiring Platform for Frontline Retail: Speed & Quality"
+    "AI Hiring Platform for Frontline Retail: Speed & Quality",
+    "Interview Intelligence: AI Simulations for Soft\u2011Skill Testing"
   ],
-  "last_updated": "2026-05-22",
-  "total_posts": 245
+  "last_updated": "2026-05-24",
+  "total_posts": 246
 }
