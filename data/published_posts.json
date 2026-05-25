@@ -4152,6 +4152,23 @@
       "word_count": 1216,
       "filepath": "content/posts/2026-05-24-interview-intelligence-ai-simulations-for-softskill-testing.md",
       "topic": "Interview Intelligence: AI Simulations for Soft\u2011Skill Testing"
+    },
+    {
+      "title": "AI Hiring Pipeline Resilience in Economic Downturns",
+      "slug": "ai-hiring-pipeline-resilience-in-economic-downturns",
+      "description": "# AI Hiring Pipeline Resilience in Economic Downturns  \n\nIn today\u2019s volatile market, HR leaders need more than a reactive hiring process\u2014they need a p...",
+      "pub_date": "2026-05-25",
+      "tags": [],
+      "keywords": [
+        "AI hiring pipeline",
+        "hiring pipeline management",
+        "economic downturn hiring",
+        "recruiter productivity",
+        "hiring automation"
+      ],
+      "word_count": 1206,
+      "filepath": "content/posts/2026-05-25-ai-hiring-pipeline-resilience-in-economic-downturns.md",
+      "topic": "AI Hiring Pipeline Resilience in Economic Downturns"
     }
   ],
   "topics_used": [
@@ -4400,8 +4417,9 @@
     "AI Hiring for Startups: Building Sustainable, ESG\u2011Ready Teams",
     "Cross\u2011Functional Hiring Automation: AI Aligns Skills & Teams",
     "AI Hiring Platform for Frontline Retail: Speed & Quality",
-    "Interview Intelligence: AI Simulations for Soft\u2011Skill Testing"
+    "Interview Intelligence: AI Simulations for Soft\u2011Skill Testing",
+    "AI Hiring Pipeline Resilience in Economic Downturns"
   ],
-  "last_updated": "2026-05-24",
-  "total_posts": 246
+  "last_updated": "2026-05-25",
+  "total_posts": 247
 }
