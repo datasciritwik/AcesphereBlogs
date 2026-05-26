@@ -4169,6 +4169,22 @@
       "word_count": 1206,
       "filepath": "content/posts/2026-05-25-ai-hiring-pipeline-resilience-in-economic-downturns.md",
       "topic": "AI Hiring Pipeline Resilience in Economic Downturns"
+    },
+    {
+      "title": "AI Skill Testing: Measuring Soft\u2011Skill ROI for Better Hires",
+      "slug": "ai-skill-testing-measuring-softskill-roi-for-better-hires",
+      "description": "# AI Skill Testing: Measuring Soft\u2011Skill ROI for Better Hires  \n\nIn today\u2019s talent\u2011driven economy, hiring decisions that rely solely on technical cred...",
+      "pub_date": "2026-05-26",
+      "tags": [],
+      "keywords": [
+        "AI skill testing",
+        "soft\u2011skill ROI",
+        "data-driven hiring decisions",
+        "candidate experience with AI"
+      ],
+      "word_count": 1128,
+      "filepath": "content/posts/2026-05-26-ai-skill-testing-measuring-softskill-roi-for-better-hires.md",
+      "topic": "AI Skill Testing: Measuring Soft\u2011Skill ROI for Better Hires"
     }
   ],
   "topics_used": [
@@ -4418,8 +4434,9 @@
     "Cross\u2011Functional Hiring Automation: AI Aligns Skills & Teams",
     "AI Hiring Platform for Frontline Retail: Speed & Quality",
     "Interview Intelligence: AI Simulations for Soft\u2011Skill Testing",
-    "AI Hiring Pipeline Resilience in Economic Downturns"
+    "AI Hiring Pipeline Resilience in Economic Downturns",
+    "AI Skill Testing: Measuring Soft\u2011Skill ROI for Better Hires"
   ],
-  "last_updated": "2026-05-25",
-  "total_posts": 247
+  "last_updated": "2026-05-26",
+  "total_posts": 248
 }
