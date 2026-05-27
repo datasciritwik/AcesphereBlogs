@@ -4201,6 +4201,23 @@
       "word_count": 1186,
       "filepath": "content/posts/2026-05-26-aipowered-realtime-skill-gap-detection-in-hiring-pipelines.md",
       "topic": "AI\u2011Powered Real\u2011Time Skill Gap Detection in Hiring Pipelines"
+    },
+    {
+      "title": "AI Predicts Remote Employee Longevity: A Hiring Playbook",
+      "slug": "ai-predicts-remote-employee-longevity-a-hiring-playbook",
+      "description": "# AI Predicts Remote Employee Longevity: A Hiring Playbook  \n\nRecruiters at remote\u2011first startups and mid\u2011sized firms face a paradox: a broader talent...",
+      "pub_date": "2026-05-27",
+      "tags": [],
+      "keywords": [
+        "future of hiring",
+        "remote hiring",
+        "AI predictive analytics",
+        "employee longevity",
+        "recruiter productivity tips"
+      ],
+      "word_count": 1290,
+      "filepath": "content/posts/2026-05-27-ai-predicts-remote-employee-longevity-a-hiring-playbook.md",
+      "topic": "AI Predicts Remote Employee Longevity: A Hiring Playbook"
     }
   ],
   "topics_used": [
@@ -4452,8 +4469,9 @@
     "Interview Intelligence: AI Simulations for Soft\u2011Skill Testing",
     "AI Hiring Pipeline Resilience in Economic Downturns",
     "AI Skill Testing: Measuring Soft\u2011Skill ROI for Better Hires",
-    "AI\u2011Powered Real\u2011Time Skill Gap Detection in Hiring Pipelines"
+    "AI\u2011Powered Real\u2011Time Skill Gap Detection in Hiring Pipelines",
+    "AI Predicts Remote Employee Longevity: A Hiring Playbook"
   ],
-  "last_updated": "2026-05-26",
-  "total_posts": 249
+  "last_updated": "2026-05-27",
+  "total_posts": 250
 }
