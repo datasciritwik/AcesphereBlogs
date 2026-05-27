@@ -4218,6 +4218,23 @@
       "word_count": 1290,
       "filepath": "content/posts/2026-05-27-ai-predicts-remote-employee-longevity-a-hiring-playbook.md",
       "topic": "AI Predicts Remote Employee Longevity: A Hiring Playbook"
+    },
+    {
+      "title": "AI Interviews for Executive Hiring: Reduce Bias at C\u2011Suite",
+      "slug": "ai-interviews-for-executive-hiring-reduce-bias-at-csuite",
+      "description": "# AI Interviews for Executive Hiring: Reduce Bias at C\u2011Suite  \n\nHiring a C\u2011suite leader is one of the most consequential decisions a company makes. Ye...",
+      "pub_date": "2026-05-27",
+      "tags": [],
+      "keywords": [
+        "AI interviews",
+        "executive hiring",
+        "reduce hiring bias",
+        "C\u2011suite recruitment",
+        "AI interview analytics"
+      ],
+      "word_count": 1333,
+      "filepath": "content/posts/2026-05-27-ai-interviews-for-executive-hiring-reduce-bias-at-csuite.md",
+      "topic": "AI Interviews for Executive Hiring: Reduce Bias at C\u2011Suite"
     }
   ],
   "topics_used": [
@@ -4470,8 +4487,9 @@
     "AI Hiring Pipeline Resilience in Economic Downturns",
     "AI Skill Testing: Measuring Soft\u2011Skill ROI for Better Hires",
     "AI\u2011Powered Real\u2011Time Skill Gap Detection in Hiring Pipelines",
-    "AI Predicts Remote Employee Longevity: A Hiring Playbook"
+    "AI Predicts Remote Employee Longevity: A Hiring Playbook",
+    "AI Interviews for Executive Hiring: Reduce Bias at C\u2011Suite"
   ],
   "last_updated": "2026-05-27",
-  "total_posts": 250
+  "total_posts": 251
 }
