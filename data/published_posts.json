@@ -4235,6 +4235,23 @@
       "word_count": 1333,
       "filepath": "content/posts/2026-05-27-ai-interviews-for-executive-hiring-reduce-bias-at-csuite.md",
       "topic": "AI Interviews for Executive Hiring: Reduce Bias at C\u2011Suite"
+    },
+    {
+      "title": "AI Talent Market Forecast: Anticipate Skill Shortages",
+      "slug": "ai-talent-market-forecast-anticipate-skill-shortages",
+      "description": "# AI Talent Market Forecast: Anticipate Skill Shortages  \n\nRecruiters who can see the talent landscape **before** it tightens gain a decisive advantag...",
+      "pub_date": "2026-05-29",
+      "tags": [],
+      "keywords": [
+        "AI talent market forecasting",
+        "skill shortage predictions",
+        "data-driven hiring decisions",
+        "future of recruitment",
+        "recruiter productivity tools"
+      ],
+      "word_count": 1313,
+      "filepath": "content/posts/2026-05-29-ai-talent-market-forecast-anticipate-skill-shortages.md",
+      "topic": "AI Talent Market Forecast: Anticipate Skill Shortages"
     }
   ],
   "topics_used": [
@@ -4488,8 +4505,9 @@
     "AI Skill Testing: Measuring Soft\u2011Skill ROI for Better Hires",
     "AI\u2011Powered Real\u2011Time Skill Gap Detection in Hiring Pipelines",
     "AI Predicts Remote Employee Longevity: A Hiring Playbook",
-    "AI Interviews for Executive Hiring: Reduce Bias at C\u2011Suite"
+    "AI Interviews for Executive Hiring: Reduce Bias at C\u2011Suite",
+    "AI Talent Market Forecast: Anticipate Skill Shortages"
   ],
-  "last_updated": "2026-05-27",
-  "total_posts": 251
+  "last_updated": "2026-05-29",
+  "total_posts": 252
 }
