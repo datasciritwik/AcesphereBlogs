@@ -4275,6 +4275,23 @@
       "word_count": 1154,
       "filepath": "content/posts/2026-05-30-ai-hiring-dashboard-real-time-insights.md",
       "topic": "AI Hiring Dashboard: Real\u2011Time Insights for Faster Decisions"
+    },
+    {
+      "title": "AI Hiring: Prioritize Candidate Potential Over Experience",
+      "slug": "ai-hiring-prioritize-candidate-potential-over-experience",
+      "description": "# AI Hiring: Prioritize Candidate Potential Over Experience\n\nStartups that scale quickly need talent that can grow with them\u2014not just a list of past j...",
+      "pub_date": "2026-05-30",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "potential hiring",
+        "talent acquisition",
+        "predictive hiring",
+        "recruiter productivity"
+      ],
+      "word_count": 1127,
+      "filepath": "content/posts/2026-05-30-ai-hiring-prioritize-candidate-potential-over-experience.md",
+      "topic": "AI Hiring: Prioritize Candidate Potential Over Experience"
     }
   ],
   "topics_used": [
@@ -4530,8 +4547,9 @@
     "AI Predicts Remote Employee Longevity: A Hiring Playbook",
     "AI Interviews for Executive Hiring: Reduce Bias at C\u2011Suite",
     "AI Talent Market Forecast: Anticipate Skill Shortages",
-    "AI Hiring Dashboard: Real\u2011Time Insights for Faster Decisions"
+    "AI Hiring Dashboard: Real\u2011Time Insights for Faster Decisions",
+    "AI Hiring: Prioritize Candidate Potential Over Experience"
   ],
   "last_updated": "2026-05-30",
-  "total_posts": 253
+  "total_posts": 254
 }
