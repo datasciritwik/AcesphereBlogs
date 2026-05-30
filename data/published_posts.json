@@ -4252,6 +4252,29 @@
       "word_count": 1313,
       "filepath": "content/posts/2026-05-29-ai-talent-market-forecast-anticipate-skill-shortages.md",
       "topic": "AI Talent Market Forecast: Anticipate Skill Shortages"
+    },
+    {
+      "title": "AI Hiring Dashboard: Real\u2011Time Insights for Faster Decisions",
+      "slug": "ai-hiring-dashboard-real-time-insights",
+      "description": "Discover how an AI hiring dashboard delivers real\u2011time insights, slashing decision latency and boosting recruiter productivity for scaling startups.",
+      "pub_date": "2026-05-30",
+      "tags": [
+        "AI recruiting",
+        "hiring dashboard",
+        "talent acquisition",
+        "startup growth",
+        "data\u2011driven hiring"
+      ],
+      "keywords": [
+        "AI hiring dashboard",
+        "real-time hiring insights",
+        "recruiter productivity",
+        "hiring automation",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1154,
+      "filepath": "content/posts/2026-05-30-ai-hiring-dashboard-real-time-insights.md",
+      "topic": "AI Hiring Dashboard: Real\u2011Time Insights for Faster Decisions"
     }
   ],
   "topics_used": [
@@ -4506,8 +4529,9 @@
     "AI\u2011Powered Real\u2011Time Skill Gap Detection in Hiring Pipelines",
     "AI Predicts Remote Employee Longevity: A Hiring Playbook",
     "AI Interviews for Executive Hiring: Reduce Bias at C\u2011Suite",
-    "AI Talent Market Forecast: Anticipate Skill Shortages"
+    "AI Talent Market Forecast: Anticipate Skill Shortages",
+    "AI Hiring Dashboard: Real\u2011Time Insights for Faster Decisions"
   ],
-  "last_updated": "2026-05-29",
-  "total_posts": 252
+  "last_updated": "2026-05-30",
+  "total_posts": 253
 }
