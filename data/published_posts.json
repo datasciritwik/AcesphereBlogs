@@ -4292,6 +4292,23 @@
       "word_count": 1127,
       "filepath": "content/posts/2026-05-30-ai-hiring-prioritize-candidate-potential-over-experience.md",
       "topic": "AI Hiring: Prioritize Candidate Potential Over Experience"
+    },
+    {
+      "title": "AI Recruitment for Multi\u2011Generational Hiring Success",
+      "slug": "ai-recruitment-for-multigenerational-hiring-success",
+      "description": "# AI Recruitment for Multi\u2011Generational Hiring Success\n\nIn today\u2019s talent market, companies that can attract, assess, and hire candidates across four...",
+      "pub_date": "2026-05-31",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "multi-generational hiring",
+        "recruiter productivity",
+        "hiring bias",
+        "candidate experience"
+      ],
+      "word_count": 1417,
+      "filepath": "content/posts/2026-05-31-ai-recruitment-for-multigenerational-hiring-success.md",
+      "topic": "AI Recruitment for Multi\u2011Generational Hiring Success"
     }
   ],
   "topics_used": [
@@ -4548,8 +4565,9 @@
     "AI Interviews for Executive Hiring: Reduce Bias at C\u2011Suite",
     "AI Talent Market Forecast: Anticipate Skill Shortages",
     "AI Hiring Dashboard: Real\u2011Time Insights for Faster Decisions",
-    "AI Hiring: Prioritize Candidate Potential Over Experience"
+    "AI Hiring: Prioritize Candidate Potential Over Experience",
+    "AI Recruitment for Multi\u2011Generational Hiring Success"
   ],
-  "last_updated": "2026-05-30",
-  "total_posts": 254
+  "last_updated": "2026-05-31",
+  "total_posts": 255
 }
