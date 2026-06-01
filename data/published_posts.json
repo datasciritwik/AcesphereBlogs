@@ -4326,6 +4326,22 @@
       "word_count": 1403,
       "filepath": "content/posts/2026-05-31-recruiter-productivity-tips-aipowered-timeboxing.md",
       "topic": "Recruiter Productivity Tips: AI\u2011Powered Time\u2011Boxing"
+    },
+    {
+      "title": "Candidate Screening Automation: 7 AI Tactics to Raise Quality",
+      "slug": "candidate-screening-automation-7-ai-tactics-to-raise-quality",
+      "description": "# Candidate Screening Automation: 7 AI Tactics to Raise Quality  \n\nRecruiters today juggle speed, volume, and the ever\u2011pressing need for better hires....",
+      "pub_date": "2026-06-01",
+      "tags": [],
+      "keywords": [
+        "candidate screening automation",
+        "AI skill testing",
+        "bias-free hiring",
+        "recruiter efficiency tools"
+      ],
+      "word_count": 1179,
+      "filepath": "content/posts/2026-06-01-candidate-screening-automation-7-ai-tactics-to-raise-quality.md",
+      "topic": "Candidate Screening Automation: 7 AI Tactics to Raise Quality"
     }
   ],
   "topics_used": [
@@ -4584,8 +4600,9 @@
     "AI Hiring Dashboard: Real\u2011Time Insights for Faster Decisions",
     "AI Hiring: Prioritize Candidate Potential Over Experience",
     "AI Recruitment for Multi\u2011Generational Hiring Success",
-    "Recruiter Productivity Tips: AI\u2011Powered Time\u2011Boxing"
+    "Recruiter Productivity Tips: AI\u2011Powered Time\u2011Boxing",
+    "Candidate Screening Automation: 7 AI Tactics to Raise Quality"
   ],
-  "last_updated": "2026-05-31",
-  "total_posts": 256
+  "last_updated": "2026-06-01",
+  "total_posts": 257
 }
