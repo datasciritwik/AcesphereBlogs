@@ -4359,6 +4359,23 @@
       "word_count": 1177,
       "filepath": "content/posts/2026-06-01-future-of-hiring-aidriven-talent-forecasting-for-2027.md",
       "topic": "Future of Hiring: AI\u2011Driven Talent Forecasting for 2027"
+    },
+    {
+      "title": "AI Competency Assessment: Real\u2011Time Gap Analysis",
+      "slug": "ai-competency-assessment-realtime-gap-analysis",
+      "description": "# AI Competency Assessment: Real\u2011Time Gap Analysis\n\nHiring the right talent fast is no longer a luxury\u2014it's a necessity for mid\u2011size companies that mu...",
+      "pub_date": "2026-06-02",
+      "tags": [],
+      "keywords": [
+        "competency assessment",
+        "hiring automation",
+        "recruiter productivity",
+        "hiring best practices",
+        "AI talent acquisition"
+      ],
+      "word_count": 1299,
+      "filepath": "content/posts/2026-06-02-ai-competency-assessment-realtime-gap-analysis.md",
+      "topic": "AI Competency Assessment: Real\u2011Time Gap Analysis"
     }
   ],
   "topics_used": [
@@ -4619,8 +4636,9 @@
     "AI Recruitment for Multi\u2011Generational Hiring Success",
     "Recruiter Productivity Tips: AI\u2011Powered Time\u2011Boxing",
     "Candidate Screening Automation: 7 AI Tactics to Raise Quality",
-    "Future of Hiring: AI\u2011Driven Talent Forecasting for 2027"
+    "Future of Hiring: AI\u2011Driven Talent Forecasting for 2027",
+    "AI Competency Assessment: Real\u2011Time Gap Analysis"
   ],
-  "last_updated": "2026-06-01",
-  "total_posts": 258
+  "last_updated": "2026-06-02",
+  "total_posts": 259
 }
