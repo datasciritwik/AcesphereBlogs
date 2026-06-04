@@ -4410,6 +4410,23 @@
       "word_count": 1254,
       "filepath": "content/posts/2026-06-03-automated-screening-roi-quality-gains-beyond-speed.md",
       "topic": "Automated Screening ROI: Quality Gains Beyond Speed"
+    },
+    {
+      "title": "AI Talent Communities: Build Engaged Pipelines",
+      "slug": "ai-talent-communities-build-engaged-pipelines",
+      "description": "# AI Talent Communities: Build Engaged Pipelines\n\nRecruiters today face a paradox: the best talent is often *passive*\u2014they\u2019re not actively looking, ye...",
+      "pub_date": "2026-06-04",
+      "tags": [],
+      "keywords": [
+        "AI talent communities",
+        "passive candidate engagement",
+        "AI hiring platform",
+        "candidate nurturing automation",
+        "building talent pipelines"
+      ],
+      "word_count": 1296,
+      "filepath": "content/posts/2026-06-04-ai-talent-communities-build-engaged-pipelines.md",
+      "topic": "AI Talent Communities: Build Engaged Pipelines"
     }
   ],
   "topics_used": [
@@ -4673,8 +4690,9 @@
     "Future of Hiring: AI\u2011Driven Talent Forecasting for 2027",
     "AI Competency Assessment: Real\u2011Time Gap Analysis",
     "Hiring Dashboard for the C\u2011Suite: AI Insights in 5 Minutes",
-    "Automated Screening ROI: Quality Gains Beyond Speed"
+    "Automated Screening ROI: Quality Gains Beyond Speed",
+    "AI Talent Communities: Build Engaged Pipelines"
   ],
-  "last_updated": "2026-06-03",
-  "total_posts": 261
+  "last_updated": "2026-06-04",
+  "total_posts": 262
 }
