@@ -4444,6 +4444,23 @@
       "word_count": 1153,
       "filepath": "content/posts/2026-06-04-skillbased-screening-meets-aiguided-development-plans.md",
       "topic": "Skill\u2011Based Screening Meets AI\u2011Guided Development Plans"
+    },
+    {
+      "title": "AI Interview Analytics to Forecast Employee Retention",
+      "slug": "ai-interview-analytics-to-forecast-employee-retention",
+      "description": "# AI Interview Analytics to Forecast Employee Retention  \n\nIn today\u2019s talent\u2011driven market, the ability to **predict which new hires will stay** is a...",
+      "pub_date": "2026-06-05",
+      "tags": [],
+      "keywords": [
+        "AI interviews",
+        "interview analytics",
+        "employee retention prediction",
+        "data-driven hiring",
+        "predictive hiring"
+      ],
+      "word_count": 1181,
+      "filepath": "content/posts/2026-06-05-ai-interview-analytics-to-forecast-employee-retention.md",
+      "topic": "AI Interview Analytics to Forecast Employee Retention"
     }
   ],
   "topics_used": [
@@ -4709,8 +4726,9 @@
     "Hiring Dashboard for the C\u2011Suite: AI Insights in 5 Minutes",
     "Automated Screening ROI: Quality Gains Beyond Speed",
     "AI Talent Communities: Build Engaged Pipelines",
-    "Skill\u2011Based Screening Meets AI\u2011Guided Development Plans"
+    "Skill\u2011Based Screening Meets AI\u2011Guided Development Plans",
+    "AI Interview Analytics to Forecast Employee Retention"
   ],
-  "last_updated": "2026-06-04",
-  "total_posts": 263
+  "last_updated": "2026-06-05",
+  "total_posts": 264
 }
