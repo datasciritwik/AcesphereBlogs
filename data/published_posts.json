@@ -4461,6 +4461,23 @@
       "word_count": 1181,
       "filepath": "content/posts/2026-06-05-ai-interview-analytics-to-forecast-employee-retention.md",
       "topic": "AI Interview Analytics to Forecast Employee Retention"
+    },
+    {
+      "title": "Future of Hiring: AI Strategies for Hybrid Workforce Success",
+      "slug": "future-of-hiring-ai-strategies-for-hybrid-workforce-success",
+      "description": "# Future of Hiring: AI Strategies for Hybrid Workforce Success\n\nHybrid work is here to stay, and HR leaders must adapt quickly to attract, assess, and...",
+      "pub_date": "2026-06-06",
+      "tags": [],
+      "keywords": [
+        "future of hiring",
+        "AI hiring platform",
+        "hybrid workforce",
+        "recruiter efficiency tools",
+        "automated scheduling"
+      ],
+      "word_count": 1254,
+      "filepath": "content/posts/2026-06-06-future-of-hiring-ai-strategies-for-hybrid-workforce-success.md",
+      "topic": "Future of Hiring: AI Strategies for Hybrid Workforce Success"
     }
   ],
   "topics_used": [
@@ -4727,8 +4744,9 @@
     "Automated Screening ROI: Quality Gains Beyond Speed",
     "AI Talent Communities: Build Engaged Pipelines",
     "Skill\u2011Based Screening Meets AI\u2011Guided Development Plans",
-    "AI Interview Analytics to Forecast Employee Retention"
+    "AI Interview Analytics to Forecast Employee Retention",
+    "Future of Hiring: AI Strategies for Hybrid Workforce Success"
   ],
-  "last_updated": "2026-06-05",
-  "total_posts": 264
+  "last_updated": "2026-06-06",
+  "total_posts": 265
 }
