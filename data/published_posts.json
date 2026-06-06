@@ -4478,6 +4478,23 @@
       "word_count": 1254,
       "filepath": "content/posts/2026-06-06-future-of-hiring-ai-strategies-for-hybrid-workforce-success.md",
       "topic": "Future of Hiring: AI Strategies for Hybrid Workforce Success"
+    },
+    {
+      "title": "AI Hiring Can Cut Your Recruiting Carbon Footprint",
+      "slug": "ai-hiring-can-cut-your-recruiting-carbon-footprint",
+      "description": "# AI Hiring Can Cut Your Recruiting Carbon Footprint\n\nRecruiters and HR leaders are under mounting pressure to meet ESG goals, yet many overlook the h...",
+      "pub_date": "2026-06-06",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "hiring automation",
+        "sustainable recruiting",
+        "carbon footprint hiring",
+        "ESG hiring"
+      ],
+      "word_count": 1174,
+      "filepath": "content/posts/2026-06-06-ai-hiring-can-cut-your-recruiting-carbon-footprint.md",
+      "topic": "AI Hiring Can Cut Your Recruiting Carbon Footprint"
     }
   ],
   "topics_used": [
@@ -4745,8 +4762,9 @@
     "AI Talent Communities: Build Engaged Pipelines",
     "Skill\u2011Based Screening Meets AI\u2011Guided Development Plans",
     "AI Interview Analytics to Forecast Employee Retention",
-    "Future of Hiring: AI Strategies for Hybrid Workforce Success"
+    "Future of Hiring: AI Strategies for Hybrid Workforce Success",
+    "AI Hiring Can Cut Your Recruiting Carbon Footprint"
   ],
   "last_updated": "2026-06-06",
-  "total_posts": 265
+  "total_posts": 266
 }
