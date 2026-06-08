@@ -4512,6 +4512,23 @@
       "word_count": 1222,
       "filepath": "content/posts/2026-06-07-ai-personality-matching-build-highperforming-teams-faster.md",
       "topic": "AI Personality Matching: Build High\u2011Performing Teams Faster"
+    },
+    {
+      "title": "AI Hiring for Retention: Predict New Hire Longevity",
+      "slug": "ai-hiring-for-retention-predict-new-hire-longevity",
+      "description": "# AI Hiring for Retention: Predict New Hire Longevity  \n\nHiring isn\u2019t just about filling a seat; it\u2019s the first line of defense against turnover. By u...",
+      "pub_date": "2026-06-08",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "predictive hiring",
+        "employee retention",
+        "data-driven hiring decisions",
+        "turnover prediction"
+      ],
+      "word_count": 1351,
+      "filepath": "content/posts/2026-06-08-ai-hiring-for-retention-predict-new-hire-longevity.md",
+      "topic": "AI Hiring for Retention: Predict New Hire Longevity"
     }
   ],
   "topics_used": [
@@ -4781,8 +4798,9 @@
     "AI Interview Analytics to Forecast Employee Retention",
     "Future of Hiring: AI Strategies for Hybrid Workforce Success",
     "AI Hiring Can Cut Your Recruiting Carbon Footprint",
-    "AI Personality Matching: Build High\u2011Performing Teams Faster"
+    "AI Personality Matching: Build High\u2011Performing Teams Faster",
+    "AI Hiring for Retention: Predict New Hire Longevity"
   ],
-  "last_updated": "2026-06-07",
-  "total_posts": 267
+  "last_updated": "2026-06-08",
+  "total_posts": 268
 }
