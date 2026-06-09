@@ -4563,6 +4563,23 @@
       "word_count": 1443,
       "filepath": "content/posts/2026-06-09-how-video-interview-ai-can-reduce-candidate-anxiety.md",
       "topic": "How Video Interview AI Can Reduce Candidate Anxiety"
+    },
+    {
+      "title": "AI Skill Testing: Forecasting New Hire Soft\u2011Skill Growth",
+      "slug": "ai-skill-testing-forecasting-new-hire-softskill-growth",
+      "description": "# AI Skill Testing: Forecasting New Hire Soft\u2011Skill Growth  \n\nIn today\u2019s fast\u2011moving business environment, hiring managers need more than a snapshot o...",
+      "pub_date": "2026-06-09",
+      "tags": [],
+      "keywords": [
+        "AI skill testing",
+        "competency assessment",
+        "recruitment analytics",
+        "future of hiring",
+        "soft skill development"
+      ],
+      "word_count": 1277,
+      "filepath": "content/posts/2026-06-09-ai-skill-testing-forecasting-new-hire-softskill-growth.md",
+      "topic": "AI Skill Testing: Forecasting New Hire Soft\u2011Skill Growth"
     }
   ],
   "topics_used": [
@@ -4835,8 +4852,9 @@
     "AI Personality Matching: Build High\u2011Performing Teams Faster",
     "AI Hiring for Retention: Predict New Hire Longevity",
     "Machine Learning Hiring: Predictive Talent Insights",
-    "How Video Interview AI Can Reduce Candidate Anxiety"
+    "How Video Interview AI Can Reduce Candidate Anxiety",
+    "AI Skill Testing: Forecasting New Hire Soft\u2011Skill Growth"
   ],
   "last_updated": "2026-06-09",
-  "total_posts": 270
+  "total_posts": 271
 }
