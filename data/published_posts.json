@@ -4546,6 +4546,23 @@
       "word_count": 1385,
       "filepath": "content/posts/2026-06-09-machine-learning-hiring-predictive-talent-insights.md",
       "topic": "Machine Learning Hiring: Predictive Talent Insights"
+    },
+    {
+      "title": "How Video Interview AI Can Reduce Candidate Anxiety",
+      "slug": "how-video-interview-ai-can-reduce-candidate-anxiety",
+      "description": "# How Video Interview AI Can Reduce Candidate Anxiety  \n\nIn today\u2019s remote\u2011first hiring landscape, candidate anxiety is more than a momentary discomfo...",
+      "pub_date": "2026-06-09",
+      "tags": [],
+      "keywords": [
+        "video interview AI",
+        "candidate anxiety",
+        "interview intelligence",
+        "remote hiring best practices",
+        "AI hiring for startups"
+      ],
+      "word_count": 1443,
+      "filepath": "content/posts/2026-06-09-how-video-interview-ai-can-reduce-candidate-anxiety.md",
+      "topic": "How Video Interview AI Can Reduce Candidate Anxiety"
     }
   ],
   "topics_used": [
@@ -4817,8 +4834,9 @@
     "AI Hiring Can Cut Your Recruiting Carbon Footprint",
     "AI Personality Matching: Build High\u2011Performing Teams Faster",
     "AI Hiring for Retention: Predict New Hire Longevity",
-    "Machine Learning Hiring: Predictive Talent Insights"
+    "Machine Learning Hiring: Predictive Talent Insights",
+    "How Video Interview AI Can Reduce Candidate Anxiety"
   ],
   "last_updated": "2026-06-09",
-  "total_posts": 269
+  "total_posts": 270
 }
