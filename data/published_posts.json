@@ -4529,6 +4529,23 @@
       "word_count": 1351,
       "filepath": "content/posts/2026-06-08-ai-hiring-for-retention-predict-new-hire-longevity.md",
       "topic": "AI Hiring for Retention: Predict New Hire Longevity"
+    },
+    {
+      "title": "Machine Learning Hiring: Predictive Talent Insights",
+      "slug": "machine-learning-hiring-predictive-talent-insights",
+      "description": "# Machine Learning Hiring: Predictive Talent Insights\n\nIn today\u2019s fast\u2011changing talent market, HR teams need more than gut instinct to stay competitiv...",
+      "pub_date": "2026-06-09",
+      "tags": [],
+      "keywords": [
+        "machine learning hiring",
+        "data-driven hiring decisions",
+        "predictive talent insights",
+        "hiring automation",
+        "future of recruitment"
+      ],
+      "word_count": 1385,
+      "filepath": "content/posts/2026-06-09-machine-learning-hiring-predictive-talent-insights.md",
+      "topic": "Machine Learning Hiring: Predictive Talent Insights"
     }
   ],
   "topics_used": [
@@ -4799,8 +4816,9 @@
     "Future of Hiring: AI Strategies for Hybrid Workforce Success",
     "AI Hiring Can Cut Your Recruiting Carbon Footprint",
     "AI Personality Matching: Build High\u2011Performing Teams Faster",
-    "AI Hiring for Retention: Predict New Hire Longevity"
+    "AI Hiring for Retention: Predict New Hire Longevity",
+    "Machine Learning Hiring: Predictive Talent Insights"
   ],
-  "last_updated": "2026-06-08",
-  "total_posts": 268
+  "last_updated": "2026-06-09",
+  "total_posts": 269
 }
