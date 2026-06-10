@@ -4580,6 +4580,23 @@
       "word_count": 1277,
       "filepath": "content/posts/2026-06-09-ai-skill-testing-forecasting-new-hire-softskill-growth.md",
       "topic": "AI Skill Testing: Forecasting New Hire Soft\u2011Skill Growth"
+    },
+    {
+      "title": "AI Hiring for Diversity of Thought: Boost Innovation",
+      "slug": "ai-hiring-for-diversity-of-thought-boost-innovation",
+      "description": "# AI Hiring for Diversity of Thought: Boost Innovation\n\nIn today\u2019s fast\u2011changing market, mid\u2011sized companies that can turn varied perspectives into br...",
+      "pub_date": "2026-06-10",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "intelligent screening",
+        "data-driven hiring decisions",
+        "diversity of thought",
+        "hiring pipeline management"
+      ],
+      "word_count": 1117,
+      "filepath": "content/posts/2026-06-10-ai-hiring-for-diversity-of-thought-boost-innovation.md",
+      "topic": "AI Hiring for Diversity of Thought: Boost Innovation"
     }
   ],
   "topics_used": [
@@ -4853,8 +4870,9 @@
     "AI Hiring for Retention: Predict New Hire Longevity",
     "Machine Learning Hiring: Predictive Talent Insights",
     "How Video Interview AI Can Reduce Candidate Anxiety",
-    "AI Skill Testing: Forecasting New Hire Soft\u2011Skill Growth"
+    "AI Skill Testing: Forecasting New Hire Soft\u2011Skill Growth",
+    "AI Hiring for Diversity of Thought: Boost Innovation"
   ],
-  "last_updated": "2026-06-09",
-  "total_posts": 271
+  "last_updated": "2026-06-10",
+  "total_posts": 272
 }
