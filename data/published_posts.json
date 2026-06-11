@@ -4597,6 +4597,23 @@
       "word_count": 1117,
       "filepath": "content/posts/2026-06-10-ai-hiring-for-diversity-of-thought-boost-innovation.md",
       "topic": "AI Hiring for Diversity of Thought: Boost Innovation"
+    },
+    {
+      "title": "Future of Hiring: AI Forecasts for the Gig Economy",
+      "slug": "future-of-hiring-ai-forecasts-for-the-gig-economy",
+      "description": "# Future of Hiring: AI Forecasts for the Gig Economy  \n\nIn today\u2019s fast\u2011moving market, startups and mid\u2011sized companies can\u2019t afford to wait for talen...",
+      "pub_date": "2026-06-11",
+      "tags": [],
+      "keywords": [
+        "future of hiring",
+        "AI-powered hiring",
+        "intelligent screening",
+        "gig economy hiring",
+        "recruiter productivity tips"
+      ],
+      "word_count": 1343,
+      "filepath": "content/posts/2026-06-11-future-of-hiring-ai-forecasts-for-the-gig-economy.md",
+      "topic": "Future of Hiring: AI Forecasts for the Gig Economy"
     }
   ],
   "topics_used": [
@@ -4871,8 +4888,9 @@
     "Machine Learning Hiring: Predictive Talent Insights",
     "How Video Interview AI Can Reduce Candidate Anxiety",
     "AI Skill Testing: Forecasting New Hire Soft\u2011Skill Growth",
-    "AI Hiring for Diversity of Thought: Boost Innovation"
+    "AI Hiring for Diversity of Thought: Boost Innovation",
+    "Future of Hiring: AI Forecasts for the Gig Economy"
   ],
-  "last_updated": "2026-06-10",
-  "total_posts": 272
+  "last_updated": "2026-06-11",
+  "total_posts": 273
 }
