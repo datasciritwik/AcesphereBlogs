@@ -4631,6 +4631,23 @@
       "word_count": 1311,
       "filepath": "content/posts/2026-06-12-intelligent-screening-safeguard-contract-hiring.md",
       "topic": "Intelligent Screening: Safeguard Contract Hiring"
+    },
+    {
+      "title": "Automated Hiring Playbook for Emerging Tech Startups",
+      "slug": "automated-hiring-playbook-for-emerging-tech-startups",
+      "description": "# Automated Hiring Playbook for Emerging Tech Startups  \n\nFounders and recruiting teams building quantum processors, AR/VR experiences, blockchain pro...",
+      "pub_date": "2026-06-13",
+      "tags": [],
+      "keywords": [
+        "automated hiring",
+        "AI hiring for startups",
+        "technical assessment automation",
+        "emerging tech hiring",
+        "recruiter productivity"
+      ],
+      "word_count": 1326,
+      "filepath": "content/posts/2026-06-13-automated-hiring-playbook-for-emerging-tech-startups.md",
+      "topic": "Automated Hiring Playbook for Emerging Tech Startups"
     }
   ],
   "topics_used": [
@@ -4907,8 +4924,9 @@
     "AI Skill Testing: Forecasting New Hire Soft\u2011Skill Growth",
     "AI Hiring for Diversity of Thought: Boost Innovation",
     "Future of Hiring: AI Forecasts for the Gig Economy",
-    "Intelligent Screening: Safeguard Contract Hiring"
+    "Intelligent Screening: Safeguard Contract Hiring",
+    "Automated Hiring Playbook for Emerging Tech Startups"
   ],
-  "last_updated": "2026-06-12",
-  "total_posts": 274
+  "last_updated": "2026-06-13",
+  "total_posts": 275
 }
