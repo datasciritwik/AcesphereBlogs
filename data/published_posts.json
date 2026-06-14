@@ -4665,6 +4665,22 @@
       "word_count": 1268,
       "filepath": "content/posts/2026-06-13-unlock-hiring-success-with-a-realtime-hiring-dashboard.md",
       "topic": "Unlock Hiring Success with a Real\u2011Time Hiring Dashboard"
+    },
+    {
+      "title": "AI Process Mining: A Recruiter Efficiency Tool",
+      "slug": "ai-process-mining-a-recruiter-efficiency-tool",
+      "description": "# AI Process Mining: A Recruiter Efficiency Tool\n\nIn today\u2019s talent\u2011driven market, every extra day a vacancy stays open costs your organization money...",
+      "pub_date": "2026-06-14",
+      "tags": [],
+      "keywords": [
+        "recruiter efficiency tools",
+        "recruitment workflow",
+        "AI process mining",
+        "hiring automation"
+      ],
+      "word_count": 1314,
+      "filepath": "content/posts/2026-06-14-ai-process-mining-a-recruiter-efficiency-tool.md",
+      "topic": "AI Process Mining: A Recruiter Efficiency Tool"
     }
   ],
   "topics_used": [
@@ -4943,8 +4959,9 @@
     "Future of Hiring: AI Forecasts for the Gig Economy",
     "Intelligent Screening: Safeguard Contract Hiring",
     "Automated Hiring Playbook for Emerging Tech Startups",
-    "Unlock Hiring Success with a Real\u2011Time Hiring Dashboard"
+    "Unlock Hiring Success with a Real\u2011Time Hiring Dashboard",
+    "AI Process Mining: A Recruiter Efficiency Tool"
   ],
-  "last_updated": "2026-06-13",
-  "total_posts": 276
+  "last_updated": "2026-06-14",
+  "total_posts": 277
 }
