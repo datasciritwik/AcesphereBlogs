@@ -4714,6 +4714,23 @@
       "word_count": 1299,
       "filepath": "content/posts/2026-06-15-ai-powered-job-ad-optimization-boost-applications-quality.md",
       "topic": "AI-Powered Job Ad Optimization: Boost Applications & Quality"
+    },
+    {
+      "title": "AI-Powered Hiring for Board Roles: Data-Backed Selection",
+      "slug": "ai-powered-hiring-for-board-roles-data-backed-selection",
+      "description": "# AI-Powered Hiring for Board Roles: Data-Backed Selection  \n\nCEOs and HR leaders who are scaling mid\u2011size companies need a board that can accelerate...",
+      "pub_date": "2026-06-15",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "executive hiring",
+        "board recruitment",
+        "data-driven hiring decisions",
+        "AI talent acquisition"
+      ],
+      "word_count": 1141,
+      "filepath": "content/posts/2026-06-15-ai-powered-hiring-for-board-roles-data-backed-selection.md",
+      "topic": "AI-Powered Hiring for Board Roles: Data-Backed Selection"
     }
   ],
   "topics_used": [
@@ -4995,8 +5012,9 @@
     "Unlock Hiring Success with a Real\u2011Time Hiring Dashboard",
     "AI Process Mining: A Recruiter Efficiency Tool",
     "AI-Powered Hiring for Succession Planning Success",
-    "AI-Powered Job Ad Optimization: Boost Applications & Quality"
+    "AI-Powered Job Ad Optimization: Boost Applications & Quality",
+    "AI-Powered Hiring for Board Roles: Data-Backed Selection"
   ],
   "last_updated": "2026-06-15",
-  "total_posts": 279
+  "total_posts": 280
 }
