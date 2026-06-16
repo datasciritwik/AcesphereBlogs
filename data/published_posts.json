@@ -4731,6 +4731,23 @@
       "word_count": 1141,
       "filepath": "content/posts/2026-06-15-ai-powered-hiring-for-board-roles-data-backed-selection.md",
       "topic": "AI-Powered Hiring for Board Roles: Data-Backed Selection"
+    },
+    {
+      "title": "AI Workload Balancing: Boost Recruiter Productivity",
+      "slug": "ai-workload-balancing-boost-recruiter-productivity",
+      "description": "# AI Workload Balancing: Boost Recruiter Productivity  \n\nIn today\u2019s hyper\u2011competitive talent market, every minute a recruiter spends on manual triage...",
+      "pub_date": "2026-06-16",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity tips",
+        "AI hiring",
+        "hiring technology",
+        "workload balancing",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1261,
+      "filepath": "content/posts/2026-06-16-ai-workload-balancing-boost-recruiter-productivity.md",
+      "topic": "AI Workload Balancing: Boost Recruiter Productivity"
     }
   ],
   "topics_used": [
@@ -5013,8 +5030,9 @@
     "AI Process Mining: A Recruiter Efficiency Tool",
     "AI-Powered Hiring for Succession Planning Success",
     "AI-Powered Job Ad Optimization: Boost Applications & Quality",
-    "AI-Powered Hiring for Board Roles: Data-Backed Selection"
+    "AI-Powered Hiring for Board Roles: Data-Backed Selection",
+    "AI Workload Balancing: Boost Recruiter Productivity"
   ],
-  "last_updated": "2026-06-15",
-  "total_posts": 280
+  "last_updated": "2026-06-16",
+  "total_posts": 281
 }
