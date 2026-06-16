@@ -4765,6 +4765,23 @@
       "word_count": 1307,
       "filepath": "content/posts/2026-06-16-master-hiring-pipeline-management-with-ai-in-2026.md",
       "topic": "Master Hiring Pipeline Management with AI in 2026"
+    },
+    {
+      "title": "AI Hiring Collaboration: Align Managers & Recruiters",
+      "slug": "ai-hiring-collaboration-align-managers-recruiters",
+      "description": "# AI Hiring Collaboration: Align Managers & Recruiters  \n\nHiring managers and recruiters often speak different languages\u2014one focuses on day\u2011to\u2011day tea...",
+      "pub_date": "2026-06-16",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "recruiter productivity",
+        "hiring manager collaboration",
+        "hiring automation",
+        "interview intelligence"
+      ],
+      "word_count": 1257,
+      "filepath": "content/posts/2026-06-16-ai-hiring-collaboration-align-managers-recruiters.md",
+      "topic": "AI Hiring Collaboration: Align Managers & Recruiters"
     }
   ],
   "topics_used": [
@@ -5049,8 +5066,9 @@
     "AI-Powered Job Ad Optimization: Boost Applications & Quality",
     "AI-Powered Hiring for Board Roles: Data-Backed Selection",
     "AI Workload Balancing: Boost Recruiter Productivity",
-    "Master Hiring Pipeline Management with AI in 2026"
+    "Master Hiring Pipeline Management with AI in 2026",
+    "AI Hiring Collaboration: Align Managers & Recruiters"
   ],
   "last_updated": "2026-06-16",
-  "total_posts": 282
+  "total_posts": 283
 }
