@@ -4782,6 +4782,22 @@
       "word_count": 1257,
       "filepath": "content/posts/2026-06-16-ai-hiring-collaboration-align-managers-recruiters.md",
       "topic": "AI Hiring Collaboration: Align Managers & Recruiters"
+    },
+    {
+      "title": "AI Coding Interviews: Evaluating Senior Architect Skills",
+      "slug": "ai-coding-interviews-evaluating-senior-architect-skills",
+      "description": "# AI Coding Interviews: Evaluating Senior Architect Skills\n\nHiring senior engineers who can design, scale, and future\u2011proof complex systems is one of...",
+      "pub_date": "2026-06-17",
+      "tags": [],
+      "keywords": [
+        "AI coding interviews",
+        "senior engineer assessment",
+        "architecture skill evaluation",
+        "candidate screening automation"
+      ],
+      "word_count": 1218,
+      "filepath": "content/posts/2026-06-17-ai-coding-interviews-evaluating-senior-architect-skills.md",
+      "topic": "AI Coding Interviews: Evaluating Senior Architect Skills"
     }
   ],
   "topics_used": [
@@ -5067,8 +5083,9 @@
     "AI-Powered Hiring for Board Roles: Data-Backed Selection",
     "AI Workload Balancing: Boost Recruiter Productivity",
     "Master Hiring Pipeline Management with AI in 2026",
-    "AI Hiring Collaboration: Align Managers & Recruiters"
+    "AI Hiring Collaboration: Align Managers & Recruiters",
+    "AI Coding Interviews: Evaluating Senior Architect Skills"
   ],
-  "last_updated": "2026-06-16",
-  "total_posts": 283
+  "last_updated": "2026-06-17",
+  "total_posts": 284
 }
