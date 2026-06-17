@@ -4798,6 +4798,23 @@
       "word_count": 1218,
       "filepath": "content/posts/2026-06-17-ai-coding-interviews-evaluating-senior-architect-skills.md",
       "topic": "AI Coding Interviews: Evaluating Senior Architect Skills"
+    },
+    {
+      "title": "Remote Hiring Best Practices: AI\u2011Powered Funnel Optimization",
+      "slug": "remote-hiring-best-practices-aipowered-funnel-optimization",
+      "description": "# Remote Hiring Best Practices: AI\u2011Powered Funnel Optimization  \n\nBuilding a remote team quickly and responsibly is one of the biggest challenges for...",
+      "pub_date": "2026-06-17",
+      "tags": [],
+      "keywords": [
+        "remote hiring best practices",
+        "hiring funnel optimization",
+        "AI hiring",
+        "recruiter efficiency tools",
+        "automated candidate screening benefits"
+      ],
+      "word_count": 1001,
+      "filepath": "content/posts/2026-06-17-remote-hiring-best-practices-aipowered-funnel-optimization.md",
+      "topic": "Remote Hiring Best Practices: AI\u2011Powered Funnel Optimization"
     }
   ],
   "topics_used": [
@@ -5084,8 +5101,9 @@
     "AI Workload Balancing: Boost Recruiter Productivity",
     "Master Hiring Pipeline Management with AI in 2026",
     "AI Hiring Collaboration: Align Managers & Recruiters",
-    "AI Coding Interviews: Evaluating Senior Architect Skills"
+    "AI Coding Interviews: Evaluating Senior Architect Skills",
+    "Remote Hiring Best Practices: AI\u2011Powered Funnel Optimization"
   ],
   "last_updated": "2026-06-17",
-  "total_posts": 284
+  "total_posts": 285
 }
