@@ -4815,6 +4815,23 @@
       "word_count": 1001,
       "filepath": "content/posts/2026-06-17-remote-hiring-best-practices-aipowered-funnel-optimization.md",
       "topic": "Remote Hiring Best Practices: AI\u2011Powered Funnel Optimization"
+    },
+    {
+      "title": "Technical Assessment Automation: Boost Hiring Accuracy",
+      "slug": "technical-assessment-automation-boost-hiring-accuracy",
+      "description": "# Technical Assessment Automation: Boost Hiring Accuracy  \n\nRecruiters at fast\u2011growing startups constantly juggle volume, speed, and quality. **Techni...",
+      "pub_date": "2026-06-18",
+      "tags": [],
+      "keywords": [
+        "technical assessment automation",
+        "AI for technical hiring",
+        "skill evaluation",
+        "recruiter productivity",
+        "hiring best practices"
+      ],
+      "word_count": 1153,
+      "filepath": "content/posts/2026-06-18-technical-assessment-automation-boost-hiring-accuracy.md",
+      "topic": "Technical Assessment Automation: Boost Hiring Accuracy"
     }
   ],
   "topics_used": [
@@ -5102,8 +5119,9 @@
     "Master Hiring Pipeline Management with AI in 2026",
     "AI Hiring Collaboration: Align Managers & Recruiters",
     "AI Coding Interviews: Evaluating Senior Architect Skills",
-    "Remote Hiring Best Practices: AI\u2011Powered Funnel Optimization"
+    "Remote Hiring Best Practices: AI\u2011Powered Funnel Optimization",
+    "Technical Assessment Automation: Boost Hiring Accuracy"
   ],
-  "last_updated": "2026-06-17",
-  "total_posts": 285
+  "last_updated": "2026-06-18",
+  "total_posts": 286
 }
