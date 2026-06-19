@@ -4832,6 +4832,23 @@
       "word_count": 1153,
       "filepath": "content/posts/2026-06-18-technical-assessment-automation-boost-hiring-accuracy.md",
       "topic": "Technical Assessment Automation: Boost Hiring Accuracy"
+    },
+    {
+      "title": "Real\u2011Time KPI Alerts for Automated Candidate Screening",
+      "slug": "realtime-kpi-alerts-for-automated-candidate-screening",
+      "description": "# Real\u2011Time KPI Alerts for Automated Candidate Screening\n\nIn today\u2019s hyper\u2011competitive talent market, waiting for a daily report before you can act on...",
+      "pub_date": "2026-06-19",
+      "tags": [],
+      "keywords": [
+        "automated candidate screening",
+        "data-driven hiring decisions",
+        "recruitment analytics",
+        "hiring KPI alerts",
+        "recruiter productivity"
+      ],
+      "word_count": 1483,
+      "filepath": "content/posts/2026-06-19-realtime-kpi-alerts-for-automated-candidate-screening.md",
+      "topic": "Real\u2011Time KPI Alerts for Automated Candidate Screening"
     }
   ],
   "topics_used": [
@@ -5120,8 +5137,9 @@
     "AI Hiring Collaboration: Align Managers & Recruiters",
     "AI Coding Interviews: Evaluating Senior Architect Skills",
     "Remote Hiring Best Practices: AI\u2011Powered Funnel Optimization",
-    "Technical Assessment Automation: Boost Hiring Accuracy"
+    "Technical Assessment Automation: Boost Hiring Accuracy",
+    "Real\u2011Time KPI Alerts for Automated Candidate Screening"
   ],
-  "last_updated": "2026-06-18",
-  "total_posts": 286
+  "last_updated": "2026-06-19",
+  "total_posts": 287
 }
