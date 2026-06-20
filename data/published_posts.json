@@ -4849,6 +4849,23 @@
       "word_count": 1483,
       "filepath": "content/posts/2026-06-19-realtime-kpi-alerts-for-automated-candidate-screening.md",
       "topic": "Real\u2011Time KPI Alerts for Automated Candidate Screening"
+    },
+    {
+      "title": "AI Hiring Compliance: A Startup Checklist",
+      "slug": "ai-hiring-compliance-a-startup-checklist",
+      "description": "# AI Hiring Compliance: A Startup Checklist  \n\nHiring at startup speed is a competitive advantage, but when you add AI to the mix, compliance becomes...",
+      "pub_date": "2026-06-20",
+      "tags": [],
+      "keywords": [
+        "AI hiring compliance",
+        "automated hiring",
+        "hiring automation",
+        "recruiter productivity tips",
+        "AI recruitment regulations"
+      ],
+      "word_count": 1280,
+      "filepath": "content/posts/2026-06-20-ai-hiring-compliance-a-startup-checklist.md",
+      "topic": "AI Hiring Compliance: A Startup Checklist"
     }
   ],
   "topics_used": [
@@ -5138,8 +5155,9 @@
     "AI Coding Interviews: Evaluating Senior Architect Skills",
     "Remote Hiring Best Practices: AI\u2011Powered Funnel Optimization",
     "Technical Assessment Automation: Boost Hiring Accuracy",
-    "Real\u2011Time KPI Alerts for Automated Candidate Screening"
+    "Real\u2011Time KPI Alerts for Automated Candidate Screening",
+    "AI Hiring Compliance: A Startup Checklist"
   ],
-  "last_updated": "2026-06-19",
-  "total_posts": 287
+  "last_updated": "2026-06-20",
+  "total_posts": 288
 }
