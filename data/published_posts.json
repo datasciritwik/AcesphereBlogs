@@ -4866,6 +4866,23 @@
       "word_count": 1280,
       "filepath": "content/posts/2026-06-20-ai-hiring-compliance-a-startup-checklist.md",
       "topic": "AI Hiring Compliance: A Startup Checklist"
+    },
+    {
+      "title": "AI Hiring Tech: Streamlining Remote Onboarding in 30 Days",
+      "slug": "ai-hiring-tech-streamlining-remote-onboarding-in-30-days",
+      "description": "# AI Hiring Tech: Streamlining Remote Onboarding in 30 Days  \n\nIn today\u2019s hyper\u2011connected talent market, the speed at which a new hire becomes product...",
+      "pub_date": "2026-06-21",
+      "tags": [],
+      "keywords": [
+        "hiring technology",
+        "remote onboarding",
+        "AI hiring automation",
+        "candidate experience",
+        "time-to-productivity"
+      ],
+      "word_count": 1183,
+      "filepath": "content/posts/2026-06-21-ai-hiring-tech-streamlining-remote-onboarding-in-30-days.md",
+      "topic": "AI Hiring Tech: Streamlining Remote Onboarding in 30 Days"
     }
   ],
   "topics_used": [
@@ -5156,8 +5173,9 @@
     "Remote Hiring Best Practices: AI\u2011Powered Funnel Optimization",
     "Technical Assessment Automation: Boost Hiring Accuracy",
     "Real\u2011Time KPI Alerts for Automated Candidate Screening",
-    "AI Hiring Compliance: A Startup Checklist"
+    "AI Hiring Compliance: A Startup Checklist",
+    "AI Hiring Tech: Streamlining Remote Onboarding in 30 Days"
   ],
-  "last_updated": "2026-06-20",
-  "total_posts": 288
+  "last_updated": "2026-06-21",
+  "total_posts": 289
 }
