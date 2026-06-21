@@ -4883,6 +4883,23 @@
       "word_count": 1183,
       "filepath": "content/posts/2026-06-21-ai-hiring-tech-streamlining-remote-onboarding-in-30-days.md",
       "topic": "AI Hiring Tech: Streamlining Remote Onboarding in 30 Days"
+    },
+    {
+      "title": "AI Hiring for ESG Startups: Align Talent with Sustainability",
+      "slug": "ai-hiring-for-esg-startups-align-talent-with-sustainability",
+      "description": "# AI Hiring for ESG Startups: Align Talent with Sustainability\n\nFounders and HR leaders of sustainability\u2011focused startups face a unique hiring parado...",
+      "pub_date": "2026-06-21",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "ESG recruiting",
+        "sustainable talent acquisition",
+        "green hiring",
+        "AI recruitment"
+      ],
+      "word_count": 1333,
+      "filepath": "content/posts/2026-06-21-ai-hiring-for-esg-startups-align-talent-with-sustainability.md",
+      "topic": "AI Hiring for ESG Startups: Align Talent with Sustainability"
     }
   ],
   "topics_used": [
@@ -5174,8 +5191,9 @@
     "Technical Assessment Automation: Boost Hiring Accuracy",
     "Real\u2011Time KPI Alerts for Automated Candidate Screening",
     "AI Hiring Compliance: A Startup Checklist",
-    "AI Hiring Tech: Streamlining Remote Onboarding in 30 Days"
+    "AI Hiring Tech: Streamlining Remote Onboarding in 30 Days",
+    "AI Hiring for ESG Startups: Align Talent with Sustainability"
   ],
   "last_updated": "2026-06-21",
-  "total_posts": 289
+  "total_posts": 290
 }
