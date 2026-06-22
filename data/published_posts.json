@@ -4934,6 +4934,23 @@
       "word_count": 1349,
       "filepath": "content/posts/2026-06-22-ai-candidate-nurturing-turn-passive-talent-into-active-hires.md",
       "topic": "AI Candidate Nurturing: Turn Passive Talent into Active Hires"
+    },
+    {
+      "title": "Automated Hiring Playbook: Scaling Into New Markets",
+      "slug": "automated-hiring-playbook-scaling-into-new-markets",
+      "description": "# Automated Hiring Playbook: Scaling Into New Markets\n\nExpanding into a new geographic region can feel like stepping onto unfamiliar terrain\u2014different...",
+      "pub_date": "2026-06-22",
+      "tags": [],
+      "keywords": [
+        "automated hiring",
+        "scaling hiring with automation",
+        "candidate screening automation",
+        "global hiring compliance",
+        "recruiter productivity"
+      ],
+      "word_count": 1333,
+      "filepath": "content/posts/2026-06-22-automated-hiring-playbook-scaling-into-new-markets.md",
+      "topic": "Automated Hiring Playbook: Scaling Into New Markets"
     }
   ],
   "topics_used": [
@@ -5228,8 +5245,9 @@
     "AI Hiring Tech: Streamlining Remote Onboarding in 30 Days",
     "AI Hiring for ESG Startups: Align Talent with Sustainability",
     "Hiring Funnel Optimization for Remote\u2011First Teams with AI",
-    "AI Candidate Nurturing: Turn Passive Talent into Active Hires"
+    "AI Candidate Nurturing: Turn Passive Talent into Active Hires",
+    "Automated Hiring Playbook: Scaling Into New Markets"
   ],
   "last_updated": "2026-06-22",
-  "total_posts": 292
+  "total_posts": 293
 }
