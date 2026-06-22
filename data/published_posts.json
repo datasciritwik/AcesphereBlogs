@@ -4917,6 +4917,23 @@
       "word_count": 1277,
       "filepath": "content/posts/2026-06-21-hiring-funnel-optimization-for-remotefirst-teams-with-ai.md",
       "topic": "Hiring Funnel Optimization for Remote\u2011First Teams with AI"
+    },
+    {
+      "title": "AI Candidate Nurturing: Turn Passive Talent into Active Hires",
+      "slug": "ai-candidate-nurturing-turn-passive-talent-into-active-hires",
+      "description": "# AI Candidate Nurturing: Turn Passive Talent into Active Hires  \n\nRecruiters spend a disproportionate amount of time chasing passive candidates who n...",
+      "pub_date": "2026-06-22",
+      "tags": [],
+      "keywords": [
+        "candidate nurturing",
+        "AI recruitment",
+        "recruiter productivity",
+        "hiring automation",
+        "talent pipeline"
+      ],
+      "word_count": 1349,
+      "filepath": "content/posts/2026-06-22-ai-candidate-nurturing-turn-passive-talent-into-active-hires.md",
+      "topic": "AI Candidate Nurturing: Turn Passive Talent into Active Hires"
     }
   ],
   "topics_used": [
@@ -5210,8 +5227,9 @@
     "AI Hiring Compliance: A Startup Checklist",
     "AI Hiring Tech: Streamlining Remote Onboarding in 30 Days",
     "AI Hiring for ESG Startups: Align Talent with Sustainability",
-    "Hiring Funnel Optimization for Remote\u2011First Teams with AI"
+    "Hiring Funnel Optimization for Remote\u2011First Teams with AI",
+    "AI Candidate Nurturing: Turn Passive Talent into Active Hires"
   ],
-  "last_updated": "2026-06-21",
-  "total_posts": 291
+  "last_updated": "2026-06-22",
+  "total_posts": 292
 }
