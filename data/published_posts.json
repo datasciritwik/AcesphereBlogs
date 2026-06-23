@@ -4985,6 +4985,23 @@
       "word_count": 1361,
       "filepath": "content/posts/2026-06-23-ai-candidate-experience-scorecard-measure-improve.md",
       "topic": "AI Candidate Experience Scorecard: Measure & Improve"
+    },
+    {
+      "title": "AI Pre\u2011Hire Testing Blueprint for Customer Success Teams",
+      "slug": "ai-prehire-testing-blueprint-for-customer-success-teams",
+      "description": "# AI Pre\u2011Hire Testing Blueprint for Customer Success Teams  \n\nHiring the right Customer Success (CS) talent is a high\u2011stakes decision that directly im...",
+      "pub_date": "2026-06-23",
+      "tags": [],
+      "keywords": [
+        "pre-hire testing",
+        "AI hiring",
+        "recruiter productivity",
+        "data-driven hiring decisions",
+        "customer success hiring"
+      ],
+      "word_count": 1350,
+      "filepath": "content/posts/2026-06-23-ai-prehire-testing-blueprint-for-customer-success-teams.md",
+      "topic": "AI Pre\u2011Hire Testing Blueprint for Customer Success Teams"
     }
   ],
   "topics_used": [
@@ -5282,8 +5299,9 @@
     "AI Candidate Nurturing: Turn Passive Talent into Active Hires",
     "Automated Hiring Playbook: Scaling Into New Markets",
     "Hiring Dashboard: Predictive Alerts to Prevent Recruiter Burnout",
-    "AI Candidate Experience Scorecard: Measure & Improve"
+    "AI Candidate Experience Scorecard: Measure & Improve",
+    "AI Pre\u2011Hire Testing Blueprint for Customer Success Teams"
   ],
   "last_updated": "2026-06-23",
-  "total_posts": 295
+  "total_posts": 296
 }
