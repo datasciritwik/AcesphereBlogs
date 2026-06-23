@@ -4968,6 +4968,23 @@
       "word_count": 1200,
       "filepath": "content/posts/2026-06-23-hiring-dashboard-predictive-alerts-to-prevent-recruiter-burn.md",
       "topic": "Hiring Dashboard: Predictive Alerts to Prevent Recruiter Burnout"
+    },
+    {
+      "title": "AI Candidate Experience Scorecard: Measure & Improve",
+      "slug": "ai-candidate-experience-scorecard-measure-improve",
+      "description": "# AI Candidate Experience Scorecard: Measure & Improve  \n\nRecruiters and HR teams are inundated with data, yet many still struggle to translate that i...",
+      "pub_date": "2026-06-23",
+      "tags": [],
+      "keywords": [
+        "candidate experience",
+        "AI recruitment analytics",
+        "recruiter productivity",
+        "hiring automation",
+        "candidate journey metrics"
+      ],
+      "word_count": 1361,
+      "filepath": "content/posts/2026-06-23-ai-candidate-experience-scorecard-measure-improve.md",
+      "topic": "AI Candidate Experience Scorecard: Measure & Improve"
     }
   ],
   "topics_used": [
@@ -5264,8 +5281,9 @@
     "Hiring Funnel Optimization for Remote\u2011First Teams with AI",
     "AI Candidate Nurturing: Turn Passive Talent into Active Hires",
     "Automated Hiring Playbook: Scaling Into New Markets",
-    "Hiring Dashboard: Predictive Alerts to Prevent Recruiter Burnout"
+    "Hiring Dashboard: Predictive Alerts to Prevent Recruiter Burnout",
+    "AI Candidate Experience Scorecard: Measure & Improve"
   ],
   "last_updated": "2026-06-23",
-  "total_posts": 294
+  "total_posts": 295
 }
