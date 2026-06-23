@@ -4951,6 +4951,23 @@
       "word_count": 1333,
       "filepath": "content/posts/2026-06-22-automated-hiring-playbook-scaling-into-new-markets.md",
       "topic": "Automated Hiring Playbook: Scaling Into New Markets"
+    },
+    {
+      "title": "Hiring Dashboard: Predictive Alerts to Prevent Recruiter Burnout",
+      "slug": "hiring-dashboard-predictive-alerts-to-prevent-recruiter-burn",
+      "description": "# Hiring Dashboard: Predictive Alerts to Prevent Recruiter Burnout  \n\nRecruiter burnout is no longer a \u201cnice\u2011to\u2011fix\u201d HR issue\u2014it\u2019s a hiring risk that...",
+      "pub_date": "2026-06-23",
+      "tags": [],
+      "keywords": [
+        "hiring dashboard",
+        "recruiter burnout",
+        "predictive alerts",
+        "recruiter productivity",
+        "AI hiring platform"
+      ],
+      "word_count": 1200,
+      "filepath": "content/posts/2026-06-23-hiring-dashboard-predictive-alerts-to-prevent-recruiter-burn.md",
+      "topic": "Hiring Dashboard: Predictive Alerts to Prevent Recruiter Burnout"
     }
   ],
   "topics_used": [
@@ -5246,8 +5263,9 @@
     "AI Hiring for ESG Startups: Align Talent with Sustainability",
     "Hiring Funnel Optimization for Remote\u2011First Teams with AI",
     "AI Candidate Nurturing: Turn Passive Talent into Active Hires",
-    "Automated Hiring Playbook: Scaling Into New Markets"
+    "Automated Hiring Playbook: Scaling Into New Markets",
+    "Hiring Dashboard: Predictive Alerts to Prevent Recruiter Burnout"
   ],
-  "last_updated": "2026-06-22",
-  "total_posts": 293
+  "last_updated": "2026-06-23",
+  "total_posts": 294
 }
