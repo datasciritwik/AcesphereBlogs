@@ -5002,6 +5002,22 @@
       "word_count": 1350,
       "filepath": "content/posts/2026-06-23-ai-prehire-testing-blueprint-for-customer-success-teams.md",
       "topic": "AI Pre\u2011Hire Testing Blueprint for Customer Success Teams"
+    },
+    {
+      "title": "AI Hiring Compliance: Navigating the EU AI Act",
+      "slug": "ai-hiring-compliance-navigating-the-eu-ai-act",
+      "description": "# AI Hiring Compliance: Navigating the EU AI Act\n\nStartups and mid\u2011size firms that rely on AI\u2011driven recruiting tools face a new regulatory reality. T...",
+      "pub_date": "2026-06-24",
+      "tags": [],
+      "keywords": [
+        "AI hiring compliance",
+        "EU AI Act recruitment",
+        "AI recruitment regulations",
+        "AI hiring legal checklist"
+      ],
+      "word_count": 1296,
+      "filepath": "content/posts/2026-06-24-ai-hiring-compliance-navigating-the-eu-ai-act.md",
+      "topic": "AI Hiring Compliance: Navigating the EU AI Act"
     }
   ],
   "topics_used": [
@@ -5300,8 +5316,9 @@
     "Automated Hiring Playbook: Scaling Into New Markets",
     "Hiring Dashboard: Predictive Alerts to Prevent Recruiter Burnout",
     "AI Candidate Experience Scorecard: Measure & Improve",
-    "AI Pre\u2011Hire Testing Blueprint for Customer Success Teams"
+    "AI Pre\u2011Hire Testing Blueprint for Customer Success Teams",
+    "AI Hiring Compliance: Navigating the EU AI Act"
   ],
-  "last_updated": "2026-06-23",
-  "total_posts": 296
+  "last_updated": "2026-06-24",
+  "total_posts": 297
 }
