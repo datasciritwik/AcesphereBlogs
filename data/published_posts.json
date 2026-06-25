@@ -5018,6 +5018,23 @@
       "word_count": 1296,
       "filepath": "content/posts/2026-06-24-ai-hiring-compliance-navigating-the-eu-ai-act.md",
       "topic": "AI Hiring Compliance: Navigating the EU AI Act"
+    },
+    {
+      "title": "Standardizing Soft\u2011Skill Scores with Video Interview AI",
+      "slug": "standardizing-softskill-scores-with-video-interview-ai",
+      "description": "# Standardizing Soft\u2011Skill Scores with Video Interview AI\n\nIn today\u2019s fast\u2011moving talent market, recruiters need a reliable way to compare candidates\u2019...",
+      "pub_date": "2026-06-25",
+      "tags": [],
+      "keywords": [
+        "video interview AI",
+        "soft skill assessment",
+        "bias-free hiring",
+        "interview scoring automation",
+        "recruiter consistency"
+      ],
+      "word_count": 1185,
+      "filepath": "content/posts/2026-06-25-standardizing-softskill-scores-with-video-interview-ai.md",
+      "topic": "Standardizing Soft\u2011Skill Scores with Video Interview AI"
     }
   ],
   "topics_used": [
@@ -5317,8 +5334,9 @@
     "Hiring Dashboard: Predictive Alerts to Prevent Recruiter Burnout",
     "AI Candidate Experience Scorecard: Measure & Improve",
     "AI Pre\u2011Hire Testing Blueprint for Customer Success Teams",
-    "AI Hiring Compliance: Navigating the EU AI Act"
+    "AI Hiring Compliance: Navigating the EU AI Act",
+    "Standardizing Soft\u2011Skill Scores with Video Interview AI"
   ],
-  "last_updated": "2026-06-24",
-  "total_posts": 297
+  "last_updated": "2026-06-25",
+  "total_posts": 298
 }
