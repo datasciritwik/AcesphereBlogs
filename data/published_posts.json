@@ -5052,6 +5052,23 @@
       "word_count": 1322,
       "filepath": "content/posts/2026-06-26-hiring-process-automation-uniting-crossfunctional-teams.md",
       "topic": "Hiring Process Automation: Uniting Cross\u2011Functional Teams"
+    },
+    {
+      "title": "AI Interview Tools for Remote Leadership Hiring",
+      "slug": "ai-interview-tools-for-remote-leadership-hiring",
+      "description": "# AI Interview Tools for Remote Leadership Hiring\n\nHiring managers and founders of remote\u2011first startups constantly grapple with one question: *How ca...",
+      "pub_date": "2026-06-26",
+      "tags": [],
+      "keywords": [
+        "AI interview",
+        "remote leadership hiring",
+        "data-driven hiring decisions",
+        "technical assessment automation",
+        "hiring best practices"
+      ],
+      "word_count": 1402,
+      "filepath": "content/posts/2026-06-26-ai-interview-tools-for-remote-leadership-hiring.md",
+      "topic": "AI Interview Tools for Remote Leadership Hiring"
     }
   ],
   "topics_used": [
@@ -5353,8 +5370,9 @@
     "AI Pre\u2011Hire Testing Blueprint for Customer Success Teams",
     "AI Hiring Compliance: Navigating the EU AI Act",
     "Standardizing Soft\u2011Skill Scores with Video Interview AI",
-    "Hiring Process Automation: Uniting Cross\u2011Functional Teams"
+    "Hiring Process Automation: Uniting Cross\u2011Functional Teams",
+    "AI Interview Tools for Remote Leadership Hiring"
   ],
   "last_updated": "2026-06-26",
-  "total_posts": 299
+  "total_posts": 300
 }
