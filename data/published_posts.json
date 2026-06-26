@@ -5035,6 +5035,23 @@
       "word_count": 1185,
       "filepath": "content/posts/2026-06-25-standardizing-softskill-scores-with-video-interview-ai.md",
       "topic": "Standardizing Soft\u2011Skill Scores with Video Interview AI"
+    },
+    {
+      "title": "Hiring Process Automation: Uniting Cross\u2011Functional Teams",
+      "slug": "hiring-process-automation-uniting-crossfunctional-teams",
+      "description": "# Hiring Process Automation: Uniting Cross\u2011functional Teams  \n\nIn today\u2019s fast\u2011moving startups, every week a vacant role can mean lost revenue, delaye...",
+      "pub_date": "2026-06-26",
+      "tags": [],
+      "keywords": [
+        "hiring process automation",
+        "recruitment workflow",
+        "recruiter productivity tips",
+        "AI-powered hiring",
+        "cross\u2011functional hiring"
+      ],
+      "word_count": 1322,
+      "filepath": "content/posts/2026-06-26-hiring-process-automation-uniting-crossfunctional-teams.md",
+      "topic": "Hiring Process Automation: Uniting Cross\u2011Functional Teams"
     }
   ],
   "topics_used": [
@@ -5335,8 +5352,9 @@
     "AI Candidate Experience Scorecard: Measure & Improve",
     "AI Pre\u2011Hire Testing Blueprint for Customer Success Teams",
     "AI Hiring Compliance: Navigating the EU AI Act",
-    "Standardizing Soft\u2011Skill Scores with Video Interview AI"
+    "Standardizing Soft\u2011Skill Scores with Video Interview AI",
+    "Hiring Process Automation: Uniting Cross\u2011Functional Teams"
   ],
-  "last_updated": "2026-06-25",
-  "total_posts": 298
+  "last_updated": "2026-06-26",
+  "total_posts": 299
 }
