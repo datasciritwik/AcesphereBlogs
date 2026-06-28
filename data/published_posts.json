@@ -5120,6 +5120,23 @@
       "word_count": 1410,
       "filepath": "content/posts/2026-06-28-ai-powered-hiring-for-remote-leadership-teams.md",
       "topic": "AI-Powered Hiring for Remote Leadership Teams"
+    },
+    {
+      "title": "Strategic Workforce Planning with AI Hiring Dashboard",
+      "slug": "strategic-workforce-planning-with-ai-hiring-dashboard",
+      "description": "# Strategic Workforce Planning with AI Hiring Dashboard  \n\nIn today\u2019s fast\u2011changing market, HR leaders can no longer rely on static spreadsheets or mo...",
+      "pub_date": "2026-06-28",
+      "tags": [],
+      "keywords": [
+        "hiring dashboard",
+        "workforce planning",
+        "AI hiring",
+        "strategic talent acquisition",
+        "recruiter productivity"
+      ],
+      "word_count": 1253,
+      "filepath": "content/posts/2026-06-28-strategic-workforce-planning-with-ai-hiring-dashboard.md",
+      "topic": "Strategic Workforce Planning with AI Hiring Dashboard"
     }
   ],
   "topics_used": [
@@ -5425,8 +5442,9 @@
     "AI Interview Tools for Remote Leadership Hiring",
     "AI-Powered Remote Onboarding: Fast\u2011Track New Hires",
     "AI Intern Hiring: Scale Remote Talent Programs Efficiently",
-    "AI-Powered Hiring for Remote Leadership Teams"
+    "AI-Powered Hiring for Remote Leadership Teams",
+    "Strategic Workforce Planning with AI Hiring Dashboard"
   ],
   "last_updated": "2026-06-28",
-  "total_posts": 303
+  "total_posts": 304
 }
