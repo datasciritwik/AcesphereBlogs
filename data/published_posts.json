@@ -5103,6 +5103,23 @@
       "word_count": 1206,
       "filepath": "content/posts/2026-06-28-ai-intern-hiring-scale-remote-talent-programs-efficiently.md",
       "topic": "AI Intern Hiring: Scale Remote Talent Programs Efficiently"
+    },
+    {
+      "title": "AI-Powered Hiring for Remote Leadership Teams",
+      "slug": "ai-powered-hiring-for-remote-leadership-teams",
+      "description": "# AI-Powered Hiring for Remote Leadership Teams  \n\nHiring managers and founders of remote\u2011first organizations face a unique dilemma: how to identify l...",
+      "pub_date": "2026-06-28",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "remote leadership hiring",
+        "data-driven hiring decisions",
+        "video interview AI",
+        "recruiter productivity tips"
+      ],
+      "word_count": 1410,
+      "filepath": "content/posts/2026-06-28-ai-powered-hiring-for-remote-leadership-teams.md",
+      "topic": "AI-Powered Hiring for Remote Leadership Teams"
     }
   ],
   "topics_used": [
@@ -5407,8 +5424,9 @@
     "Hiring Process Automation: Uniting Cross\u2011Functional Teams",
     "AI Interview Tools for Remote Leadership Hiring",
     "AI-Powered Remote Onboarding: Fast\u2011Track New Hires",
-    "AI Intern Hiring: Scale Remote Talent Programs Efficiently"
+    "AI Intern Hiring: Scale Remote Talent Programs Efficiently",
+    "AI-Powered Hiring for Remote Leadership Teams"
   ],
   "last_updated": "2026-06-28",
-  "total_posts": 302
+  "total_posts": 303
 }
