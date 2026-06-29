@@ -5154,6 +5154,22 @@
       "word_count": 1051,
       "filepath": "content/posts/2026-06-29-hiring-technology-roi-boost-productivity-retention.md",
       "topic": "Hiring Technology ROI: Boost Productivity & Retention"
+    },
+    {
+      "title": "AI Interview Assessment: Reveal Hidden Candidate Strengths",
+      "slug": "ai-interview-assessment-reveal-hidden-candidate-strengths",
+      "description": "# AI Interview Assessment: Reveal Hidden Candidate Strengths\n\nIn today\u2019s fast\u2011moving talent market, a single interview can do far more than confirm a...",
+      "pub_date": "2026-06-29",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "data-driven hiring decisions",
+        "recruiter productivity",
+        "hidden talent mapping"
+      ],
+      "word_count": 1112,
+      "filepath": "content/posts/2026-06-29-ai-interview-assessment-reveal-hidden-candidate-strengths.md",
+      "topic": "AI Interview Assessment: Reveal Hidden Candidate Strengths"
     }
   ],
   "topics_used": [
@@ -5461,8 +5477,9 @@
     "AI Intern Hiring: Scale Remote Talent Programs Efficiently",
     "AI-Powered Hiring for Remote Leadership Teams",
     "Strategic Workforce Planning with AI Hiring Dashboard",
-    "Hiring Technology ROI: Boost Productivity & Retention"
+    "Hiring Technology ROI: Boost Productivity & Retention",
+    "AI Interview Assessment: Reveal Hidden Candidate Strengths"
   ],
   "last_updated": "2026-06-29",
-  "total_posts": 305
+  "total_posts": 306
 }
