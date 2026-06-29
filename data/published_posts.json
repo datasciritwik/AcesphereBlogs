@@ -5137,6 +5137,23 @@
       "word_count": 1253,
       "filepath": "content/posts/2026-06-28-strategic-workforce-planning-with-ai-hiring-dashboard.md",
       "topic": "Strategic Workforce Planning with AI Hiring Dashboard"
+    },
+    {
+      "title": "Hiring Technology ROI: Boost Productivity & Retention",
+      "slug": "hiring-technology-roi-boost-productivity-retention",
+      "description": "# Hiring Technology ROI: Boost Productivity & Retention  \n\nStartups that invest in hiring technology often see only the obvious benefits\u2014faster time\u2011t...",
+      "pub_date": "2026-06-29",
+      "tags": [],
+      "keywords": [
+        "hiring technology",
+        "recruiter productivity",
+        "data-driven hiring decisions",
+        "AI hiring",
+        "hiring pipeline management"
+      ],
+      "word_count": 1051,
+      "filepath": "content/posts/2026-06-29-hiring-technology-roi-boost-productivity-retention.md",
+      "topic": "Hiring Technology ROI: Boost Productivity & Retention"
     }
   ],
   "topics_used": [
@@ -5443,8 +5460,9 @@
     "AI-Powered Remote Onboarding: Fast\u2011Track New Hires",
     "AI Intern Hiring: Scale Remote Talent Programs Efficiently",
     "AI-Powered Hiring for Remote Leadership Teams",
-    "Strategic Workforce Planning with AI Hiring Dashboard"
+    "Strategic Workforce Planning with AI Hiring Dashboard",
+    "Hiring Technology ROI: Boost Productivity & Retention"
   ],
-  "last_updated": "2026-06-28",
-  "total_posts": 304
+  "last_updated": "2026-06-29",
+  "total_posts": 305
 }
