@@ -5170,6 +5170,22 @@
       "word_count": 1112,
       "filepath": "content/posts/2026-06-29-ai-interview-assessment-reveal-hidden-candidate-strengths.md",
       "topic": "AI Interview Assessment: Reveal Hidden Candidate Strengths"
+    },
+    {
+      "title": "Real\u2011Time AI Dashboard to Boost Candidate Experience",
+      "slug": "realtime-ai-dashboard-to-boost-candidate-experience",
+      "description": "# Real\u2011Time AI Dashboard to Boost Candidate Experience  \n\nIn today\u2019s talent\u2011driven market, **real\u2011time AI analytics** give recruiters the power to see...",
+      "pub_date": "2026-06-30",
+      "tags": [],
+      "keywords": [
+        "candidate experience AI",
+        "real-time hiring analytics",
+        "AI recruiting dashboard",
+        "candidate experience metrics"
+      ],
+      "word_count": 1385,
+      "filepath": "content/posts/2026-06-30-realtime-ai-dashboard-to-boost-candidate-experience.md",
+      "topic": "Real\u2011Time AI Dashboard to Boost Candidate Experience"
     }
   ],
   "topics_used": [
@@ -5478,8 +5494,9 @@
     "AI-Powered Hiring for Remote Leadership Teams",
     "Strategic Workforce Planning with AI Hiring Dashboard",
     "Hiring Technology ROI: Boost Productivity & Retention",
-    "AI Interview Assessment: Reveal Hidden Candidate Strengths"
+    "AI Interview Assessment: Reveal Hidden Candidate Strengths",
+    "Real\u2011Time AI Dashboard to Boost Candidate Experience"
   ],
-  "last_updated": "2026-06-29",
-  "total_posts": 306
+  "last_updated": "2026-06-30",
+  "total_posts": 307
 }
