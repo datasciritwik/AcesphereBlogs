@@ -5203,6 +5203,23 @@
       "word_count": 1192,
       "filepath": "content/posts/2026-06-30-ai-hiring-scorecards-a-datadriven-blueprint-for-startups.md",
       "topic": "AI Hiring Scorecards: A Data\u2011Driven Blueprint for Startups"
+    },
+    {
+      "title": "Hiring Automation for Contract\u2011to\u2011Hire: AI Strategies",
+      "slug": "hiring-automation-for-contracttohire-ai-strategies",
+      "description": "# Hiring Automation for Contract\u2011to\u2011Hire: AI Strategies  \n\nStartups and mid\u2011sized companies that want a **flexible workforce** often struggle to keep...",
+      "pub_date": "2026-06-30",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "contract-to-hire",
+        "AI hiring",
+        "recruiter productivity",
+        "flexible workforce"
+      ],
+      "word_count": 1275,
+      "filepath": "content/posts/2026-06-30-hiring-automation-for-contracttohire-ai-strategies.md",
+      "topic": "Hiring Automation for Contract\u2011to\u2011Hire: AI Strategies"
     }
   ],
   "topics_used": [
@@ -5513,8 +5530,9 @@
     "Hiring Technology ROI: Boost Productivity & Retention",
     "AI Interview Assessment: Reveal Hidden Candidate Strengths",
     "Real\u2011Time AI Dashboard to Boost Candidate Experience",
-    "AI Hiring Scorecards: A Data\u2011Driven Blueprint for Startups"
+    "AI Hiring Scorecards: A Data\u2011Driven Blueprint for Startups",
+    "Hiring Automation for Contract\u2011to\u2011Hire: AI Strategies"
   ],
   "last_updated": "2026-06-30",
-  "total_posts": 308
+  "total_posts": 309
 }
