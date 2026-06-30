@@ -5186,6 +5186,23 @@
       "word_count": 1385,
       "filepath": "content/posts/2026-06-30-realtime-ai-dashboard-to-boost-candidate-experience.md",
       "topic": "Real\u2011Time AI Dashboard to Boost Candidate Experience"
+    },
+    {
+      "title": "AI Hiring Scorecards: A Data\u2011Driven Blueprint for Startups",
+      "slug": "ai-hiring-scorecards-a-datadriven-blueprint-for-startups",
+      "description": "# AI Hiring Scorecards: A Data\u2011Driven Blueprint for Startups  \n\nHiring the right talent fast is a make\u2011or\u2011break challenge for early\u2011stage companies.\u202fB...",
+      "pub_date": "2026-06-30",
+      "tags": [],
+      "keywords": [
+        "AI hiring scorecards",
+        "data-driven hiring decisions",
+        "recruiter productivity",
+        "candidate assessment automation",
+        "hiring best practices"
+      ],
+      "word_count": 1192,
+      "filepath": "content/posts/2026-06-30-ai-hiring-scorecards-a-datadriven-blueprint-for-startups.md",
+      "topic": "AI Hiring Scorecards: A Data\u2011Driven Blueprint for Startups"
     }
   ],
   "topics_used": [
@@ -5495,8 +5512,9 @@
     "Strategic Workforce Planning with AI Hiring Dashboard",
     "Hiring Technology ROI: Boost Productivity & Retention",
     "AI Interview Assessment: Reveal Hidden Candidate Strengths",
-    "Real\u2011Time AI Dashboard to Boost Candidate Experience"
+    "Real\u2011Time AI Dashboard to Boost Candidate Experience",
+    "AI Hiring Scorecards: A Data\u2011Driven Blueprint for Startups"
   ],
   "last_updated": "2026-06-30",
-  "total_posts": 307
+  "total_posts": 308
 }
