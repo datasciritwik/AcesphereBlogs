@@ -5237,6 +5237,23 @@
       "word_count": 1295,
       "filepath": "content/posts/2026-07-02-video-interview-ai-detects-fatigue-improves-experience.md",
       "topic": "Video Interview AI Detects Fatigue, Improves Experience"
+    },
+    {
+      "title": "AI Interviews: Real-Time Recruiter Coaching",
+      "slug": "ai-interviews-real-time-recruiter-coaching",
+      "description": "# AI Interviews: Real-Time Recruiter Coaching  \n\nRecruiters today juggle tight timelines, diverse candidate pools, and ever\u2011tightening diversity goals...",
+      "pub_date": "2026-07-03",
+      "tags": [],
+      "keywords": [
+        "AI interviews",
+        "recruiter productivity",
+        "real-time AI coaching",
+        "data-driven hiring decisions",
+        "interview intelligence"
+      ],
+      "word_count": 1104,
+      "filepath": "content/posts/2026-07-03-ai-interviews-real-time-recruiter-coaching.md",
+      "topic": "AI Interviews: Real-Time Recruiter Coaching"
     }
   ],
   "topics_used": [
@@ -5549,8 +5566,9 @@
     "Real\u2011Time AI Dashboard to Boost Candidate Experience",
     "AI Hiring Scorecards: A Data\u2011Driven Blueprint for Startups",
     "Hiring Automation for Contract\u2011to\u2011Hire: AI Strategies",
-    "Video Interview AI Detects Fatigue, Improves Experience"
+    "Video Interview AI Detects Fatigue, Improves Experience",
+    "AI Interviews: Real-Time Recruiter Coaching"
   ],
-  "last_updated": "2026-07-02",
-  "total_posts": 310
+  "last_updated": "2026-07-03",
+  "total_posts": 311
 }
