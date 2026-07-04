@@ -5254,6 +5254,23 @@
       "word_count": 1104,
       "filepath": "content/posts/2026-07-03-ai-interviews-real-time-recruiter-coaching.md",
       "topic": "AI Interviews: Real-Time Recruiter Coaching"
+    },
+    {
+      "title": "AI Hiring for Ethical AI Teams: Build Responsible Talent",
+      "slug": "ai-hiring-for-ethical-ai-teams-build-responsible-talent",
+      "description": "# AI Hiring for Ethical AI Teams: Build Responsible Talent\n\nHiring the right people is the single most powerful lever a tech company has to deliver tr...",
+      "pub_date": "2026-07-04",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "ethical AI hiring",
+        "responsible AI talent",
+        "AI recruitment ethics",
+        "AI hiring for AI teams"
+      ],
+      "word_count": 1157,
+      "filepath": "content/posts/2026-07-04-ai-hiring-for-ethical-ai-teams-build-responsible-talent.md",
+      "topic": "AI Hiring for Ethical AI Teams: Build Responsible Talent"
     }
   ],
   "topics_used": [
@@ -5567,8 +5584,9 @@
     "AI Hiring Scorecards: A Data\u2011Driven Blueprint for Startups",
     "Hiring Automation for Contract\u2011to\u2011Hire: AI Strategies",
     "Video Interview AI Detects Fatigue, Improves Experience",
-    "AI Interviews: Real-Time Recruiter Coaching"
+    "AI Interviews: Real-Time Recruiter Coaching",
+    "AI Hiring for Ethical AI Teams: Build Responsible Talent"
   ],
-  "last_updated": "2026-07-03",
-  "total_posts": 311
+  "last_updated": "2026-07-04",
+  "total_posts": 312
 }
