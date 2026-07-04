@@ -5271,6 +5271,23 @@
       "word_count": 1157,
       "filepath": "content/posts/2026-07-04-ai-hiring-for-ethical-ai-teams-build-responsible-talent.md",
       "topic": "AI Hiring for Ethical AI Teams: Build Responsible Talent"
+    },
+    {
+      "title": "AI Candidate Heatmaps: Visualize Hidden Talent Pools",
+      "slug": "ai-candidate-heatmaps-visualize-hidden-talent-pools",
+      "description": "# AI Candidate Heatmaps: Visualize Hidden Talent Pools  \n\nRecruiters today face an overwhelming amount of data\u2014from LinkedIn profiles and GitHub commi...",
+      "pub_date": "2026-07-04",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "candidate heatmap",
+        "talent pool visualization",
+        "hiring analytics",
+        "recruitment data visualization"
+      ],
+      "word_count": 1302,
+      "filepath": "content/posts/2026-07-04-ai-candidate-heatmaps-visualize-hidden-talent-pools.md",
+      "topic": "AI Candidate Heatmaps: Visualize Hidden Talent Pools"
     }
   ],
   "topics_used": [
@@ -5585,8 +5602,9 @@
     "Hiring Automation for Contract\u2011to\u2011Hire: AI Strategies",
     "Video Interview AI Detects Fatigue, Improves Experience",
     "AI Interviews: Real-Time Recruiter Coaching",
-    "AI Hiring for Ethical AI Teams: Build Responsible Talent"
+    "AI Hiring for Ethical AI Teams: Build Responsible Talent",
+    "AI Candidate Heatmaps: Visualize Hidden Talent Pools"
   ],
   "last_updated": "2026-07-04",
-  "total_posts": 312
+  "total_posts": 313
 }
