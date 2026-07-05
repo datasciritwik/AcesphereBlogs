@@ -5305,6 +5305,23 @@
       "word_count": 1208,
       "filepath": "content/posts/2026-07-05-hiring-automation-checklist-ai-musthaves-for-midsize-firms.md",
       "topic": "Hiring Automation Checklist: AI Must\u2011Haves for Mid\u2011Size Firms"
+    },
+    {
+      "title": "Pre\u2011Hire Testing with AI: Predict Customer Success Starters",
+      "slug": "prehire-testing-with-ai-predict-customer-success-starters",
+      "description": "# Pre\u2011Hire Testing with AI: Predict Customer Success Starters\n\nHiring the right Customer Success (CS) professionals is a direct line to revenue growth...",
+      "pub_date": "2026-07-05",
+      "tags": [],
+      "keywords": [
+        "pre-hire testing",
+        "AI recruitment",
+        "customer success hiring",
+        "predictive hiring analytics",
+        "competency assessment"
+      ],
+      "word_count": 1128,
+      "filepath": "content/posts/2026-07-05-prehire-testing-with-ai-predict-customer-success-starters.md",
+      "topic": "Pre\u2011Hire Testing with AI: Predict Customer Success Starters"
     }
   ],
   "topics_used": [
@@ -5621,8 +5638,9 @@
     "AI Interviews: Real-Time Recruiter Coaching",
     "AI Hiring for Ethical AI Teams: Build Responsible Talent",
     "AI Candidate Heatmaps: Visualize Hidden Talent Pools",
-    "Hiring Automation Checklist: AI Must\u2011Haves for Mid\u2011Size Firms"
+    "Hiring Automation Checklist: AI Must\u2011Haves for Mid\u2011Size Firms",
+    "Pre\u2011Hire Testing with AI: Predict Customer Success Starters"
   ],
   "last_updated": "2026-07-05",
-  "total_posts": 314
+  "total_posts": 315
 }
