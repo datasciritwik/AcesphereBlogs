@@ -5288,6 +5288,23 @@
       "word_count": 1302,
       "filepath": "content/posts/2026-07-04-ai-candidate-heatmaps-visualize-hidden-talent-pools.md",
       "topic": "AI Candidate Heatmaps: Visualize Hidden Talent Pools"
+    },
+    {
+      "title": "Hiring Automation Checklist: AI Must\u2011Haves for Mid\u2011Size Firms",
+      "slug": "hiring-automation-checklist-ai-musthaves-for-midsize-firms",
+      "description": "# Hiring Automation Checklist: AI Must\u2011Haves for Mid\u2011Size Firms\n\nMid\u2011size companies (typically 50\u2011250 employees) sit at a sweet spot: they have enough...",
+      "pub_date": "2026-07-05",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "AI hiring checklist",
+        "mid-size company recruitment",
+        "AI bias mitigation",
+        "recruiter productivity tools"
+      ],
+      "word_count": 1208,
+      "filepath": "content/posts/2026-07-05-hiring-automation-checklist-ai-musthaves-for-midsize-firms.md",
+      "topic": "Hiring Automation Checklist: AI Must\u2011Haves for Mid\u2011Size Firms"
     }
   ],
   "topics_used": [
@@ -5603,8 +5620,9 @@
     "Video Interview AI Detects Fatigue, Improves Experience",
     "AI Interviews: Real-Time Recruiter Coaching",
     "AI Hiring for Ethical AI Teams: Build Responsible Talent",
-    "AI Candidate Heatmaps: Visualize Hidden Talent Pools"
+    "AI Candidate Heatmaps: Visualize Hidden Talent Pools",
+    "Hiring Automation Checklist: AI Must\u2011Haves for Mid\u2011Size Firms"
   ],
-  "last_updated": "2026-07-04",
-  "total_posts": 313
+  "last_updated": "2026-07-05",
+  "total_posts": 314
 }
