@@ -5339,6 +5339,23 @@
       "word_count": 1450,
       "filepath": "content/posts/2026-07-06-technical-assessments-reimagined-ai-boosts-accuracy-speed.md",
       "topic": "Technical Assessments Reimagined: AI Boosts Accuracy & Speed"
+    },
+    {
+      "title": "AI Interview Assessment: Powering Internal Mobility",
+      "slug": "ai-interview-assessment-powering-internal-mobility",
+      "description": "# AI Interview Assessment: Powering Internal Mobility  \n\nIn today\u2019s fast\u2011changing talent landscape, leveraging **AI interview assessment** to evaluate...",
+      "pub_date": "2026-07-07",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "internal mobility",
+        "talent retention",
+        "recruitment workflow",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1227,
+      "filepath": "content/posts/2026-07-07-ai-interview-assessment-powering-internal-mobility.md",
+      "topic": "AI Interview Assessment: Powering Internal Mobility"
     }
   ],
   "topics_used": [
@@ -5657,8 +5674,9 @@
     "AI Candidate Heatmaps: Visualize Hidden Talent Pools",
     "Hiring Automation Checklist: AI Must\u2011Haves for Mid\u2011Size Firms",
     "Pre\u2011Hire Testing with AI: Predict Customer Success Starters",
-    "Technical Assessments Reimagined: AI Boosts Accuracy & Speed"
+    "Technical Assessments Reimagined: AI Boosts Accuracy & Speed",
+    "AI Interview Assessment: Powering Internal Mobility"
   ],
-  "last_updated": "2026-07-06",
-  "total_posts": 316
+  "last_updated": "2026-07-07",
+  "total_posts": 317
 }
