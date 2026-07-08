@@ -5356,6 +5356,23 @@
       "word_count": 1227,
       "filepath": "content/posts/2026-07-07-ai-interview-assessment-powering-internal-mobility.md",
       "topic": "AI Interview Assessment: Powering Internal Mobility"
+    },
+    {
+      "title": "AI Recruitment for Workforce Reskilling: Hire & Upskill",
+      "slug": "ai-recruitment-for-workforce-reskilling-hire-upskill",
+      "description": "# AI Recruitment for Workforce Reskilling: Hire & Upskill  \n\nFast\u2011growing companies can no longer treat hiring and learning as separate, sequential pr...",
+      "pub_date": "2026-07-08",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "workforce reskilling",
+        "skill gap analysis",
+        "hiring automation",
+        "upskilling hiring"
+      ],
+      "word_count": 1374,
+      "filepath": "content/posts/2026-07-08-ai-recruitment-for-workforce-reskilling-hire-upskill.md",
+      "topic": "AI Recruitment for Workforce Reskilling: Hire & Upskill"
     }
   ],
   "topics_used": [
@@ -5675,8 +5692,9 @@
     "Hiring Automation Checklist: AI Must\u2011Haves for Mid\u2011Size Firms",
     "Pre\u2011Hire Testing with AI: Predict Customer Success Starters",
     "Technical Assessments Reimagined: AI Boosts Accuracy & Speed",
-    "AI Interview Assessment: Powering Internal Mobility"
+    "AI Interview Assessment: Powering Internal Mobility",
+    "AI Recruitment for Workforce Reskilling: Hire & Upskill"
   ],
-  "last_updated": "2026-07-07",
-  "total_posts": 317
+  "last_updated": "2026-07-08",
+  "total_posts": 318
 }
