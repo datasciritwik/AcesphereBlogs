@@ -5373,6 +5373,23 @@
       "word_count": 1374,
       "filepath": "content/posts/2026-07-08-ai-recruitment-for-workforce-reskilling-hire-upskill.md",
       "topic": "AI Recruitment for Workforce Reskilling: Hire & Upskill"
+    },
+    {
+      "title": "AI Upskilling for Recruiters: Boost Productivity with Smart Tools",
+      "slug": "ai-upskilling-for-recruiters-boost-productivity-with-smart-t",
+      "description": "# AI Upskilling for Recruiters: Boost Productivity with Smart Tools  \n\nRecruiters who master AI\u2011driven technologies can cut screening time in half, fi...",
+      "pub_date": "2026-07-08",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity",
+        "smart hiring tools",
+        "AI hiring platform",
+        "recruitment analytics",
+        "AI interview"
+      ],
+      "word_count": 1202,
+      "filepath": "content/posts/2026-07-08-ai-upskilling-for-recruiters-boost-productivity-with-smart-t.md",
+      "topic": "AI Upskilling for Recruiters: Boost Productivity with Smart Tools"
     }
   ],
   "topics_used": [
@@ -5693,8 +5710,9 @@
     "Pre\u2011Hire Testing with AI: Predict Customer Success Starters",
     "Technical Assessments Reimagined: AI Boosts Accuracy & Speed",
     "AI Interview Assessment: Powering Internal Mobility",
-    "AI Recruitment for Workforce Reskilling: Hire & Upskill"
+    "AI Recruitment for Workforce Reskilling: Hire & Upskill",
+    "AI Upskilling for Recruiters: Boost Productivity with Smart Tools"
   ],
   "last_updated": "2026-07-08",
-  "total_posts": 318
+  "total_posts": 319
 }
