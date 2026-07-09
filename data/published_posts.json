@@ -5406,6 +5406,23 @@
       "word_count": 1230,
       "filepath": "content/posts/2026-07-09-automated-evaluation-a-small-business-hiring-gamechanger.md",
       "topic": "Automated Evaluation: A Small Business Hiring Game\u2011Changer"
+    },
+    {
+      "title": "AI\u2011Personalized Candidate Journeys Boost Hiring Success",
+      "slug": "aipersonalized-candidate-journeys-boost-hiring-success",
+      "description": "# AI\u2011Personalized Candidate Journeys Boost Hiring Success\n\nIn today\u2019s talent\u2011driven market, recruiters who can adapt every interaction to a candidate\u2019...",
+      "pub_date": "2026-07-09",
+      "tags": [],
+      "keywords": [
+        "AI personalized candidate experience",
+        "candidate journey mapping",
+        "recruiter productivity",
+        "hiring automation",
+        "AI recruitment"
+      ],
+      "word_count": 1171,
+      "filepath": "content/posts/2026-07-09-aipersonalized-candidate-journeys-boost-hiring-success.md",
+      "topic": "AI\u2011Personalized Candidate Journeys Boost Hiring Success"
     }
   ],
   "topics_used": [
@@ -5728,8 +5745,9 @@
     "AI Interview Assessment: Powering Internal Mobility",
     "AI Recruitment for Workforce Reskilling: Hire & Upskill",
     "AI Upskilling for Recruiters: Boost Productivity with Smart Tools",
-    "Automated Evaluation: A Small Business Hiring Game\u2011Changer"
+    "Automated Evaluation: A Small Business Hiring Game\u2011Changer",
+    "AI\u2011Personalized Candidate Journeys Boost Hiring Success"
   ],
   "last_updated": "2026-07-09",
-  "total_posts": 320
+  "total_posts": 321
 }
