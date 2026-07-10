@@ -5423,6 +5423,23 @@
       "word_count": 1171,
       "filepath": "content/posts/2026-07-09-aipersonalized-candidate-journeys-boost-hiring-success.md",
       "topic": "AI\u2011Personalized Candidate Journeys Boost Hiring Success"
+    },
+    {
+      "title": "Adaptive AI Interview Trees Boost Hiring Quality",
+      "slug": "adaptive-ai-interview-trees-boost-hiring-quality",
+      "description": "# Adaptive AI Interview Trees Boost Hiring Quality\n\nIn today\u2019s fast\u2011moving talent market, recruiters need interview processes that are both **deep** a...",
+      "pub_date": "2026-07-10",
+      "tags": [],
+      "keywords": [
+        "AI interview",
+        "adaptive interview",
+        "interview personalization",
+        "candidate experience AI",
+        "interview efficiency"
+      ],
+      "word_count": 1306,
+      "filepath": "content/posts/2026-07-10-adaptive-ai-interview-trees-boost-hiring-quality.md",
+      "topic": "Adaptive AI Interview Trees Boost Hiring Quality"
     }
   ],
   "topics_used": [
@@ -5746,8 +5763,9 @@
     "AI Recruitment for Workforce Reskilling: Hire & Upskill",
     "AI Upskilling for Recruiters: Boost Productivity with Smart Tools",
     "Automated Evaluation: A Small Business Hiring Game\u2011Changer",
-    "AI\u2011Personalized Candidate Journeys Boost Hiring Success"
+    "AI\u2011Personalized Candidate Journeys Boost Hiring Success",
+    "Adaptive AI Interview Trees Boost Hiring Quality"
   ],
-  "last_updated": "2026-07-09",
-  "total_posts": 321
+  "last_updated": "2026-07-10",
+  "total_posts": 322
 }
