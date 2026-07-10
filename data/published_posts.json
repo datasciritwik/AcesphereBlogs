@@ -5440,6 +5440,23 @@
       "word_count": 1306,
       "filepath": "content/posts/2026-07-10-adaptive-ai-interview-trees-boost-hiring-quality.md",
       "topic": "Adaptive AI Interview Trees Boost Hiring Quality"
+    },
+    {
+      "title": "AI Hiring for Startups: Build a Data\u2011Driven Culture",
+      "slug": "ai-hiring-for-startups-build-a-datadriven-culture",
+      "description": "# AI Hiring for Startups: Build a Data\u2011Driven Culture  \n\nEarly\u2011stage startups often juggle limited resources, rapid growth, and the need to assemble a...",
+      "pub_date": "2026-07-10",
+      "tags": [],
+      "keywords": [
+        "AI hiring for startups",
+        "data-driven hiring culture",
+        "HR tech stack",
+        "hiring automation",
+        "recruiter productivity"
+      ],
+      "word_count": 1216,
+      "filepath": "content/posts/2026-07-10-ai-hiring-for-startups-build-a-datadriven-culture.md",
+      "topic": "AI Hiring for Startups: Build a Data\u2011Driven Culture"
     }
   ],
   "topics_used": [
@@ -5764,8 +5781,9 @@
     "AI Upskilling for Recruiters: Boost Productivity with Smart Tools",
     "Automated Evaluation: A Small Business Hiring Game\u2011Changer",
     "AI\u2011Personalized Candidate Journeys Boost Hiring Success",
-    "Adaptive AI Interview Trees Boost Hiring Quality"
+    "Adaptive AI Interview Trees Boost Hiring Quality",
+    "AI Hiring for Startups: Build a Data\u2011Driven Culture"
   ],
   "last_updated": "2026-07-10",
-  "total_posts": 322
+  "total_posts": 323
 }
