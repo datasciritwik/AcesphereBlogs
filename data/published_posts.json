@@ -5457,6 +5457,23 @@
       "word_count": 1216,
       "filepath": "content/posts/2026-07-10-ai-hiring-for-startups-build-a-datadriven-culture.md",
       "topic": "AI Hiring for Startups: Build a Data\u2011Driven Culture"
+    },
+    {
+      "title": "AI Interview Intelligence: Linking Soft Skills to Performance",
+      "slug": "ai-interview-intelligence-linking-soft-skills-to-performance",
+      "description": "# AI Interview Intelligence: Linking Soft Skills to Performance  \n\nIn today\u2019s talent\u2011driven market, HR teams need more than gut instinct to prove that...",
+      "pub_date": "2026-07-12",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "soft skill assessment",
+        "data-driven hiring decisions",
+        "AI hiring ROI",
+        "performance analytics"
+      ],
+      "word_count": 1179,
+      "filepath": "content/posts/2026-07-12-ai-interview-intelligence-linking-soft-skills-to-performance.md",
+      "topic": "AI Interview Intelligence: Linking Soft Skills to Performance"
     }
   ],
   "topics_used": [
@@ -5782,8 +5799,9 @@
     "Automated Evaluation: A Small Business Hiring Game\u2011Changer",
     "AI\u2011Personalized Candidate Journeys Boost Hiring Success",
     "Adaptive AI Interview Trees Boost Hiring Quality",
-    "AI Hiring for Startups: Build a Data\u2011Driven Culture"
+    "AI Hiring for Startups: Build a Data\u2011Driven Culture",
+    "AI Interview Intelligence: Linking Soft Skills to Performance"
   ],
-  "last_updated": "2026-07-10",
-  "total_posts": 323
+  "last_updated": "2026-07-12",
+  "total_posts": 324
 }
