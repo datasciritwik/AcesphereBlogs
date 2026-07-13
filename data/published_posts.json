@@ -5474,6 +5474,23 @@
       "word_count": 1179,
       "filepath": "content/posts/2026-07-12-ai-interview-intelligence-linking-soft-skills-to-performance.md",
       "topic": "AI Interview Intelligence: Linking Soft Skills to Performance"
+    },
+    {
+      "title": "How AI Interviews Work: A Recruiter's Deep Dive",
+      "slug": "how-ai-interviews-work-a-recruiters-deep-dive",
+      "description": "# How AI Interviews Work: A Recruiter's Deep Dive  \n\nIn today\u2019s fast\u2011paced hiring landscape, recruiters need tools that cut through manual bottlenecks...",
+      "pub_date": "2026-07-13",
+      "tags": [],
+      "keywords": [
+        "how AI interviews work",
+        "interview intelligence",
+        "AI interview assessment",
+        "improving candidate experience with AI",
+        "recruiter productivity"
+      ],
+      "word_count": 1157,
+      "filepath": "content/posts/2026-07-13-how-ai-interviews-work-a-recruiters-deep-dive.md",
+      "topic": "How AI Interviews Work: A Recruiter's Deep Dive"
     }
   ],
   "topics_used": [
@@ -5800,8 +5817,9 @@
     "AI\u2011Personalized Candidate Journeys Boost Hiring Success",
     "Adaptive AI Interview Trees Boost Hiring Quality",
     "AI Hiring for Startups: Build a Data\u2011Driven Culture",
-    "AI Interview Intelligence: Linking Soft Skills to Performance"
+    "AI Interview Intelligence: Linking Soft Skills to Performance",
+    "How AI Interviews Work: A Recruiter's Deep Dive"
   ],
-  "last_updated": "2026-07-12",
-  "total_posts": 324
+  "last_updated": "2026-07-13",
+  "total_posts": 325
 }
