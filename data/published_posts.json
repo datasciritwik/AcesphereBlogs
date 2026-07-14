@@ -5525,6 +5525,23 @@
       "word_count": 1241,
       "filepath": "content/posts/2026-07-14-ai-skill-evaluation-boost-remote-onboarding-success.md",
       "topic": "AI Skill Evaluation: Boost Remote Onboarding Success"
+    },
+    {
+      "title": "Real\u2011Time Interview Intelligence to Detect Bias Live",
+      "slug": "realtime-interview-intelligence-to-detect-bias-live",
+      "description": "# Real\u2011Time Interview Intelligence to Detect Bias Live  \n\nRecruiters today need more than gut feeling to guarantee **bias\u2011free hiring**. This guide sh...",
+      "pub_date": "2026-07-14",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "bias-free hiring",
+        "AI interview assessment",
+        "real-time interview analytics",
+        "reduce hiring bias"
+      ],
+      "word_count": 1282,
+      "filepath": "content/posts/2026-07-14-realtime-interview-intelligence-to-detect-bias-live.md",
+      "topic": "Real\u2011Time Interview Intelligence to Detect Bias Live"
     }
   ],
   "topics_used": [
@@ -5854,8 +5871,9 @@
     "AI Interview Intelligence: Linking Soft Skills to Performance",
     "How AI Interviews Work: A Recruiter's Deep Dive",
     "AI Hiring Forecast: Master Seasonal Retail Peaks",
-    "AI Skill Evaluation: Boost Remote Onboarding Success"
+    "AI Skill Evaluation: Boost Remote Onboarding Success",
+    "Real\u2011Time Interview Intelligence to Detect Bias Live"
   ],
   "last_updated": "2026-07-14",
-  "total_posts": 327
+  "total_posts": 328
 }
