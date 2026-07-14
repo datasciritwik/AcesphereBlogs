@@ -5508,6 +5508,23 @@
       "word_count": 1279,
       "filepath": "content/posts/2026-07-14-ai-hiring-forecast-master-seasonal-retail-peaks.md",
       "topic": "AI Hiring Forecast: Master Seasonal Retail Peaks"
+    },
+    {
+      "title": "AI Skill Evaluation: Boost Remote Onboarding Success",
+      "slug": "ai-skill-evaluation-boost-remote-onboarding-success",
+      "description": "# AI Skill Evaluation: Boost Remote Onboarding Success\n\nHiring a distributed team is only half the battle; the real challenge is turning a new hire in...",
+      "pub_date": "2026-07-14",
+      "tags": [],
+      "keywords": [
+        "skill evaluation",
+        "remote onboarding",
+        "AI hiring for startups",
+        "automated candidate screening benefits",
+        "AI interview"
+      ],
+      "word_count": 1241,
+      "filepath": "content/posts/2026-07-14-ai-skill-evaluation-boost-remote-onboarding-success.md",
+      "topic": "AI Skill Evaluation: Boost Remote Onboarding Success"
     }
   ],
   "topics_used": [
@@ -5836,8 +5853,9 @@
     "AI Hiring for Startups: Build a Data\u2011Driven Culture",
     "AI Interview Intelligence: Linking Soft Skills to Performance",
     "How AI Interviews Work: A Recruiter's Deep Dive",
-    "AI Hiring Forecast: Master Seasonal Retail Peaks"
+    "AI Hiring Forecast: Master Seasonal Retail Peaks",
+    "AI Skill Evaluation: Boost Remote Onboarding Success"
   ],
   "last_updated": "2026-07-14",
-  "total_posts": 326
+  "total_posts": 327
 }
