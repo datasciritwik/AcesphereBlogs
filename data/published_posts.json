@@ -5542,6 +5542,23 @@
       "word_count": 1282,
       "filepath": "content/posts/2026-07-14-realtime-interview-intelligence-to-detect-bias-live.md",
       "topic": "Real\u2011Time Interview Intelligence to Detect Bias Live"
+    },
+    {
+      "title": "Candidate Screening Automation: Unlock Hidden Talent Pools",
+      "slug": "candidate-screening-automation-unlock-hidden-talent-pools",
+      "description": "# Candidate Screening Automation: Unlock Hidden Talent Pools  \n\nMid\u2011size companies often feel squeezed between the resource\u2011rich giants and the lean s...",
+      "pub_date": "2026-07-15",
+      "tags": [],
+      "keywords": [
+        "candidate screening automation",
+        "hidden talent pool",
+        "mid-size companies",
+        "recruitment analytics",
+        "hiring pipeline management"
+      ],
+      "word_count": 1147,
+      "filepath": "content/posts/2026-07-15-candidate-screening-automation-unlock-hidden-talent-pools.md",
+      "topic": "Candidate Screening Automation: Unlock Hidden Talent Pools"
     }
   ],
   "topics_used": [
@@ -5872,8 +5889,9 @@
     "How AI Interviews Work: A Recruiter's Deep Dive",
     "AI Hiring Forecast: Master Seasonal Retail Peaks",
     "AI Skill Evaluation: Boost Remote Onboarding Success",
-    "Real\u2011Time Interview Intelligence to Detect Bias Live"
+    "Real\u2011Time Interview Intelligence to Detect Bias Live",
+    "Candidate Screening Automation: Unlock Hidden Talent Pools"
   ],
-  "last_updated": "2026-07-14",
-  "total_posts": 328
+  "last_updated": "2026-07-15",
+  "total_posts": 329
 }
