@@ -5559,6 +5559,22 @@
       "word_count": 1147,
       "filepath": "content/posts/2026-07-15-candidate-screening-automation-unlock-hidden-talent-pools.md",
       "topic": "Candidate Screening Automation: Unlock Hidden Talent Pools"
+    },
+    {
+      "title": "Predictive Cultural Fit with AI Hiring \u2013 Boost Team Cohesion",
+      "slug": "predictive-cultural-fit-with-ai-hiring-boost-team-cohesion",
+      "description": "# Predictive Cultural Fit with AI Hiring \u2013 Boost Team Cohesion  \n\nIn today\u2019s fast\u2011moving talent market, hiring decisions that rely solely on gut feeli...",
+      "pub_date": "2026-07-16",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "cultural fit assessment",
+        "predictive hiring analytics",
+        "team cohesion hiring"
+      ],
+      "word_count": 1413,
+      "filepath": "content/posts/2026-07-16-predictive-cultural-fit-with-ai-hiring-boost-team-cohesion.md",
+      "topic": "Predictive Cultural Fit with AI Hiring \u2013 Boost Team Cohesion"
     }
   ],
   "topics_used": [
@@ -5890,8 +5906,9 @@
     "AI Hiring Forecast: Master Seasonal Retail Peaks",
     "AI Skill Evaluation: Boost Remote Onboarding Success",
     "Real\u2011Time Interview Intelligence to Detect Bias Live",
-    "Candidate Screening Automation: Unlock Hidden Talent Pools"
+    "Candidate Screening Automation: Unlock Hidden Talent Pools",
+    "Predictive Cultural Fit with AI Hiring \u2013 Boost Team Cohesion"
   ],
-  "last_updated": "2026-07-15",
-  "total_posts": 329
+  "last_updated": "2026-07-16",
+  "total_posts": 330
 }
