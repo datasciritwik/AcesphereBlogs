@@ -5626,6 +5626,23 @@
       "word_count": 1501,
       "filepath": "content/posts/2026-07-18-ai-coding-assessment-platform-how-recruiters-pick-the-best.md",
       "topic": "AI Coding Assessment Platform: How Recruiters Pick the Best"
+    },
+    {
+      "title": "Real-Time AI Talent Radar: Forecast Skill Demand Instantly",
+      "slug": "real-time-ai-talent-radar-forecast-skill-demand-instantly",
+      "description": "# Real-Time AI Talent Radar: Forecast Skill Demand Instantly  \n\nRecruiters and HR teams are under constant pressure to find the right talent before th...",
+      "pub_date": "2026-07-18",
+      "tags": [],
+      "keywords": [
+        "AI talent radar",
+        "real-time skill demand",
+        "talent market intelligence",
+        "data-driven hiring decisions",
+        "skill forecasting"
+      ],
+      "word_count": 1191,
+      "filepath": "content/posts/2026-07-18-real-time-ai-talent-radar-forecast-skill-demand-instantly.md",
+      "topic": "Real-Time AI Talent Radar: Forecast Skill Demand Instantly"
     }
   ],
   "topics_used": [
@@ -5961,8 +5978,9 @@
     "Predictive Cultural Fit with AI Hiring \u2013 Boost Team Cohesion",
     "Smart Hiring Tools: Boost Recruiter Productivity in 2024",
     "Future of Hiring: Building Agile Talent Pools with AI",
-    "AI Coding Assessment Platform: How Recruiters Pick the Best"
+    "AI Coding Assessment Platform: How Recruiters Pick the Best",
+    "Real-Time AI Talent Radar: Forecast Skill Demand Instantly"
   ],
   "last_updated": "2026-07-18",
-  "total_posts": 333
+  "total_posts": 334
 }
