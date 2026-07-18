@@ -5609,6 +5609,23 @@
       "word_count": 1169,
       "filepath": "content/posts/2026-07-17-future-of-hiring-building-agile-talent-pools-with-ai.md",
       "topic": "Future of Hiring: Building Agile Talent Pools with AI"
+    },
+    {
+      "title": "AI Coding Assessment Platform: How Recruiters Pick the Best",
+      "slug": "ai-coding-assessment-platform-how-recruiters-pick-the-best",
+      "description": "# AI Coding Assessment Platform: How Recruiters Pick the Best  \n\nRecruiters and hiring managers need a reliable way to evaluate developers quickly, fa...",
+      "pub_date": "2026-07-18",
+      "tags": [],
+      "keywords": [
+        "coding assessment platform",
+        "AI for technical hiring",
+        "objective candidate evaluation",
+        "data-driven hiring decisions",
+        "recruiter productivity tips"
+      ],
+      "word_count": 1501,
+      "filepath": "content/posts/2026-07-18-ai-coding-assessment-platform-how-recruiters-pick-the-best.md",
+      "topic": "AI Coding Assessment Platform: How Recruiters Pick the Best"
     }
   ],
   "topics_used": [
@@ -5943,8 +5960,9 @@
     "Candidate Screening Automation: Unlock Hidden Talent Pools",
     "Predictive Cultural Fit with AI Hiring \u2013 Boost Team Cohesion",
     "Smart Hiring Tools: Boost Recruiter Productivity in 2024",
-    "Future of Hiring: Building Agile Talent Pools with AI"
+    "Future of Hiring: Building Agile Talent Pools with AI",
+    "AI Coding Assessment Platform: How Recruiters Pick the Best"
   ],
-  "last_updated": "2026-07-17",
-  "total_posts": 332
+  "last_updated": "2026-07-18",
+  "total_posts": 333
 }
