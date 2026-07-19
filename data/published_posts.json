@@ -5643,6 +5643,22 @@
       "word_count": 1191,
       "filepath": "content/posts/2026-07-18-real-time-ai-talent-radar-forecast-skill-demand-instantly.md",
       "topic": "Real-Time AI Talent Radar: Forecast Skill Demand Instantly"
+    },
+    {
+      "title": "AI Interview Data: Powering Remote High\u2011Performance Teams",
+      "slug": "ai-interview-data-powering-remote-highperformance-teams",
+      "description": "# AI Interview Data: Powering Remote High\u2011Performance Teams  \n\nIn today\u2019s remote\u2011first world, hiring the right people is no longer a one\u2011off event\u2014it\u2019...",
+      "pub_date": "2026-07-19",
+      "tags": [],
+      "keywords": [
+        "AI interview",
+        "remote team performance",
+        "hiring best practices",
+        "recruiter productivity tips"
+      ],
+      "word_count": 1236,
+      "filepath": "content/posts/2026-07-19-ai-interview-data-powering-remote-highperformance-teams.md",
+      "topic": "AI Interview Data: Powering Remote High\u2011Performance Teams"
     }
   ],
   "topics_used": [
@@ -5979,8 +5995,9 @@
     "Smart Hiring Tools: Boost Recruiter Productivity in 2024",
     "Future of Hiring: Building Agile Talent Pools with AI",
     "AI Coding Assessment Platform: How Recruiters Pick the Best",
-    "Real-Time AI Talent Radar: Forecast Skill Demand Instantly"
+    "Real-Time AI Talent Radar: Forecast Skill Demand Instantly",
+    "AI Interview Data: Powering Remote High\u2011Performance Teams"
   ],
-  "last_updated": "2026-07-18",
-  "total_posts": 334
+  "last_updated": "2026-07-19",
+  "total_posts": 335
 }
