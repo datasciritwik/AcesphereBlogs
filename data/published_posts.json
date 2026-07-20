@@ -5676,6 +5676,23 @@
       "word_count": 1470,
       "filepath": "content/posts/2026-07-20-ai-calendar-optimization-for-distributed-hiring-teams.md",
       "topic": "AI Calendar Optimization for Distributed Hiring Teams"
+    },
+    {
+      "title": "AI Recruitment Workflow: Personalizing Every Hire Step",
+      "slug": "ai-recruitment-workflow-personalizing-every-hire-step",
+      "description": "# AI Recruitment Workflow: Personalizing Every Hire Step  \n\nIn today\u2019s talent\u2011driven market, a one\u2011size\u2011fits\u2011all hiring process no longer cuts it. Rec...",
+      "pub_date": "2026-07-20",
+      "tags": [],
+      "keywords": [
+        "AI recruitment workflow",
+        "personalized hiring process",
+        "candidate experience AI",
+        "recruitment workflow automation",
+        "AI hiring personalization"
+      ],
+      "word_count": 1144,
+      "filepath": "content/posts/2026-07-20-ai-recruitment-workflow-personalizing-every-hire-step.md",
+      "topic": "AI Recruitment Workflow: Personalizing Every Hire Step"
     }
   ],
   "topics_used": [
@@ -6014,8 +6031,9 @@
     "AI Coding Assessment Platform: How Recruiters Pick the Best",
     "Real-Time AI Talent Radar: Forecast Skill Demand Instantly",
     "AI Interview Data: Powering Remote High\u2011Performance Teams",
-    "AI Calendar Optimization for Distributed Hiring Teams"
+    "AI Calendar Optimization for Distributed Hiring Teams",
+    "AI Recruitment Workflow: Personalizing Every Hire Step"
   ],
   "last_updated": "2026-07-20",
-  "total_posts": 336
+  "total_posts": 337
 }
