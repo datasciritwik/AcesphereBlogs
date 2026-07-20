@@ -5659,6 +5659,23 @@
       "word_count": 1236,
       "filepath": "content/posts/2026-07-19-ai-interview-data-powering-remote-highperformance-teams.md",
       "topic": "AI Interview Data: Powering Remote High\u2011Performance Teams"
+    },
+    {
+      "title": "AI Calendar Optimization for Distributed Hiring Teams",
+      "slug": "ai-calendar-optimization-for-distributed-hiring-teams",
+      "description": "# AI Calendar Optimization for Distributed Hiring Teams\n\nCoordinating interview slots across continents can feel like solving a Rubik\u2019s Cube blindfold...",
+      "pub_date": "2026-07-20",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity",
+        "hiring automation",
+        "remote hiring best practices",
+        "AI interview scheduling",
+        "distributed teams"
+      ],
+      "word_count": 1470,
+      "filepath": "content/posts/2026-07-20-ai-calendar-optimization-for-distributed-hiring-teams.md",
+      "topic": "AI Calendar Optimization for Distributed Hiring Teams"
     }
   ],
   "topics_used": [
@@ -5996,8 +6013,9 @@
     "Future of Hiring: Building Agile Talent Pools with AI",
     "AI Coding Assessment Platform: How Recruiters Pick the Best",
     "Real-Time AI Talent Radar: Forecast Skill Demand Instantly",
-    "AI Interview Data: Powering Remote High\u2011Performance Teams"
+    "AI Interview Data: Powering Remote High\u2011Performance Teams",
+    "AI Calendar Optimization for Distributed Hiring Teams"
   ],
-  "last_updated": "2026-07-19",
-  "total_posts": 335
+  "last_updated": "2026-07-20",
+  "total_posts": 336
 }
