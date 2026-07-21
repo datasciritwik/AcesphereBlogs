@@ -5693,6 +5693,23 @@
       "word_count": 1144,
       "filepath": "content/posts/2026-07-20-ai-recruitment-workflow-personalizing-every-hire-step.md",
       "topic": "AI Recruitment Workflow: Personalizing Every Hire Step"
+    },
+    {
+      "title": "AI-Powered Hiring Forecasts First\u2011Month Success",
+      "slug": "ai-powered-hiring-forecasts-firstmonth-success",
+      "description": "# AI-Powered Hiring Forecasts First\u2011Month Success  \n\nRecruiters and HR teams constantly ask, \u201cWill this candidate hit the ground running?\u201d\u202fBy leveragi...",
+      "pub_date": "2026-07-21",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "predictive hiring",
+        "new hire productivity",
+        "first month performance",
+        "data-driven onboarding"
+      ],
+      "word_count": 1218,
+      "filepath": "content/posts/2026-07-21-ai-powered-hiring-forecasts-firstmonth-success.md",
+      "topic": "AI-Powered Hiring Forecasts First\u2011Month Success"
     }
   ],
   "topics_used": [
@@ -6032,8 +6049,9 @@
     "Real-Time AI Talent Radar: Forecast Skill Demand Instantly",
     "AI Interview Data: Powering Remote High\u2011Performance Teams",
     "AI Calendar Optimization for Distributed Hiring Teams",
-    "AI Recruitment Workflow: Personalizing Every Hire Step"
+    "AI Recruitment Workflow: Personalizing Every Hire Step",
+    "AI-Powered Hiring Forecasts First\u2011Month Success"
   ],
-  "last_updated": "2026-07-20",
-  "total_posts": 337
+  "last_updated": "2026-07-21",
+  "total_posts": 338
 }
