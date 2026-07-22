@@ -5727,6 +5727,23 @@
       "word_count": 1253,
       "filepath": "content/posts/2026-07-21-ai-recruiter-onboarding-boost-new-hire-efficiency.md",
       "topic": "AI Recruiter Onboarding: Boost New Hire Efficiency"
+    },
+    {
+      "title": "AI Skill Loop: From Hire to Performance Insights",
+      "slug": "ai-skill-loop-from-hire-to-performance-insights",
+      "description": "# AI Skill Loop: From Hire to Performance Insights  \n\nIn today\u2019s fast\u2011moving talent market, hiring the right person the first time is no longer a luxu...",
+      "pub_date": "2026-07-22",
+      "tags": [],
+      "keywords": [
+        "AI skill testing",
+        "data-driven hiring decisions",
+        "recruiter efficiency tools",
+        "hiring dashboard",
+        "machine learning hiring"
+      ],
+      "word_count": 1322,
+      "filepath": "content/posts/2026-07-22-ai-skill-loop-from-hire-to-performance-insights.md",
+      "topic": "AI Skill Loop: From Hire to Performance Insights"
     }
   ],
   "topics_used": [
@@ -6068,8 +6085,9 @@
     "AI Calendar Optimization for Distributed Hiring Teams",
     "AI Recruitment Workflow: Personalizing Every Hire Step",
     "AI-Powered Hiring Forecasts First\u2011Month Success",
-    "AI Recruiter Onboarding: Boost New Hire Efficiency"
+    "AI Recruiter Onboarding: Boost New Hire Efficiency",
+    "AI Skill Loop: From Hire to Performance Insights"
   ],
-  "last_updated": "2026-07-21",
-  "total_posts": 339
+  "last_updated": "2026-07-22",
+  "total_posts": 340
 }
