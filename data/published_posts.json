@@ -5744,6 +5744,22 @@
       "word_count": 1322,
       "filepath": "content/posts/2026-07-22-ai-skill-loop-from-hire-to-performance-insights.md",
       "topic": "AI Skill Loop: From Hire to Performance Insights"
+    },
+    {
+      "title": "AI Hiring for Government Contractors: Compliance & Talent",
+      "slug": "ai-hiring-for-government-contractors-compliance-talent",
+      "description": "# AI Hiring for Government Contractors: Compliance & Talent  \n\nGovernment contractors face a double\u2011edged hiring dilemma: they must obey a maze of fed...",
+      "pub_date": "2026-07-23",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "government contractor recruitment",
+        "hiring compliance automation",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1178,
+      "filepath": "content/posts/2026-07-23-ai-hiring-for-government-contractors-compliance-talent.md",
+      "topic": "AI Hiring for Government Contractors: Compliance & Talent"
     }
   ],
   "topics_used": [
@@ -6086,8 +6102,9 @@
     "AI Recruitment Workflow: Personalizing Every Hire Step",
     "AI-Powered Hiring Forecasts First\u2011Month Success",
     "AI Recruiter Onboarding: Boost New Hire Efficiency",
-    "AI Skill Loop: From Hire to Performance Insights"
+    "AI Skill Loop: From Hire to Performance Insights",
+    "AI Hiring for Government Contractors: Compliance & Talent"
   ],
-  "last_updated": "2026-07-22",
-  "total_posts": 340
+  "last_updated": "2026-07-23",
+  "total_posts": 341
 }
