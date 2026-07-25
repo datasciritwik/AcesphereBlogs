@@ -5777,6 +5777,22 @@
       "word_count": 1243,
       "filepath": "content/posts/2026-07-24-automated-interview-bots-that-learn-elevate-hiring.md",
       "topic": "Automated Interview Bots That Learn: Elevate Hiring"
+    },
+    {
+      "title": "AI Hiring Compliance: Navigating GDPR & Data Privacy",
+      "slug": "ai-hiring-compliance-navigating-gdpr-data-privacy",
+      "description": "# AI Hiring Compliance: Navigating GDPR & Data Privacy  \n\nRecruiters and HR teams are under increasing pressure to harness AI while staying on the rig...",
+      "pub_date": "2026-07-25",
+      "tags": [],
+      "keywords": [
+        "AI hiring compliance",
+        "GDPR hiring",
+        "data privacy recruitment",
+        "automated compliance hiring"
+      ],
+      "word_count": 1501,
+      "filepath": "content/posts/2026-07-25-ai-hiring-compliance-navigating-gdpr-data-privacy.md",
+      "topic": "AI Hiring Compliance: Navigating GDPR & Data Privacy"
     }
   ],
   "topics_used": [
@@ -6121,8 +6137,9 @@
     "AI Recruiter Onboarding: Boost New Hire Efficiency",
     "AI Skill Loop: From Hire to Performance Insights",
     "AI Hiring for Government Contractors: Compliance & Talent",
-    "Automated Interview Bots That Learn: Elevate Hiring"
+    "Automated Interview Bots That Learn: Elevate Hiring",
+    "AI Hiring Compliance: Navigating GDPR & Data Privacy"
   ],
-  "last_updated": "2026-07-24",
-  "total_posts": 342
+  "last_updated": "2026-07-25",
+  "total_posts": 343
 }
