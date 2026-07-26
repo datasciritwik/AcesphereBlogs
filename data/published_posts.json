@@ -5793,6 +5793,23 @@
       "word_count": 1501,
       "filepath": "content/posts/2026-07-25-ai-hiring-compliance-navigating-gdpr-data-privacy.md",
       "topic": "AI Hiring Compliance: Navigating GDPR & Data Privacy"
+    },
+    {
+      "title": "AI Candidate Journey Mapping to Elevate Employer Brand",
+      "slug": "ai-candidate-journey-mapping-to-elevate-employer-brand",
+      "description": "# AI Candidate Journey Mapping to Elevate Employer Brand  \n\nIn today\u2019s talent\u2011driven market, a seamless candidate experience is no longer a nice\u2011to\u2011ha...",
+      "pub_date": "2026-07-26",
+      "tags": [],
+      "keywords": [
+        "candidate journey mapping",
+        "employer brand AI",
+        "recruiter productivity tips",
+        "recruitment analytics",
+        "hiring best practices"
+      ],
+      "word_count": 1166,
+      "filepath": "content/posts/2026-07-26-ai-candidate-journey-mapping-to-elevate-employer-brand.md",
+      "topic": "AI Candidate Journey Mapping to Elevate Employer Brand"
     }
   ],
   "topics_used": [
@@ -6138,8 +6155,9 @@
     "AI Skill Loop: From Hire to Performance Insights",
     "AI Hiring for Government Contractors: Compliance & Talent",
     "Automated Interview Bots That Learn: Elevate Hiring",
-    "AI Hiring Compliance: Navigating GDPR & Data Privacy"
+    "AI Hiring Compliance: Navigating GDPR & Data Privacy",
+    "AI Candidate Journey Mapping to Elevate Employer Brand"
   ],
-  "last_updated": "2026-07-25",
-  "total_posts": 343
+  "last_updated": "2026-07-26",
+  "total_posts": 344
 }
