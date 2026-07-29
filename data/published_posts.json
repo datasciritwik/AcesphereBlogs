@@ -5810,6 +5810,23 @@
       "word_count": 1166,
       "filepath": "content/posts/2026-07-26-ai-candidate-journey-mapping-to-elevate-employer-brand.md",
       "topic": "AI Candidate Journey Mapping to Elevate Employer Brand"
+    },
+    {
+      "title": "AI Predicts Candidate Learning Agility for Future Roles",
+      "slug": "ai-predicts-candidate-learning-agility-for-future-roles",
+      "description": "# AI Predicts Candidate Learning Agility for Future Roles\n\nIn today\u2019s hyper\u2011dynamic talent market, hiring managers need more than a static skill check...",
+      "pub_date": "2026-07-29",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "machine learning hiring",
+        "future of hiring",
+        "learning agility assessment",
+        "predictive hiring"
+      ],
+      "word_count": 1043,
+      "filepath": "content/posts/2026-07-29-ai-predicts-candidate-learning-agility-for-future-roles.md",
+      "topic": "AI Predicts Candidate Learning Agility for Future Roles"
     }
   ],
   "topics_used": [
@@ -6156,8 +6173,9 @@
     "AI Hiring for Government Contractors: Compliance & Talent",
     "Automated Interview Bots That Learn: Elevate Hiring",
     "AI Hiring Compliance: Navigating GDPR & Data Privacy",
-    "AI Candidate Journey Mapping to Elevate Employer Brand"
+    "AI Candidate Journey Mapping to Elevate Employer Brand",
+    "AI Predicts Candidate Learning Agility for Future Roles"
   ],
-  "last_updated": "2026-07-26",
-  "total_posts": 344
+  "last_updated": "2026-07-29",
+  "total_posts": 345
 }
