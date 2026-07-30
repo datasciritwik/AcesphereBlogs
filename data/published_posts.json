@@ -5827,6 +5827,23 @@
       "word_count": 1043,
       "filepath": "content/posts/2026-07-29-ai-predicts-candidate-learning-agility-for-future-roles.md",
       "topic": "AI Predicts Candidate Learning Agility for Future Roles"
+    },
+    {
+      "title": "Machine Learning Hiring: Predicting Sales Team Success",
+      "slug": "machine-learning-hiring-predicting-sales-team-success",
+      "description": "# Machine Learning Hiring: Predicting Sales Team Success  \n\nHiring managers and founders who are scaling sales organizations know that a single bad hi...",
+      "pub_date": "2026-07-30",
+      "tags": [],
+      "keywords": [
+        "machine learning hiring",
+        "sales hiring analytics",
+        "competency assessment",
+        "data-driven hiring decisions",
+        "recruiter productivity tips"
+      ],
+      "word_count": 1420,
+      "filepath": "content/posts/2026-07-30-machine-learning-hiring-predicting-sales-team-success.md",
+      "topic": "Machine Learning Hiring: Predicting Sales Team Success"
     }
   ],
   "topics_used": [
@@ -6174,8 +6191,9 @@
     "Automated Interview Bots That Learn: Elevate Hiring",
     "AI Hiring Compliance: Navigating GDPR & Data Privacy",
     "AI Candidate Journey Mapping to Elevate Employer Brand",
-    "AI Predicts Candidate Learning Agility for Future Roles"
+    "AI Predicts Candidate Learning Agility for Future Roles",
+    "Machine Learning Hiring: Predicting Sales Team Success"
   ],
-  "last_updated": "2026-07-29",
-  "total_posts": 345
+  "last_updated": "2026-07-30",
+  "total_posts": 346
 }
