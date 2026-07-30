@@ -5844,6 +5844,23 @@
       "word_count": 1420,
       "filepath": "content/posts/2026-07-30-machine-learning-hiring-predicting-sales-team-success.md",
       "topic": "Machine Learning Hiring: Predicting Sales Team Success"
+    },
+    {
+      "title": "AI Voice Analysis in Interviews: Spotting Authentic Talent",
+      "slug": "ai-voice-analysis-in-interviews-spotting-authentic-talent",
+      "description": "# AI Voice Analysis in Interviews: Spotting Authentic Talent  \n\nIn today\u2019s fast\u2011paced talent market, recruiters need tools that go beyond r\u00e9sum\u00e9 keywo...",
+      "pub_date": "2026-07-30",
+      "tags": [],
+      "keywords": [
+        "AI interview",
+        "voice analysis hiring",
+        "candidate authenticity AI",
+        "AI hiring technology",
+        "soft skill assessment AI"
+      ],
+      "word_count": 1088,
+      "filepath": "content/posts/2026-07-30-ai-voice-analysis-in-interviews-spotting-authentic-talent.md",
+      "topic": "AI Voice Analysis in Interviews: Spotting Authentic Talent"
     }
   ],
   "topics_used": [
@@ -6192,8 +6209,9 @@
     "AI Hiring Compliance: Navigating GDPR & Data Privacy",
     "AI Candidate Journey Mapping to Elevate Employer Brand",
     "AI Predicts Candidate Learning Agility for Future Roles",
-    "Machine Learning Hiring: Predicting Sales Team Success"
+    "Machine Learning Hiring: Predicting Sales Team Success",
+    "AI Voice Analysis in Interviews: Spotting Authentic Talent"
   ],
   "last_updated": "2026-07-30",
-  "total_posts": 346
+  "total_posts": 347
 }
