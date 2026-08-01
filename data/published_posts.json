@@ -5861,6 +5861,23 @@
       "word_count": 1088,
       "filepath": "content/posts/2026-07-30-ai-voice-analysis-in-interviews-spotting-authentic-talent.md",
       "topic": "AI Voice Analysis in Interviews: Spotting Authentic Talent"
+    },
+    {
+      "title": "AI\u2011Driven Hiring Automation for Compliance Audits",
+      "slug": "aidriven-hiring-automation-for-compliance-audits",
+      "description": "# AI\u2011Driven Hiring Automation for Compliance Audits\n\nIn today\u2019s fast\u2011moving talent market, mid\u2011size firms can no longer afford the \u201conce\u2011a\u2011year\u201d audit...",
+      "pub_date": "2026-08-01",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "hiring compliance",
+        "automated hiring",
+        "recruitment analytics",
+        "bias mitigation"
+      ],
+      "word_count": 1220,
+      "filepath": "content/posts/2026-08-01-aidriven-hiring-automation-for-compliance-audits.md",
+      "topic": "AI\u2011Driven Hiring Automation for Compliance Audits"
     }
   ],
   "topics_used": [
@@ -6210,8 +6227,9 @@
     "AI Candidate Journey Mapping to Elevate Employer Brand",
     "AI Predicts Candidate Learning Agility for Future Roles",
     "Machine Learning Hiring: Predicting Sales Team Success",
-    "AI Voice Analysis in Interviews: Spotting Authentic Talent"
+    "AI Voice Analysis in Interviews: Spotting Authentic Talent",
+    "AI\u2011Driven Hiring Automation for Compliance Audits"
   ],
-  "last_updated": "2026-07-30",
-  "total_posts": 347
+  "last_updated": "2026-08-01",
+  "total_posts": 348
 }
