@@ -5878,6 +5878,23 @@
       "word_count": 1220,
       "filepath": "content/posts/2026-08-01-aidriven-hiring-automation-for-compliance-audits.md",
       "topic": "AI\u2011Driven Hiring Automation for Compliance Audits"
+    },
+    {
+      "title": "Virtual Interview AI: Real\u2011Time Soft\u2011Skill Insights",
+      "slug": "virtual-interview-ai-realtime-softskill-insights",
+      "description": "# Virtual Interview AI: Real\u2011Time Soft\u2011Skill Insights  \n\nProduct teams thrive on collaboration, adaptability, and user\u2011centric thinking\u2014qualities that...",
+      "pub_date": "2026-08-02",
+      "tags": [],
+      "keywords": [
+        "virtual interview AI",
+        "soft skill assessment",
+        "real-time interview insights",
+        "AI hiring platform",
+        "product team hiring"
+      ],
+      "word_count": 1144,
+      "filepath": "content/posts/2026-08-02-virtual-interview-ai-realtime-softskill-insights.md",
+      "topic": "Virtual Interview AI: Real\u2011Time Soft\u2011Skill Insights"
     }
   ],
   "topics_used": [
@@ -6228,8 +6245,9 @@
     "AI Predicts Candidate Learning Agility for Future Roles",
     "Machine Learning Hiring: Predicting Sales Team Success",
     "AI Voice Analysis in Interviews: Spotting Authentic Talent",
-    "AI\u2011Driven Hiring Automation for Compliance Audits"
+    "AI\u2011Driven Hiring Automation for Compliance Audits",
+    "Virtual Interview AI: Real\u2011Time Soft\u2011Skill Insights"
   ],
-  "last_updated": "2026-08-01",
-  "total_posts": 348
+  "last_updated": "2026-08-02",
+  "total_posts": 349
 }
