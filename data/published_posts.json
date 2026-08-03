@@ -5895,6 +5895,23 @@
       "word_count": 1144,
       "filepath": "content/posts/2026-08-02-virtual-interview-ai-realtime-softskill-insights.md",
       "topic": "Virtual Interview AI: Real\u2011Time Soft\u2011Skill Insights"
+    },
+    {
+      "title": "AI Hiring in Biotech: Data\u2011Driven Talent Sourcing for Rare Skills",
+      "slug": "ai-hiring-in-biotech-datadriven-talent-sourcing-for-rare-ski",
+      "description": "# AI Hiring in Biotech: Data\u2011Driven Talent Sourcing for Rare Skills  \n\nBiotech companies are racing to translate scientific breakthroughs into market\u2011...",
+      "pub_date": "2026-08-03",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "biotech recruitment",
+        "data-driven hiring decisions",
+        "candidate screening AI",
+        "recruiter productivity biotech"
+      ],
+      "word_count": 1199,
+      "filepath": "content/posts/2026-08-03-ai-hiring-in-biotech-datadriven-talent-sourcing-for-rare-ski.md",
+      "topic": "AI Hiring in Biotech: Data\u2011Driven Talent Sourcing for Rare Skills"
     }
   ],
   "topics_used": [
@@ -6246,8 +6263,9 @@
     "Machine Learning Hiring: Predicting Sales Team Success",
     "AI Voice Analysis in Interviews: Spotting Authentic Talent",
     "AI\u2011Driven Hiring Automation for Compliance Audits",
-    "Virtual Interview AI: Real\u2011Time Soft\u2011Skill Insights"
+    "Virtual Interview AI: Real\u2011Time Soft\u2011Skill Insights",
+    "AI Hiring in Biotech: Data\u2011Driven Talent Sourcing for Rare Skills"
   ],
-  "last_updated": "2026-08-02",
-  "total_posts": 349
+  "last_updated": "2026-08-03",
+  "total_posts": 350
 }
