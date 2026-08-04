@@ -5912,6 +5912,22 @@
       "word_count": 1199,
       "filepath": "content/posts/2026-08-03-ai-hiring-in-biotech-datadriven-talent-sourcing-for-rare-ski.md",
       "topic": "AI Hiring in Biotech: Data\u2011Driven Talent Sourcing for Rare Skills"
+    },
+    {
+      "title": "AI Referral Matching: Auto-Connect Employees to Top Talent",
+      "slug": "ai-referral-matching-auto-connect-employees-to-top-talent",
+      "description": "# AI Referral Matching: Auto\u2011Connect Employees to Top Talent\n\nRecruiters today are asked to deliver higher\u2011quality hires **faster** while keeping bias...",
+      "pub_date": "2026-08-04",
+      "tags": [],
+      "keywords": [
+        "AI referral matching",
+        "employee referral automation",
+        "AI-powered referral program",
+        "referral hiring efficiency"
+      ],
+      "word_count": 1403,
+      "filepath": "content/posts/2026-08-04-ai-referral-matching-auto-connect-employees-to-top-talent.md",
+      "topic": "AI Referral Matching: Auto-Connect Employees to Top Talent"
     }
   ],
   "topics_used": [
@@ -6264,8 +6280,9 @@
     "AI Voice Analysis in Interviews: Spotting Authentic Talent",
     "AI\u2011Driven Hiring Automation for Compliance Audits",
     "Virtual Interview AI: Real\u2011Time Soft\u2011Skill Insights",
-    "AI Hiring in Biotech: Data\u2011Driven Talent Sourcing for Rare Skills"
+    "AI Hiring in Biotech: Data\u2011Driven Talent Sourcing for Rare Skills",
+    "AI Referral Matching: Auto-Connect Employees to Top Talent"
   ],
-  "last_updated": "2026-08-03",
-  "total_posts": 350
+  "last_updated": "2026-08-04",
+  "total_posts": 351
 }
