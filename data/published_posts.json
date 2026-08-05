@@ -5945,6 +5945,23 @@
       "word_count": 1242,
       "filepath": "content/posts/2026-08-05-ai-aligns-recruitment-kpis-with-business-growth.md",
       "topic": "AI Aligns Recruitment KPIs with Business Growth"
+    },
+    {
+      "title": "EU AI Act: Ensuring AI Hiring Compliance",
+      "slug": "eu-ai-act-ensuring-ai-hiring-compliance",
+      "description": "# EU AI Act: Ensuring AI Hiring Compliance\n\nRecruiters and HR leaders are under pressure to adopt AI\u2011driven hiring tools that speed up sourcing, reduc...",
+      "pub_date": "2026-08-05",
+      "tags": [],
+      "keywords": [
+        "AI hiring compliance",
+        "EU AI Act",
+        "automated hiring regulations",
+        "recruiter legal guide",
+        "AI hiring platform"
+      ],
+      "word_count": 1459,
+      "filepath": "content/posts/2026-08-05-eu-ai-act-ensuring-ai-hiring-compliance.md",
+      "topic": "EU AI Act: Ensuring AI Hiring Compliance"
     }
   ],
   "topics_used": [
@@ -6299,8 +6316,9 @@
     "Virtual Interview AI: Real\u2011Time Soft\u2011Skill Insights",
     "AI Hiring in Biotech: Data\u2011Driven Talent Sourcing for Rare Skills",
     "AI Referral Matching: Auto-Connect Employees to Top Talent",
-    "AI Aligns Recruitment KPIs with Business Growth"
+    "AI Aligns Recruitment KPIs with Business Growth",
+    "EU AI Act: Ensuring AI Hiring Compliance"
   ],
   "last_updated": "2026-08-05",
-  "total_posts": 352
+  "total_posts": 353
 }
