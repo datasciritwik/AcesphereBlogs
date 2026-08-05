@@ -5928,6 +5928,23 @@
       "word_count": 1403,
       "filepath": "content/posts/2026-08-04-ai-referral-matching-auto-connect-employees-to-top-talent.md",
       "topic": "AI Referral Matching: Auto-Connect Employees to Top Talent"
+    },
+    {
+      "title": "AI Aligns Recruitment KPIs with Business Growth",
+      "slug": "ai-aligns-recruitment-kpis-with-business-growth",
+      "description": "# AI Aligns Recruitment KPIs with Business Growth\n\nIn today\u2019s hyper\u2011competitive markets, scaling a startup or expanding an enterprise isn\u2019t just about...",
+      "pub_date": "2026-08-05",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "recruitment KPIs",
+        "data-driven hiring decisions",
+        "hiring metrics",
+        "business growth hiring"
+      ],
+      "word_count": 1242,
+      "filepath": "content/posts/2026-08-05-ai-aligns-recruitment-kpis-with-business-growth.md",
+      "topic": "AI Aligns Recruitment KPIs with Business Growth"
     }
   ],
   "topics_used": [
@@ -6281,8 +6298,9 @@
     "AI\u2011Driven Hiring Automation for Compliance Audits",
     "Virtual Interview AI: Real\u2011Time Soft\u2011Skill Insights",
     "AI Hiring in Biotech: Data\u2011Driven Talent Sourcing for Rare Skills",
-    "AI Referral Matching: Auto-Connect Employees to Top Talent"
+    "AI Referral Matching: Auto-Connect Employees to Top Talent",
+    "AI Aligns Recruitment KPIs with Business Growth"
   ],
-  "last_updated": "2026-08-04",
-  "total_posts": 351
+  "last_updated": "2026-08-05",
+  "total_posts": 352
 }
