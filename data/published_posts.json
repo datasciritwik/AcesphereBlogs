@@ -5962,6 +5962,23 @@
       "word_count": 1459,
       "filepath": "content/posts/2026-08-05-eu-ai-act-ensuring-ai-hiring-compliance.md",
       "topic": "EU AI Act: Ensuring AI Hiring Compliance"
+    },
+    {
+      "title": "Real\u2011Time Interviewer Bias Detection with AI",
+      "slug": "realtime-interviewer-bias-detection-with-ai",
+      "description": "# Real\u2011Time Interviewer Bias Detection with AI  \n\nIn today\u2019s competitive talent market, **bias mitigation** is no longer a nice\u2011to\u2011have\u2014it\u2019s a busines...",
+      "pub_date": "2026-08-05",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "AI hiring",
+        "bias mitigation",
+        "recruiter productivity",
+        "real\u2011time interview feedback"
+      ],
+      "word_count": 1309,
+      "filepath": "content/posts/2026-08-05-realtime-interviewer-bias-detection-with-ai.md",
+      "topic": "Real\u2011Time Interviewer Bias Detection with AI"
     }
   ],
   "topics_used": [
@@ -6317,8 +6334,9 @@
     "AI Hiring in Biotech: Data\u2011Driven Talent Sourcing for Rare Skills",
     "AI Referral Matching: Auto-Connect Employees to Top Talent",
     "AI Aligns Recruitment KPIs with Business Growth",
-    "EU AI Act: Ensuring AI Hiring Compliance"
+    "EU AI Act: Ensuring AI Hiring Compliance",
+    "Real\u2011Time Interviewer Bias Detection with AI"
   ],
   "last_updated": "2026-08-05",
-  "total_posts": 353
+  "total_posts": 354
 }
