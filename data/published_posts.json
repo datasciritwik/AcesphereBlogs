@@ -5979,6 +5979,23 @@
       "word_count": 1309,
       "filepath": "content/posts/2026-08-05-realtime-interviewer-bias-detection-with-ai.md",
       "topic": "Real\u2011Time Interviewer Bias Detection with AI"
+    },
+    {
+      "title": "AI Recruitment: Crafting Data\u2011Driven Employer Brand Stories",
+      "slug": "ai-recruitment-crafting-datadriven-employer-brand-stories",
+      "description": "# AI Recruitment: Crafting Data\u2011Driven Employer Brand Stories  \n\nIn today\u2019s hyper\u2011competitive talent market, HR leaders need more than a slick careers...",
+      "pub_date": "2026-08-06",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "employer branding",
+        "recruitment analytics",
+        "talent attraction",
+        "AI hiring"
+      ],
+      "word_count": 1158,
+      "filepath": "content/posts/2026-08-06-ai-recruitment-crafting-datadriven-employer-brand-stories.md",
+      "topic": "AI Recruitment: Crafting Data\u2011Driven Employer Brand Stories"
     }
   ],
   "topics_used": [
@@ -6335,8 +6352,9 @@
     "AI Referral Matching: Auto-Connect Employees to Top Talent",
     "AI Aligns Recruitment KPIs with Business Growth",
     "EU AI Act: Ensuring AI Hiring Compliance",
-    "Real\u2011Time Interviewer Bias Detection with AI"
+    "Real\u2011Time Interviewer Bias Detection with AI",
+    "AI Recruitment: Crafting Data\u2011Driven Employer Brand Stories"
   ],
-  "last_updated": "2026-08-05",
-  "total_posts": 354
+  "last_updated": "2026-08-06",
+  "total_posts": 355
 }
