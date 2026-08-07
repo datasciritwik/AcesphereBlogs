@@ -6012,6 +6012,23 @@
       "word_count": 1204,
       "filepath": "content/posts/2026-08-07-ai-prehire-testing-boost-remote-softskill-success.md",
       "topic": "AI Pre\u2011Hire Testing: Boost Remote Soft\u2011Skill Success"
+    },
+    {
+      "title": "Next\u2011Gen Hiring: AI for Contractor Workforce",
+      "slug": "nextgen-hiring-ai-for-contractor-workforce",
+      "description": "# Next\u2011Gen Hiring: AI for Contractor Workforce\n\nHiring contract talent at scale used to be a manual, time\u2011consuming juggling act\u2014posting jobs, reviewi...",
+      "pub_date": "2026-08-07",
+      "tags": [],
+      "keywords": [
+        "next-gen hiring",
+        "AI-powered hiring",
+        "hiring process automation",
+        "contractor workforce",
+        "recruitment innovation"
+      ],
+      "word_count": 1043,
+      "filepath": "content/posts/2026-08-07-nextgen-hiring-ai-for-contractor-workforce.md",
+      "topic": "Next\u2011Gen Hiring: AI for Contractor Workforce"
     }
   ],
   "topics_used": [
@@ -6370,8 +6387,9 @@
     "EU AI Act: Ensuring AI Hiring Compliance",
     "Real\u2011Time Interviewer Bias Detection with AI",
     "AI Recruitment: Crafting Data\u2011Driven Employer Brand Stories",
-    "AI Pre\u2011Hire Testing: Boost Remote Soft\u2011Skill Success"
+    "AI Pre\u2011Hire Testing: Boost Remote Soft\u2011Skill Success",
+    "Next\u2011Gen Hiring: AI for Contractor Workforce"
   ],
   "last_updated": "2026-08-07",
-  "total_posts": 356
+  "total_posts": 357
 }
