@@ -5996,6 +5996,22 @@
       "word_count": 1158,
       "filepath": "content/posts/2026-08-06-ai-recruitment-crafting-datadriven-employer-brand-stories.md",
       "topic": "AI Recruitment: Crafting Data\u2011Driven Employer Brand Stories"
+    },
+    {
+      "title": "AI Pre\u2011Hire Testing: Boost Remote Soft\u2011Skill Success",
+      "slug": "ai-prehire-testing-boost-remote-softskill-success",
+      "description": "# AI Pre\u2011Hire Testing: Boost Remote Soft\u2011Skill Success  \n\nHiring for remote\u2011first teams is no longer just about matching hard\u2011skill r\u00e9sum\u00e9s to job des...",
+      "pub_date": "2026-08-07",
+      "tags": [],
+      "keywords": [
+        "pre-hire testing",
+        "soft skill assessment",
+        "remote hiring",
+        "AI hiring platform"
+      ],
+      "word_count": 1204,
+      "filepath": "content/posts/2026-08-07-ai-prehire-testing-boost-remote-softskill-success.md",
+      "topic": "AI Pre\u2011Hire Testing: Boost Remote Soft\u2011Skill Success"
     }
   ],
   "topics_used": [
@@ -6353,8 +6369,9 @@
     "AI Aligns Recruitment KPIs with Business Growth",
     "EU AI Act: Ensuring AI Hiring Compliance",
     "Real\u2011Time Interviewer Bias Detection with AI",
-    "AI Recruitment: Crafting Data\u2011Driven Employer Brand Stories"
+    "AI Recruitment: Crafting Data\u2011Driven Employer Brand Stories",
+    "AI Pre\u2011Hire Testing: Boost Remote Soft\u2011Skill Success"
   ],
-  "last_updated": "2026-08-06",
-  "total_posts": 355
+  "last_updated": "2026-08-07",
+  "total_posts": 356
 }
