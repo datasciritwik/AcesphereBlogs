@@ -6029,6 +6029,23 @@
       "word_count": 1043,
       "filepath": "content/posts/2026-08-07-nextgen-hiring-ai-for-contractor-workforce.md",
       "topic": "Next\u2011Gen Hiring: AI for Contractor Workforce"
+    },
+    {
+      "title": "AI Hiring Predicts Future Role Shifts to Future\u2011Proof Hiring",
+      "slug": "ai-hiring-predicts-future-role-shifts-to-futureproof-hiring",
+      "description": "# AI Hiring Predicts Future Role Shifts to Future\u2011Proof Hiring\n\nIn a talent market that reshapes itself faster than a product roadmap, recruiters need...",
+      "pub_date": "2026-08-09",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "predictive hiring analytics",
+        "skill forecasting",
+        "future\u2011proof hiring",
+        "role evolution"
+      ],
+      "word_count": 1345,
+      "filepath": "content/posts/2026-08-09-ai-hiring-predicts-future-role-shifts-to-futureproof-hiring.md",
+      "topic": "AI Hiring Predicts Future Role Shifts to Future\u2011Proof Hiring"
     }
   ],
   "topics_used": [
@@ -6388,8 +6405,9 @@
     "Real\u2011Time Interviewer Bias Detection with AI",
     "AI Recruitment: Crafting Data\u2011Driven Employer Brand Stories",
     "AI Pre\u2011Hire Testing: Boost Remote Soft\u2011Skill Success",
-    "Next\u2011Gen Hiring: AI for Contractor Workforce"
+    "Next\u2011Gen Hiring: AI for Contractor Workforce",
+    "AI Hiring Predicts Future Role Shifts to Future\u2011Proof Hiring"
   ],
-  "last_updated": "2026-08-07",
-  "total_posts": 357
+  "last_updated": "2026-08-09",
+  "total_posts": 358
 }
