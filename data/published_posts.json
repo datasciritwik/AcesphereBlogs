@@ -6046,6 +6046,23 @@
       "word_count": 1345,
       "filepath": "content/posts/2026-08-09-ai-hiring-predicts-future-role-shifts-to-futureproof-hiring.md",
       "topic": "AI Hiring Predicts Future Role Shifts to Future\u2011Proof Hiring"
+    },
+    {
+      "title": "AI Recruitment for Cross\u2011Cultural Teams",
+      "slug": "ai-recruitment-for-crosscultural-teams",
+      "description": "# AI Recruitment for Cross\u2011Cultural Teams  \n\nIn a world where talent can be sourced from any timezone, **AI recruitment** is becoming the bridge that...",
+      "pub_date": "2026-08-10",
+      "tags": [],
+      "keywords": [
+        "AI recruitment",
+        "cross-cultural hiring",
+        "global collaboration assessment",
+        "hiring automation",
+        "diversity hiring"
+      ],
+      "word_count": 1131,
+      "filepath": "content/posts/2026-08-10-ai-recruitment-for-crosscultural-teams.md",
+      "topic": "AI Recruitment for Cross\u2011Cultural Teams"
     }
   ],
   "topics_used": [
@@ -6406,8 +6423,9 @@
     "AI Recruitment: Crafting Data\u2011Driven Employer Brand Stories",
     "AI Pre\u2011Hire Testing: Boost Remote Soft\u2011Skill Success",
     "Next\u2011Gen Hiring: AI for Contractor Workforce",
-    "AI Hiring Predicts Future Role Shifts to Future\u2011Proof Hiring"
+    "AI Hiring Predicts Future Role Shifts to Future\u2011Proof Hiring",
+    "AI Recruitment for Cross\u2011Cultural Teams"
   ],
-  "last_updated": "2026-08-09",
-  "total_posts": 358
+  "last_updated": "2026-08-10",
+  "total_posts": 359
 }
