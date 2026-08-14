@@ -6063,6 +6063,23 @@
       "word_count": 1131,
       "filepath": "content/posts/2026-08-10-ai-recruitment-for-crosscultural-teams.md",
       "topic": "AI Recruitment for Cross\u2011Cultural Teams"
+    },
+    {
+      "title": "AI\u2011Powered Hiring Process Automation: Build a Competitive Moat",
+      "slug": "aipowered-hiring-process-automation-build-a-competitive-moat",
+      "description": "# AI\u2011Powered Hiring Process Automation: Build a Competitive Moat  \n\nIn today\u2019s hyper\u2011competitive talent market, mid\u2011size firms that can hire faster, s...",
+      "pub_date": "2026-08-14",
+      "tags": [],
+      "keywords": [
+        "hiring process automation",
+        "AI hiring automation",
+        "competitive hiring advantage",
+        "recruitment workflow optimization",
+        "AI talent acquisition"
+      ],
+      "word_count": 1224,
+      "filepath": "content/posts/2026-08-14-aipowered-hiring-process-automation-build-a-competitive-moat.md",
+      "topic": "AI\u2011Powered Hiring Process Automation: Build a Competitive Moat"
     }
   ],
   "topics_used": [
@@ -6424,8 +6441,9 @@
     "AI Pre\u2011Hire Testing: Boost Remote Soft\u2011Skill Success",
     "Next\u2011Gen Hiring: AI for Contractor Workforce",
     "AI Hiring Predicts Future Role Shifts to Future\u2011Proof Hiring",
-    "AI Recruitment for Cross\u2011Cultural Teams"
+    "AI Recruitment for Cross\u2011Cultural Teams",
+    "AI\u2011Powered Hiring Process Automation: Build a Competitive Moat"
   ],
-  "last_updated": "2026-08-10",
-  "total_posts": 359
+  "last_updated": "2026-08-14",
+  "total_posts": 360
 }
