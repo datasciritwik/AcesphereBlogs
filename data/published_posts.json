@@ -6114,6 +6114,23 @@
       "word_count": 1096,
       "filepath": "content/posts/2026-08-15-ai-interview-intelligence-to-cut-new-hire-rampup-time.md",
       "topic": "AI Interview Intelligence to Cut New Hire Ramp\u2011Up Time"
+    },
+    {
+      "title": "AI Detects Recruiter Fatigue to Boost Productivity",
+      "slug": "ai-detects-recruiter-fatigue-to-boost-productivity",
+      "description": "# AI Detects Recruiter Fatigue to Boost Productivity  \n\nRecruiter decision fatigue is a hidden productivity drain that costs companies time, talent, a...",
+      "pub_date": "2026-08-16",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity",
+        "AI-driven analytics",
+        "decision fatigue",
+        "hiring dashboard",
+        "intelligent screening"
+      ],
+      "word_count": 1242,
+      "filepath": "content/posts/2026-08-16-ai-detects-recruiter-fatigue-to-boost-productivity.md",
+      "topic": "AI Detects Recruiter Fatigue to Boost Productivity"
     }
   ],
   "topics_used": [
@@ -6478,8 +6495,9 @@
     "AI Recruitment for Cross\u2011Cultural Teams",
     "AI\u2011Powered Hiring Process Automation: Build a Competitive Moat",
     "AI Hiring Process Automation: Achieve a 48\u2011Hour Time\u2011to\u2011Offer",
-    "AI Interview Intelligence to Cut New Hire Ramp\u2011Up Time"
+    "AI Interview Intelligence to Cut New Hire Ramp\u2011Up Time",
+    "AI Detects Recruiter Fatigue to Boost Productivity"
   ],
-  "last_updated": "2026-08-15",
-  "total_posts": 362
+  "last_updated": "2026-08-16",
+  "total_posts": 363
 }
