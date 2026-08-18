@@ -6165,6 +6165,23 @@
       "word_count": 1497,
       "filepath": "content/posts/2026-08-18-ai-recruitment-workflow-benchmarking-stepbystep-guide.md",
       "topic": "AI Recruitment Workflow Benchmarking: Step\u2011by\u2011Step Guide"
+    },
+    {
+      "title": "AI Hiring Funnel Simulations: Test & Optimize Your Process",
+      "slug": "ai-hiring-funnel-simulations-test-optimize-your-process",
+      "description": "# AI Hiring Funnel Simulations: Test & Optimize Your Process  \n\nRecruiters today face the paradox of having more data than ever, yet still making hiri...",
+      "pub_date": "2026-08-18",
+      "tags": [],
+      "keywords": [
+        "hiring funnel optimization",
+        "AI recruitment",
+        "recruitment workflow",
+        "predictive hiring analytics",
+        "hiring process simulation"
+      ],
+      "word_count": 1228,
+      "filepath": "content/posts/2026-08-18-ai-hiring-funnel-simulations-test-optimize-your-process.md",
+      "topic": "AI Hiring Funnel Simulations: Test & Optimize Your Process"
     }
   ],
   "topics_used": [
@@ -6532,8 +6549,9 @@
     "AI Interview Intelligence to Cut New Hire Ramp\u2011Up Time",
     "AI Detects Recruiter Fatigue to Boost Productivity",
     "AI Talent Acquisition for Fast Market Expansion",
-    "AI Recruitment Workflow Benchmarking: Step\u2011by\u2011Step Guide"
+    "AI Recruitment Workflow Benchmarking: Step\u2011by\u2011Step Guide",
+    "AI Hiring Funnel Simulations: Test & Optimize Your Process"
   ],
   "last_updated": "2026-08-18",
-  "total_posts": 365
+  "total_posts": 366
 }
