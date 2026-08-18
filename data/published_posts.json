@@ -6148,6 +6148,23 @@
       "word_count": 1008,
       "filepath": "content/posts/2026-08-17-ai-talent-acquisition-for-fast-market-expansion.md",
       "topic": "AI Talent Acquisition for Fast Market Expansion"
+    },
+    {
+      "title": "AI Recruitment Workflow Benchmarking: Step\u2011by\u2011Step Guide",
+      "slug": "ai-recruitment-workflow-benchmarking-stepbystep-guide",
+      "description": "# AI Recruitment Workflow Benchmarking: Step\u2011by\u2011Step Guide\n\nHiring at scale is no longer a gut\u2011feel exercise. Mid\u2011sized companies that want to grow fa...",
+      "pub_date": "2026-08-18",
+      "tags": [],
+      "keywords": [
+        "recruitment workflow",
+        "hiring automation",
+        "recruiter efficiency tools",
+        "hiring pipeline management",
+        "AI hiring metrics"
+      ],
+      "word_count": 1497,
+      "filepath": "content/posts/2026-08-18-ai-recruitment-workflow-benchmarking-stepbystep-guide.md",
+      "topic": "AI Recruitment Workflow Benchmarking: Step\u2011by\u2011Step Guide"
     }
   ],
   "topics_used": [
@@ -6514,8 +6531,9 @@
     "AI Hiring Process Automation: Achieve a 48\u2011Hour Time\u2011to\u2011Offer",
     "AI Interview Intelligence to Cut New Hire Ramp\u2011Up Time",
     "AI Detects Recruiter Fatigue to Boost Productivity",
-    "AI Talent Acquisition for Fast Market Expansion"
+    "AI Talent Acquisition for Fast Market Expansion",
+    "AI Recruitment Workflow Benchmarking: Step\u2011by\u2011Step Guide"
   ],
-  "last_updated": "2026-08-17",
-  "total_posts": 364
+  "last_updated": "2026-08-18",
+  "total_posts": 365
 }
