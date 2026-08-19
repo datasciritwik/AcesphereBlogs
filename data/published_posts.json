@@ -6182,6 +6182,23 @@
       "word_count": 1228,
       "filepath": "content/posts/2026-08-18-ai-hiring-funnel-simulations-test-optimize-your-process.md",
       "topic": "AI Hiring Funnel Simulations: Test & Optimize Your Process"
+    },
+    {
+      "title": "AI Hiring Gamification: Boost Engagement & Quality",
+      "slug": "ai-hiring-gamification-boost-engagement-quality",
+      "description": "# AI Hiring Gamification: Boost Engagement & Quality  \n\nHiring fast, hiring right, and keeping candidates excited are three goals that often feel at o...",
+      "pub_date": "2026-08-19",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "candidate screening automation",
+        "recruiter productivity",
+        "gamified assessments",
+        "candidate experience"
+      ],
+      "word_count": 1246,
+      "filepath": "content/posts/2026-08-19-ai-hiring-gamification-boost-engagement-quality.md",
+      "topic": "AI Hiring Gamification: Boost Engagement & Quality"
     }
   ],
   "topics_used": [
@@ -6550,8 +6567,9 @@
     "AI Detects Recruiter Fatigue to Boost Productivity",
     "AI Talent Acquisition for Fast Market Expansion",
     "AI Recruitment Workflow Benchmarking: Step\u2011by\u2011Step Guide",
-    "AI Hiring Funnel Simulations: Test & Optimize Your Process"
+    "AI Hiring Funnel Simulations: Test & Optimize Your Process",
+    "AI Hiring Gamification: Boost Engagement & Quality"
   ],
-  "last_updated": "2026-08-18",
-  "total_posts": 366
+  "last_updated": "2026-08-19",
+  "total_posts": 367
 }
