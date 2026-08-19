@@ -6199,6 +6199,22 @@
       "word_count": 1246,
       "filepath": "content/posts/2026-08-19-ai-hiring-gamification-boost-engagement-quality.md",
       "topic": "AI Hiring Gamification: Boost Engagement & Quality"
+    },
+    {
+      "title": "AI Interview Assessment: Fueling New Hire Development",
+      "slug": "ai-interview-assessment-fueling-new-hire-development",
+      "description": "# AI Interview Assessment: Fueling New Hire Development\n\nIn today\u2019s fast\u2011moving talent market, the real competitive edge comes not just from hiring th...",
+      "pub_date": "2026-08-19",
+      "tags": [],
+      "keywords": [
+        "AI interview assessment",
+        "new hire development",
+        "data-driven onboarding",
+        "employee performance analytics"
+      ],
+      "word_count": 1172,
+      "filepath": "content/posts/2026-08-19-ai-interview-assessment-fueling-new-hire-development.md",
+      "topic": "AI Interview Assessment: Fueling New Hire Development"
     }
   ],
   "topics_used": [
@@ -6568,8 +6584,9 @@
     "AI Talent Acquisition for Fast Market Expansion",
     "AI Recruitment Workflow Benchmarking: Step\u2011by\u2011Step Guide",
     "AI Hiring Funnel Simulations: Test & Optimize Your Process",
-    "AI Hiring Gamification: Boost Engagement & Quality"
+    "AI Hiring Gamification: Boost Engagement & Quality",
+    "AI Interview Assessment: Fueling New Hire Development"
   ],
   "last_updated": "2026-08-19",
-  "total_posts": 367
+  "total_posts": 368
 }
