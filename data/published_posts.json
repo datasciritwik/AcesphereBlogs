@@ -6215,6 +6215,23 @@
       "word_count": 1172,
       "filepath": "content/posts/2026-08-19-ai-interview-assessment-fueling-new-hire-development.md",
       "topic": "AI Interview Assessment: Fueling New Hire Development"
+    },
+    {
+      "title": "AI Hiring Platform: Forecasting Emerging Skill Demand",
+      "slug": "ai-hiring-platform-forecasting-emerging-skill-demand",
+      "description": "# AI Hiring Platform: Forecasting Emerging Skill Demand  \n\nIn today\u2019s fast\u2011moving tech landscape, hiring is no longer a reactive activity\u2014it\u2019s a strat...",
+      "pub_date": "2026-08-20",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "skill demand forecasting",
+        "future of hiring",
+        "data-driven hiring decisions",
+        "emerging skill gaps"
+      ],
+      "word_count": 1231,
+      "filepath": "content/posts/2026-08-20-ai-hiring-platform-forecasting-emerging-skill-demand.md",
+      "topic": "AI Hiring Platform: Forecasting Emerging Skill Demand"
     }
   ],
   "topics_used": [
@@ -6585,8 +6602,9 @@
     "AI Recruitment Workflow Benchmarking: Step\u2011by\u2011Step Guide",
     "AI Hiring Funnel Simulations: Test & Optimize Your Process",
     "AI Hiring Gamification: Boost Engagement & Quality",
-    "AI Interview Assessment: Fueling New Hire Development"
+    "AI Interview Assessment: Fueling New Hire Development",
+    "AI Hiring Platform: Forecasting Emerging Skill Demand"
   ],
-  "last_updated": "2026-08-19",
-  "total_posts": 368
+  "last_updated": "2026-08-20",
+  "total_posts": 369
 }
