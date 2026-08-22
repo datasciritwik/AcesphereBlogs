@@ -6232,6 +6232,23 @@
       "word_count": 1231,
       "filepath": "content/posts/2026-08-20-ai-hiring-platform-forecasting-emerging-skill-demand.md",
       "topic": "AI Hiring Platform: Forecasting Emerging Skill Demand"
+    },
+    {
+      "title": "AI Recruiter Efficiency Tools: Balancing Workload & Speed",
+      "slug": "ai-recruiter-efficiency-tools-balancing-workload-speed",
+      "description": "# AI Recruiter Efficiency Tools: Balancing Workload & Speed  \n\nRecruiters today juggle dozens of moving parts\u2014candidate outreach, interview scheduling...",
+      "pub_date": "2026-08-22",
+      "tags": [],
+      "keywords": [
+        "recruiter efficiency tools",
+        "AI hiring platform",
+        "hiring automation",
+        "data-driven hiring decisions",
+        "reduce hiring bias"
+      ],
+      "word_count": 1272,
+      "filepath": "content/posts/2026-08-22-ai-recruiter-efficiency-tools-balancing-workload-speed.md",
+      "topic": "AI Recruiter Efficiency Tools: Balancing Workload & Speed"
     }
   ],
   "topics_used": [
@@ -6603,8 +6620,9 @@
     "AI Hiring Funnel Simulations: Test & Optimize Your Process",
     "AI Hiring Gamification: Boost Engagement & Quality",
     "AI Interview Assessment: Fueling New Hire Development",
-    "AI Hiring Platform: Forecasting Emerging Skill Demand"
+    "AI Hiring Platform: Forecasting Emerging Skill Demand",
+    "AI Recruiter Efficiency Tools: Balancing Workload & Speed"
   ],
-  "last_updated": "2026-08-20",
-  "total_posts": 369
+  "last_updated": "2026-08-22",
+  "total_posts": 370
 }
