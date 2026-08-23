@@ -6249,6 +6249,23 @@
       "word_count": 1272,
       "filepath": "content/posts/2026-08-22-ai-recruiter-efficiency-tools-balancing-workload-speed.md",
       "topic": "AI Recruiter Efficiency Tools: Balancing Workload & Speed"
+    },
+    {
+      "title": "AI Hiring Platform: Turning New Hires into Leaders",
+      "slug": "ai-hiring-platform-turning-new-hires-into-leaders",
+      "description": "# AI Hiring Platform: Turning New Hires into Leaders  \n\nIn today\u2019s fast\u2011moving talent market, simply hiring the \u201cright\u201d candidate is no longer enough....",
+      "pub_date": "2026-08-23",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "new hire development",
+        "skill gap analysis",
+        "upskilling automation",
+        "future leader pipeline"
+      ],
+      "word_count": 1343,
+      "filepath": "content/posts/2026-08-23-ai-hiring-platform-turning-new-hires-into-leaders.md",
+      "topic": "AI Hiring Platform: Turning New Hires into Leaders"
     }
   ],
   "topics_used": [
@@ -6621,8 +6638,9 @@
     "AI Hiring Gamification: Boost Engagement & Quality",
     "AI Interview Assessment: Fueling New Hire Development",
     "AI Hiring Platform: Forecasting Emerging Skill Demand",
-    "AI Recruiter Efficiency Tools: Balancing Workload & Speed"
+    "AI Recruiter Efficiency Tools: Balancing Workload & Speed",
+    "AI Hiring Platform: Turning New Hires into Leaders"
   ],
-  "last_updated": "2026-08-22",
-  "total_posts": 370
+  "last_updated": "2026-08-23",
+  "total_posts": 371
 }
