@@ -6266,6 +6266,23 @@
       "word_count": 1343,
       "filepath": "content/posts/2026-08-23-ai-hiring-platform-turning-new-hires-into-leaders.md",
       "topic": "AI Hiring Platform: Turning New Hires into Leaders"
+    },
+    {
+      "title": "AI Hiring Platform: Leverage Talent Market Data",
+      "slug": "ai-hiring-platform-leverage-talent-market-data",
+      "description": "# AI Hiring Platform: Leverage Talent Market Data  \n\nIn today\u2019s fast\u2011moving talent landscape, the ability to turn real\u2011time labor\u2011market signals into...",
+      "pub_date": "2026-08-24",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "talent market intelligence",
+        "proactive sourcing",
+        "data-driven hiring",
+        "recruiter productivity"
+      ],
+      "word_count": 1150,
+      "filepath": "content/posts/2026-08-24-ai-hiring-platform-leverage-talent-market-data.md",
+      "topic": "AI Hiring Platform: Leverage Talent Market Data"
     }
   ],
   "topics_used": [
@@ -6639,8 +6656,9 @@
     "AI Interview Assessment: Fueling New Hire Development",
     "AI Hiring Platform: Forecasting Emerging Skill Demand",
     "AI Recruiter Efficiency Tools: Balancing Workload & Speed",
-    "AI Hiring Platform: Turning New Hires into Leaders"
+    "AI Hiring Platform: Turning New Hires into Leaders",
+    "AI Hiring Platform: Leverage Talent Market Data"
   ],
-  "last_updated": "2026-08-23",
-  "total_posts": 371
+  "last_updated": "2026-08-24",
+  "total_posts": 372
 }
