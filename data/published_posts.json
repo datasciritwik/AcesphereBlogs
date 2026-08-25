@@ -6283,6 +6283,23 @@
       "word_count": 1150,
       "filepath": "content/posts/2026-08-24-ai-hiring-platform-leverage-talent-market-data.md",
       "topic": "AI Hiring Platform: Leverage Talent Market Data"
+    },
+    {
+      "title": "Predict First\u2011Year Soft\u2011Skill Growth with AI Hiring",
+      "slug": "predict-firstyear-softskill-growth-with-ai-hiring",
+      "description": "# Predict First\u2011Year Soft\u2011Skill Growth with AI Hiring\n\nHiring the right talent is only half the battle; ensuring that new employees thrive during thei...",
+      "pub_date": "2026-08-25",
+      "tags": [],
+      "keywords": [
+        "predictive hiring",
+        "soft skill assessment",
+        "AI hiring platform",
+        "first-year performance",
+        "data-driven hiring decisions"
+      ],
+      "word_count": 1141,
+      "filepath": "content/posts/2026-08-25-predict-firstyear-softskill-growth-with-ai-hiring.md",
+      "topic": "Predict First\u2011Year Soft\u2011Skill Growth with AI Hiring"
     }
   ],
   "topics_used": [
@@ -6657,8 +6674,9 @@
     "AI Hiring Platform: Forecasting Emerging Skill Demand",
     "AI Recruiter Efficiency Tools: Balancing Workload & Speed",
     "AI Hiring Platform: Turning New Hires into Leaders",
-    "AI Hiring Platform: Leverage Talent Market Data"
+    "AI Hiring Platform: Leverage Talent Market Data",
+    "Predict First\u2011Year Soft\u2011Skill Growth with AI Hiring"
   ],
-  "last_updated": "2026-08-24",
-  "total_posts": 372
+  "last_updated": "2026-08-25",
+  "total_posts": 373
 }
