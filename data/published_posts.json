@@ -6300,6 +6300,23 @@
       "word_count": 1141,
       "filepath": "content/posts/2026-08-25-predict-firstyear-softskill-growth-with-ai-hiring.md",
       "topic": "Predict First\u2011Year Soft\u2011Skill Growth with AI Hiring"
+    },
+    {
+      "title": "AI Hiring Metrics Aligned with Business OKRs",
+      "slug": "ai-hiring-metrics-aligned-with-business-okrs",
+      "description": "# AI Hiring Metrics Aligned with Business OKRs  \n\nRecruiters who treat AI\u2011generated hiring data as a silo miss a huge opportunity: the chance to turn...",
+      "pub_date": "2026-08-27",
+      "tags": [],
+      "keywords": [
+        "AI hiring metrics",
+        "data\u2011driven hiring decisions",
+        "recruiter productivity tips",
+        "HR tech trends 2026",
+        "align hiring with OKRs"
+      ],
+      "word_count": 1188,
+      "filepath": "content/posts/2026-08-27-ai-hiring-metrics-aligned-with-business-okrs.md",
+      "topic": "AI Hiring Metrics Aligned with Business OKRs"
     }
   ],
   "topics_used": [
@@ -6675,8 +6692,9 @@
     "AI Recruiter Efficiency Tools: Balancing Workload & Speed",
     "AI Hiring Platform: Turning New Hires into Leaders",
     "AI Hiring Platform: Leverage Talent Market Data",
-    "Predict First\u2011Year Soft\u2011Skill Growth with AI Hiring"
+    "Predict First\u2011Year Soft\u2011Skill Growth with AI Hiring",
+    "AI Hiring Metrics Aligned with Business OKRs"
   ],
-  "last_updated": "2026-08-25",
-  "total_posts": 373
+  "last_updated": "2026-08-27",
+  "total_posts": 374
 }
