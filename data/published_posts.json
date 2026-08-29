@@ -6350,6 +6350,23 @@
       "word_count": 1124,
       "filepath": "content/posts/2026-08-29-ai-powered-mental-health-screening-for-smarter-hiring.md",
       "topic": "AI-Powered Mental Health Screening for Smarter Hiring"
+    },
+    {
+      "title": "AI Interview Sentiment Dashboard: Real\u2011Time Hiring Insights",
+      "slug": "ai-interview-sentiment-dashboard-realtime-hiring-insights",
+      "description": "# AI Interview Sentiment Dashboard: Real\u2011Time Hiring Insights  \n\nIn today\u2019s fast\u2011paced talent market, hiring managers need more than a gut feeling to...",
+      "pub_date": "2026-08-29",
+      "tags": [],
+      "keywords": [
+        "interview sentiment AI",
+        "real-time hiring insights",
+        "AI interview dashboard",
+        "hiring manager decision support",
+        "interview intelligence"
+      ],
+      "word_count": 1235,
+      "filepath": "content/posts/2026-08-29-ai-interview-sentiment-dashboard-realtime-hiring-insights.md",
+      "topic": "AI Interview Sentiment Dashboard: Real\u2011Time Hiring Insights"
     }
   ],
   "topics_used": [
@@ -6728,8 +6745,9 @@
     "Predict First\u2011Year Soft\u2011Skill Growth with AI Hiring",
     "AI Hiring Metrics Aligned with Business OKRs",
     "AI Coach for Hiring Managers: Real\u2011Time Decision Support",
-    "AI-Powered Mental Health Screening for Smarter Hiring"
+    "AI-Powered Mental Health Screening for Smarter Hiring",
+    "AI Interview Sentiment Dashboard: Real\u2011Time Hiring Insights"
   ],
   "last_updated": "2026-08-29",
-  "total_posts": 376
+  "total_posts": 377
 }
