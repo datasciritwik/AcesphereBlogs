@@ -6334,6 +6334,22 @@
       "word_count": 1449,
       "filepath": "content/posts/2026-08-27-ai-coach-for-hiring-managers-realtime-decision-support.md",
       "topic": "AI Coach for Hiring Managers: Real\u2011Time Decision Support"
+    },
+    {
+      "title": "AI-Powered Mental Health Screening for Smarter Hiring",
+      "slug": "ai-powered-mental-health-screening-for-smarter-hiring",
+      "description": "# AI-Powered Mental Health Screening for Smarter Hiring  \n\nIn today\u2019s fast\u2011paced talent market, hiring the right person is only half the battle; keepi...",
+      "pub_date": "2026-08-29",
+      "tags": [],
+      "keywords": [
+        "AI mental health screening",
+        "improving candidate experience with AI",
+        "recruiter productivity tips",
+        "AI recruitment"
+      ],
+      "word_count": 1124,
+      "filepath": "content/posts/2026-08-29-ai-powered-mental-health-screening-for-smarter-hiring.md",
+      "topic": "AI-Powered Mental Health Screening for Smarter Hiring"
     }
   ],
   "topics_used": [
@@ -6711,8 +6727,9 @@
     "AI Hiring Platform: Leverage Talent Market Data",
     "Predict First\u2011Year Soft\u2011Skill Growth with AI Hiring",
     "AI Hiring Metrics Aligned with Business OKRs",
-    "AI Coach for Hiring Managers: Real\u2011Time Decision Support"
+    "AI Coach for Hiring Managers: Real\u2011Time Decision Support",
+    "AI-Powered Mental Health Screening for Smarter Hiring"
   ],
-  "last_updated": "2026-08-27",
-  "total_posts": 375
+  "last_updated": "2026-08-29",
+  "total_posts": 376
 }
