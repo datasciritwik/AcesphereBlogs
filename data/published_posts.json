@@ -6367,6 +6367,23 @@
       "word_count": 1235,
       "filepath": "content/posts/2026-08-29-ai-interview-sentiment-dashboard-realtime-hiring-insights.md",
       "topic": "AI Interview Sentiment Dashboard: Real\u2011Time Hiring Insights"
+    },
+    {
+      "title": "AI Skill Testing Boosts Internal Mobility Programs",
+      "slug": "ai-skill-testing-boosts-internal-mobility-programs",
+      "description": "# AI Skill Testing Boosts Internal Mobility Programs  \n\nIn today\u2019s fast\u2011changing talent landscape, the ability to move high\u2011potential employees into n...",
+      "pub_date": "2026-08-31",
+      "tags": [],
+      "keywords": [
+        "AI skill testing",
+        "internal mobility",
+        "data-driven hiring decisions",
+        "employee retention",
+        "skill assessment automation"
+      ],
+      "word_count": 1203,
+      "filepath": "content/posts/2026-08-31-ai-skill-testing-boosts-internal-mobility-programs.md",
+      "topic": "AI Skill Testing Boosts Internal Mobility Programs"
     }
   ],
   "topics_used": [
@@ -6746,8 +6763,9 @@
     "AI Hiring Metrics Aligned with Business OKRs",
     "AI Coach for Hiring Managers: Real\u2011Time Decision Support",
     "AI-Powered Mental Health Screening for Smarter Hiring",
-    "AI Interview Sentiment Dashboard: Real\u2011Time Hiring Insights"
+    "AI Interview Sentiment Dashboard: Real\u2011Time Hiring Insights",
+    "AI Skill Testing Boosts Internal Mobility Programs"
   ],
-  "last_updated": "2026-08-29",
-  "total_posts": 377
+  "last_updated": "2026-08-31",
+  "total_posts": 378
 }
