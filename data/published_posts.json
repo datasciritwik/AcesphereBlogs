@@ -6401,6 +6401,23 @@
       "word_count": 1269,
       "filepath": "content/posts/2026-09-01-smart-hiring-tools-for-managing-freelance-talent-pools.md",
       "topic": "Smart Hiring Tools for Managing Freelance Talent Pools"
+    },
+    {
+      "title": "AI\u2011Powered Automated Scheduling Boosts Global Remote Hiring",
+      "slug": "aipowered-automated-scheduling-boosts-global-remote-hiring",
+      "description": "# AI\u2011Powered Automated Scheduling Boosts Global Remote Hiring\n\nRecruiters at fast\u2011growing startups know that the biggest hidden cost of scaling global...",
+      "pub_date": "2026-09-01",
+      "tags": [],
+      "keywords": [
+        "automated scheduling",
+        "global remote hiring",
+        "recruiter productivity",
+        "time zone scheduling AI",
+        "candidate experience automation"
+      ],
+      "word_count": 1200,
+      "filepath": "content/posts/2026-09-01-aipowered-automated-scheduling-boosts-global-remote-hiring.md",
+      "topic": "AI\u2011Powered Automated Scheduling Boosts Global Remote Hiring"
     }
   ],
   "topics_used": [
@@ -6782,8 +6799,9 @@
     "AI-Powered Mental Health Screening for Smarter Hiring",
     "AI Interview Sentiment Dashboard: Real\u2011Time Hiring Insights",
     "AI Skill Testing Boosts Internal Mobility Programs",
-    "Smart Hiring Tools for Managing Freelance Talent Pools"
+    "Smart Hiring Tools for Managing Freelance Talent Pools",
+    "AI\u2011Powered Automated Scheduling Boosts Global Remote Hiring"
   ],
   "last_updated": "2026-09-01",
-  "total_posts": 379
+  "total_posts": 380
 }
