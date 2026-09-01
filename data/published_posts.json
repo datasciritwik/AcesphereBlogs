@@ -6418,6 +6418,23 @@
       "word_count": 1200,
       "filepath": "content/posts/2026-09-01-aipowered-automated-scheduling-boosts-global-remote-hiring.md",
       "topic": "AI\u2011Powered Automated Scheduling Boosts Global Remote Hiring"
+    },
+    {
+      "title": "AI-Powered Referral Hiring: Boost Talent Flow",
+      "slug": "ai-powered-referral-hiring-boost-talent-flow",
+      "description": "# AI-Powered Referral Hiring: Boost Talent Flow\n\nEmployee referrals have long been the fastest, most reliable way to land high\u2011performing talent. Yet...",
+      "pub_date": "2026-09-01",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "referral hiring automation",
+        "employee referral AI",
+        "talent sourcing AI",
+        "scaling hiring with automation"
+      ],
+      "word_count": 1485,
+      "filepath": "content/posts/2026-09-01-ai-powered-referral-hiring-boost-talent-flow.md",
+      "topic": "AI-Powered Referral Hiring: Boost Talent Flow"
     }
   ],
   "topics_used": [
@@ -6800,8 +6817,9 @@
     "AI Interview Sentiment Dashboard: Real\u2011Time Hiring Insights",
     "AI Skill Testing Boosts Internal Mobility Programs",
     "Smart Hiring Tools for Managing Freelance Talent Pools",
-    "AI\u2011Powered Automated Scheduling Boosts Global Remote Hiring"
+    "AI\u2011Powered Automated Scheduling Boosts Global Remote Hiring",
+    "AI-Powered Referral Hiring: Boost Talent Flow"
   ],
   "last_updated": "2026-09-01",
-  "total_posts": 380
+  "total_posts": 381
 }
