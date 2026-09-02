@@ -6435,6 +6435,23 @@
       "word_count": 1485,
       "filepath": "content/posts/2026-09-01-ai-powered-referral-hiring-boost-talent-flow.md",
       "topic": "AI-Powered Referral Hiring: Boost Talent Flow"
+    },
+    {
+      "title": "AI Hiring Platform: Cutting Recruiter Cognitive Load",
+      "slug": "ai-hiring-platform-cutting-recruiter-cognitive-load",
+      "description": "# AI Hiring Platform: Cutting Recruiter Cognitive Load  \n\nRecruiters today juggle hundreds of r\u00e9sum\u00e9s, interview schedules, and stakeholder requests\u2014a...",
+      "pub_date": "2026-09-02",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "recruiter productivity",
+        "cognitive load reduction",
+        "automated candidate screening",
+        "recruiter burnout"
+      ],
+      "word_count": 1148,
+      "filepath": "content/posts/2026-09-02-ai-hiring-platform-cutting-recruiter-cognitive-load.md",
+      "topic": "AI Hiring Platform: Cutting Recruiter Cognitive Load"
     }
   ],
   "topics_used": [
@@ -6818,8 +6835,9 @@
     "AI Skill Testing Boosts Internal Mobility Programs",
     "Smart Hiring Tools for Managing Freelance Talent Pools",
     "AI\u2011Powered Automated Scheduling Boosts Global Remote Hiring",
-    "AI-Powered Referral Hiring: Boost Talent Flow"
+    "AI-Powered Referral Hiring: Boost Talent Flow",
+    "AI Hiring Platform: Cutting Recruiter Cognitive Load"
   ],
-  "last_updated": "2026-09-01",
-  "total_posts": 381
+  "last_updated": "2026-09-02",
+  "total_posts": 382
 }
