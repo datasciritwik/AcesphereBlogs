@@ -6469,6 +6469,23 @@
       "word_count": 1348,
       "filepath": "content/posts/2026-09-04-integrate-ai-hiring-tools-into-your-hr-tech-stack.md",
       "topic": "Integrate AI Hiring Tools into Your HR Tech Stack"
+    },
+    {
+      "title": "AI Hiring Metrics That Align With Business OKRs",
+      "slug": "ai-hiring-metrics-that-align-with-business-okrs",
+      "description": "# AI Hiring Metrics That Align With Business OKRs\n\nHiring is no longer a back\u2011office function; it\u2019s a strategic lever that can accelerate revenue, fue...",
+      "pub_date": "2026-09-04",
+      "tags": [],
+      "keywords": [
+        "AI hiring metrics",
+        "recruiter productivity",
+        "OKRs",
+        "data-driven hiring decisions",
+        "hiring dashboard"
+      ],
+      "word_count": 1499,
+      "filepath": "content/posts/2026-09-04-ai-hiring-metrics-that-align-with-business-okrs.md",
+      "topic": "AI Hiring Metrics That Align With Business OKRs"
     }
   ],
   "topics_used": [
@@ -6854,8 +6871,9 @@
     "AI\u2011Powered Automated Scheduling Boosts Global Remote Hiring",
     "AI-Powered Referral Hiring: Boost Talent Flow",
     "AI Hiring Platform: Cutting Recruiter Cognitive Load",
-    "Integrate AI Hiring Tools into Your HR Tech Stack"
+    "Integrate AI Hiring Tools into Your HR Tech Stack",
+    "AI Hiring Metrics That Align With Business OKRs"
   ],
   "last_updated": "2026-09-04",
-  "total_posts": 383
+  "total_posts": 384
 }
