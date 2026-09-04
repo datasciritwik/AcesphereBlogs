@@ -6452,6 +6452,23 @@
       "word_count": 1148,
       "filepath": "content/posts/2026-09-02-ai-hiring-platform-cutting-recruiter-cognitive-load.md",
       "topic": "AI Hiring Platform: Cutting Recruiter Cognitive Load"
+    },
+    {
+      "title": "Integrate AI Hiring Tools into Your HR Tech Stack",
+      "slug": "integrate-ai-hiring-tools-into-your-hr-tech-stack",
+      "description": "# Integrate AI Hiring Tools into Your HR Tech Stack\n\nIn today\u2019s talent\u2011driven market, HR technology leaders are under pressure to accelerate hiring wh...",
+      "pub_date": "2026-09-04",
+      "tags": [],
+      "keywords": [
+        "AI hiring tools",
+        "HR tech stack",
+        "recruitment automation integration",
+        "hiring technology",
+        "enterprise recruitment automation"
+      ],
+      "word_count": 1348,
+      "filepath": "content/posts/2026-09-04-integrate-ai-hiring-tools-into-your-hr-tech-stack.md",
+      "topic": "Integrate AI Hiring Tools into Your HR Tech Stack"
     }
   ],
   "topics_used": [
@@ -6836,8 +6853,9 @@
     "Smart Hiring Tools for Managing Freelance Talent Pools",
     "AI\u2011Powered Automated Scheduling Boosts Global Remote Hiring",
     "AI-Powered Referral Hiring: Boost Talent Flow",
-    "AI Hiring Platform: Cutting Recruiter Cognitive Load"
+    "AI Hiring Platform: Cutting Recruiter Cognitive Load",
+    "Integrate AI Hiring Tools into Your HR Tech Stack"
   ],
-  "last_updated": "2026-09-02",
-  "total_posts": 382
+  "last_updated": "2026-09-04",
+  "total_posts": 383
 }
