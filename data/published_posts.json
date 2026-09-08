@@ -6486,6 +6486,23 @@
       "word_count": 1499,
       "filepath": "content/posts/2026-09-04-ai-hiring-metrics-that-align-with-business-okrs.md",
       "topic": "AI Hiring Metrics That Align With Business OKRs"
+    },
+    {
+      "title": "AI Hiring Playbook for Series C Scale\u2011Up",
+      "slug": "ai-hiring-playbook-for-series-c-scaleup",
+      "description": "# AI Hiring Playbook for Series\u202fC Scale\u2011Up\n\nSeries\u202fC startups are at a pivotal moment: product\u2011market fit is proven, funding is in place, and growth t...",
+      "pub_date": "2026-09-08",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "hiring automation",
+        "Series C hiring",
+        "scalable recruitment",
+        "recruiter productivity"
+      ],
+      "word_count": 1357,
+      "filepath": "content/posts/2026-09-08-ai-hiring-playbook-for-series-c-scaleup.md",
+      "topic": "AI Hiring Playbook for Series C Scale\u2011Up"
     }
   ],
   "topics_used": [
@@ -6872,8 +6889,9 @@
     "AI-Powered Referral Hiring: Boost Talent Flow",
     "AI Hiring Platform: Cutting Recruiter Cognitive Load",
     "Integrate AI Hiring Tools into Your HR Tech Stack",
-    "AI Hiring Metrics That Align With Business OKRs"
+    "AI Hiring Metrics That Align With Business OKRs",
+    "AI Hiring Playbook for Series C Scale\u2011Up"
   ],
-  "last_updated": "2026-09-04",
-  "total_posts": 384
+  "last_updated": "2026-09-08",
+  "total_posts": 385
 }
