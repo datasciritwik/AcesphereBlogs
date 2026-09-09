@@ -6520,6 +6520,23 @@
       "word_count": 1301,
       "filepath": "content/posts/2026-09-09-ai-predicts-salary-expectations-to-win-more-offers.md",
       "topic": "AI Predicts Salary Expectations to Win More Offers"
+    },
+    {
+      "title": "AI-Powered Candidate Tracking Software Boosts Hiring Funnel",
+      "slug": "ai-powered-candidate-tracking-software-boosts-hiring-funnel",
+      "description": "# AI-Powered Candidate Tracking Software Boosts Hiring Funnel  \n\nRecruiters at mid\u2011sized companies constantly juggle high\u2011volume pipelines, tight hiri...",
+      "pub_date": "2026-09-09",
+      "tags": [],
+      "keywords": [
+        "candidate tracking software",
+        "hiring funnel optimization",
+        "recruiter productivity",
+        "automated candidate screening",
+        "AI interview"
+      ],
+      "word_count": 1396,
+      "filepath": "content/posts/2026-09-09-ai-powered-candidate-tracking-software-boosts-hiring-funnel.md",
+      "topic": "AI-Powered Candidate Tracking Software Boosts Hiring Funnel"
     }
   ],
   "topics_used": [
@@ -6908,8 +6925,9 @@
     "Integrate AI Hiring Tools into Your HR Tech Stack",
     "AI Hiring Metrics That Align With Business OKRs",
     "AI Hiring Playbook for Series C Scale\u2011Up",
-    "AI Predicts Salary Expectations to Win More Offers"
+    "AI Predicts Salary Expectations to Win More Offers",
+    "AI-Powered Candidate Tracking Software Boosts Hiring Funnel"
   ],
   "last_updated": "2026-09-09",
-  "total_posts": 386
+  "total_posts": 387
 }
