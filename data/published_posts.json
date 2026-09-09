@@ -6537,6 +6537,23 @@
       "word_count": 1396,
       "filepath": "content/posts/2026-09-09-ai-powered-candidate-tracking-software-boosts-hiring-funnel.md",
       "topic": "AI-Powered Candidate Tracking Software Boosts Hiring Funnel"
+    },
+    {
+      "title": "Hiring Automation for Manager\u2011Led Recruiting",
+      "slug": "hiring-automation-for-managerled-recruiting",
+      "description": "# Hiring Automation for Manager\u2011Led Recruiting\n\nIn today\u2019s fast\u2011paced talent market, hiring managers who take direct ownership of the recruitment proc...",
+      "pub_date": "2026-09-09",
+      "tags": [],
+      "keywords": [
+        "hiring automation",
+        "manager-led recruiting",
+        "AI recruitment",
+        "recruitment workflow",
+        "hiring manager productivity"
+      ],
+      "word_count": 1340,
+      "filepath": "content/posts/2026-09-09-hiring-automation-for-managerled-recruiting.md",
+      "topic": "Hiring Automation for Manager\u2011Led Recruiting"
     }
   ],
   "topics_used": [
@@ -6926,8 +6943,9 @@
     "AI Hiring Metrics That Align With Business OKRs",
     "AI Hiring Playbook for Series C Scale\u2011Up",
     "AI Predicts Salary Expectations to Win More Offers",
-    "AI-Powered Candidate Tracking Software Boosts Hiring Funnel"
+    "AI-Powered Candidate Tracking Software Boosts Hiring Funnel",
+    "Hiring Automation for Manager\u2011Led Recruiting"
   ],
   "last_updated": "2026-09-09",
-  "total_posts": 387
+  "total_posts": 388
 }
