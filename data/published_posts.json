@@ -6554,6 +6554,23 @@
       "word_count": 1340,
       "filepath": "content/posts/2026-09-09-hiring-automation-for-managerled-recruiting.md",
       "topic": "Hiring Automation for Manager\u2011Led Recruiting"
+    },
+    {
+      "title": "AI Succession Planning: Data\u2011Driven Paths to Future Leaders",
+      "slug": "ai-succession-planning-datadriven-paths-to-future-leaders",
+      "description": "# AI Succession Planning: Data\u2011Driven Paths to Future Leaders\n\nIn today\u2019s fast\u2011moving business environment, the ability to identify and develop the ne...",
+      "pub_date": "2026-09-10",
+      "tags": [],
+      "keywords": [
+        "AI succession planning",
+        "leadership pipeline analytics",
+        "predictive talent assessment",
+        "internal mobility AI",
+        "data-driven hiring"
+      ],
+      "word_count": 1451,
+      "filepath": "content/posts/2026-09-10-ai-succession-planning-datadriven-paths-to-future-leaders.md",
+      "topic": "AI Succession Planning: Data\u2011Driven Paths to Future Leaders"
     }
   ],
   "topics_used": [
@@ -6944,8 +6961,9 @@
     "AI Hiring Playbook for Series C Scale\u2011Up",
     "AI Predicts Salary Expectations to Win More Offers",
     "AI-Powered Candidate Tracking Software Boosts Hiring Funnel",
-    "Hiring Automation for Manager\u2011Led Recruiting"
+    "Hiring Automation for Manager\u2011Led Recruiting",
+    "AI Succession Planning: Data\u2011Driven Paths to Future Leaders"
   ],
-  "last_updated": "2026-09-09",
-  "total_posts": 388
+  "last_updated": "2026-09-10",
+  "total_posts": 389
 }
