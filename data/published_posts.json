@@ -6571,6 +6571,23 @@
       "word_count": 1451,
       "filepath": "content/posts/2026-09-10-ai-succession-planning-datadriven-paths-to-future-leaders.md",
       "topic": "AI Succession Planning: Data\u2011Driven Paths to Future Leaders"
+    },
+    {
+      "title": "AI Predictive Hiring for Customer Success Teams",
+      "slug": "ai-predictive-hiring-for-customer-success-teams",
+      "description": "# AI Predictive Hiring for Customer Success Teams  \n\nHiring the right people for customer success (CS) isn\u2019t just a people\u2011operation decision\u2014it\u2019s a d...",
+      "pub_date": "2026-09-12",
+      "tags": [],
+      "keywords": [
+        "AI predictive hiring",
+        "customer success hiring",
+        "AI talent acquisition",
+        "new hire success prediction",
+        "AI hiring metrics"
+      ],
+      "word_count": 1443,
+      "filepath": "content/posts/2026-09-12-ai-predictive-hiring-for-customer-success-teams.md",
+      "topic": "AI Predictive Hiring for Customer Success Teams"
     }
   ],
   "topics_used": [
@@ -6962,8 +6979,9 @@
     "AI Predicts Salary Expectations to Win More Offers",
     "AI-Powered Candidate Tracking Software Boosts Hiring Funnel",
     "Hiring Automation for Manager\u2011Led Recruiting",
-    "AI Succession Planning: Data\u2011Driven Paths to Future Leaders"
+    "AI Succession Planning: Data\u2011Driven Paths to Future Leaders",
+    "AI Predictive Hiring for Customer Success Teams"
   ],
-  "last_updated": "2026-09-10",
-  "total_posts": 389
+  "last_updated": "2026-09-12",
+  "total_posts": 390
 }
