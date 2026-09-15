@@ -6622,6 +6622,23 @@
       "word_count": 1111,
       "filepath": "content/posts/2026-09-13-ai-interview-roleplay-simulations-elevate-candidate-prep.md",
       "topic": "AI Interview Role\u2011Play Simulations Elevate Candidate Prep"
+    },
+    {
+      "title": "AI Hiring Automation: Remote\u2011First Onboarding Blueprint",
+      "slug": "ai-hiring-automation-remotefirst-onboarding-blueprint",
+      "description": "# AI Hiring Automation: Remote\u2011First Onboarding Blueprint\n\nIn today\u2019s talent\u2011driven market, speed and experience are no longer optional\u2014they\u2019re compet...",
+      "pub_date": "2026-09-15",
+      "tags": [],
+      "keywords": [
+        "AI hiring automation",
+        "remote-first onboarding",
+        "hiring process automation",
+        "candidate experience with AI",
+        "new hire productivity"
+      ],
+      "word_count": 1329,
+      "filepath": "content/posts/2026-09-15-ai-hiring-automation-remotefirst-onboarding-blueprint.md",
+      "topic": "AI Hiring Automation: Remote\u2011First Onboarding Blueprint"
     }
   ],
   "topics_used": [
@@ -7016,8 +7033,9 @@
     "AI Succession Planning: Data\u2011Driven Paths to Future Leaders",
     "AI Predictive Hiring for Customer Success Teams",
     "AI Hiring for Rapid Market Expansion: A Startup Playbook",
-    "AI Interview Role\u2011Play Simulations Elevate Candidate Prep"
+    "AI Interview Role\u2011Play Simulations Elevate Candidate Prep",
+    "AI Hiring Automation: Remote\u2011First Onboarding Blueprint"
   ],
-  "last_updated": "2026-09-13",
-  "total_posts": 392
+  "last_updated": "2026-09-15",
+  "total_posts": 393
 }
