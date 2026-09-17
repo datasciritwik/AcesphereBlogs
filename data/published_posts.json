@@ -6656,6 +6656,23 @@
       "word_count": 1087,
       "filepath": "content/posts/2026-09-17-ai-hiring-for-employee-wellbeing-predict-burnout-early.md",
       "topic": "AI Hiring for Employee Wellbeing: Predict Burnout Early"
+    },
+    {
+      "title": "AI Predicts Onboarding Success: Reduce New Hire Drop\u2011off",
+      "slug": "ai-predicts-onboarding-success-reduce-new-hire-dropoff",
+      "description": "# AI Predicts Onboarding Success: Reduce New Hire Drop\u2011off  \n\nNew\u2011hire onboarding is often treated as a necessary expense, but it can also be a powerf...",
+      "pub_date": "2026-09-17",
+      "tags": [],
+      "keywords": [
+        "AI onboarding",
+        "predictive hiring",
+        "new hire success",
+        "onboarding analytics",
+        "reduce new hire turnover"
+      ],
+      "word_count": 1241,
+      "filepath": "content/posts/2026-09-17-ai-predicts-onboarding-success-reduce-new-hire-dropoff.md",
+      "topic": "AI Predicts Onboarding Success: Reduce New Hire Drop\u2011off"
     }
   ],
   "topics_used": [
@@ -7052,8 +7069,9 @@
     "AI Hiring for Rapid Market Expansion: A Startup Playbook",
     "AI Interview Role\u2011Play Simulations Elevate Candidate Prep",
     "AI Hiring Automation: Remote\u2011First Onboarding Blueprint",
-    "AI Hiring for Employee Wellbeing: Predict Burnout Early"
+    "AI Hiring for Employee Wellbeing: Predict Burnout Early",
+    "AI Predicts Onboarding Success: Reduce New Hire Drop\u2011off"
   ],
   "last_updated": "2026-09-17",
-  "total_posts": 394
+  "total_posts": 395
 }
