@@ -6639,6 +6639,23 @@
       "word_count": 1329,
       "filepath": "content/posts/2026-09-15-ai-hiring-automation-remotefirst-onboarding-blueprint.md",
       "topic": "AI Hiring Automation: Remote\u2011First Onboarding Blueprint"
+    },
+    {
+      "title": "AI Hiring for Employee Wellbeing: Predict Burnout Early",
+      "slug": "ai-hiring-for-employee-wellbeing-predict-burnout-early",
+      "description": "# AI Hiring for Employee Wellbeing: Predict Burnout Early\n\nIn today\u2019s fast\u2011growing companies, hiring isn\u2019t just about filling a vacancy\u2014it\u2019s the first...",
+      "pub_date": "2026-09-17",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "burnout prediction",
+        "employee wellbeing",
+        "pre-hire testing",
+        "recruiter efficiency tools"
+      ],
+      "word_count": 1087,
+      "filepath": "content/posts/2026-09-17-ai-hiring-for-employee-wellbeing-predict-burnout-early.md",
+      "topic": "AI Hiring for Employee Wellbeing: Predict Burnout Early"
     }
   ],
   "topics_used": [
@@ -7034,8 +7051,9 @@
     "AI Predictive Hiring for Customer Success Teams",
     "AI Hiring for Rapid Market Expansion: A Startup Playbook",
     "AI Interview Role\u2011Play Simulations Elevate Candidate Prep",
-    "AI Hiring Automation: Remote\u2011First Onboarding Blueprint"
+    "AI Hiring Automation: Remote\u2011First Onboarding Blueprint",
+    "AI Hiring for Employee Wellbeing: Predict Burnout Early"
   ],
-  "last_updated": "2026-09-15",
-  "total_posts": 393
+  "last_updated": "2026-09-17",
+  "total_posts": 394
 }
