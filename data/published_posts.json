@@ -6673,6 +6673,23 @@
       "word_count": 1241,
       "filepath": "content/posts/2026-09-17-ai-predicts-onboarding-success-reduce-new-hire-dropoff.md",
       "topic": "AI Predicts Onboarding Success: Reduce New Hire Drop\u2011off"
+    },
+    {
+      "title": "AI Hiring: Analyzing Cover Letters for Hidden Soft Skills",
+      "slug": "ai-hiring-analyzing-cover-letters-for-hidden-soft-skills",
+      "description": "# AI Hiring: Analyzing Cover Letters for Hidden Soft Skills  \n\nIn today\u2019s hyper\u2011competitive talent market, recruiters need more than just a list of ha...",
+      "pub_date": "2026-09-18",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "cover letter analysis",
+        "soft skill assessment",
+        "automated screening",
+        "candidate evaluation"
+      ],
+      "word_count": 1344,
+      "filepath": "content/posts/2026-09-18-ai-hiring-analyzing-cover-letters-for-hidden-soft-skills.md",
+      "topic": "AI Hiring: Analyzing Cover Letters for Hidden Soft Skills"
     }
   ],
   "topics_used": [
@@ -7070,8 +7087,9 @@
     "AI Interview Role\u2011Play Simulations Elevate Candidate Prep",
     "AI Hiring Automation: Remote\u2011First Onboarding Blueprint",
     "AI Hiring for Employee Wellbeing: Predict Burnout Early",
-    "AI Predicts Onboarding Success: Reduce New Hire Drop\u2011off"
+    "AI Predicts Onboarding Success: Reduce New Hire Drop\u2011off",
+    "AI Hiring: Analyzing Cover Letters for Hidden Soft Skills"
   ],
-  "last_updated": "2026-09-17",
-  "total_posts": 395
+  "last_updated": "2026-09-18",
+  "total_posts": 396
 }
