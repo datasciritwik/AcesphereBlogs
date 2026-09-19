@@ -6690,6 +6690,23 @@
       "word_count": 1344,
       "filepath": "content/posts/2026-09-18-ai-hiring-analyzing-cover-letters-for-hidden-soft-skills.md",
       "topic": "AI Hiring: Analyzing Cover Letters for Hidden Soft Skills"
+    },
+    {
+      "title": "AI Hiring to Upskill Your Workforce Fast",
+      "slug": "ai-hiring-to-upskill-your-workforce-fast",
+      "description": "# AI Hiring to Upskill Your Workforce Fast\n\nIn today\u2019s rapidly evolving market, the ability to close skill gaps quickly can be the difference between...",
+      "pub_date": "2026-09-19",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "workforce upskilling",
+        "skill gap analysis",
+        "employee development AI",
+        "talent reskilling"
+      ],
+      "word_count": 1380,
+      "filepath": "content/posts/2026-09-19-ai-hiring-to-upskill-your-workforce-fast.md",
+      "topic": "AI Hiring to Upskill Your Workforce Fast"
     }
   ],
   "topics_used": [
@@ -7088,8 +7105,9 @@
     "AI Hiring Automation: Remote\u2011First Onboarding Blueprint",
     "AI Hiring for Employee Wellbeing: Predict Burnout Early",
     "AI Predicts Onboarding Success: Reduce New Hire Drop\u2011off",
-    "AI Hiring: Analyzing Cover Letters for Hidden Soft Skills"
+    "AI Hiring: Analyzing Cover Letters for Hidden Soft Skills",
+    "AI Hiring to Upskill Your Workforce Fast"
   ],
-  "last_updated": "2026-09-18",
-  "total_posts": 396
+  "last_updated": "2026-09-19",
+  "total_posts": 397
 }
