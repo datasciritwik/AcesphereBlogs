@@ -6707,6 +6707,22 @@
       "word_count": 1380,
       "filepath": "content/posts/2026-09-19-ai-hiring-to-upskill-your-workforce-fast.md",
       "topic": "AI Hiring to Upskill Your Workforce Fast"
+    },
+    {
+      "title": "Interview Intelligence: Predicting New Hire Performance",
+      "slug": "interview-intelligence-predicting-new-hire-performance",
+      "description": "# Interview Intelligence: Predicting New Hire Performance  \n\nHiring managers and founders of remote\u2011first startups constantly ask: *Can we know today...",
+      "pub_date": "2026-09-21",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "remote hiring best practices",
+        "data-driven hiring decisions",
+        "predictive hiring"
+      ],
+      "word_count": 1185,
+      "filepath": "content/posts/2026-09-21-interview-intelligence-predicting-new-hire-performance.md",
+      "topic": "Interview Intelligence: Predicting New Hire Performance"
     }
   ],
   "topics_used": [
@@ -7106,8 +7122,9 @@
     "AI Hiring for Employee Wellbeing: Predict Burnout Early",
     "AI Predicts Onboarding Success: Reduce New Hire Drop\u2011off",
     "AI Hiring: Analyzing Cover Letters for Hidden Soft Skills",
-    "AI Hiring to Upskill Your Workforce Fast"
+    "AI Hiring to Upskill Your Workforce Fast",
+    "Interview Intelligence: Predicting New Hire Performance"
   ],
-  "last_updated": "2026-09-19",
-  "total_posts": 397
+  "last_updated": "2026-09-21",
+  "total_posts": 398
 }
