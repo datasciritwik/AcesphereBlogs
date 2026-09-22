@@ -6739,6 +6739,23 @@
       "word_count": 1282,
       "filepath": "content/posts/2026-09-22-ai-hiring-platform-boost-crossfunctional-team-success.md",
       "topic": "AI Hiring Platform: Boost Cross\u2011Functional Team Success"
+    },
+    {
+      "title": "AI Async Communication Assessment for Remote Hiring",
+      "slug": "ai-async-communication-assessment-for-remote-hiring",
+      "description": "# AI Async Communication Assessment for Remote Hiring\n\nHiring managers in remote\u2011first organizations face a hidden challenge: **candidates\u2019 ability to...",
+      "pub_date": "2026-09-22",
+      "tags": [],
+      "keywords": [
+        "remote hiring",
+        "async communication assessment",
+        "AI cultural fit",
+        "recruiter productivity",
+        "AI interview tools"
+      ],
+      "word_count": 990,
+      "filepath": "content/posts/2026-09-22-ai-async-communication-assessment-for-remote-hiring.md",
+      "topic": "AI Async Communication Assessment for Remote Hiring"
     }
   ],
   "topics_used": [
@@ -7140,8 +7157,9 @@
     "AI Hiring: Analyzing Cover Letters for Hidden Soft Skills",
     "AI Hiring to Upskill Your Workforce Fast",
     "Interview Intelligence: Predicting New Hire Performance",
-    "AI Hiring Platform: Boost Cross\u2011Functional Team Success"
+    "AI Hiring Platform: Boost Cross\u2011Functional Team Success",
+    "AI Async Communication Assessment for Remote Hiring"
   ],
   "last_updated": "2026-09-22",
-  "total_posts": 399
+  "total_posts": 400
 }
