@@ -6756,6 +6756,23 @@
       "word_count": 990,
       "filepath": "content/posts/2026-09-22-ai-async-communication-assessment-for-remote-hiring.md",
       "topic": "AI Async Communication Assessment for Remote Hiring"
+    },
+    {
+      "title": "AI Interview Analytics to Predict Team Chemistry",
+      "slug": "ai-interview-analytics-to-predict-team-chemistry",
+      "description": "# AI Interview Analytics to Predict Team Chemistry\n\nHiring managers and founders constantly ask: *Can we know today whether a candidate will click wit...",
+      "pub_date": "2026-09-23",
+      "tags": [],
+      "keywords": [
+        "AI interview",
+        "interview analytics",
+        "team chemistry",
+        "predictive hiring",
+        "hiring manager decision support"
+      ],
+      "word_count": 1268,
+      "filepath": "content/posts/2026-09-23-ai-interview-analytics-to-predict-team-chemistry.md",
+      "topic": "AI Interview Analytics to Predict Team Chemistry"
     }
   ],
   "topics_used": [
@@ -7158,8 +7175,9 @@
     "AI Hiring to Upskill Your Workforce Fast",
     "Interview Intelligence: Predicting New Hire Performance",
     "AI Hiring Platform: Boost Cross\u2011Functional Team Success",
-    "AI Async Communication Assessment for Remote Hiring"
+    "AI Async Communication Assessment for Remote Hiring",
+    "AI Interview Analytics to Predict Team Chemistry"
   ],
-  "last_updated": "2026-09-22",
-  "total_posts": 400
+  "last_updated": "2026-09-23",
+  "total_posts": 401
 }
