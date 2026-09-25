@@ -6790,6 +6790,22 @@
       "word_count": 1155,
       "filepath": "content/posts/2026-09-25-recruiter-efficiency-tools-ai-capacity-planning-guide.md",
       "topic": "Recruiter Efficiency Tools: AI Capacity Planning Guide"
+    },
+    {
+      "title": "AI Hiring Platform: Empowering Founder\u2011Led Recruiting",
+      "slug": "ai-hiring-platform-empowering-founderled-recruiting",
+      "description": "# AI Hiring Platform: Empowering Founder\u2011Led Recruiting  \n\nFounders wear many hats, and hiring is often one of the most critical. In this guide you\u2019ll...",
+      "pub_date": "2026-09-25",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "founder led recruiting",
+        "hiring automation",
+        "startup hiring best practices"
+      ],
+      "word_count": 1330,
+      "filepath": "content/posts/2026-09-25-ai-hiring-platform-empowering-founderled-recruiting.md",
+      "topic": "AI Hiring Platform: Empowering Founder\u2011Led Recruiting"
     }
   ],
   "topics_used": [
@@ -7194,8 +7210,9 @@
     "AI Hiring Platform: Boost Cross\u2011Functional Team Success",
     "AI Async Communication Assessment for Remote Hiring",
     "AI Interview Analytics to Predict Team Chemistry",
-    "Recruiter Efficiency Tools: AI Capacity Planning Guide"
+    "Recruiter Efficiency Tools: AI Capacity Planning Guide",
+    "AI Hiring Platform: Empowering Founder\u2011Led Recruiting"
   ],
   "last_updated": "2026-09-25",
-  "total_posts": 402
+  "total_posts": 403
 }
