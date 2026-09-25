@@ -6773,6 +6773,23 @@
       "word_count": 1268,
       "filepath": "content/posts/2026-09-23-ai-interview-analytics-to-predict-team-chemistry.md",
       "topic": "AI Interview Analytics to Predict Team Chemistry"
+    },
+    {
+      "title": "Recruiter Efficiency Tools: AI Capacity Planning Guide",
+      "slug": "recruiter-efficiency-tools-ai-capacity-planning-guide",
+      "description": "# Recruiter Efficiency Tools: AI Capacity Planning Guide\n\nRecruiters are the engine of growth for startups and mid\u2011size firms, yet many HR teams wrest...",
+      "pub_date": "2026-09-25",
+      "tags": [],
+      "keywords": [
+        "recruiter efficiency tools",
+        "AI recruiter capacity planning",
+        "recruiter productivity tips",
+        "predictive hiring workload",
+        "recruiter workload forecasting"
+      ],
+      "word_count": 1155,
+      "filepath": "content/posts/2026-09-25-recruiter-efficiency-tools-ai-capacity-planning-guide.md",
+      "topic": "Recruiter Efficiency Tools: AI Capacity Planning Guide"
     }
   ],
   "topics_used": [
@@ -7176,8 +7193,9 @@
     "Interview Intelligence: Predicting New Hire Performance",
     "AI Hiring Platform: Boost Cross\u2011Functional Team Success",
     "AI Async Communication Assessment for Remote Hiring",
-    "AI Interview Analytics to Predict Team Chemistry"
+    "AI Interview Analytics to Predict Team Chemistry",
+    "Recruiter Efficiency Tools: AI Capacity Planning Guide"
   ],
-  "last_updated": "2026-09-23",
-  "total_posts": 401
+  "last_updated": "2026-09-25",
+  "total_posts": 402
 }
