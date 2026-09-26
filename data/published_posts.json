@@ -6806,6 +6806,22 @@
       "word_count": 1330,
       "filepath": "content/posts/2026-09-25-ai-hiring-platform-empowering-founderled-recruiting.md",
       "topic": "AI Hiring Platform: Empowering Founder\u2011Led Recruiting"
+    },
+    {
+      "title": "AI Hiring Platform Playbook for Fast Product Launches",
+      "slug": "ai-hiring-platform-playbook-for-fast-product-launches",
+      "description": "# AI Hiring Platform Playbook for Fast Product Launches  \n\nLaunching a new product on a tight timeline means you can\u2019t afford a drawn\u2011out hiring proce...",
+      "pub_date": "2026-09-26",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "scaling hiring with automation",
+        "product launch hiring",
+        "hiring pipeline management"
+      ],
+      "word_count": 1037,
+      "filepath": "content/posts/2026-09-26-ai-hiring-platform-playbook-for-fast-product-launches.md",
+      "topic": "AI Hiring Platform Playbook for Fast Product Launches"
     }
   ],
   "topics_used": [
@@ -7211,8 +7227,9 @@
     "AI Async Communication Assessment for Remote Hiring",
     "AI Interview Analytics to Predict Team Chemistry",
     "Recruiter Efficiency Tools: AI Capacity Planning Guide",
-    "AI Hiring Platform: Empowering Founder\u2011Led Recruiting"
+    "AI Hiring Platform: Empowering Founder\u2011Led Recruiting",
+    "AI Hiring Platform Playbook for Fast Product Launches"
   ],
-  "last_updated": "2026-09-25",
-  "total_posts": 403
+  "last_updated": "2026-09-26",
+  "total_posts": 404
 }
