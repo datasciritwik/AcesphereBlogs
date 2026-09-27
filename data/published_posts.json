@@ -6822,6 +6822,23 @@
       "word_count": 1037,
       "filepath": "content/posts/2026-09-26-ai-hiring-platform-playbook-for-fast-product-launches.md",
       "topic": "AI Hiring Platform Playbook for Fast Product Launches"
+    },
+    {
+      "title": "Hiring Technology: Fueling Continuous Employee Upskilling",
+      "slug": "hiring-technology-fueling-continuous-employee-upskilling",
+      "description": "# Hiring Technology: Fueling Continuous Employee Upskilling\n\nIn today\u2019s fast\u2011changing market, hiring is no longer a one\u2011off transaction\u2014it\u2019s the first...",
+      "pub_date": "2026-09-27",
+      "tags": [],
+      "keywords": [
+        "hiring technology",
+        "recruitment analytics",
+        "employee upskilling",
+        "AI-driven hiring",
+        "continuous learning"
+      ],
+      "word_count": 1195,
+      "filepath": "content/posts/2026-09-27-hiring-technology-fueling-continuous-employee-upskilling.md",
+      "topic": "Hiring Technology: Fueling Continuous Employee Upskilling"
     }
   ],
   "topics_used": [
@@ -7228,8 +7245,9 @@
     "AI Interview Analytics to Predict Team Chemistry",
     "Recruiter Efficiency Tools: AI Capacity Planning Guide",
     "AI Hiring Platform: Empowering Founder\u2011Led Recruiting",
-    "AI Hiring Platform Playbook for Fast Product Launches"
+    "AI Hiring Platform Playbook for Fast Product Launches",
+    "Hiring Technology: Fueling Continuous Employee Upskilling"
   ],
-  "last_updated": "2026-09-26",
-  "total_posts": 404
+  "last_updated": "2026-09-27",
+  "total_posts": 405
 }
