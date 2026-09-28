@@ -6839,6 +6839,23 @@
       "word_count": 1195,
       "filepath": "content/posts/2026-09-27-hiring-technology-fueling-continuous-employee-upskilling.md",
       "topic": "Hiring Technology: Fueling Continuous Employee Upskilling"
+    },
+    {
+      "title": "AI Hiring: Unlocking Open\u2011Source Talent for Tech Teams",
+      "slug": "ai-hiring-unlocking-opensource-talent-for-tech-teams",
+      "description": "# AI Hiring: Unlocking Open\u2011Source Talent for Tech Teams\n\nIn today\u2019s competitive talent market, **AI hiring** isn\u2019t just about parsing r\u00e9sum\u00e9s\u2014it\u2019s ab...",
+      "pub_date": "2026-09-28",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "open source talent",
+        "competency assessment",
+        "smart hiring tools",
+        "technical hiring automation"
+      ],
+      "word_count": 1114,
+      "filepath": "content/posts/2026-09-28-ai-hiring-unlocking-opensource-talent-for-tech-teams.md",
+      "topic": "AI Hiring: Unlocking Open\u2011Source Talent for Tech Teams"
     }
   ],
   "topics_used": [
@@ -7246,8 +7263,9 @@
     "Recruiter Efficiency Tools: AI Capacity Planning Guide",
     "AI Hiring Platform: Empowering Founder\u2011Led Recruiting",
     "AI Hiring Platform Playbook for Fast Product Launches",
-    "Hiring Technology: Fueling Continuous Employee Upskilling"
+    "Hiring Technology: Fueling Continuous Employee Upskilling",
+    "AI Hiring: Unlocking Open\u2011Source Talent for Tech Teams"
   ],
-  "last_updated": "2026-09-27",
-  "total_posts": 405
+  "last_updated": "2026-09-28",
+  "total_posts": 406
 }
