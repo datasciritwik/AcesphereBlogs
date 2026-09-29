@@ -6856,6 +6856,23 @@
       "word_count": 1114,
       "filepath": "content/posts/2026-09-28-ai-hiring-unlocking-opensource-talent-for-tech-teams.md",
       "topic": "AI Hiring: Unlocking Open\u2011Source Talent for Tech Teams"
+    },
+    {
+      "title": "Recruiter Efficiency Tools: Cutting Cognitive Load",
+      "slug": "recruiter-efficiency-tools-cutting-cognitive-load",
+      "description": "# Recruiter Efficiency Tools: Cutting Cognitive Load  \n\nRecruiters at fast\u2011growing startups and mid\u2011sized companies juggle dozens of open roles, hundr...",
+      "pub_date": "2026-09-29",
+      "tags": [],
+      "keywords": [
+        "recruiter efficiency tools",
+        "cognitive load",
+        "high-volume hiring",
+        "AI recruitment",
+        "recruiter burnout"
+      ],
+      "word_count": 1135,
+      "filepath": "content/posts/2026-09-29-recruiter-efficiency-tools-cutting-cognitive-load.md",
+      "topic": "Recruiter Efficiency Tools: Cutting Cognitive Load"
     }
   ],
   "topics_used": [
@@ -7264,8 +7281,9 @@
     "AI Hiring Platform: Empowering Founder\u2011Led Recruiting",
     "AI Hiring Platform Playbook for Fast Product Launches",
     "Hiring Technology: Fueling Continuous Employee Upskilling",
-    "AI Hiring: Unlocking Open\u2011Source Talent for Tech Teams"
+    "AI Hiring: Unlocking Open\u2011Source Talent for Tech Teams",
+    "Recruiter Efficiency Tools: Cutting Cognitive Load"
   ],
-  "last_updated": "2026-09-28",
-  "total_posts": 406
+  "last_updated": "2026-09-29",
+  "total_posts": 407
 }
