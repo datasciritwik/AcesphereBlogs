@@ -6873,6 +6873,22 @@
       "word_count": 1135,
       "filepath": "content/posts/2026-09-29-recruiter-efficiency-tools-cutting-cognitive-load.md",
       "topic": "Recruiter Efficiency Tools: Cutting Cognitive Load"
+    },
+    {
+      "title": "AI Hiring Dashboard: Real\u2011Time Skill Gap Alerts",
+      "slug": "ai-hiring-dashboard-realtime-skill-gap-alerts",
+      "description": "# AI Hiring Dashboard: Real\u2011Time Skill Gap Alerts\n\nIn fast\u2011moving startups, the difference between scaling smoothly and missing a critical product dea...",
+      "pub_date": "2026-10-01",
+      "tags": [],
+      "keywords": [
+        "AI hiring dashboard",
+        "skill gap alerts",
+        "real-time hiring analytics",
+        "recruiter productivity"
+      ],
+      "word_count": 1303,
+      "filepath": "content/posts/2026-10-01-ai-hiring-dashboard-realtime-skill-gap-alerts.md",
+      "topic": "AI Hiring Dashboard: Real\u2011Time Skill Gap Alerts"
     }
   ],
   "topics_used": [
@@ -7282,8 +7298,9 @@
     "AI Hiring Platform Playbook for Fast Product Launches",
     "Hiring Technology: Fueling Continuous Employee Upskilling",
     "AI Hiring: Unlocking Open\u2011Source Talent for Tech Teams",
-    "Recruiter Efficiency Tools: Cutting Cognitive Load"
+    "Recruiter Efficiency Tools: Cutting Cognitive Load",
+    "AI Hiring Dashboard: Real\u2011Time Skill Gap Alerts"
   ],
-  "last_updated": "2026-09-29",
-  "total_posts": 407
+  "last_updated": "2026-10-01",
+  "total_posts": 408
 }
