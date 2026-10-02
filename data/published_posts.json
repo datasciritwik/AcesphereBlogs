@@ -6889,6 +6889,23 @@
       "word_count": 1303,
       "filepath": "content/posts/2026-10-01-ai-hiring-dashboard-realtime-skill-gap-alerts.md",
       "topic": "AI Hiring Dashboard: Real\u2011Time Skill Gap Alerts"
+    },
+    {
+      "title": "AI Interviews: Measuring Candidate Energy to Reduce Dropouts",
+      "slug": "ai-interviews-measuring-candidate-energy-to-reduce-dropouts",
+      "description": "# AI Interviews: Measuring Candidate Energy to Reduce Dropouts\n\nIn fast\u2011growing startups, every interview that falls through the cracks translates int...",
+      "pub_date": "2026-10-02",
+      "tags": [],
+      "keywords": [
+        "AI interviews",
+        "candidate energy detection",
+        "interview dropout",
+        "recruiter productivity",
+        "AI interview analytics"
+      ],
+      "word_count": 1292,
+      "filepath": "content/posts/2026-10-02-ai-interviews-measuring-candidate-energy-to-reduce-dropouts.md",
+      "topic": "AI Interviews: Measuring Candidate Energy to Reduce Dropouts"
     }
   ],
   "topics_used": [
@@ -7299,8 +7316,9 @@
     "Hiring Technology: Fueling Continuous Employee Upskilling",
     "AI Hiring: Unlocking Open\u2011Source Talent for Tech Teams",
     "Recruiter Efficiency Tools: Cutting Cognitive Load",
-    "AI Hiring Dashboard: Real\u2011Time Skill Gap Alerts"
+    "AI Hiring Dashboard: Real\u2011Time Skill Gap Alerts",
+    "AI Interviews: Measuring Candidate Energy to Reduce Dropouts"
   ],
-  "last_updated": "2026-10-01",
-  "total_posts": 408
+  "last_updated": "2026-10-02",
+  "total_posts": 409
 }
