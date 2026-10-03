@@ -6906,6 +6906,23 @@
       "word_count": 1292,
       "filepath": "content/posts/2026-10-02-ai-interviews-measuring-candidate-energy-to-reduce-dropouts.md",
       "topic": "AI Interviews: Measuring Candidate Energy to Reduce Dropouts"
+    },
+    {
+      "title": "AI-Driven Hiring for Renewable Energy Companies",
+      "slug": "ai-driven-hiring-for-renewable-energy-companies",
+      "description": "# AI-Driven Hiring for Renewable Energy Companies  \n\nIn a sector where talent directly influences carbon\u2011reduction outcomes, aligning recruitment with...",
+      "pub_date": "2026-10-03",
+      "tags": [],
+      "keywords": [
+        "AI-driven hiring",
+        "renewable energy hiring",
+        "green talent acquisition",
+        "sustainability hiring",
+        "AI hiring for startups"
+      ],
+      "word_count": 1428,
+      "filepath": "content/posts/2026-10-03-ai-driven-hiring-for-renewable-energy-companies.md",
+      "topic": "AI-Driven Hiring for Renewable Energy Companies"
     }
   ],
   "topics_used": [
@@ -7317,8 +7334,9 @@
     "AI Hiring: Unlocking Open\u2011Source Talent for Tech Teams",
     "Recruiter Efficiency Tools: Cutting Cognitive Load",
     "AI Hiring Dashboard: Real\u2011Time Skill Gap Alerts",
-    "AI Interviews: Measuring Candidate Energy to Reduce Dropouts"
+    "AI Interviews: Measuring Candidate Energy to Reduce Dropouts",
+    "AI-Driven Hiring for Renewable Energy Companies"
   ],
-  "last_updated": "2026-10-02",
-  "total_posts": 409
+  "last_updated": "2026-10-03",
+  "total_posts": 410
 }
