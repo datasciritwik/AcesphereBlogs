@@ -6923,6 +6923,23 @@
       "word_count": 1428,
       "filepath": "content/posts/2026-10-03-ai-driven-hiring-for-renewable-energy-companies.md",
       "topic": "AI-Driven Hiring for Renewable Energy Companies"
+    },
+    {
+      "title": "AI Hiring: Real\u2011Time Salary Benchmarking to Win Offers",
+      "slug": "ai-hiring-realtime-salary-benchmarking-to-win-offers",
+      "description": "# AI Hiring: Real\u2011Time Salary Benchmarking to Win Offers\n\nIn today\u2019s hyper\u2011competitive talent market, the difference between a signed contract and a l...",
+      "pub_date": "2026-10-04",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "salary benchmarking",
+        "offer acceptance",
+        "automated hiring",
+        "recruiter productivity"
+      ],
+      "word_count": 1205,
+      "filepath": "content/posts/2026-10-04-ai-hiring-realtime-salary-benchmarking-to-win-offers.md",
+      "topic": "AI Hiring: Real\u2011Time Salary Benchmarking to Win Offers"
     }
   ],
   "topics_used": [
@@ -7335,8 +7352,9 @@
     "Recruiter Efficiency Tools: Cutting Cognitive Load",
     "AI Hiring Dashboard: Real\u2011Time Skill Gap Alerts",
     "AI Interviews: Measuring Candidate Energy to Reduce Dropouts",
-    "AI-Driven Hiring for Renewable Energy Companies"
+    "AI-Driven Hiring for Renewable Energy Companies",
+    "AI Hiring: Real\u2011Time Salary Benchmarking to Win Offers"
   ],
-  "last_updated": "2026-10-03",
-  "total_posts": 410
+  "last_updated": "2026-10-04",
+  "total_posts": 411
 }
