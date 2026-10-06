@@ -6940,6 +6940,23 @@
       "word_count": 1205,
       "filepath": "content/posts/2026-10-04-ai-hiring-realtime-salary-benchmarking-to-win-offers.md",
       "topic": "AI Hiring: Real\u2011Time Salary Benchmarking to Win Offers"
+    },
+    {
+      "title": "Recruiter Productivity Tips: AI Micro\u2011Task Automation Wins",
+      "slug": "recruiter-productivity-tips-ai-microtask-automation-wins",
+      "description": "# Recruiter Productivity Tips: AI Micro\u2011Task Automation Wins\n\nRecruiters today juggle dozens of repetitive actions\u2014from parsing resumes to chasing cal...",
+      "pub_date": "2026-10-06",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity tips",
+        "AI hiring automation",
+        "micro\u2011task automation",
+        "recruiter cognitive load",
+        "hiring pipeline management"
+      ],
+      "word_count": 1284,
+      "filepath": "content/posts/2026-10-06-recruiter-productivity-tips-ai-microtask-automation-wins.md",
+      "topic": "Recruiter Productivity Tips: AI Micro\u2011Task Automation Wins"
     }
   ],
   "topics_used": [
@@ -7353,8 +7370,9 @@
     "AI Hiring Dashboard: Real\u2011Time Skill Gap Alerts",
     "AI Interviews: Measuring Candidate Energy to Reduce Dropouts",
     "AI-Driven Hiring for Renewable Energy Companies",
-    "AI Hiring: Real\u2011Time Salary Benchmarking to Win Offers"
+    "AI Hiring: Real\u2011Time Salary Benchmarking to Win Offers",
+    "Recruiter Productivity Tips: AI Micro\u2011Task Automation Wins"
   ],
-  "last_updated": "2026-10-04",
-  "total_posts": 411
+  "last_updated": "2026-10-06",
+  "total_posts": 412
 }
