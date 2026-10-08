@@ -6957,6 +6957,23 @@
       "word_count": 1284,
       "filepath": "content/posts/2026-10-06-recruiter-productivity-tips-ai-microtask-automation-wins.md",
       "topic": "Recruiter Productivity Tips: AI Micro\u2011Task Automation Wins"
+    },
+    {
+      "title": "AI Hiring for Startups: Predicting Soft\u2011Skill Growth",
+      "slug": "ai-hiring-for-startups-predicting-softskill-growth",
+      "description": "# AI Hiring for Startups: Predicting Soft\u2011Skill Growth  \n\nIn today\u2019s fast\u2011moving startup environment, hiring the right talent isn\u2019t just about filling...",
+      "pub_date": "2026-10-08",
+      "tags": [],
+      "keywords": [
+        "AI hiring for startups",
+        "soft skill growth prediction",
+        "predictive hiring analytics",
+        "candidate development forecasting",
+        "AI recruitment analytics"
+      ],
+      "word_count": 1384,
+      "filepath": "content/posts/2026-10-08-ai-hiring-for-startups-predicting-softskill-growth.md",
+      "topic": "AI Hiring for Startups: Predicting Soft\u2011Skill Growth"
     }
   ],
   "topics_used": [
@@ -7371,8 +7388,9 @@
     "AI Interviews: Measuring Candidate Energy to Reduce Dropouts",
     "AI-Driven Hiring for Renewable Energy Companies",
     "AI Hiring: Real\u2011Time Salary Benchmarking to Win Offers",
-    "Recruiter Productivity Tips: AI Micro\u2011Task Automation Wins"
+    "Recruiter Productivity Tips: AI Micro\u2011Task Automation Wins",
+    "AI Hiring for Startups: Predicting Soft\u2011Skill Growth"
   ],
-  "last_updated": "2026-10-06",
-  "total_posts": 412
+  "last_updated": "2026-10-08",
+  "total_posts": 413
 }
