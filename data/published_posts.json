@@ -6991,6 +6991,23 @@
       "word_count": 1168,
       "filepath": "content/posts/2026-10-08-ai-hiring-predicts-team-synergy-before-day-one.md",
       "topic": "AI Hiring Predicts Team Synergy Before Day One"
+    },
+    {
+      "title": "AI Talent Acquisition: Align Hires with Your Product Roadmap",
+      "slug": "ai-talent-acquisition-align-hires-with-your-product-roadmap",
+      "description": "# AI Talent Acquisition: Align Hires with Your Product Roadmap\n\nProduct leaders at fast\u2011growing startups constantly juggle feature priorities, market...",
+      "pub_date": "2026-10-09",
+      "tags": [],
+      "keywords": [
+        "AI talent acquisition",
+        "data-driven hiring decisions",
+        "hiring automation",
+        "competency assessment",
+        "hiring best practices"
+      ],
+      "word_count": 1362,
+      "filepath": "content/posts/2026-10-09-ai-talent-acquisition-align-hires-with-your-product-roadmap.md",
+      "topic": "AI Talent Acquisition: Align Hires with Your Product Roadmap"
     }
   ],
   "topics_used": [
@@ -7407,8 +7424,9 @@
     "AI Hiring: Real\u2011Time Salary Benchmarking to Win Offers",
     "Recruiter Productivity Tips: AI Micro\u2011Task Automation Wins",
     "AI Hiring for Startups: Predicting Soft\u2011Skill Growth",
-    "AI Hiring Predicts Team Synergy Before Day One"
+    "AI Hiring Predicts Team Synergy Before Day One",
+    "AI Talent Acquisition: Align Hires with Your Product Roadmap"
   ],
-  "last_updated": "2026-10-08",
-  "total_posts": 414
+  "last_updated": "2026-10-09",
+  "total_posts": 415
 }
