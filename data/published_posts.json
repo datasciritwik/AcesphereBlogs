@@ -7008,6 +7008,23 @@
       "word_count": 1362,
       "filepath": "content/posts/2026-10-09-ai-talent-acquisition-align-hires-with-your-product-roadmap.md",
       "topic": "AI Talent Acquisition: Align Hires with Your Product Roadmap"
+    },
+    {
+      "title": "Interview Intelligence: Forecasting Team Dynamics After Hire",
+      "slug": "interview-intelligence-forecasting-team-dynamics-after-hire",
+      "description": "# Interview Intelligence: Forecasting Team Dynamics After Hire\n\nHiring managers and founders constantly ask the same question: *Will this new hire mes...",
+      "pub_date": "2026-10-10",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "AI recruitment",
+        "predictive hiring",
+        "team dynamics",
+        "hiring automation"
+      ],
+      "word_count": 1280,
+      "filepath": "content/posts/2026-10-10-interview-intelligence-forecasting-team-dynamics-after-hire.md",
+      "topic": "Interview Intelligence: Forecasting Team Dynamics After Hire"
     }
   ],
   "topics_used": [
@@ -7425,8 +7442,9 @@
     "Recruiter Productivity Tips: AI Micro\u2011Task Automation Wins",
     "AI Hiring for Startups: Predicting Soft\u2011Skill Growth",
     "AI Hiring Predicts Team Synergy Before Day One",
-    "AI Talent Acquisition: Align Hires with Your Product Roadmap"
+    "AI Talent Acquisition: Align Hires with Your Product Roadmap",
+    "Interview Intelligence: Forecasting Team Dynamics After Hire"
   ],
-  "last_updated": "2026-10-09",
-  "total_posts": 415
+  "last_updated": "2026-10-10",
+  "total_posts": 416
 }
