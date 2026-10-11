@@ -7025,6 +7025,23 @@
       "word_count": 1280,
       "filepath": "content/posts/2026-10-10-interview-intelligence-forecasting-team-dynamics-after-hire.md",
       "topic": "Interview Intelligence: Forecasting Team Dynamics After Hire"
+    },
+    {
+      "title": "AI\u2011Powered Talent Pipeline for Upcoming Product Launches",
+      "slug": "aipowered-talent-pipeline-for-upcoming-product-launches",
+      "description": "# AI\u2011Powered Talent Pipeline for Upcoming Product Launches\n\nLaunching a new feature or entering a fresh market is exhilarating\u2014but the excitement can...",
+      "pub_date": "2026-10-11",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "talent pipeline",
+        "product roadmap hiring",
+        "predictive hiring",
+        "future hiring needs"
+      ],
+      "word_count": 1239,
+      "filepath": "content/posts/2026-10-11-aipowered-talent-pipeline-for-upcoming-product-launches.md",
+      "topic": "AI\u2011Powered Talent Pipeline for Upcoming Product Launches"
     }
   ],
   "topics_used": [
@@ -7443,8 +7460,9 @@
     "AI Hiring for Startups: Predicting Soft\u2011Skill Growth",
     "AI Hiring Predicts Team Synergy Before Day One",
     "AI Talent Acquisition: Align Hires with Your Product Roadmap",
-    "Interview Intelligence: Forecasting Team Dynamics After Hire"
+    "Interview Intelligence: Forecasting Team Dynamics After Hire",
+    "AI\u2011Powered Talent Pipeline for Upcoming Product Launches"
   ],
-  "last_updated": "2026-10-10",
-  "total_posts": 416
+  "last_updated": "2026-10-11",
+  "total_posts": 417
 }
