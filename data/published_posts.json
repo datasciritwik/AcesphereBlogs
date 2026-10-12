@@ -7058,6 +7058,23 @@
       "word_count": 1263,
       "filepath": "content/posts/2026-10-12-ai-bias-mitigation-audits-streamline-hiring-compliance.md",
       "topic": "AI Bias Mitigation Audits: Streamline Hiring Compliance"
+    },
+    {
+      "title": "Smart Hiring Tools for Employer Brand Storytelling",
+      "slug": "smart-hiring-tools-for-employer-brand-storytelling",
+      "description": "# Smart Hiring Tools for Employer Brand Storytelling\n\nRecruiters who can turn raw recruitment analytics into vivid, candidate\u2011centric narratives gain...",
+      "pub_date": "2026-10-12",
+      "tags": [],
+      "keywords": [
+        "smart hiring tools",
+        "recruitment analytics",
+        "employer brand",
+        "candidate experience",
+        "AI hiring platform"
+      ],
+      "word_count": 1300,
+      "filepath": "content/posts/2026-10-12-smart-hiring-tools-for-employer-brand-storytelling.md",
+      "topic": "Smart Hiring Tools for Employer Brand Storytelling"
     }
   ],
   "topics_used": [
@@ -7478,8 +7495,9 @@
     "AI Talent Acquisition: Align Hires with Your Product Roadmap",
     "Interview Intelligence: Forecasting Team Dynamics After Hire",
     "AI\u2011Powered Talent Pipeline for Upcoming Product Launches",
-    "AI Bias Mitigation Audits: Streamline Hiring Compliance"
+    "AI Bias Mitigation Audits: Streamline Hiring Compliance",
+    "Smart Hiring Tools for Employer Brand Storytelling"
   ],
   "last_updated": "2026-10-12",
-  "total_posts": 418
+  "total_posts": 419
 }
