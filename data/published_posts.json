@@ -7042,6 +7042,22 @@
       "word_count": 1239,
       "filepath": "content/posts/2026-10-11-aipowered-talent-pipeline-for-upcoming-product-launches.md",
       "topic": "AI\u2011Powered Talent Pipeline for Upcoming Product Launches"
+    },
+    {
+      "title": "AI Bias Mitigation Audits: Streamline Hiring Compliance",
+      "slug": "ai-bias-mitigation-audits-streamline-hiring-compliance",
+      "description": "# AI Bias Mitigation Audits: Streamline Hiring Compliance  \n\nIn fast\u2011growing startups, every hiring decision moves at breakneck speed, and a single bi...",
+      "pub_date": "2026-10-12",
+      "tags": [],
+      "keywords": [
+        "AI bias mitigation",
+        "hiring automation",
+        "recruiter efficiency tools",
+        "recruitment analytics"
+      ],
+      "word_count": 1263,
+      "filepath": "content/posts/2026-10-12-ai-bias-mitigation-audits-streamline-hiring-compliance.md",
+      "topic": "AI Bias Mitigation Audits: Streamline Hiring Compliance"
     }
   ],
   "topics_used": [
@@ -7461,8 +7477,9 @@
     "AI Hiring Predicts Team Synergy Before Day One",
     "AI Talent Acquisition: Align Hires with Your Product Roadmap",
     "Interview Intelligence: Forecasting Team Dynamics After Hire",
-    "AI\u2011Powered Talent Pipeline for Upcoming Product Launches"
+    "AI\u2011Powered Talent Pipeline for Upcoming Product Launches",
+    "AI Bias Mitigation Audits: Streamline Hiring Compliance"
   ],
-  "last_updated": "2026-10-11",
-  "total_posts": 417
+  "last_updated": "2026-10-12",
+  "total_posts": 418
 }
