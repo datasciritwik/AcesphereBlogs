@@ -7075,6 +7075,23 @@
       "word_count": 1300,
       "filepath": "content/posts/2026-10-12-smart-hiring-tools-for-employer-brand-storytelling.md",
       "topic": "Smart Hiring Tools for Employer Brand Storytelling"
+    },
+    {
+      "title": "AI Skill Mapping: A Data\u2011Driven Path to Upskilling Talent",
+      "slug": "ai-skill-mapping-a-datadriven-path-to-upskilling-talent",
+      "description": "# AI Skill Mapping: A Data\u2011Driven Path to Upskilling Talent  \n\nIn today\u2019s fast\u2011moving market, the ability to **upskill** employees quickly and move th...",
+      "pub_date": "2026-10-14",
+      "tags": [],
+      "keywords": [
+        "skill evaluation",
+        "recruitment innovation",
+        "AI-powered hiring",
+        "upskilling",
+        "skill-based screening"
+      ],
+      "word_count": 1292,
+      "filepath": "content/posts/2026-10-14-ai-skill-mapping-a-datadriven-path-to-upskilling-talent.md",
+      "topic": "AI Skill Mapping: A Data\u2011Driven Path to Upskilling Talent"
     }
   ],
   "topics_used": [
@@ -7496,8 +7513,9 @@
     "Interview Intelligence: Forecasting Team Dynamics After Hire",
     "AI\u2011Powered Talent Pipeline for Upcoming Product Launches",
     "AI Bias Mitigation Audits: Streamline Hiring Compliance",
-    "Smart Hiring Tools for Employer Brand Storytelling"
+    "Smart Hiring Tools for Employer Brand Storytelling",
+    "AI Skill Mapping: A Data\u2011Driven Path to Upskilling Talent"
   ],
-  "last_updated": "2026-10-12",
-  "total_posts": 419
+  "last_updated": "2026-10-14",
+  "total_posts": 420
 }
