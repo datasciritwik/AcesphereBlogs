@@ -7092,6 +7092,23 @@
       "word_count": 1292,
       "filepath": "content/posts/2026-10-14-ai-skill-mapping-a-datadriven-path-to-upskilling-talent.md",
       "topic": "AI Skill Mapping: A Data\u2011Driven Path to Upskilling Talent"
+    },
+    {
+      "title": "Future\u2011Proof Hiring with AI: Predicting Role Evolution",
+      "slug": "futureproof-hiring-with-ai-predicting-role-evolution",
+      "description": "# Future\u2011Proof Hiring with AI: Predicting Role Evolution  \n\nIn today\u2019s fast\u2011moving talent market, hiring teams that can anticipate how a role will cha...",
+      "pub_date": "2026-10-16",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "data-driven hiring decisions",
+        "future of work",
+        "skill evaluation",
+        "hiring dashboard"
+      ],
+      "word_count": 1075,
+      "filepath": "content/posts/2026-10-16-futureproof-hiring-with-ai-predicting-role-evolution.md",
+      "topic": "Future\u2011Proof Hiring with AI: Predicting Role Evolution"
     }
   ],
   "topics_used": [
@@ -7514,8 +7531,9 @@
     "AI\u2011Powered Talent Pipeline for Upcoming Product Launches",
     "AI Bias Mitigation Audits: Streamline Hiring Compliance",
     "Smart Hiring Tools for Employer Brand Storytelling",
-    "AI Skill Mapping: A Data\u2011Driven Path to Upskilling Talent"
+    "AI Skill Mapping: A Data\u2011Driven Path to Upskilling Talent",
+    "Future\u2011Proof Hiring with AI: Predicting Role Evolution"
   ],
-  "last_updated": "2026-10-14",
-  "total_posts": 420
+  "last_updated": "2026-10-16",
+  "total_posts": 421
 }
