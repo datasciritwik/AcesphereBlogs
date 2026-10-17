@@ -7109,6 +7109,23 @@
       "word_count": 1075,
       "filepath": "content/posts/2026-10-16-futureproof-hiring-with-ai-predicting-role-evolution.md",
       "topic": "Future\u2011Proof Hiring with AI: Predicting Role Evolution"
+    },
+    {
+      "title": "AI Hiring Playbook for Scaling Remote Customer Support",
+      "slug": "ai-hiring-playbook-for-scaling-remote-customer-support",
+      "description": "# AI Hiring Playbook for Scaling Remote Customer Support\n\nHiring a high\u2011performing remote customer support team is a race against time, quality, and c...",
+      "pub_date": "2026-10-17",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "remote customer support hiring",
+        "hiring automation",
+        "data-driven hiring decisions",
+        "customer support recruitment"
+      ],
+      "word_count": 1016,
+      "filepath": "content/posts/2026-10-17-ai-hiring-playbook-for-scaling-remote-customer-support.md",
+      "topic": "AI Hiring Playbook for Scaling Remote Customer Support"
     }
   ],
   "topics_used": [
@@ -7532,8 +7549,9 @@
     "AI Bias Mitigation Audits: Streamline Hiring Compliance",
     "Smart Hiring Tools for Employer Brand Storytelling",
     "AI Skill Mapping: A Data\u2011Driven Path to Upskilling Talent",
-    "Future\u2011Proof Hiring with AI: Predicting Role Evolution"
+    "Future\u2011Proof Hiring with AI: Predicting Role Evolution",
+    "AI Hiring Playbook for Scaling Remote Customer Support"
   ],
-  "last_updated": "2026-10-16",
-  "total_posts": 421
+  "last_updated": "2026-10-17",
+  "total_posts": 422
 }
