@@ -7126,6 +7126,23 @@
       "word_count": 1016,
       "filepath": "content/posts/2026-10-17-ai-hiring-playbook-for-scaling-remote-customer-support.md",
       "topic": "AI Hiring Playbook for Scaling Remote Customer Support"
+    },
+    {
+      "title": "AI Hiring Automation: Scaling Remote Customer Support",
+      "slug": "ai-hiring-automation-scaling-remote-customer-support",
+      "description": "# AI Hiring Automation: Scaling Remote Customer Support\n\nHiring remote customer support teams at speed without sacrificing quality is one of the bigge...",
+      "pub_date": "2026-10-17",
+      "tags": [],
+      "keywords": [
+        "AI hiring automation",
+        "remote customer support hiring",
+        "scaling hiring process",
+        "recruiter productivity",
+        "AI-powered candidate assessment"
+      ],
+      "word_count": 1176,
+      "filepath": "content/posts/2026-10-17-ai-hiring-automation-scaling-remote-customer-support.md",
+      "topic": "AI Hiring Automation: Scaling Remote Customer Support"
     }
   ],
   "topics_used": [
@@ -7550,8 +7567,9 @@
     "Smart Hiring Tools for Employer Brand Storytelling",
     "AI Skill Mapping: A Data\u2011Driven Path to Upskilling Talent",
     "Future\u2011Proof Hiring with AI: Predicting Role Evolution",
-    "AI Hiring Playbook for Scaling Remote Customer Support"
+    "AI Hiring Playbook for Scaling Remote Customer Support",
+    "AI Hiring Automation: Scaling Remote Customer Support"
   ],
   "last_updated": "2026-10-17",
-  "total_posts": 422
+  "total_posts": 423
 }
