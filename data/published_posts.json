@@ -7160,6 +7160,23 @@
       "word_count": 1392,
       "filepath": "content/posts/2026-10-17-ai-recruitment-playbook-for-remotefirst-scaling-teams.md",
       "topic": "AI Recruitment Playbook for Remote\u2011First Scaling Teams"
+    },
+    {
+      "title": "AI\u2011Driven Soft\u2011Skill ROI: Measuring Hiring Impact",
+      "slug": "aidriven-softskill-roi-measuring-hiring-impact",
+      "description": "# AI\u2011Driven Soft\u2011Skill ROI: Measuring Hiring Impact\n\nHiring the right talent goes beyond matching hard\u2011skill checklists. For mid\u2011sized companies, the...",
+      "pub_date": "2026-10-17",
+      "tags": [],
+      "keywords": [
+        "soft skill assessment",
+        "hiring ROI",
+        "AI recruitment",
+        "recruiter productivity",
+        "interview intelligence"
+      ],
+      "word_count": 1303,
+      "filepath": "content/posts/2026-10-17-aidriven-softskill-roi-measuring-hiring-impact.md",
+      "topic": "AI\u2011Driven Soft\u2011Skill ROI: Measuring Hiring Impact"
     }
   ],
   "topics_used": [
@@ -7586,8 +7603,9 @@
     "Future\u2011Proof Hiring with AI: Predicting Role Evolution",
     "AI Hiring Playbook for Scaling Remote Customer Support",
     "AI Hiring Automation: Scaling Remote Customer Support",
-    "AI Recruitment Playbook for Remote\u2011First Scaling Teams"
+    "AI Recruitment Playbook for Remote\u2011First Scaling Teams",
+    "AI\u2011Driven Soft\u2011Skill ROI: Measuring Hiring Impact"
   ],
   "last_updated": "2026-10-17",
-  "total_posts": 424
+  "total_posts": 425
 }
