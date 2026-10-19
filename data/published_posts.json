@@ -7210,6 +7210,23 @@
       "word_count": 1140,
       "filepath": "content/posts/2026-10-19-automated-hiring-for-microinterns-grow-talent-pipelines.md",
       "topic": "Automated Hiring for Micro\u2011Interns: Grow Talent Pipelines"
+    },
+    {
+      "title": "AI Hiring for Multi\u2011Generational Teams: Tailored Assessments",
+      "slug": "ai-hiring-for-multigenerational-teams-tailored-assessments",
+      "description": "# AI Hiring for Multi\u2011Generational Teams: Tailored Assessments  \n\nIn today\u2019s talent\u2011driven market, **AI hiring** isn\u2019t just about speed\u2014it\u2019s about del...",
+      "pub_date": "2026-10-19",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "multi-generational hiring",
+        "AI skill evaluation",
+        "candidate screening automation",
+        "recruiter productivity"
+      ],
+      "word_count": 1205,
+      "filepath": "content/posts/2026-10-19-ai-hiring-for-multigenerational-teams-tailored-assessments.md",
+      "topic": "AI Hiring for Multi\u2011Generational Teams: Tailored Assessments"
     }
   ],
   "topics_used": [
@@ -7639,8 +7656,9 @@
     "AI Recruitment Playbook for Remote\u2011First Scaling Teams",
     "AI\u2011Driven Soft\u2011Skill ROI: Measuring Hiring Impact",
     "AI Forecasts for Contract-to-Hire Success",
-    "Automated Hiring for Micro\u2011Interns: Grow Talent Pipelines"
+    "Automated Hiring for Micro\u2011Interns: Grow Talent Pipelines",
+    "AI Hiring for Multi\u2011Generational Teams: Tailored Assessments"
   ],
   "last_updated": "2026-10-19",
-  "total_posts": 427
+  "total_posts": 428
 }
