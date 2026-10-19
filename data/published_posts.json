@@ -7177,6 +7177,23 @@
       "word_count": 1303,
       "filepath": "content/posts/2026-10-17-aidriven-softskill-roi-measuring-hiring-impact.md",
       "topic": "AI\u2011Driven Soft\u2011Skill ROI: Measuring Hiring Impact"
+    },
+    {
+      "title": "AI Forecasts for Contract-to-Hire Success",
+      "slug": "ai-forecasts-for-contract-to-hire-success",
+      "description": "# AI Forecasts for Contract-to-Hire Success\n\nContract-to-hire can feel like a gamble\u2014investing time, money, and managerial bandwidth in a worker who m...",
+      "pub_date": "2026-10-19",
+      "tags": [],
+      "keywords": [
+        "contract-to-hire AI",
+        "predictive hiring",
+        "data-driven hiring decisions",
+        "AI hiring for startups",
+        "hiring automation"
+      ],
+      "word_count": 1114,
+      "filepath": "content/posts/2026-10-19-ai-forecasts-for-contract-to-hire-success.md",
+      "topic": "AI Forecasts for Contract-to-Hire Success"
     }
   ],
   "topics_used": [
@@ -7604,8 +7621,9 @@
     "AI Hiring Playbook for Scaling Remote Customer Support",
     "AI Hiring Automation: Scaling Remote Customer Support",
     "AI Recruitment Playbook for Remote\u2011First Scaling Teams",
-    "AI\u2011Driven Soft\u2011Skill ROI: Measuring Hiring Impact"
+    "AI\u2011Driven Soft\u2011Skill ROI: Measuring Hiring Impact",
+    "AI Forecasts for Contract-to-Hire Success"
   ],
-  "last_updated": "2026-10-17",
-  "total_posts": 425
+  "last_updated": "2026-10-19",
+  "total_posts": 426
 }
