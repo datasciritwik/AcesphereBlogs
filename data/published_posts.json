@@ -7194,6 +7194,22 @@
       "word_count": 1114,
       "filepath": "content/posts/2026-10-19-ai-forecasts-for-contract-to-hire-success.md",
       "topic": "AI Forecasts for Contract-to-Hire Success"
+    },
+    {
+      "title": "Automated Hiring for Micro\u2011Interns: Grow Talent Pipelines",
+      "slug": "automated-hiring-for-microinterns-grow-talent-pipelines",
+      "description": "# Automated Hiring for Micro\u2011Interns: Grow Talent Pipelines\n\nStartups need hiring processes that move at the speed of product development. By pairing...",
+      "pub_date": "2026-10-19",
+      "tags": [],
+      "keywords": [
+        "automated hiring",
+        "micro\u2011internships",
+        "talent pipelines",
+        "scaling hiring with automation"
+      ],
+      "word_count": 1140,
+      "filepath": "content/posts/2026-10-19-automated-hiring-for-microinterns-grow-talent-pipelines.md",
+      "topic": "Automated Hiring for Micro\u2011Interns: Grow Talent Pipelines"
     }
   ],
   "topics_used": [
@@ -7622,8 +7638,9 @@
     "AI Hiring Automation: Scaling Remote Customer Support",
     "AI Recruitment Playbook for Remote\u2011First Scaling Teams",
     "AI\u2011Driven Soft\u2011Skill ROI: Measuring Hiring Impact",
-    "AI Forecasts for Contract-to-Hire Success"
+    "AI Forecasts for Contract-to-Hire Success",
+    "Automated Hiring for Micro\u2011Interns: Grow Talent Pipelines"
   ],
   "last_updated": "2026-10-19",
-  "total_posts": 426
+  "total_posts": 427
 }
