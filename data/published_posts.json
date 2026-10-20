@@ -7227,6 +7227,23 @@
       "word_count": 1205,
       "filepath": "content/posts/2026-10-19-ai-hiring-for-multigenerational-teams-tailored-assessments.md",
       "topic": "AI Hiring for Multi\u2011Generational Teams: Tailored Assessments"
+    },
+    {
+      "title": "AI\u2011Powered Micro\u2011Learning: Boost Recruiter Skills Fast",
+      "slug": "aipowered-microlearning-boost-recruiter-skills-fast",
+      "description": "# AI\u2011Powered Micro\u2011Learning: Boost Recruiter Skills Fast\n\nRecruiters face an ever\u2011accelerating hiring landscape where the margin for error is shrinkin...",
+      "pub_date": "2026-10-20",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity tips",
+        "AI hiring platform",
+        "competency assessment",
+        "recruitment innovation",
+        "skill evaluation"
+      ],
+      "word_count": 1332,
+      "filepath": "content/posts/2026-10-20-aipowered-microlearning-boost-recruiter-skills-fast.md",
+      "topic": "AI\u2011Powered Micro\u2011Learning: Boost Recruiter Skills Fast"
     }
   ],
   "topics_used": [
@@ -7657,8 +7674,9 @@
     "AI\u2011Driven Soft\u2011Skill ROI: Measuring Hiring Impact",
     "AI Forecasts for Contract-to-Hire Success",
     "Automated Hiring for Micro\u2011Interns: Grow Talent Pipelines",
-    "AI Hiring for Multi\u2011Generational Teams: Tailored Assessments"
+    "AI Hiring for Multi\u2011Generational Teams: Tailored Assessments",
+    "AI\u2011Powered Micro\u2011Learning: Boost Recruiter Skills Fast"
   ],
-  "last_updated": "2026-10-19",
-  "total_posts": 428
+  "last_updated": "2026-10-20",
+  "total_posts": 429
 }
