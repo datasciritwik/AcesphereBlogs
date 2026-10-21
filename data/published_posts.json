@@ -7244,6 +7244,23 @@
       "word_count": 1332,
       "filepath": "content/posts/2026-10-20-aipowered-microlearning-boost-recruiter-skills-fast.md",
       "topic": "AI\u2011Powered Micro\u2011Learning: Boost Recruiter Skills Fast"
+    },
+    {
+      "title": "AI Hiring for Product Teams: Align Skills with Roadmaps",
+      "slug": "ai-hiring-for-product-teams-align-skills-with-roadmaps",
+      "description": "# AI Hiring for Product Teams: Align Skills with Roadmaps\n\nHiring for product teams has never been more strategic. By using AI to map candidate skill...",
+      "pub_date": "2026-10-21",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "product team hiring",
+        "skill alignment",
+        "roadmap hiring",
+        "recruiter productivity"
+      ],
+      "word_count": 1134,
+      "filepath": "content/posts/2026-10-21-ai-hiring-for-product-teams-align-skills-with-roadmaps.md",
+      "topic": "AI Hiring for Product Teams: Align Skills with Roadmaps"
     }
   ],
   "topics_used": [
@@ -7675,8 +7692,9 @@
     "AI Forecasts for Contract-to-Hire Success",
     "Automated Hiring for Micro\u2011Interns: Grow Talent Pipelines",
     "AI Hiring for Multi\u2011Generational Teams: Tailored Assessments",
-    "AI\u2011Powered Micro\u2011Learning: Boost Recruiter Skills Fast"
+    "AI\u2011Powered Micro\u2011Learning: Boost Recruiter Skills Fast",
+    "AI Hiring for Product Teams: Align Skills with Roadmaps"
   ],
-  "last_updated": "2026-10-20",
-  "total_posts": 429
+  "last_updated": "2026-10-21",
+  "total_posts": 430
 }
