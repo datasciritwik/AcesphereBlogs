@@ -7278,6 +7278,23 @@
       "word_count": 1201,
       "filepath": "content/posts/2026-10-22-ai-talent-acquisition-powering-strategic-workforce-planning.md",
       "topic": "AI Talent Acquisition: Powering Strategic Workforce Planning"
+    },
+    {
+      "title": "AI Hiring Predicts Cultural Fit via Network Analysis",
+      "slug": "ai-hiring-predicts-cultural-fit-via-network-analysis",
+      "description": "# AI Hiring Predicts Cultural Fit via Network Analysis\n\nHiring teams are constantly looking for ways to move past the \u201cresume\u2011and\u2011interview\u201d checklist...",
+      "pub_date": "2026-10-22",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "cultural fit prediction",
+        "organizational network analysis",
+        "AI interview intelligence",
+        "data\u2011driven hiring decisions"
+      ],
+      "word_count": 1458,
+      "filepath": "content/posts/2026-10-22-ai-hiring-predicts-cultural-fit-via-network-analysis.md",
+      "topic": "AI Hiring Predicts Cultural Fit via Network Analysis"
     }
   ],
   "topics_used": [
@@ -7711,8 +7728,9 @@
     "AI Hiring for Multi\u2011Generational Teams: Tailored Assessments",
     "AI\u2011Powered Micro\u2011Learning: Boost Recruiter Skills Fast",
     "AI Hiring for Product Teams: Align Skills with Roadmaps",
-    "AI Talent Acquisition: Powering Strategic Workforce Planning"
+    "AI Talent Acquisition: Powering Strategic Workforce Planning",
+    "AI Hiring Predicts Cultural Fit via Network Analysis"
   ],
   "last_updated": "2026-10-22",
-  "total_posts": 431
+  "total_posts": 432
 }
