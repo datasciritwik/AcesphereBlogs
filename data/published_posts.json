@@ -7261,6 +7261,23 @@
       "word_count": 1134,
       "filepath": "content/posts/2026-10-21-ai-hiring-for-product-teams-align-skills-with-roadmaps.md",
       "topic": "AI Hiring for Product Teams: Align Skills with Roadmaps"
+    },
+    {
+      "title": "AI Talent Acquisition: Powering Strategic Workforce Planning",
+      "slug": "ai-talent-acquisition-powering-strategic-workforce-planning",
+      "description": "# AI Talent Acquisition: Powering Strategic Workforce Planning\n\nFast\u2011growing startups can\u2019t afford to treat hiring as a reactive \u201cfill\u2011the\u2011seat\u201d exerc...",
+      "pub_date": "2026-10-22",
+      "tags": [],
+      "keywords": [
+        "AI talent acquisition",
+        "strategic workforce planning",
+        "hiring automation",
+        "startup hiring efficiency",
+        "data-driven hiring"
+      ],
+      "word_count": 1201,
+      "filepath": "content/posts/2026-10-22-ai-talent-acquisition-powering-strategic-workforce-planning.md",
+      "topic": "AI Talent Acquisition: Powering Strategic Workforce Planning"
     }
   ],
   "topics_used": [
@@ -7693,8 +7710,9 @@
     "Automated Hiring for Micro\u2011Interns: Grow Talent Pipelines",
     "AI Hiring for Multi\u2011Generational Teams: Tailored Assessments",
     "AI\u2011Powered Micro\u2011Learning: Boost Recruiter Skills Fast",
-    "AI Hiring for Product Teams: Align Skills with Roadmaps"
+    "AI Hiring for Product Teams: Align Skills with Roadmaps",
+    "AI Talent Acquisition: Powering Strategic Workforce Planning"
   ],
-  "last_updated": "2026-10-21",
-  "total_posts": 430
+  "last_updated": "2026-10-22",
+  "total_posts": 431
 }
