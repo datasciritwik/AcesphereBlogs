@@ -7295,6 +7295,23 @@
       "word_count": 1458,
       "filepath": "content/posts/2026-10-22-ai-hiring-predicts-cultural-fit-via-network-analysis.md",
       "topic": "AI Hiring Predicts Cultural Fit via Network Analysis"
+    },
+    {
+      "title": "AI Referral Hiring: Quantify ROI & Optimize Incentives",
+      "slug": "ai-referral-hiring-quantify-roi-optimize-incentives",
+      "description": "# AI Referral Hiring: Quantify ROI & Optimize Incentives  \n\nEmployee referrals have long been a low\u2011cost, high\u2011impact source of talent, but most organ...",
+      "pub_date": "2026-10-23",
+      "tags": [],
+      "keywords": [
+        "AI referral hiring",
+        "referral ROI",
+        "incentive optimization",
+        "employee referral program AI",
+        "recruiter productivity"
+      ],
+      "word_count": 1275,
+      "filepath": "content/posts/2026-10-23-ai-referral-hiring-quantify-roi-optimize-incentives.md",
+      "topic": "AI Referral Hiring: Quantify ROI & Optimize Incentives"
     }
   ],
   "topics_used": [
@@ -7729,8 +7746,9 @@
     "AI\u2011Powered Micro\u2011Learning: Boost Recruiter Skills Fast",
     "AI Hiring for Product Teams: Align Skills with Roadmaps",
     "AI Talent Acquisition: Powering Strategic Workforce Planning",
-    "AI Hiring Predicts Cultural Fit via Network Analysis"
+    "AI Hiring Predicts Cultural Fit via Network Analysis",
+    "AI Referral Hiring: Quantify ROI & Optimize Incentives"
   ],
-  "last_updated": "2026-10-22",
-  "total_posts": 432
+  "last_updated": "2026-10-23",
+  "total_posts": 433
 }
