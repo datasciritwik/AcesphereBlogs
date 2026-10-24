@@ -7312,6 +7312,23 @@
       "word_count": 1275,
       "filepath": "content/posts/2026-10-23-ai-referral-hiring-quantify-roi-optimize-incentives.md",
       "topic": "AI Referral Hiring: Quantify ROI & Optimize Incentives"
+    },
+    {
+      "title": "AI\u2011Boosted Hiring Manager Collaboration: A Data\u2011Driven Playbook",
+      "slug": "aiboosted-hiring-manager-collaboration-a-datadriven-playbook",
+      "description": "# AI\u2011Boosted Hiring Manager Collaboration: A Data\u2011Driven Playbook  \n\nHiring managers and recruiters often operate in parallel universes, each with its...",
+      "pub_date": "2026-10-24",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "recruiter productivity",
+        "hiring manager collaboration",
+        "decision support dashboard",
+        "hiring workflow automation"
+      ],
+      "word_count": 1290,
+      "filepath": "content/posts/2026-10-24-aiboosted-hiring-manager-collaboration-a-datadriven-playbook.md",
+      "topic": "AI\u2011Boosted Hiring Manager Collaboration: A Data\u2011Driven Playbook"
     }
   ],
   "topics_used": [
@@ -7747,8 +7764,9 @@
     "AI Hiring for Product Teams: Align Skills with Roadmaps",
     "AI Talent Acquisition: Powering Strategic Workforce Planning",
     "AI Hiring Predicts Cultural Fit via Network Analysis",
-    "AI Referral Hiring: Quantify ROI & Optimize Incentives"
+    "AI Referral Hiring: Quantify ROI & Optimize Incentives",
+    "AI\u2011Boosted Hiring Manager Collaboration: A Data\u2011Driven Playbook"
   ],
-  "last_updated": "2026-10-23",
-  "total_posts": 433
+  "last_updated": "2026-10-24",
+  "total_posts": 434
 }
