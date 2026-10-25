@@ -7329,6 +7329,23 @@
       "word_count": 1290,
       "filepath": "content/posts/2026-10-24-aiboosted-hiring-manager-collaboration-a-datadriven-playbook.md",
       "topic": "AI\u2011Boosted Hiring Manager Collaboration: A Data\u2011Driven Playbook"
+    },
+    {
+      "title": "Predicting Candidate Soft\u2011Skill Growth with AI Screening",
+      "slug": "predicting-candidate-softskill-growth-with-ai-screening",
+      "description": "# Predicting Candidate Soft\u2011Skill Growth with AI Screening\n\nHiring for potential, not just present ability, is the new competitive edge for startups a...",
+      "pub_date": "2026-10-25",
+      "tags": [],
+      "keywords": [
+        "automated candidate screening",
+        "predictive hiring",
+        "soft skill assessment",
+        "recruiter productivity",
+        "future of recruitment"
+      ],
+      "word_count": 1078,
+      "filepath": "content/posts/2026-10-25-predicting-candidate-softskill-growth-with-ai-screening.md",
+      "topic": "Predicting Candidate Soft\u2011Skill Growth with AI Screening"
     }
   ],
   "topics_used": [
@@ -7765,8 +7782,9 @@
     "AI Talent Acquisition: Powering Strategic Workforce Planning",
     "AI Hiring Predicts Cultural Fit via Network Analysis",
     "AI Referral Hiring: Quantify ROI & Optimize Incentives",
-    "AI\u2011Boosted Hiring Manager Collaboration: A Data\u2011Driven Playbook"
+    "AI\u2011Boosted Hiring Manager Collaboration: A Data\u2011Driven Playbook",
+    "Predicting Candidate Soft\u2011Skill Growth with AI Screening"
   ],
-  "last_updated": "2026-10-24",
-  "total_posts": 434
+  "last_updated": "2026-10-25",
+  "total_posts": 435
 }
