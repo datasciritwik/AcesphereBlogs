@@ -7362,6 +7362,22 @@
       "word_count": 1019,
       "filepath": "content/posts/2026-10-26-interview-intelligence-ai-hire-remote-product-teams-faster.md",
       "topic": "Interview Intelligence AI: Hire Remote Product Teams Faster"
+    },
+    {
+      "title": "AI Hiring for Micro\u2011Teams: Scale 5\u2011Person Startups",
+      "slug": "ai-hiring-for-microteams-scale-5person-startups",
+      "description": "# AI Hiring for Micro\u2011Teams: Scale 5\u2011Person Startups  \n\nIn a 5\u2011person startup, every hour of the founder\u2019s time is precious; the difference between a...",
+      "pub_date": "2026-10-28",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "scaling hiring with automation",
+        "startup hiring best practices",
+        "candidate screening automation"
+      ],
+      "word_count": 1419,
+      "filepath": "content/posts/2026-10-28-ai-hiring-for-microteams-scale-5person-startups.md",
+      "topic": "AI Hiring for Micro\u2011Teams: Scale 5\u2011Person Startups"
     }
   ],
   "topics_used": [
@@ -7800,8 +7816,9 @@
     "AI Referral Hiring: Quantify ROI & Optimize Incentives",
     "AI\u2011Boosted Hiring Manager Collaboration: A Data\u2011Driven Playbook",
     "Predicting Candidate Soft\u2011Skill Growth with AI Screening",
-    "Interview Intelligence AI: Hire Remote Product Teams Faster"
+    "Interview Intelligence AI: Hire Remote Product Teams Faster",
+    "AI Hiring for Micro\u2011Teams: Scale 5\u2011Person Startups"
   ],
-  "last_updated": "2026-10-26",
-  "total_posts": 436
+  "last_updated": "2026-10-28",
+  "total_posts": 437
 }
