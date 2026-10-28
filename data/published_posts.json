@@ -7378,6 +7378,23 @@
       "word_count": 1419,
       "filepath": "content/posts/2026-10-28-ai-hiring-for-microteams-scale-5person-startups.md",
       "topic": "AI Hiring for Micro\u2011Teams: Scale 5\u2011Person Startups"
+    },
+    {
+      "title": "AI-Powered Hiring Transparency: Building Candidate Trust",
+      "slug": "ai-powered-hiring-transparency-building-candidate-trust",
+      "description": "# AI-Powered Hiring Transparency: Building Candidate Trust  \n\nIn today\u2019s competitive talent market, candidates expect more than a job posting\u2014they wan...",
+      "pub_date": "2026-10-28",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "candidate experience with AI",
+        "hiring transparency",
+        "real-time hiring dashboard",
+        "AI-driven candidate communication"
+      ],
+      "word_count": 1072,
+      "filepath": "content/posts/2026-10-28-ai-powered-hiring-transparency-building-candidate-trust.md",
+      "topic": "AI-Powered Hiring Transparency: Building Candidate Trust"
     }
   ],
   "topics_used": [
@@ -7817,8 +7834,9 @@
     "AI\u2011Boosted Hiring Manager Collaboration: A Data\u2011Driven Playbook",
     "Predicting Candidate Soft\u2011Skill Growth with AI Screening",
     "Interview Intelligence AI: Hire Remote Product Teams Faster",
-    "AI Hiring for Micro\u2011Teams: Scale 5\u2011Person Startups"
+    "AI Hiring for Micro\u2011Teams: Scale 5\u2011Person Startups",
+    "AI-Powered Hiring Transparency: Building Candidate Trust"
   ],
   "last_updated": "2026-10-28",
-  "total_posts": 437
+  "total_posts": 438
 }
