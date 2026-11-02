@@ -7428,6 +7428,22 @@
       "word_count": 1183,
       "filepath": "content/posts/2026-10-31-ai-hiring-platform-powering-an-internal-talent-marketplace.md",
       "topic": "AI Hiring Platform: Powering an Internal Talent Marketplace"
+    },
+    {
+      "title": "AI Referral Hiring: Automate Employee Talent Sourcing",
+      "slug": "ai-referral-hiring-automate-employee-talent-sourcing",
+      "description": "# AI Referral Hiring: Automate Employee Talent Sourcing\n\nEmployee referrals have long been the gold standard for high\u2011quality hires, yet many mid\u2011size...",
+      "pub_date": "2026-11-02",
+      "tags": [],
+      "keywords": [
+        "AI referral hiring",
+        "employee referral automation",
+        "recruiter productivity tips",
+        "scaling hiring with automation"
+      ],
+      "word_count": 1344,
+      "filepath": "content/posts/2026-11-02-ai-referral-hiring-automate-employee-talent-sourcing.md",
+      "topic": "AI Referral Hiring: Automate Employee Talent Sourcing"
     }
   ],
   "topics_used": [
@@ -7870,8 +7886,9 @@
     "AI Hiring for Micro\u2011Teams: Scale 5\u2011Person Startups",
     "AI-Powered Hiring Transparency: Building Candidate Trust",
     "AI Learning Agility Tests: Hire Adaptable Talent Fast",
-    "AI Hiring Platform: Powering an Internal Talent Marketplace"
+    "AI Hiring Platform: Powering an Internal Talent Marketplace",
+    "AI Referral Hiring: Automate Employee Talent Sourcing"
   ],
-  "last_updated": "2026-10-31",
-  "total_posts": 440
+  "last_updated": "2026-11-02",
+  "total_posts": 441
 }
