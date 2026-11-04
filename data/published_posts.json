@@ -7461,6 +7461,23 @@
       "word_count": 1593,
       "filepath": "content/posts/2026-11-02-ai-hiring-automation-cutting-legal-risk-in-regulated-industr.md",
       "topic": "AI Hiring Automation: Cutting Legal Risk in Regulated Industries"
+    },
+    {
+      "title": "Ensuring Fair Recruitment with AI: A Global Guide",
+      "slug": "ensuring-fair-recruitment-with-ai-a-global-guide",
+      "description": "# Ensuring Fair Recruitment with AI: A Global Guide  \n\nIn today\u2019s hyper\u2011connected talent market, HR leaders must balance speed, quality, and equity. T...",
+      "pub_date": "2026-11-04",
+      "tags": [],
+      "keywords": [
+        "fair recruitment",
+        "AI bias mitigation",
+        "recruitment analytics",
+        "hiring best practices",
+        "diversity hiring"
+      ],
+      "word_count": 1153,
+      "filepath": "content/posts/2026-11-04-ensuring-fair-recruitment-with-ai-a-global-guide.md",
+      "topic": "Ensuring Fair Recruitment with AI: A Global Guide"
     }
   ],
   "topics_used": [
@@ -7905,8 +7922,9 @@
     "AI Learning Agility Tests: Hire Adaptable Talent Fast",
     "AI Hiring Platform: Powering an Internal Talent Marketplace",
     "AI Referral Hiring: Automate Employee Talent Sourcing",
-    "AI Hiring Automation: Cutting Legal Risk in Regulated Industries"
+    "AI Hiring Automation: Cutting Legal Risk in Regulated Industries",
+    "Ensuring Fair Recruitment with AI: A Global Guide"
   ],
-  "last_updated": "2026-11-02",
-  "total_posts": 442
+  "last_updated": "2026-11-04",
+  "total_posts": 443
 }
