@@ -7478,6 +7478,23 @@
       "word_count": 1153,
       "filepath": "content/posts/2026-11-04-ensuring-fair-recruitment-with-ai-a-global-guide.md",
       "topic": "Ensuring Fair Recruitment with AI: A Global Guide"
+    },
+    {
+      "title": "Build a Resilient Recruitment Workflow for Rapid Scaling",
+      "slug": "build-a-resilient-recruitment-workflow-for-rapid-scaling",
+      "description": "# Build a Resilient Recruitment Workflow for Rapid Scaling\n\nFast\u2011growing startups need a hiring engine that can keep pace with product releases, marke...",
+      "pub_date": "2026-11-05",
+      "tags": [],
+      "keywords": [
+        "recruitment workflow",
+        "automated shortlisting",
+        "AI hiring for startups",
+        "streamlined recruitment",
+        "candidate screening automation"
+      ],
+      "word_count": 1208,
+      "filepath": "content/posts/2026-11-05-build-a-resilient-recruitment-workflow-for-rapid-scaling.md",
+      "topic": "Build a Resilient Recruitment Workflow for Rapid Scaling"
     }
   ],
   "topics_used": [
@@ -7923,8 +7940,9 @@
     "AI Hiring Platform: Powering an Internal Talent Marketplace",
     "AI Referral Hiring: Automate Employee Talent Sourcing",
     "AI Hiring Automation: Cutting Legal Risk in Regulated Industries",
-    "Ensuring Fair Recruitment with AI: A Global Guide"
+    "Ensuring Fair Recruitment with AI: A Global Guide",
+    "Build a Resilient Recruitment Workflow for Rapid Scaling"
   ],
-  "last_updated": "2026-11-04",
-  "total_posts": 443
+  "last_updated": "2026-11-05",
+  "total_posts": 444
 }
