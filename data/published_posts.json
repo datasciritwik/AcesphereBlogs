@@ -7495,6 +7495,28 @@
       "word_count": 1208,
       "filepath": "content/posts/2026-11-05-build-a-resilient-recruitment-workflow-for-rapid-scaling.md",
       "topic": "Build a Resilient Recruitment Workflow for Rapid Scaling"
+    },
+    {
+      "title": "AI-Driven Onboarding Personalization: From Hire to Day One",
+      "slug": "ai-driven-onboarding-personalization",
+      "description": "Discover how AI-driven onboarding personalization turns new hires into productive team members faster, boosting retention and freeing HR from admin tasks.",
+      "pub_date": "2026-11-06",
+      "tags": [
+        "AI onboarding",
+        "HR technology",
+        "employee retention",
+        "onboarding automation"
+      ],
+      "keywords": [
+        "AI onboarding",
+        "personalized onboarding",
+        "pre\u2011hire assessment AI",
+        "new hire productivity",
+        "AI hiring platform"
+      ],
+      "word_count": 1024,
+      "filepath": "content/posts/2026-11-06-ai-driven-onboarding-personalization.md",
+      "topic": "AI-Driven Onboarding Personalization: From Hire to Day One"
     }
   ],
   "topics_used": [
@@ -7941,8 +7963,9 @@
     "AI Referral Hiring: Automate Employee Talent Sourcing",
     "AI Hiring Automation: Cutting Legal Risk in Regulated Industries",
     "Ensuring Fair Recruitment with AI: A Global Guide",
-    "Build a Resilient Recruitment Workflow for Rapid Scaling"
+    "Build a Resilient Recruitment Workflow for Rapid Scaling",
+    "AI-Driven Onboarding Personalization: From Hire to Day One"
   ],
-  "last_updated": "2026-11-05",
-  "total_posts": 444
+  "last_updated": "2026-11-06",
+  "total_posts": 445
 }
