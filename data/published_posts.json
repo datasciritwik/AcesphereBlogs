@@ -7517,6 +7517,23 @@
       "word_count": 1024,
       "filepath": "content/posts/2026-11-06-ai-driven-onboarding-personalization.md",
       "topic": "AI-Driven Onboarding Personalization: From Hire to Day One"
+    },
+    {
+      "title": "AI Recruiter Efficiency: Microlearning Boosts Hiring Speed",
+      "slug": "ai-recruiter-efficiency-microlearning-boosts-hiring-speed",
+      "description": "# AI Recruiter Efficiency: Microlearning Boosts Hiring Speed  \n\nRecruiters are under relentless pressure to fill roles faster while maintaining qualit...",
+      "pub_date": "2026-11-06",
+      "tags": [],
+      "keywords": [
+        "recruiter efficiency tools",
+        "AI microlearning",
+        "hiring speed",
+        "recruitment workflow automation",
+        "AI-powered training"
+      ],
+      "word_count": 1055,
+      "filepath": "content/posts/2026-11-06-ai-recruiter-efficiency-microlearning-boosts-hiring-speed.md",
+      "topic": "AI Recruiter Efficiency: Microlearning Boosts Hiring Speed"
     }
   ],
   "topics_used": [
@@ -7964,8 +7981,9 @@
     "AI Hiring Automation: Cutting Legal Risk in Regulated Industries",
     "Ensuring Fair Recruitment with AI: A Global Guide",
     "Build a Resilient Recruitment Workflow for Rapid Scaling",
-    "AI-Driven Onboarding Personalization: From Hire to Day One"
+    "AI-Driven Onboarding Personalization: From Hire to Day One",
+    "AI Recruiter Efficiency: Microlearning Boosts Hiring Speed"
   ],
   "last_updated": "2026-11-06",
-  "total_posts": 445
+  "total_posts": 446
 }
