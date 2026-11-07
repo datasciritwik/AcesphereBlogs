@@ -7550,6 +7550,23 @@
       "word_count": 1360,
       "filepath": "content/posts/2026-11-06-virtual-interview-ai-assessing-collaborative-problemsolving.md",
       "topic": "Virtual Interview AI: Assessing Collaborative Problem\u2011Solving"
+    },
+    {
+      "title": "AI-Powered Hiring for ESG Goals: Build Sustainable Talent",
+      "slug": "ai-powered-hiring-for-esg-goals-build-sustainable-talent",
+      "description": "# AI-Powered Hiring for ESG Goals: Build Sustainable Talent  \n\nRecruiters and sustainability officers alike are under pressure to prove that talent ac...",
+      "pub_date": "2026-11-07",
+      "tags": [],
+      "keywords": [
+        "AI-powered hiring",
+        "sustainable hiring",
+        "ESG recruiting",
+        "hiring automation",
+        "recruiter productivity"
+      ],
+      "word_count": 1045,
+      "filepath": "content/posts/2026-11-07-ai-powered-hiring-for-esg-goals-build-sustainable-talent.md",
+      "topic": "AI-Powered Hiring for ESG Goals: Build Sustainable Talent"
     }
   ],
   "topics_used": [
@@ -7999,8 +8016,9 @@
     "Build a Resilient Recruitment Workflow for Rapid Scaling",
     "AI-Driven Onboarding Personalization: From Hire to Day One",
     "AI Recruiter Efficiency: Microlearning Boosts Hiring Speed",
-    "Virtual Interview AI: Assessing Collaborative Problem\u2011Solving"
+    "Virtual Interview AI: Assessing Collaborative Problem\u2011Solving",
+    "AI-Powered Hiring for ESG Goals: Build Sustainable Talent"
   ],
-  "last_updated": "2026-11-06",
-  "total_posts": 447
+  "last_updated": "2026-11-07",
+  "total_posts": 448
 }
