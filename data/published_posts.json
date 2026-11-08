@@ -7567,6 +7567,23 @@
       "word_count": 1045,
       "filepath": "content/posts/2026-11-07-ai-powered-hiring-for-esg-goals-build-sustainable-talent.md",
       "topic": "AI-Powered Hiring for ESG Goals: Build Sustainable Talent"
+    },
+    {
+      "title": "AI Competency Assessment: Find Hidden Talent in Unconventional Hires",
+      "slug": "ai-competency-assessment-find-hidden-talent-in-unconventiona",
+      "description": "# AI Competency Assessment: Find Hidden Talent in Unconventional Hires  \n\nRecruiters at fast\u2011growing startups and mid\u2011sized firms often struggle to sp...",
+      "pub_date": "2026-11-08",
+      "tags": [],
+      "keywords": [
+        "competency assessment",
+        "AI hiring",
+        "inclusive hiring",
+        "non-traditional candidates",
+        "recruiter productivity"
+      ],
+      "word_count": 1364,
+      "filepath": "content/posts/2026-11-08-ai-competency-assessment-find-hidden-talent-in-unconventiona.md",
+      "topic": "AI Competency Assessment: Find Hidden Talent in Unconventional Hires"
     }
   ],
   "topics_used": [
@@ -8017,8 +8034,9 @@
     "AI-Driven Onboarding Personalization: From Hire to Day One",
     "AI Recruiter Efficiency: Microlearning Boosts Hiring Speed",
     "Virtual Interview AI: Assessing Collaborative Problem\u2011Solving",
-    "AI-Powered Hiring for ESG Goals: Build Sustainable Talent"
+    "AI-Powered Hiring for ESG Goals: Build Sustainable Talent",
+    "AI Competency Assessment: Find Hidden Talent in Unconventional Hires"
   ],
-  "last_updated": "2026-11-07",
-  "total_posts": 448
+  "last_updated": "2026-11-08",
+  "total_posts": 449
 }
