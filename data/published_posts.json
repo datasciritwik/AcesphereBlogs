@@ -7584,6 +7584,22 @@
       "word_count": 1364,
       "filepath": "content/posts/2026-11-08-ai-competency-assessment-find-hidden-talent-in-unconventiona.md",
       "topic": "AI Competency Assessment: Find Hidden Talent in Unconventional Hires"
+    },
+    {
+      "title": "Automated Evaluation: Consistent Hiring Across Borders",
+      "slug": "automated-evaluation-consistent-hiring-across-borders",
+      "description": "# Automated Evaluation: Consistent Hiring Across Borders  \n\nHiring the right talent at speed is a universal challenge, but when you add multiple time...",
+      "pub_date": "2026-11-08",
+      "tags": [],
+      "keywords": [
+        "automated evaluation",
+        "hiring automation",
+        "recruitment analytics",
+        "bias-free hiring"
+      ],
+      "word_count": 1214,
+      "filepath": "content/posts/2026-11-08-automated-evaluation-consistent-hiring-across-borders.md",
+      "topic": "Automated Evaluation: Consistent Hiring Across Borders"
     }
   ],
   "topics_used": [
@@ -8035,8 +8051,9 @@
     "AI Recruiter Efficiency: Microlearning Boosts Hiring Speed",
     "Virtual Interview AI: Assessing Collaborative Problem\u2011Solving",
     "AI-Powered Hiring for ESG Goals: Build Sustainable Talent",
-    "AI Competency Assessment: Find Hidden Talent in Unconventional Hires"
+    "AI Competency Assessment: Find Hidden Talent in Unconventional Hires",
+    "Automated Evaluation: Consistent Hiring Across Borders"
   ],
   "last_updated": "2026-11-08",
-  "total_posts": 449
+  "total_posts": 450
 }
