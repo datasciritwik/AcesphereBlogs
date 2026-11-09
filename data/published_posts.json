@@ -7600,6 +7600,23 @@
       "word_count": 1214,
       "filepath": "content/posts/2026-11-08-automated-evaluation-consistent-hiring-across-borders.md",
       "topic": "Automated Evaluation: Consistent Hiring Across Borders"
+    },
+    {
+      "title": "AI Hiring for Global Expansion: Data\u2011Driven Talent Entry",
+      "slug": "ai-hiring-for-global-expansion-datadriven-talent-entry",
+      "description": "# AI Hiring for Global Expansion: Data\u2011Driven Talent Entry  \n\nExpanding into a new country is exhilarating, but the talent hunt can quickly become a r...",
+      "pub_date": "2026-11-09",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "global expansion hiring",
+        "data-driven hiring decisions",
+        "hiring best practices",
+        "AI talent acquisition"
+      ],
+      "word_count": 1232,
+      "filepath": "content/posts/2026-11-09-ai-hiring-for-global-expansion-datadriven-talent-entry.md",
+      "topic": "AI Hiring for Global Expansion: Data\u2011Driven Talent Entry"
     }
   ],
   "topics_used": [
@@ -8052,8 +8069,9 @@
     "Virtual Interview AI: Assessing Collaborative Problem\u2011Solving",
     "AI-Powered Hiring for ESG Goals: Build Sustainable Talent",
     "AI Competency Assessment: Find Hidden Talent in Unconventional Hires",
-    "Automated Evaluation: Consistent Hiring Across Borders"
+    "Automated Evaluation: Consistent Hiring Across Borders",
+    "AI Hiring for Global Expansion: Data\u2011Driven Talent Entry"
   ],
-  "last_updated": "2026-11-08",
-  "total_posts": 450
+  "last_updated": "2026-11-09",
+  "total_posts": 451
 }
