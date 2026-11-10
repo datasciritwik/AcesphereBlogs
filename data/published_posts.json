@@ -7634,6 +7634,22 @@
       "word_count": 1190,
       "filepath": "content/posts/2026-11-09-unlocking-recruiter-efficiency-with-ai-powered-tools.md",
       "topic": "Unlocking Recruiter Efficiency with AI-Powered Tools"
+    },
+    {
+      "title": "Machine Learning Hiring: Forecasting Future Skill Shifts",
+      "slug": "machine-learning-hiring-forecasting-future-skill-shifts",
+      "description": "# Machine Learning Hiring: Forecasting Future Skill Shifts  \n\nIn today\u2019s fast\u2011moving talent market, waiting for a vacancy to appear before you start r...",
+      "pub_date": "2026-11-10",
+      "tags": [],
+      "keywords": [
+        "machine learning hiring",
+        "skill gap forecasting",
+        "recruitment analytics",
+        "future of recruitment"
+      ],
+      "word_count": 1357,
+      "filepath": "content/posts/2026-11-10-machine-learning-hiring-forecasting-future-skill-shifts.md",
+      "topic": "Machine Learning Hiring: Forecasting Future Skill Shifts"
     }
   ],
   "topics_used": [
@@ -8088,8 +8104,9 @@
     "AI Competency Assessment: Find Hidden Talent in Unconventional Hires",
     "Automated Evaluation: Consistent Hiring Across Borders",
     "AI Hiring for Global Expansion: Data\u2011Driven Talent Entry",
-    "Unlocking Recruiter Efficiency with AI-Powered Tools"
+    "Unlocking Recruiter Efficiency with AI-Powered Tools",
+    "Machine Learning Hiring: Forecasting Future Skill Shifts"
   ],
-  "last_updated": "2026-11-09",
-  "total_posts": 452
+  "last_updated": "2026-11-10",
+  "total_posts": 453
 }
