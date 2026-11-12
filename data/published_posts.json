@@ -7684,6 +7684,23 @@
       "word_count": 1180,
       "filepath": "content/posts/2026-11-12-future-of-hiring-ai-predicts-rise-of-generative-ai-talent.md",
       "topic": "Future of Hiring: AI Predicts Rise of Generative AI Talent"
+    },
+    {
+      "title": "Calculate Hiring ROI with AI: A Data\u2011Driven Guide",
+      "slug": "calculate-hiring-roi-with-ai-a-datadriven-guide",
+      "description": "# Calculate Hiring ROI with AI: A Data\u2011Driven Guide  \n\nFast\u2011growing startups need to prove that every hiring dollar moves the needle. This guide shows...",
+      "pub_date": "2026-11-12",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "hiring ROI",
+        "recruitment analytics",
+        "data-driven hiring",
+        "hiring automation"
+      ],
+      "word_count": 1394,
+      "filepath": "content/posts/2026-11-12-calculate-hiring-roi-with-ai-a-datadriven-guide.md",
+      "topic": "Calculate Hiring ROI with AI: A Data\u2011Driven Guide"
     }
   ],
   "topics_used": [
@@ -8141,8 +8158,9 @@
     "Unlocking Recruiter Efficiency with AI-Powered Tools",
     "Machine Learning Hiring: Forecasting Future Skill Shifts",
     "Intelligent Screening for Multi\u2011Generational Hiring",
-    "Future of Hiring: AI Predicts Rise of Generative AI Talent"
+    "Future of Hiring: AI Predicts Rise of Generative AI Talent",
+    "Calculate Hiring ROI with AI: A Data\u2011Driven Guide"
   ],
   "last_updated": "2026-11-12",
-  "total_posts": 455
+  "total_posts": 456
 }
