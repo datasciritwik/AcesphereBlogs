@@ -7701,6 +7701,23 @@
       "word_count": 1394,
       "filepath": "content/posts/2026-11-12-calculate-hiring-roi-with-ai-a-datadriven-guide.md",
       "topic": "Calculate Hiring ROI with AI: A Data\u2011Driven Guide"
+    },
+    {
+      "title": "AI-Boosted Candidate Tracking: Elevate Recruiter Visibility",
+      "slug": "ai-boosted-candidate-tracking-elevate-recruiter-visibility",
+      "description": "# AI-Boosted Candidate Tracking: Elevate Recruiter Visibility  \n\nMid\u2011size companies can unlock a new level of recruiter visibility by linking their **...",
+      "pub_date": "2026-11-13",
+      "tags": [],
+      "keywords": [
+        "candidate tracking software",
+        "AI hiring platform",
+        "recruiter visibility",
+        "hiring automation",
+        "data-driven recruiting"
+      ],
+      "word_count": 1230,
+      "filepath": "content/posts/2026-11-13-ai-boosted-candidate-tracking-elevate-recruiter-visibility.md",
+      "topic": "AI-Boosted Candidate Tracking: Elevate Recruiter Visibility"
     }
   ],
   "topics_used": [
@@ -8159,8 +8176,9 @@
     "Machine Learning Hiring: Forecasting Future Skill Shifts",
     "Intelligent Screening for Multi\u2011Generational Hiring",
     "Future of Hiring: AI Predicts Rise of Generative AI Talent",
-    "Calculate Hiring ROI with AI: A Data\u2011Driven Guide"
+    "Calculate Hiring ROI with AI: A Data\u2011Driven Guide",
+    "AI-Boosted Candidate Tracking: Elevate Recruiter Visibility"
   ],
-  "last_updated": "2026-11-12",
-  "total_posts": 456
+  "last_updated": "2026-11-13",
+  "total_posts": 457
 }
