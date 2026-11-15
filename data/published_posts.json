@@ -7718,6 +7718,23 @@
       "word_count": 1230,
       "filepath": "content/posts/2026-11-13-ai-boosted-candidate-tracking-elevate-recruiter-visibility.md",
       "topic": "AI-Boosted Candidate Tracking: Elevate Recruiter Visibility"
+    },
+    {
+      "title": "AI Hiring Predicts Cultural Adaptability for Hybrid Teams",
+      "slug": "ai-hiring-predicts-cultural-adaptability-for-hybrid-teams",
+      "description": "# AI Hiring Predicts Cultural Adaptability for Hybrid Teams\n\nIn today\u2019s hybrid work era, the ability to thrive across both physical office spaces and...",
+      "pub_date": "2026-11-15",
+      "tags": [],
+      "keywords": [
+        "AI hiring",
+        "cultural adaptability",
+        "hybrid teams",
+        "AI talent acquisition",
+        "candidate cultural fit"
+      ],
+      "word_count": 1178,
+      "filepath": "content/posts/2026-11-15-ai-hiring-predicts-cultural-adaptability-for-hybrid-teams.md",
+      "topic": "AI Hiring Predicts Cultural Adaptability for Hybrid Teams"
     }
   ],
   "topics_used": [
@@ -8177,8 +8194,9 @@
     "Intelligent Screening for Multi\u2011Generational Hiring",
     "Future of Hiring: AI Predicts Rise of Generative AI Talent",
     "Calculate Hiring ROI with AI: A Data\u2011Driven Guide",
-    "AI-Boosted Candidate Tracking: Elevate Recruiter Visibility"
+    "AI-Boosted Candidate Tracking: Elevate Recruiter Visibility",
+    "AI Hiring Predicts Cultural Adaptability for Hybrid Teams"
   ],
-  "last_updated": "2026-11-13",
-  "total_posts": 457
+  "last_updated": "2026-11-15",
+  "total_posts": 458
 }
