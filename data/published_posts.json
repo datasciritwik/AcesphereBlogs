@@ -7735,6 +7735,23 @@
       "word_count": 1178,
       "filepath": "content/posts/2026-11-15-ai-hiring-predicts-cultural-adaptability-for-hybrid-teams.md",
       "topic": "AI Hiring Predicts Cultural Adaptability for Hybrid Teams"
+    },
+    {
+      "title": "Improving Candidate Experience with AI: Mapping the Journey",
+      "slug": "improving-candidate-experience-with-ai-mapping-the-journey",
+      "description": "# Improving Candidate Experience with AI: Mapping the Journey\n\nRecruiters who can see every interaction a candidate has with their brand\u2014right from th...",
+      "pub_date": "2026-11-17",
+      "tags": [],
+      "keywords": [
+        "improving candidate experience with AI",
+        "candidate experience mapping",
+        "AI recruitment analytics",
+        "candidate journey insights",
+        "recruiter productivity"
+      ],
+      "word_count": 1092,
+      "filepath": "content/posts/2026-11-17-improving-candidate-experience-with-ai-mapping-the-journey.md",
+      "topic": "Improving Candidate Experience with AI: Mapping the Journey"
     }
   ],
   "topics_used": [
@@ -8195,8 +8212,9 @@
     "Future of Hiring: AI Predicts Rise of Generative AI Talent",
     "Calculate Hiring ROI with AI: A Data\u2011Driven Guide",
     "AI-Boosted Candidate Tracking: Elevate Recruiter Visibility",
-    "AI Hiring Predicts Cultural Adaptability for Hybrid Teams"
+    "AI Hiring Predicts Cultural Adaptability for Hybrid Teams",
+    "Improving Candidate Experience with AI: Mapping the Journey"
   ],
-  "last_updated": "2026-11-15",
-  "total_posts": 458
+  "last_updated": "2026-11-17",
+  "total_posts": 459
 }
