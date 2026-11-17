@@ -7752,6 +7752,23 @@
       "word_count": 1092,
       "filepath": "content/posts/2026-11-17-improving-candidate-experience-with-ai-mapping-the-journey.md",
       "topic": "Improving Candidate Experience with AI: Mapping the Journey"
+    },
+    {
+      "title": "AI Shifts Recruiters from Transactional to Strategic",
+      "slug": "ai-shifts-recruiters-from-transactional-to-strategic",
+      "description": "# AI Shifts Recruiters from Transactional to Strategic  \n\nRecruiters today are drowning in inboxes, interview calendars, and endless resume piles.\u202fWha...",
+      "pub_date": "2026-11-17",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity tips",
+        "artificial intelligence recruitment",
+        "recruiter efficiency tools",
+        "strategic recruiting",
+        "hiring automation"
+      ],
+      "word_count": 1206,
+      "filepath": "content/posts/2026-11-17-ai-shifts-recruiters-from-transactional-to-strategic.md",
+      "topic": "AI Shifts Recruiters from Transactional to Strategic"
     }
   ],
   "topics_used": [
@@ -8213,8 +8230,9 @@
     "Calculate Hiring ROI with AI: A Data\u2011Driven Guide",
     "AI-Boosted Candidate Tracking: Elevate Recruiter Visibility",
     "AI Hiring Predicts Cultural Adaptability for Hybrid Teams",
-    "Improving Candidate Experience with AI: Mapping the Journey"
+    "Improving Candidate Experience with AI: Mapping the Journey",
+    "AI Shifts Recruiters from Transactional to Strategic"
   ],
   "last_updated": "2026-11-17",
-  "total_posts": 459
+  "total_posts": 460
 }
