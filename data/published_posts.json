@@ -7769,6 +7769,23 @@
       "word_count": 1206,
       "filepath": "content/posts/2026-11-17-ai-shifts-recruiters-from-transactional-to-strategic.md",
       "topic": "AI Shifts Recruiters from Transactional to Strategic"
+    },
+    {
+      "title": "Predict Team Collaboration Success with AI Interview Intelligence",
+      "slug": "predict-team-collaboration-success-with-ai-interview-intelli",
+      "description": "# Predict Team Collaboration Success with AI Interview Intelligence\n\nHiring the right talent is only half the battle; ensuring that new hires can seam...",
+      "pub_date": "2026-11-18",
+      "tags": [],
+      "keywords": [
+        "interview intelligence",
+        "team collaboration prediction",
+        "AI hiring analytics",
+        "candidate assessment AI",
+        "post\u2011hire performance forecasting"
+      ],
+      "word_count": 1228,
+      "filepath": "content/posts/2026-11-18-predict-team-collaboration-success-with-ai-interview-intelli.md",
+      "topic": "Predict Team Collaboration Success with AI Interview Intelligence"
     }
   ],
   "topics_used": [
@@ -8231,8 +8248,9 @@
     "AI-Boosted Candidate Tracking: Elevate Recruiter Visibility",
     "AI Hiring Predicts Cultural Adaptability for Hybrid Teams",
     "Improving Candidate Experience with AI: Mapping the Journey",
-    "AI Shifts Recruiters from Transactional to Strategic"
+    "AI Shifts Recruiters from Transactional to Strategic",
+    "Predict Team Collaboration Success with AI Interview Intelligence"
   ],
-  "last_updated": "2026-11-17",
-  "total_posts": 460
+  "last_updated": "2026-11-18",
+  "total_posts": 461
 }
