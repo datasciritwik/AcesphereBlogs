@@ -7786,6 +7786,23 @@
       "word_count": 1228,
       "filepath": "content/posts/2026-11-18-predict-team-collaboration-success-with-ai-interview-intelli.md",
       "topic": "Predict Team Collaboration Success with AI Interview Intelligence"
+    },
+    {
+      "title": "AI Decision Coach for Recruiters: Boost Productivity",
+      "slug": "ai-decision-coach-for-recruiters-boost-productivity",
+      "description": "# AI Decision Coach for Recruiters: Boost Productivity  \n\nRecruiters today juggle dozens of resumes, interview schedules, and stakeholder expectations...",
+      "pub_date": "2026-11-19",
+      "tags": [],
+      "keywords": [
+        "recruiter productivity",
+        "AI interview assessment",
+        "intelligent screening",
+        "decision support AI",
+        "hiring automation"
+      ],
+      "word_count": 1287,
+      "filepath": "content/posts/2026-11-19-ai-decision-coach-for-recruiters-boost-productivity.md",
+      "topic": "AI Decision Coach for Recruiters: Boost Productivity"
     }
   ],
   "topics_used": [
@@ -8249,8 +8266,9 @@
     "AI Hiring Predicts Cultural Adaptability for Hybrid Teams",
     "Improving Candidate Experience with AI: Mapping the Journey",
     "AI Shifts Recruiters from Transactional to Strategic",
-    "Predict Team Collaboration Success with AI Interview Intelligence"
+    "Predict Team Collaboration Success with AI Interview Intelligence",
+    "AI Decision Coach for Recruiters: Boost Productivity"
   ],
-  "last_updated": "2026-11-18",
-  "total_posts": 461
+  "last_updated": "2026-11-19",
+  "total_posts": 462
 }
