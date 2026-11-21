@@ -7854,6 +7854,23 @@
       "word_count": 1168,
       "filepath": "content/posts/2026-11-21-ai-interview-feedback-that-delights-candidates.md",
       "topic": "AI Interview Feedback that Delights Candidates"
+    },
+    {
+      "title": "Pre\u2011Hire Testing 2.0: AI\u2011Driven Strategies for Startup Scaling",
+      "slug": "prehire-testing-20-aidriven-strategies-for-startup-scaling",
+      "description": "# Pre\u2011Hire Testing 2.0: AI\u2011Driven Strategies for Startup Scaling  \n\nFast\u2011growing startups need hiring processes that keep pace with product launches,...",
+      "pub_date": "2026-11-21",
+      "tags": [],
+      "keywords": [
+        "pre-hire testing",
+        "AI hiring for startups",
+        "recruiter productivity",
+        "hiring automation",
+        "early turnover prediction"
+      ],
+      "word_count": 1193,
+      "filepath": "content/posts/2026-11-21-prehire-testing-20-aidriven-strategies-for-startup-scaling.md",
+      "topic": "Pre\u2011Hire Testing 2.0: AI\u2011Driven Strategies for Startup Scaling"
     }
   ],
   "topics_used": [
@@ -8321,8 +8338,9 @@
     "AI Decision Coach for Recruiters: Boost Productivity",
     "CFO\u2019s Guide to Hiring Process Automation Cost Predictability",
     "Intelligent Screening for Data\u2011Literacy Roles: Hire Smarter",
-    "AI Interview Feedback that Delights Candidates"
+    "AI Interview Feedback that Delights Candidates",
+    "Pre\u2011Hire Testing 2.0: AI\u2011Driven Strategies for Startup Scaling"
   ],
   "last_updated": "2026-11-21",
-  "total_posts": 465
+  "total_posts": 466
 }
