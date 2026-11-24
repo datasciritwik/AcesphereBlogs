@@ -7922,6 +7922,23 @@
       "word_count": 1468,
       "filepath": "content/posts/2026-11-24-ai-skill-gap-dashboard-for-technical-hiring.md",
       "topic": "AI Skill Gap Dashboard for Technical Hiring"
+    },
+    {
+      "title": "AI Hiring Platform: Bridging Recruiter\u2011Manager Hand\u2011offs",
+      "slug": "ai-hiring-platform-bridging-recruitermanager-handoffs",
+      "description": "# AI Hiring Platform: Bridging Recruiter\u2011Manager Hand\u2011offs  \n\nIn today\u2019s talent\u2011driven market, the hand\u2011off between recruiters and hiring managers can...",
+      "pub_date": "2026-11-24",
+      "tags": [],
+      "keywords": [
+        "AI hiring platform",
+        "recruiter manager handoff",
+        "hiring collaboration",
+        "recruiter productivity",
+        "hiring workflow automation"
+      ],
+      "word_count": 1178,
+      "filepath": "content/posts/2026-11-24-ai-hiring-platform-bridging-recruitermanager-handoffs.md",
+      "topic": "AI Hiring Platform: Bridging Recruiter\u2011Manager Hand\u2011offs"
     }
   ],
   "topics_used": [
@@ -8393,8 +8410,9 @@
     "Pre\u2011Hire Testing 2.0: AI\u2011Driven Strategies for Startup Scaling",
     "AI Skill Gap Tracker: Keep Your Team Future\u2011Ready",
     "AI Hiring: Data\u2011Driven Remote Onboarding Success",
-    "AI Skill Gap Dashboard for Technical Hiring"
+    "AI Skill Gap Dashboard for Technical Hiring",
+    "AI Hiring Platform: Bridging Recruiter\u2011Manager Hand\u2011offs"
   ],
   "last_updated": "2026-11-24",
-  "total_posts": 469
+  "total_posts": 470
 }
