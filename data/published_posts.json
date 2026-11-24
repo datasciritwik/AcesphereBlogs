@@ -7905,6 +7905,23 @@
       "word_count": 1114,
       "filepath": "content/posts/2026-11-24-ai-hiring-datadriven-remote-onboarding-success.md",
       "topic": "AI Hiring: Data\u2011Driven Remote Onboarding Success"
+    },
+    {
+      "title": "AI Skill Gap Dashboard for Technical Hiring",
+      "slug": "ai-skill-gap-dashboard-for-technical-hiring",
+      "description": "# AI Skill Gap Dashboard for Technical Hiring\n\nEngineering managers and hiring leaders need a single source of truth that tells them **exactly where t...",
+      "pub_date": "2026-11-24",
+      "tags": [],
+      "keywords": [
+        "AI for technical hiring",
+        "hiring dashboard",
+        "skill gap analysis",
+        "recruiter productivity",
+        "data\u2011driven hiring decisions"
+      ],
+      "word_count": 1468,
+      "filepath": "content/posts/2026-11-24-ai-skill-gap-dashboard-for-technical-hiring.md",
+      "topic": "AI Skill Gap Dashboard for Technical Hiring"
     }
   ],
   "topics_used": [
@@ -8375,8 +8392,9 @@
     "AI Interview Feedback that Delights Candidates",
     "Pre\u2011Hire Testing 2.0: AI\u2011Driven Strategies for Startup Scaling",
     "AI Skill Gap Tracker: Keep Your Team Future\u2011Ready",
-    "AI Hiring: Data\u2011Driven Remote Onboarding Success"
+    "AI Hiring: Data\u2011Driven Remote Onboarding Success",
+    "AI Skill Gap Dashboard for Technical Hiring"
   ],
   "last_updated": "2026-11-24",
-  "total_posts": 468
+  "total_posts": 469
 }
