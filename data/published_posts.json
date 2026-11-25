@@ -7939,6 +7939,23 @@
       "word_count": 1178,
       "filepath": "content/posts/2026-11-24-ai-hiring-platform-bridging-recruitermanager-handoffs.md",
       "topic": "AI Hiring Platform: Bridging Recruiter\u2011Manager Hand\u2011offs"
+    },
+    {
+      "title": "AI Interviews Unpacked: Transparency Tips for Recruiters",
+      "slug": "ai-interviews-unpacked-transparency-tips-for-recruiters",
+      "description": "# AI Interviews Unpacked: Transparency Tips for Recruiters  \n\nRecruiters and hiring managers are eager to leverage AI interviews for speed and consist...",
+      "pub_date": "2026-11-25",
+      "tags": [],
+      "keywords": [
+        "how AI interviews work",
+        "AI interview transparency",
+        "AI interview scoring",
+        "recruiter trust AI",
+        "AI interviews"
+      ],
+      "word_count": 1388,
+      "filepath": "content/posts/2026-11-25-ai-interviews-unpacked-transparency-tips-for-recruiters.md",
+      "topic": "AI Interviews Unpacked: Transparency Tips for Recruiters"
     }
   ],
   "topics_used": [
@@ -8411,8 +8428,9 @@
     "AI Skill Gap Tracker: Keep Your Team Future\u2011Ready",
     "AI Hiring: Data\u2011Driven Remote Onboarding Success",
     "AI Skill Gap Dashboard for Technical Hiring",
-    "AI Hiring Platform: Bridging Recruiter\u2011Manager Hand\u2011offs"
+    "AI Hiring Platform: Bridging Recruiter\u2011Manager Hand\u2011offs",
+    "AI Interviews Unpacked: Transparency Tips for Recruiters"
   ],
-  "last_updated": "2026-11-24",
-  "total_posts": 470
+  "last_updated": "2026-11-25",
+  "total_posts": 471
 }
