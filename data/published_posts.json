@@ -7956,6 +7956,23 @@
       "word_count": 1388,
       "filepath": "content/posts/2026-11-25-ai-interviews-unpacked-transparency-tips-for-recruiters.md",
       "topic": "AI Interviews Unpacked: Transparency Tips for Recruiters"
+    },
+    {
+      "title": "Cross\u2011Team Hiring Dashboard: Sync Recruiters & Managers",
+      "slug": "crossteam-hiring-dashboard-sync-recruiters-managers",
+      "description": "# Cross\u2011Team Hiring Dashboard: Sync Recruiters & Managers  \n\nA shared hiring dashboard gives recruiters and hiring managers one real\u2011time view of ever...",
+      "pub_date": "2026-11-28",
+      "tags": [],
+      "keywords": [
+        "hiring dashboard",
+        "recruiter productivity",
+        "cross-functional hiring",
+        "data-driven hiring decisions",
+        "collaboration tools"
+      ],
+      "word_count": 1261,
+      "filepath": "content/posts/2026-11-28-crossteam-hiring-dashboard-sync-recruiters-managers.md",
+      "topic": "Cross\u2011Team Hiring Dashboard: Sync Recruiters & Managers"
     }
   ],
   "topics_used": [
@@ -8429,8 +8446,9 @@
     "AI Hiring: Data\u2011Driven Remote Onboarding Success",
     "AI Skill Gap Dashboard for Technical Hiring",
     "AI Hiring Platform: Bridging Recruiter\u2011Manager Hand\u2011offs",
-    "AI Interviews Unpacked: Transparency Tips for Recruiters"
+    "AI Interviews Unpacked: Transparency Tips for Recruiters",
+    "Cross\u2011Team Hiring Dashboard: Sync Recruiters & Managers"
   ],
-  "last_updated": "2026-11-25",
-  "total_posts": 471
+  "last_updated": "2026-11-28",
+  "total_posts": 472
 }
